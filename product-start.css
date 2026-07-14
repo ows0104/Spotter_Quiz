@@ -2,7 +2,7 @@
   min-height: 100vh;
   height: auto !important;
   padding: 28px !important;
-  display: flex !important;
+  display: flex;
   align-items: center !important;
   justify-content: center !important;
   background:
@@ -109,7 +109,8 @@
   margin: 0;
   padding: 24px 26px;
   display: flex;
-  align-items: flex-end;
+  flex-direction: row;
+  align-items: center;
   justify-content: space-between;
   border: 0;
   border-radius: 16px;
@@ -119,7 +120,12 @@
   transition: transform .18s ease, filter .18s ease;
 }
 .product-actions .mode-btn:hover { transform: translateY(-2px); filter: brightness(.96); }
-.product-actions .mode-btn strong { font-size: 28px; letter-spacing: -.025em; }
+.product-actions .mode-btn strong {
+  font-size: 28px;
+  line-height: 1.2;
+  letter-spacing: -.025em;
+  text-align: left;
+}
 .product-actions .mode-btn::after { content: "↗"; font-size: 25px; font-weight: 400; opacity: .76; }
 .product-actions .btn-exam { background: #c85b4f; }
 .product-actions .btn-study { background: #5d7fe5; }
