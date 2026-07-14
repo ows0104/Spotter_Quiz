@@ -126,7 +126,7 @@
             </div>
         </div>
         <div id="sidebar">
-            <h1>Spotter Quiz</h1>
+            <div class="quiz-titlebar"><h1>Spotter Quiz</h1><a class="home-link" href="../">홈</a></div>
             <div id="timer-display">⏱ 0 / 30 초</div>
             <div id="progress"></div>
             <div class="input-box">
@@ -199,6 +199,7 @@
         let userAnswers = [], gradingResults = [], timeSpent = [];
         let hasSavedRecord = false, currentMode = 'study', examInterval = null, currentSeed = 0;
         let zoomScale = 1;
+        const questionImageCache = new Map();
 
         window.onload = function() {
             setupZoomListener();
@@ -319,13 +320,44 @@
             imgEl.src = candidates[0];
         }
 
+        function preloadQuestionImage(item) {
+            const candidates = buildImageCandidates(item);
+            const key = candidates.join('|');
+            if (!key || questionImageCache.has(key)) return;
+
+            const record = { image: null, url: '' };
+            questionImageCache.set(key, record);
+            let candidateIndex = 0;
+            const tryCandidate = () => {
+                if (candidateIndex >= candidates.length) return;
+                const loader = new Image();
+                loader.decoding = 'async';
+                loader.onload = () => {
+                    record.image = loader;
+                    record.url = candidates[candidateIndex];
+                    if (loader.decode) loader.decode().catch(() => {});
+                };
+                loader.onerror = () => { candidateIndex += 1; tryCandidate(); };
+                loader.src = candidates[candidateIndex];
+            };
+            tryCandidate();
+        }
+
+        function preloadAdjacentQuestionImages(index) {
+            [index + 1, index - 1].forEach(nextIndex => {
+                if (quizData[nextIndex]) preloadQuestionImage(quizData[nextIndex]);
+            });
+        }
+
         function placeQuestionMarker(data, imgEl) {
             const markerEl = document.getElementById('question-marker');
             const markerLeft = Number(data.marker_left);
             const markerBottom = Number(data.marker_bottom);
-            if (!markerEl || !Number.isFinite(markerLeft) || !Number.isFinite(markerBottom) ||
-                !imgEl.complete || !imgEl.naturalWidth || !imgEl.clientWidth || !imgEl.clientHeight) {
+            if (!markerEl || !Number.isFinite(markerLeft) || !Number.isFinite(markerBottom)) {
                 if (markerEl) markerEl.style.display = 'none';
+                return;
+            }
+            if (!imgEl.complete || !imgEl.naturalWidth || !imgEl.clientWidth || !imgEl.clientHeight) {
                 return;
             }
 
@@ -337,8 +369,6 @@
         }
 
         function placeQuestionMarkerAfterImageReady(data, imgEl) {
-            const markerEl = document.getElementById('question-marker');
-            if (markerEl) markerEl.style.display = 'none';
             const apply = () => placeQuestionMarker(data, imgEl);
             imgEl.onload = apply;
             requestAnimationFrame(apply);
@@ -498,6 +528,7 @@
             }
             questionStartTime = Date.now();
             resetTimer();
+            preloadAdjacentQuestionImages(index);
             setTimeout(() => document.getElementById('user-input').focus(), 50);
         }
 

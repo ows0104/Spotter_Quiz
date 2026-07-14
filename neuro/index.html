@@ -185,6 +185,24 @@
       background: #fff;
       border-left: 1px solid #d8dee8;
     }
+    .quiz-titlebar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 14px;
+    }
+    .quiz-titlebar strong { font-size: 20px; }
+    .home-link {
+      padding: 9px 12px;
+      border: 1px solid #d8dee8;
+      border-radius: 8px;
+      background: #f8fafc;
+      color: #475569;
+      font-size: 13px;
+      font-weight: 800;
+      text-decoration: none;
+    }
+    .home-link:hover { border-color: #94a3b8; color: #0f172a; }
     .topbar {
       display: flex;
       justify-content: space-between;
@@ -400,6 +418,7 @@
     </div>
 
     <aside class="side-pane">
+      <div class="quiz-titlebar"><strong>Spotter Quiz</strong><a class="home-link" href="../">홈</a></div>
       <div class="topbar">
         <div id="progress">Question 1 / 1</div>
         <div id="timer-display">0 / 30 초</div>
@@ -478,6 +497,7 @@
     let userAnswers = [];
     let gradingResults = [];
     let timeSpent = [];
+    const questionImageCache = new Map();
 
     window.onload = function() {
       setupZoomListener();
@@ -602,7 +622,24 @@
 
       questionStartTime = Date.now();
       resetTimer();
+      preloadAdjacentQuestionImages(index);
       setTimeout(() => document.getElementById("user-input").focus(), 50);
+    }
+
+    function preloadQuestionImage(data) {
+      const url = data?.image_filename || "";
+      if (!url || questionImageCache.has(url)) return;
+      const loader = new Image();
+      loader.decoding = "async";
+      loader.onload = () => { if (loader.decode) loader.decode().catch(() => {}); };
+      loader.src = url;
+      questionImageCache.set(url, loader);
+    }
+
+    function preloadAdjacentQuestionImages(index) {
+      [index + 1, index - 1].forEach(nextIndex => {
+        if (quizData[nextIndex]) preloadQuestionImage(quizData[nextIndex]);
+      });
     }
 
     function buildMetaHtml(data) {
