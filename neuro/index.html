@@ -1,0 +1,948 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Neuro Spotter Quiz</title>
+  <script src="quiz_db.js"></script>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      height: 100vh;
+      overflow: hidden;
+      background: #eef2f6;
+      color: #1f2937;
+      font-family: "Malgun Gothic", Arial, sans-serif;
+      user-select: none;
+    }
+    button, input { font: inherit; }
+    button {
+      border: 0;
+      border-radius: 8px;
+      cursor: pointer;
+      font-weight: 700;
+    }
+    .hidden { display: none !important; }
+    #start-container {
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #243447;
+      color: #fff;
+      padding: 28px;
+    }
+    .start-panel {
+      width: min(760px, 100%);
+      display: grid;
+      gap: 22px;
+    }
+    .start-title h1 {
+      margin: 0 0 8px;
+      font-size: 42px;
+      letter-spacing: 0;
+    }
+    .start-title p {
+      margin: 0;
+      color: #cbd5e1;
+      line-height: 1.6;
+    }
+    .settings {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 14px;
+    }
+    .field {
+      display: grid;
+      gap: 8px;
+      color: #dbeafe;
+      font-size: 14px;
+    }
+    .field input {
+      width: 100%;
+      padding: 12px 14px;
+      border: 1px solid #475569;
+      border-radius: 8px;
+      background: #fff;
+      color: #111827;
+    }
+    .toggle-field {
+      display: flex;
+      align-items: end;
+      padding-bottom: 12px;
+    }
+    .toggle-field label {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      color: #dbeafe;
+      cursor: pointer;
+    }
+    .mode-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+    }
+    .mode-btn {
+      min-height: 84px;
+      padding: 18px;
+      color: #fff;
+      text-align: left;
+    }
+    .mode-btn strong { display: block; font-size: 22px; margin-bottom: 6px; }
+    .mode-btn span { color: rgba(255,255,255,.82); font-weight: 400; }
+    .btn-exam { background: #d94841; }
+    .btn-study { background: #2f80ed; }
+    .records-btn {
+      width: fit-content;
+      padding: 11px 16px;
+      background: #0f172a;
+      color: #fff;
+    }
+    #records-list {
+      display: none;
+      max-height: 180px;
+      overflow: auto;
+      padding: 12px;
+      border: 1px solid #475569;
+      border-radius: 8px;
+      background: rgba(15, 23, 42, .45);
+      color: #e5e7eb;
+    }
+    #quiz-container {
+      display: none;
+      height: 100vh;
+    }
+    .image-pane {
+      flex: 1;
+      min-width: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      background: #111827;
+    }
+    .image-stage {
+      position: relative;
+      display: inline-block;
+      max-width: 100%;
+      max-height: 100%;
+    }
+    #question-image {
+      display: block;
+      max-width: calc(100vw - 430px);
+      max-height: calc(100vh - 40px);
+      object-fit: contain;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 16px 40px rgba(0,0,0,.35);
+      cursor: zoom-in;
+    }
+    .pin-marker {
+      position: absolute;
+      left: var(--pin-x);
+      top: var(--pin-y);
+      width: 28px;
+      height: 46px;
+      transform: translate(calc(-50% + 2px), -100%);
+      pointer-events: none;
+    }
+    .pin-marker::before {
+      content: "";
+      position: absolute;
+      left: 50%;
+      bottom: 0;
+      width: 4px;
+      height: 31px;
+      transform: translateX(-50%);
+      border-radius: 3px;
+      background: linear-gradient(90deg, #5a5a5a 0%, #d2d2d2 58%, #777 100%);
+      box-shadow: 0 4px 10px rgba(0,0,0,.35);
+    }
+    .pin-marker::after {
+      content: "";
+      position: absolute;
+      left: 50%;
+      top: 0;
+      width: 18px;
+      height: 18px;
+      transform: translateX(-50%);
+      border-radius: 50%;
+      border: 2px solid #6e0000;
+      background:
+        radial-gradient(circle at 35% 35%, rgba(255,220,220,.8) 0 18%, rgba(255,220,220,0) 19%),
+        #b41414;
+      box-shadow: 0 5px 12px rgba(0,0,0,.38);
+    }
+    .side-pane {
+      width: 410px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      padding: 22px;
+      overflow: auto;
+      background: #fff;
+      border-left: 1px solid #d8dee8;
+    }
+    .topbar {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      align-items: start;
+    }
+    #progress { font-size: 20px; font-weight: 800; }
+    #timer-display {
+      padding: 8px 10px;
+      border-radius: 8px;
+      background: #e8f1ff;
+      color: #1d4ed8;
+      font-weight: 800;
+      white-space: nowrap;
+    }
+    .timer-warning {
+      background: #fee2e2 !important;
+      color: #b91c1c !important;
+    }
+    .meta-box {
+      padding: 12px;
+      border: 1px solid #e5e7eb;
+      border-radius: 8px;
+      background: #f8fafc;
+      color: #475569;
+      line-height: 1.55;
+      font-size: 14px;
+    }
+    .region-toggle {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      color: #475569;
+      font-size: 14px;
+      cursor: pointer;
+    }
+    .answer-input {
+      display: grid;
+      gap: 8px;
+    }
+    .answer-input label {
+      color: #64748b;
+      font-weight: 700;
+    }
+    #user-input {
+      width: 100%;
+      padding: 14px 15px;
+      border: 2px solid #cbd5e1;
+      border-radius: 8px;
+      font-size: 18px;
+    }
+    #user-input:focus {
+      outline: none;
+      border-color: #2563eb;
+      box-shadow: 0 0 0 3px rgba(37,99,235,.15);
+    }
+    .hint {
+      display: none;
+      padding: 12px;
+      border-radius: 8px;
+      background: #fff7ed;
+      color: #9a3412;
+      line-height: 1.5;
+      font-weight: 700;
+    }
+    .actions {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin-top: auto;
+    }
+    .actions button {
+      min-height: 46px;
+      padding: 10px;
+      color: #fff;
+    }
+    .btn-secondary { background: #64748b; }
+    .btn-primary { background: #2563eb; }
+    .btn-success { background: #16a34a; }
+    .btn-danger { background: #dc2626; }
+    #result-container {
+      display: none;
+      height: 100vh;
+      overflow: auto;
+      padding: 24px;
+      background: #f8fafc;
+    }
+    .result-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 16px;
+      margin-bottom: 18px;
+    }
+    #total-score { margin: 0; font-size: 28px; }
+    .result-table {
+      width: 100%;
+      border-collapse: collapse;
+      background: #fff;
+      border: 1px solid #e5e7eb;
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    .result-table th,
+    .result-table td {
+      padding: 12px;
+      border-bottom: 1px solid #e5e7eb;
+      vertical-align: top;
+      text-align: left;
+    }
+    .result-table th {
+      background: #e8eef6;
+      color: #334155;
+      font-size: 14px;
+    }
+    .grade-btn, .image-btn {
+      padding: 8px 10px;
+      color: #fff;
+      background: #ef4444;
+      white-space: nowrap;
+    }
+    .grade-btn.is-correct { background: #16a34a; }
+    .image-btn { background: #475569; margin-top: 8px; }
+    .modal {
+      position: fixed;
+      inset: 0;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+      background: rgba(0,0,0,.86);
+      z-index: 20;
+    }
+    .modal-stage {
+      position: relative;
+      display: inline-block;
+      max-width: 96vw;
+      max-height: 92vh;
+      transform-origin: center center;
+      transition: transform .12s ease;
+      cursor: grab;
+      touch-action: none;
+    }
+    .modal-stage.is-panning {
+      cursor: grabbing;
+      transition: none;
+    }
+    #modal-image {
+      display: block;
+      max-width: 96vw;
+      max-height: 92vh;
+      object-fit: contain;
+      background: #fff;
+      border-radius: 8px;
+    }
+    .close-btn {
+      position: fixed;
+      top: 18px;
+      right: 18px;
+      width: 42px;
+      height: 42px;
+      border-radius: 50%;
+      background: #fff;
+      color: #111827;
+      font-size: 28px;
+      line-height: 1;
+      z-index: 21;
+    }
+    @media (max-width: 900px) {
+      body { overflow: auto; height: auto; }
+      #quiz-container { height: auto; min-height: 100vh; flex-direction: column; }
+      .image-pane { min-height: 52vh; }
+      #question-image { max-width: calc(100vw - 28px); max-height: 50vh; }
+      .side-pane { width: 100%; border-left: 0; border-top: 1px solid #d8dee8; }
+      .settings, .mode-row { grid-template-columns: 1fr; }
+      #start-container { height: auto; min-height: 100vh; }
+      .start-title h1 { font-size: 34px; }
+    }
+  </style>
+</head>
+<body>
+  <main id="start-container">
+    <section class="start-panel">
+      <div class="start-title">
+        <h1>Neuro Spotter Quiz</h1>
+        <p>새 라벨링 데이터의 핀 위치를 보고 구조물 이름을 입력합니다.</p>
+      </div>
+
+      <div class="settings">
+        <div class="field">
+          <label for="seed-input">시드 번호</label>
+          <input id="seed-input" type="number" placeholder="비워두면 랜덤">
+        </div>
+        <div class="field">
+          <label for="count-input">문제 수</label>
+          <input id="count-input" type="number" min="1" max="187" value="30">
+        </div>
+        <div class="field">
+          <label for="timer-input">땡시 제한 시간</label>
+          <input id="timer-input" type="number" min="5" max="300" value="30">
+        </div>
+      </div>
+
+      <div class="toggle-field">
+        <label><input type="checkbox" id="buzzer-toggle" checked> 종료 알림음 사용</label>
+      </div>
+
+      <div class="mode-row">
+        <button class="mode-btn btn-exam" onclick="startQuiz('exam')">
+          <strong>땡시 모드</strong>
+          <span>제한 시간이 지나면 다음 문제로 넘어갑니다.</span>
+        </button>
+        <button class="mode-btn btn-study" onclick="startQuiz('study')">
+          <strong>공부 모드</strong>
+          <span>정답 확인과 자유 이동을 사용할 수 있습니다.</span>
+        </button>
+      </div>
+
+      <button class="records-btn" onclick="toggleRecords()">기록 보기</button>
+      <div id="records-list"></div>
+    </section>
+  </main>
+
+  <section id="quiz-container">
+    <div class="image-pane">
+      <div class="image-stage" id="image-stage">
+        <img id="question-image" src="" alt="Question image" onclick="openMainImageModal()">
+        <div class="pin-marker" id="question-pin"></div>
+      </div>
+    </div>
+
+    <aside class="side-pane">
+      <div class="topbar">
+        <div id="progress">Question 1 / 1</div>
+        <div id="timer-display">0 / 30 초</div>
+      </div>
+
+      <label class="region-toggle">
+        <input type="checkbox" id="region-toggle" checked onchange="toggleRegion()">
+        정보 보기
+      </label>
+      <div class="meta-box" id="region-box"></div>
+
+      <div class="answer-input">
+        <label for="user-input">정답 입력</label>
+        <input id="user-input" type="text" autocomplete="off" onkeypress="handleKeyPress(event)">
+      </div>
+
+      <div class="hint" id="answer-hint"></div>
+
+      <div class="actions">
+        <button class="btn-secondary" onclick="prevQuestion()">이전</button>
+        <button class="btn-secondary" onclick="showAnswerHint()">정답 보기</button>
+        <button class="btn-primary" id="next-btn" onclick="nextQuestion()">다음</button>
+        <button class="btn-success hidden" id="finish-btn" onclick="showResults()">결과 보기</button>
+        <button class="btn-danger" onclick="location.reload()">처음으로</button>
+      </div>
+    </aside>
+  </section>
+
+  <section id="result-container">
+    <div class="result-header">
+      <h1 id="total-score">최종 점수: 0 / 0</h1>
+      <button class="btn-primary" style="padding: 12px 16px; color: #fff;" onclick="location.reload()">새 퀴즈</button>
+    </div>
+    <table class="result-table">
+      <thead>
+        <tr>
+          <th>No.</th>
+          <th>내 답</th>
+          <th>정답</th>
+          <th>정보</th>
+          <th>시간</th>
+          <th>채점</th>
+        </tr>
+      </thead>
+      <tbody id="result-body"></tbody>
+    </table>
+  </section>
+
+  <div id="image-modal" class="modal" onclick="closeImageModal(event)">
+    <button class="close-btn" onclick="closeImageModal(event)">&times;</button>
+    <div class="modal-stage" onclick="event.stopPropagation()">
+      <img id="modal-image" src="" alt="Expanded image">
+      <div class="pin-marker" id="modal-pin"></div>
+    </div>
+  </div>
+
+  <script>
+    let quizData = [];
+    let currentIndex = 0;
+    let currentMode = "study";
+    let currentSeed = 0;
+    let limitTime = 30;
+    let timeElapsed = 0;
+    let questionStartTime = 0;
+    let examInterval = null;
+    let zoomScale = 1;
+    let panX = 0;
+    let panY = 0;
+    let isPanning = false;
+    let panStartX = 0;
+    let panStartY = 0;
+    let panOriginX = 0;
+    let panOriginY = 0;
+    let hasSavedRecord = false;
+    let modalQuestionData = null;
+    let userAnswers = [];
+    let gradingResults = [];
+    let timeSpent = [];
+
+    window.onload = function() {
+      setupZoomListener();
+      window.addEventListener("resize", refreshVisiblePins);
+    };
+
+    function createRNG(seed) {
+      let value = seed % 2147483647;
+      if (value <= 0) value += 2147483646;
+      return function() {
+        value = value * 16807 % 2147483647;
+        return (value - 1) / 2147483646;
+      };
+    }
+
+    function shuffleArray(array, rng) {
+      for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(rng() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+      }
+      return array;
+    }
+
+    function getExamWeight(item) {
+      const explicitWeight = Number(item.exam_weight);
+      if (Number.isFinite(explicitWeight) && explicitWeight > 0) return explicitWeight;
+
+      const pastCount = Number(item.past_count ?? item.exam_count ?? 0);
+      if (Number.isFinite(pastCount) && pastCount > 0) return Math.sqrt(pastCount + 1);
+
+      return 1;
+    }
+
+    function weightedPickIndex(items, rng) {
+      const totalWeight = items.reduce((sum, item) => sum + getExamWeight(item), 0);
+      let cursor = rng() * totalWeight;
+
+      for (let i = 0; i < items.length; i++) {
+        cursor -= getExamWeight(items[i]);
+        if (cursor <= 0) return i;
+      }
+      return items.length - 1;
+    }
+
+    function getAnswerKey(item) {
+      const answer = item.answer_en || item.raw_label || item.answer_ko || item.id || "";
+      return String(answer).toLowerCase().replace(/[^a-z0-9가-힣]+/g, "");
+    }
+
+    function buildQuizSet(seedNum, requestedCount) {
+      const rng = createRNG(seedNum * 1417);
+      const pool = [...QUIZ_DB];
+      const selected = [];
+      const usedAnswerKeys = new Set();
+      const targetCount = Math.min(requestedCount, pool.length);
+
+      while (selected.length < targetCount && pool.length > 0) {
+        const candidates = pool.filter(item => !usedAnswerKeys.has(getAnswerKey(item)));
+        if (candidates.length === 0) break;
+
+        const pick = candidates[weightedPickIndex(candidates, rng)];
+        selected.push(pick);
+        usedAnswerKeys.add(getAnswerKey(pick));
+
+        for (let i = pool.length - 1; i >= 0; i--) {
+          if (getAnswerKey(pool[i]) === getAnswerKey(pick)) pool.splice(i, 1);
+        }
+      }
+
+      return selected;
+    }
+
+    function startQuiz(mode) {
+      if (typeof QUIZ_DB === "undefined" || !Array.isArray(QUIZ_DB) || QUIZ_DB.length === 0) {
+        alert("quiz_db.js를 로드하지 못했거나 문제가 비어 있습니다.");
+        return;
+      }
+
+      const seedInput = document.getElementById("seed-input").value;
+      currentSeed = parseInt(seedInput, 10);
+      if (Number.isNaN(currentSeed)) currentSeed = Math.floor(Math.random() * 100000);
+
+      const requestedCount = Math.max(1, parseInt(document.getElementById("count-input").value, 10) || 30);
+      quizData = buildQuizSet(currentSeed, requestedCount);
+      userAnswers = new Array(quizData.length).fill("");
+      gradingResults = new Array(quizData.length).fill(false);
+      timeSpent = new Array(quizData.length).fill(0);
+      hasSavedRecord = false;
+      currentMode = mode;
+      currentIndex = 0;
+
+      if (currentMode === "exam") {
+        limitTime = parseInt(document.getElementById("timer-input").value, 10) || 30;
+        document.getElementById("timer-display").style.display = "block";
+      } else {
+        document.getElementById("timer-display").style.display = "none";
+      }
+
+      document.getElementById("start-container").style.display = "none";
+      document.getElementById("quiz-container").style.display = "flex";
+      loadQuestion(0);
+    }
+
+    function loadQuestion(index) {
+      saveElapsedTime();
+      currentIndex = index;
+      const data = quizData[index];
+      document.getElementById("progress").innerText = `Question ${index + 1} / ${quizData.length}`;
+
+      const imgEl = document.getElementById("question-image");
+      imgEl.src = data.image_filename;
+      imgEl.style.display = "block";
+      placePinAfterImageReady(document.getElementById("question-pin"), data, imgEl);
+
+      document.getElementById("region-box").innerHTML = buildMetaHtml(data);
+      toggleRegion();
+      document.getElementById("user-input").value = userAnswers[index] || "";
+      document.getElementById("answer-hint").style.display = "none";
+
+      document.getElementById("next-btn").classList.toggle("hidden", index === quizData.length - 1);
+      document.getElementById("finish-btn").classList.toggle("hidden", index !== quizData.length - 1);
+
+      questionStartTime = Date.now();
+      resetTimer();
+      setTimeout(() => document.getElementById("user-input").focus(), 50);
+    }
+
+    function buildMetaHtml(data) {
+      const lines = [
+        `<strong>${escapeHtml(data.source || "")}</strong>`,
+        `핀 번호: ${escapeHtml(data.pin_number || "")}`,
+        escapeHtml(data.region || "")
+      ];
+      if (data.day) lines.push(`일차: ${escapeHtml(data.day)}`);
+      if (data.exam_count) lines.push(`기출: ${escapeHtml(data.exam_count)}회 ${escapeHtml(data.exam_years || "")}`);
+      if (!data.matched) lines.push("엑셀 메타데이터 미매칭");
+      return lines.filter(Boolean).join("<br>");
+    }
+
+    function placePin(pinEl, data, imgEl = null) {
+      const imageEl = imgEl || pinEl.parentElement?.querySelector("img");
+      const x = Number(data.pin_x || 0);
+      const y = Number(data.pin_y || 0);
+
+      if (imageEl && imageEl.complete && imageEl.naturalWidth && imageEl.clientWidth && imageEl.clientHeight) {
+        const pinX = imageEl.offsetLeft + x * imageEl.clientWidth;
+        const pinY = imageEl.offsetTop + y * imageEl.clientHeight;
+        pinEl.style.setProperty("--pin-x", `${pinX}px`);
+        pinEl.style.setProperty("--pin-y", `${pinY}px`);
+      } else {
+        pinEl.style.setProperty("--pin-x", `${x * 100}%`);
+        pinEl.style.setProperty("--pin-y", `${y * 100}%`);
+      }
+      pinEl.title = data.pin_number ? `Pin ${data.pin_number}` : "Pin";
+    }
+
+    function placePinAfterImageReady(pinEl, data, imgEl) {
+      const apply = () => placePin(pinEl, data, imgEl);
+      imgEl.onload = apply;
+      requestAnimationFrame(apply);
+      if (imgEl.complete && imgEl.naturalWidth) apply();
+    }
+
+    function refreshVisiblePins() {
+      if (quizData.length && document.getElementById("quiz-container").style.display === "flex") {
+        placePin(document.getElementById("question-pin"), quizData[currentIndex], document.getElementById("question-image"));
+      }
+      if (modalQuestionData && document.getElementById("image-modal").style.display === "flex") {
+        placePin(document.getElementById("modal-pin"), modalQuestionData, document.getElementById("modal-image"));
+      }
+    }
+
+    function toggleRegion() {
+      document.getElementById("region-box").style.display = document.getElementById("region-toggle").checked ? "block" : "none";
+    }
+
+    function showAnswerHint() {
+      const data = quizData[currentIndex];
+      const hintBox = document.getElementById("answer-hint");
+      hintBox.innerHTML = `EN: ${escapeHtml(data.answer_en || "없음")}<br>KO: ${escapeHtml(data.answer_ko || "없음")}`;
+      hintBox.style.display = "block";
+    }
+
+    function saveAnswer() {
+      if (!quizData.length) return;
+      userAnswers[currentIndex] = document.getElementById("user-input").value.trim();
+    }
+
+    function saveElapsedTime() {
+      if (questionStartTime > 0 && timeSpent[currentIndex] !== undefined) {
+        timeSpent[currentIndex] += (Date.now() - questionStartTime) / 1000;
+        questionStartTime = 0;
+      }
+    }
+
+    function resetTimer() {
+      clearInterval(examInterval);
+      timeElapsed = 0;
+      if (currentMode !== "exam") return;
+      updateTimerUI();
+      examInterval = setInterval(() => {
+        timeElapsed += 1;
+        updateTimerUI();
+        if (timeElapsed >= limitTime) {
+          clearInterval(examInterval);
+          playBuzzer();
+          saveAnswer();
+          if (currentIndex < quizData.length - 1) loadQuestion(currentIndex + 1);
+          else showResults();
+        }
+      }, 1000);
+    }
+
+    function updateTimerUI() {
+      const timerEl = document.getElementById("timer-display");
+      timerEl.innerText = `${timeElapsed} / ${limitTime} 초`;
+      timerEl.classList.toggle("timer-warning", limitTime - timeElapsed <= 5);
+    }
+
+    function playBuzzer() {
+      if (!document.getElementById("buzzer-toggle").checked) return;
+      try {
+        const ctx = new (window.AudioContext || window.webkitAudioContext)();
+        const osc = ctx.createOscillator();
+        osc.type = "square";
+        osc.frequency.setValueAtTime(440, ctx.currentTime);
+        osc.connect(ctx.destination);
+        osc.start();
+        osc.stop(ctx.currentTime + 0.25);
+      } catch (e) {
+        console.log("Audio API not available");
+      }
+    }
+
+    function handleKeyPress(e) {
+      if (e.key !== "Enter") return;
+      if (currentIndex < quizData.length - 1) nextQuestion();
+      else showResults();
+    }
+
+    document.addEventListener("keydown", function(e) {
+      const inputEl = document.getElementById("user-input");
+      if (document.getElementById("image-modal").style.display === "flex") {
+        if (e.key === "Escape") closeImageModal(e);
+        return;
+      }
+      if (document.getElementById("quiz-container").style.display !== "flex") return;
+      if (document.activeElement === inputEl) return;
+      if (e.key === "ArrowRight" && currentIndex < quizData.length - 1) {
+        nextQuestion();
+        e.preventDefault();
+      } else if (e.key === "ArrowLeft" && currentIndex > 0) {
+        prevQuestion();
+        e.preventDefault();
+      } else if (!e.ctrlKey && !e.metaKey && !e.altKey && e.key.length === 1) {
+        inputEl.focus();
+      }
+    });
+
+    function nextQuestion() {
+      saveAnswer();
+      if (currentIndex < quizData.length - 1) loadQuestion(currentIndex + 1);
+    }
+
+    function prevQuestion() {
+      saveAnswer();
+      if (currentIndex > 0) loadQuestion(currentIndex - 1);
+    }
+
+    function normalizeAbbr(text) {
+      if (!text) return "";
+      let s = text.toLowerCase();
+      s = s.replace(/\brt\.?\b/g, "right").replace(/\blt\.?\b/g, "left");
+      s = s.replace(/\bant\.?\b/g, "anterior").replace(/\bpost\.?\b/g, "posterior");
+      s = s.replace(/\bsup\.?\b/g, "superior").replace(/\binf\.?\b/g, "inferior");
+      s = s.replace(/\blat\.?\b/g, "lateral").replace(/\bmed\.?\b/g, "medial");
+      s = s.replace(/\bext\.?\b/g, "external").replace(/\bint\.?\b/g, "internal");
+      s = s.replace(/\bsupf\.?\b/g, "superficial").replace(/\bbr\.?\b/g, "branch");
+      s = s.replace(/\baa\.?\b/g, "arteries").replace(/\ba\.?\b/g, "artery");
+      s = s.replace(/\bv\.?\b/g, "vein").replace(/\bn\.?\b/g, "nerve");
+      return s.replace(/[^a-z0-9가-힣]/g, "");
+    }
+
+    function autoGrade(userInput, correctEn, correctKo, rawLabel) {
+      if (!userInput) return false;
+      const inputNorm = normalizeAbbr(userInput);
+      const candidates = [correctEn, correctKo, rawLabel].filter(Boolean).map(normalizeAbbr);
+      return candidates.some(candidate => {
+        if (!candidate) return false;
+        return candidate === inputNorm || (inputNorm.length > 2 && candidate.includes(inputNorm));
+      });
+    }
+
+    function showResults() {
+      saveAnswer();
+      saveElapsedTime();
+      clearInterval(examInterval);
+      document.getElementById("quiz-container").style.display = "none";
+      document.getElementById("result-container").style.display = "block";
+
+      const tbody = document.getElementById("result-body");
+      tbody.innerHTML = "";
+      quizData.forEach((data, i) => {
+        const myAns = userAnswers[i] || "";
+        gradingResults[i] = autoGrade(myAns, data.answer_en, data.answer_ko, data.raw_label);
+        const row = document.createElement("tr");
+        row.innerHTML = `
+          <td>${i + 1}</td>
+          <td><strong>${escapeHtml(myAns || "(미입력)")}</strong></td>
+          <td><strong>${escapeHtml(data.answer_en || "")}</strong><br><span>${escapeHtml(data.answer_ko || "")}</span></td>
+          <td>${buildMetaHtml(data)}<br><button class="image-btn" onclick="showResultImageModal(${i})">사진 보기</button></td>
+          <td>${(timeSpent[i] || 0).toFixed(1)}초</td>
+          <td><button id="grade-btn-${i}" class="grade-btn ${gradingResults[i] ? "is-correct" : ""}" onclick="toggleGrade(${i})">${gradingResults[i] ? "O" : "X"}</button></td>
+        `;
+        tbody.appendChild(row);
+      });
+      updateScoreDisplay();
+    }
+
+    function toggleGrade(index) {
+      gradingResults[index] = !gradingResults[index];
+      const btn = document.getElementById(`grade-btn-${index}`);
+      btn.classList.toggle("is-correct", gradingResults[index]);
+      btn.innerText = gradingResults[index] ? "O" : "X";
+      updateScoreDisplay();
+    }
+
+    function updateScoreDisplay() {
+      const correctCount = gradingResults.filter(Boolean).length;
+      document.getElementById("total-score").innerText = `최종 점수: ${correctCount} / ${quizData.length}`;
+      saveRecordToStorage(correctCount, quizData.length);
+    }
+
+    function saveRecordToStorage(score, total) {
+      if (hasSavedRecord) return;
+      const records = JSON.parse(localStorage.getItem("spotter_records") || "[]");
+      records.unshift({
+        date: new Date().toLocaleString(),
+        session: `Seed: ${currentSeed}`,
+        mode: currentMode === "exam" ? "땡시" : "공부",
+        score,
+        total
+      });
+      localStorage.setItem("spotter_records", JSON.stringify(records.slice(0, 30)));
+      hasSavedRecord = true;
+    }
+
+    function toggleRecords() {
+      const list = document.getElementById("records-list");
+      list.style.display = list.style.display === "none" || !list.style.display ? "block" : "none";
+      const records = JSON.parse(localStorage.getItem("spotter_records") || "[]");
+      if (records.length === 0) {
+        list.innerHTML = "<div>저장된 기록이 없습니다.</div>";
+        return;
+      }
+      list.innerHTML = records.map(r => (
+        `<div style="display:flex;justify-content:space-between;gap:12px;padding:8px 0;border-bottom:1px solid rgba(255,255,255,.14);">
+          <span>${escapeHtml(r.date)} [${escapeHtml(r.mode)} / ${escapeHtml(r.session)}]</span>
+          <strong>${escapeHtml(r.score)} / ${escapeHtml(r.total)}점</strong>
+        </div>`
+      )).join("");
+    }
+
+    function updateModalTransform() {
+      const modalStage = document.querySelector(".modal-stage");
+      modalStage.style.transform = `translate(${panX}px, ${panY}px) scale(${zoomScale})`;
+    }
+
+    function setupZoomListener() {
+      const modalImg = document.getElementById("modal-image");
+      const modalStage = document.querySelector(".modal-stage");
+      modalImg.addEventListener("wheel", e => {
+        e.preventDefault();
+        zoomScale += e.deltaY * -0.002;
+        zoomScale = Math.min(Math.max(0.5, zoomScale), 5);
+        updateModalTransform();
+      });
+
+      modalStage.addEventListener("pointerdown", e => {
+        e.preventDefault();
+        isPanning = true;
+        panStartX = e.clientX;
+        panStartY = e.clientY;
+        panOriginX = panX;
+        panOriginY = panY;
+        modalStage.classList.add("is-panning");
+        modalStage.setPointerCapture(e.pointerId);
+      });
+
+      modalStage.addEventListener("pointermove", e => {
+        if (!isPanning) return;
+        panX = panOriginX + e.clientX - panStartX;
+        panY = panOriginY + e.clientY - panStartY;
+        updateModalTransform();
+      });
+
+      modalStage.addEventListener("pointerup", e => {
+        isPanning = false;
+        modalStage.classList.remove("is-panning");
+        if (modalStage.hasPointerCapture(e.pointerId)) modalStage.releasePointerCapture(e.pointerId);
+      });
+
+      modalStage.addEventListener("pointercancel", e => {
+        isPanning = false;
+        modalStage.classList.remove("is-panning");
+        if (modalStage.hasPointerCapture(e.pointerId)) modalStage.releasePointerCapture(e.pointerId);
+      });
+    }
+
+    function openMainImageModal() {
+      openModalWithQuestion(quizData[currentIndex]);
+    }
+
+    function showResultImageModal(index) {
+      openModalWithQuestion(quizData[index]);
+    }
+
+    function openModalWithQuestion(data) {
+      if (!data || !data.image_filename) return;
+      modalQuestionData = data;
+      const modalImg = document.getElementById("modal-image");
+      const modalStage = document.querySelector(".modal-stage");
+      modalImg.src = data.image_filename;
+      zoomScale = 1;
+      panX = 0;
+      panY = 0;
+      updateModalTransform();
+      document.getElementById("image-modal").style.display = "flex";
+      requestAnimationFrame(() => {
+        placePinAfterImageReady(document.getElementById("modal-pin"), data, modalImg);
+      });
+    }
+
+    function closeImageModal(e) {
+      if (e) e.stopPropagation();
+      document.getElementById("image-modal").style.display = "none";
+      modalQuestionData = null;
+    }
+
+    function escapeHtml(value) {
+      return String(value ?? "").replace(/[&<>"']/g, ch => ({
+        "&": "&amp;",
+        "<": "&lt;",
+        ">": "&gt;",
+        "\"": "&quot;",
+        "'": "&#39;"
+      }[ch]));
+    }
+  </script>
+</body>
+</html>
