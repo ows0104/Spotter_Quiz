@@ -10,10 +10,10 @@ const QUIZ_DB = [
     "answer_ko": "돌잘록창자동맥",
     "source": "Abdominal Vessels - 1",
     "quiz_id": "trunk-q1",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2023, 1999",
+    "recent_year": "2023",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Abdominal Vessels - 1_Ileum.jpg",
@@ -26,10 +26,10 @@ const QUIZ_DB = [
     "answer_ko": "돌창자",
     "source": "Abdominal Vessels - 1",
     "quiz_id": "trunk-q2",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 6,
+    "exam_years": "2017, 2016, 2015, 2012, 2011, 2004",
+    "recent_year": "2017",
+    "exam_weight": 2.6457513110645907
   },
   {
     "image_filename": "Abdominal Vessels - 1_Superior Mesenteric Artery.jpg",
@@ -42,10 +42,10 @@ const QUIZ_DB = [
     "answer_ko": "위창자간막동맥",
     "source": "Abdominal Vessels - 1",
     "quiz_id": "trunk-q3",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 14,
+    "exam_years": "2022, 2021, 2019, 2018, 2017, 2015, 2014, 2010, 2008, 2006, 2003, 2002, 2000, 1997",
+    "recent_year": "2022",
+    "exam_weight": 3.872983346207417
   },
   {
     "image_filename": "Abdominal Vessels - 1_Superior Mesenteric Vein.jpg",
@@ -58,10 +58,10 @@ const QUIZ_DB = [
     "answer_ko": "위창자간막정맥",
     "source": "Abdominal Vessels - 1",
     "quiz_id": "trunk-q4",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2020, 2016",
+    "recent_year": "2020",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Abdominal Vessels - 2_Abdominal Aorta.jpg",
@@ -74,10 +74,10 @@ const QUIZ_DB = [
     "answer_ko": "복부대동맥",
     "source": "Abdominal Vessels - 2",
     "quiz_id": "trunk-q5",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "1996",
+    "recent_year": "1996",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Abdominal Vessels - 2_Inferior Mesenteric Artery.jpg",
@@ -90,10 +90,10 @@ const QUIZ_DB = [
     "answer_ko": "아래창자간막동맥",
     "source": "Abdominal Vessels - 2",
     "quiz_id": "trunk-q6",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 11,
+    "exam_years": "2023, 2020, 2016, 2010, 2005, 2003, 2000, 1999, 1997, 1996",
+    "recent_year": "2023",
+    "exam_weight": 3.4641016151377544
   },
   {
     "image_filename": "Abdominal Vessels - 2_Left Colic Artery.jpg",
@@ -106,10 +106,10 @@ const QUIZ_DB = [
     "answer_ko": "왼잘록창자동맥",
     "source": "Abdominal Vessels - 2",
     "quiz_id": "trunk-q7",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2014",
+    "recent_year": "2014",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Abdominal Vessels - 2_Sigmoid Artery.jpg",
@@ -122,10 +122,10 @@ const QUIZ_DB = [
     "answer_ko": "구불잘록창자동맥",
     "source": "Abdominal Vessels - 2",
     "quiz_id": "trunk-q8",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2011",
+    "recent_year": "2011",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Abdominal Vessels - 3_Abdominal Aorta.jpg",
@@ -138,10 +138,10 @@ const QUIZ_DB = [
     "answer_ko": "복부대동맥",
     "source": "Abdominal Vessels - 3",
     "quiz_id": "trunk-q9",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "1996",
+    "recent_year": "1996",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Abdominal Vessels - 3_Common Iliac Artery.jpg",
@@ -154,10 +154,10 @@ const QUIZ_DB = [
     "answer_ko": "총장골동맥",
     "source": "Abdominal Vessels - 3",
     "quiz_id": "trunk-q10",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2018, 2008, 2002",
+    "recent_year": "2018",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Abdominal Vessels - 3_Inferior Mesenteric Artery.jpg",
@@ -170,10 +170,10 @@ const QUIZ_DB = [
     "answer_ko": "아래창자간막동맥",
     "source": "Abdominal Vessels - 3",
     "quiz_id": "trunk-q11",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 11,
+    "exam_years": "2023, 2020, 2016, 2010, 2005, 2003, 2000, 1999, 1997, 1996",
+    "recent_year": "2023",
+    "exam_weight": 3.4641016151377544
   },
   {
     "image_filename": "Abdominal Vessels - 3_Left Renal Artery.jpg",
@@ -186,10 +186,10 @@ const QUIZ_DB = [
     "answer_ko": "왼콩팥동맥",
     "source": "Abdominal Vessels - 3",
     "quiz_id": "trunk-q12",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 7,
+    "exam_years": "2023, 2017, 2016, 2014, 2005, 2004, 1996",
+    "recent_year": "2023",
+    "exam_weight": 2.8284271247461903
   },
   {
     "image_filename": "Abdominal Vessels - 3_Lumbar Artery.jpg",
@@ -202,10 +202,10 @@ const QUIZ_DB = [
     "answer_ko": "허리동맥",
     "source": "Abdominal Vessels - 3",
     "quiz_id": "trunk-q13",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2011, 2005",
+    "recent_year": "2011",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Abdominal Vessels - 3_Psoas Muscle.jpg",
@@ -218,10 +218,10 @@ const QUIZ_DB = [
     "answer_ko": "큰허리근",
     "source": "Abdominal Vessels - 3",
     "quiz_id": "trunk-q14",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 13,
+    "exam_years": "2016, 2015, 2014, 2010, 2009, 2008, 2004, 2003, 2002, 1999, 1997, 1996",
+    "recent_year": "2016",
+    "exam_weight": 3.7416573867739413
   },
   {
     "image_filename": "Abdominal Vessels - 3_Sympathetic Chain.jpg",
@@ -234,10 +234,10 @@ const QUIZ_DB = [
     "answer_ko": "교감신경줄기",
     "source": "Abdominal Vessels - 3",
     "quiz_id": "trunk-q15",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 8,
+    "exam_years": "2020, 2014, 2012, 2009, 2005, 2000, 1997, 1996",
+    "recent_year": "2020",
+    "exam_weight": 3.0
   },
   {
     "image_filename": "Abdominal Vessels - 4_Common Hepatic Duct.jpg",
@@ -250,10 +250,10 @@ const QUIZ_DB = [
     "answer_ko": "총간관",
     "source": "Abdominal Vessels - 4",
     "quiz_id": "trunk-q16",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 5,
+    "exam_years": "2014, 2013, 2011, 2010, 2007",
+    "recent_year": "2014",
+    "exam_weight": 2.449489742783178
   },
   {
     "image_filename": "Abdominal Vessels - 4_Cystic Duct.jpg",
@@ -266,10 +266,10 @@ const QUIZ_DB = [
     "answer_ko": "쓸개주머니관",
     "source": "Abdominal Vessels - 4",
     "quiz_id": "trunk-q17",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2013, 2002",
+    "recent_year": "2013",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Abdominal Vessels - 4_Common Bile Duct.jpg",
@@ -282,10 +282,10 @@ const QUIZ_DB = [
     "answer_ko": "총쓸개관",
     "source": "Abdominal Vessels - 4",
     "quiz_id": "trunk-q18",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2018, 2013, 2008, 2005",
+    "recent_year": "2018",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Abdominal Vessels - 4_Gastroduodenal Artery.jpg",
@@ -298,10 +298,10 @@ const QUIZ_DB = [
     "answer_ko": "위샘창자동맥",
     "source": "Abdominal Vessels - 4",
     "quiz_id": "trunk-q19",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2013, 2009, 2005",
+    "recent_year": "2013",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Abdominal Vessels - 4_Left Gastric Artery.jpg",
@@ -314,10 +314,10 @@ const QUIZ_DB = [
     "answer_ko": "왼위동맥",
     "source": "Abdominal Vessels - 4",
     "quiz_id": "trunk-q20",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 8,
+    "exam_years": "2025, 2023, 2022, 2014, 2013, 2011, 2010, 2009",
+    "recent_year": "2025",
+    "exam_weight": 3.0
   },
   {
     "image_filename": "Abdominal Vessels - 4_Duodenum (First Part).jpg",
@@ -330,10 +330,10 @@ const QUIZ_DB = [
     "answer_ko": "샘창자(첫부분)",
     "source": "Abdominal Vessels - 4",
     "quiz_id": "trunk-q21",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2010, 1996",
+    "recent_year": "2010",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Abdominal Vessels - 4_Splenic Artery.jpg",
@@ -346,10 +346,10 @@ const QUIZ_DB = [
     "answer_ko": "지라동맥",
     "source": "Abdominal Vessels - 4",
     "quiz_id": "trunk-q22",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 10,
+    "exam_years": "2025, 2021, 2020, 2019, 2015, 2014, 2012, 2010, 2006, 1999",
+    "recent_year": "2025",
+    "exam_weight": 3.3166247903554
   },
   {
     "image_filename": "Abdominal Vessels - 5_Right Gastroepiploic Artery.jpg",
@@ -362,10 +362,10 @@ const QUIZ_DB = [
     "answer_ko": "오른위그물막동맥",
     "source": "Abdominal Vessels - 5",
     "quiz_id": "trunk-q23",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 5,
+    "exam_years": "2012, 2006, 2004, 2000, 1997",
+    "recent_year": "2012",
+    "exam_weight": 2.449489742783178
   },
   {
     "image_filename": "Abdominal Vessels - 5_Left Gastric Artery.jpg",
@@ -378,10 +378,10 @@ const QUIZ_DB = [
     "answer_ko": "왼위동맥",
     "source": "Abdominal Vessels - 5",
     "quiz_id": "trunk-q24",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 8,
+    "exam_years": "2025, 2023, 2022, 2014, 2013, 2011, 2010, 2009",
+    "recent_year": "2025",
+    "exam_weight": 3.0
   },
   {
     "image_filename": "Abdominal Vessels - 6_Left Hepatic Artery.jpg",
@@ -410,10 +410,10 @@ const QUIZ_DB = [
     "answer_ko": "오른간동맥",
     "source": "Abdominal Vessels - 6",
     "quiz_id": "trunk-q26",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2023, 2016, 2012",
+    "recent_year": "2023",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Abdominal Vessels - 6_Common Hepatic Duct.jpg",
@@ -426,10 +426,10 @@ const QUIZ_DB = [
     "answer_ko": "총간관",
     "source": "Abdominal Vessels - 6",
     "quiz_id": "trunk-q27",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 5,
+    "exam_years": "2014, 2013, 2011, 2010, 2007",
+    "recent_year": "2014",
+    "exam_weight": 2.449489742783178
   },
   {
     "image_filename": "Abdominal Vessels - 6_Left Gastric Artery.jpg",
@@ -442,10 +442,10 @@ const QUIZ_DB = [
     "answer_ko": "왼위동맥",
     "source": "Abdominal Vessels - 6",
     "quiz_id": "trunk-q28",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 8,
+    "exam_years": "2025, 2023, 2022, 2014, 2013, 2011, 2010, 2009",
+    "recent_year": "2025",
+    "exam_weight": 3.0
   },
   {
     "image_filename": "Abdominal Vessels - 7_Superior Mesenteric Artery.jpg",
@@ -458,10 +458,10 @@ const QUIZ_DB = [
     "answer_ko": "위창자간막동맥",
     "source": "Abdominal Vessels - 7",
     "quiz_id": "trunk-q29",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 14,
+    "exam_years": "2022, 2021, 2019, 2018, 2017, 2015, 2014, 2010, 2008, 2006, 2003, 2002, 2000, 1997",
+    "recent_year": "2022",
+    "exam_weight": 3.872983346207417
   },
   {
     "image_filename": "Abdominal Vessels - 7_Superior Mesenteric Vein.jpg",
@@ -474,10 +474,10 @@ const QUIZ_DB = [
     "answer_ko": "위창자간막정맥",
     "source": "Abdominal Vessels - 7",
     "quiz_id": "trunk-q30",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2020, 2016",
+    "recent_year": "2020",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Abdominal Vessels - 7_Right Colic Artery.jpg",
@@ -490,10 +490,10 @@ const QUIZ_DB = [
     "answer_ko": "오른잘록창자동맥",
     "source": "Abdominal Vessels - 7",
     "quiz_id": "trunk-q31",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2009",
+    "recent_year": "2009",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Abdominal Vessels - 7_Ileocolic Artery.jpg",
@@ -506,10 +506,10 @@ const QUIZ_DB = [
     "answer_ko": "돌잘록창자동맥",
     "source": "Abdominal Vessels - 7",
     "quiz_id": "trunk-q32",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2023, 1999",
+    "recent_year": "2023",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Abdominal Vessels - 7_Duodenum (3rd Part).jpg",
@@ -522,10 +522,10 @@ const QUIZ_DB = [
     "answer_ko": "샘창자(셋째부분)",
     "source": "Abdominal Vessels - 7",
     "quiz_id": "trunk-q33",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2010, 1996",
+    "recent_year": "2010",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Abdominal Vessels - 7_Transverse Colon.jpg",
@@ -538,10 +538,10 @@ const QUIZ_DB = [
     "answer_ko": "가로잘록창자",
     "source": "Abdominal Vessels - 7",
     "quiz_id": "trunk-q34",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2020",
+    "recent_year": "2020",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Abdominal Viscera - 1_Caudate Lobe.jpg",
@@ -554,10 +554,10 @@ const QUIZ_DB = [
     "answer_ko": "꼬리엽",
     "source": "Abdominal Viscera - 1",
     "quiz_id": "trunk-q35",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2013, 2005, 2000, 1996",
+    "recent_year": "2013",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Abdominal Viscera - 1_Common Bile Duct.jpg",
@@ -570,10 +570,10 @@ const QUIZ_DB = [
     "answer_ko": "총쓸개관",
     "source": "Abdominal Viscera - 1",
     "quiz_id": "trunk-q36",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2018, 2013, 2008, 2005",
+    "recent_year": "2018",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Abdominal Viscera - 1_Gallbladder.jpg",
@@ -586,10 +586,10 @@ const QUIZ_DB = [
     "answer_ko": "쓸개주머니",
     "source": "Abdominal Viscera - 1",
     "quiz_id": "trunk-q37",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2009, 2005, 2002, 1999",
+    "recent_year": "2009",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Abdominal Viscera - 1_Hepatic Portal Vein.jpg",
@@ -602,10 +602,10 @@ const QUIZ_DB = [
     "answer_ko": "간문맥",
     "source": "Abdominal Viscera - 1",
     "quiz_id": "trunk-q38",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 7,
+    "exam_years": "2018, 2005, 2003, 2000, 1999, 1997",
+    "recent_year": "2018",
+    "exam_weight": 2.8284271247461903
   },
   {
     "image_filename": "Abdominal Viscera - 1_Inferior Vena Cava.jpg",
@@ -618,10 +618,10 @@ const QUIZ_DB = [
     "answer_ko": "아래대정맥",
     "source": "Abdominal Viscera - 1",
     "quiz_id": "trunk-q39",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 8,
+    "exam_years": "2022, 2020, 2019, 2014, 2008, 2006, 1999, 1997",
+    "recent_year": "2022",
+    "exam_weight": 3.0
   },
   {
     "image_filename": "Abdominal Viscera - 1_Quadrate Lobe.jpg",
@@ -634,10 +634,10 @@ const QUIZ_DB = [
     "answer_ko": "네모엽",
     "source": "Abdominal Viscera - 1",
     "quiz_id": "trunk-q40",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 5,
+    "exam_years": "2016, 2012, 2009, 2004, 2003",
+    "recent_year": "2016",
+    "exam_weight": 2.449489742783178
   },
   {
     "image_filename": "Abdominal Viscera - 1_Splenic Vein.jpg",
@@ -650,10 +650,10 @@ const QUIZ_DB = [
     "answer_ko": "지라정맥",
     "source": "Abdominal Viscera - 1",
     "quiz_id": "trunk-q41",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2023",
+    "recent_year": "2023",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Abdominal Viscera - 1_Superior Mesenteric Vein.jpg",
@@ -666,10 +666,10 @@ const QUIZ_DB = [
     "answer_ko": "위창자간막정맥",
     "source": "Abdominal Viscera - 1",
     "quiz_id": "trunk-q42",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2020, 2016",
+    "recent_year": "2020",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Abdominal Viscera - 2_Duodenum (1st Part).jpg",
@@ -682,10 +682,10 @@ const QUIZ_DB = [
     "answer_ko": "샘창자(첫부분)",
     "source": "Abdominal Viscera - 2",
     "quiz_id": "trunk-q43",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2010, 1996",
+    "recent_year": "2010",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Abdominal Viscera - 2_Esophagus.jpg",
@@ -698,10 +698,10 @@ const QUIZ_DB = [
     "answer_ko": "식도",
     "source": "Abdominal Viscera - 2",
     "quiz_id": "trunk-q44",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 14,
+    "exam_years": "2023, 2019, 2018, 2017, 2014, 2009, 2007, 2006, 2005, 2003, 2002, 2000, 1997",
+    "recent_year": "2023",
+    "exam_weight": 3.872983346207417
   },
   {
     "image_filename": "Abdominal Viscera - 2_Pylorus.jpg",
@@ -714,10 +714,10 @@ const QUIZ_DB = [
     "answer_ko": "날문",
     "source": "Abdominal Viscera - 2",
     "quiz_id": "trunk-q45",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2020, 2004",
+    "recent_year": "2020",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Abdominal Viscera - 3_Duodenum (Descending).jpg",
@@ -730,10 +730,10 @@ const QUIZ_DB = [
     "answer_ko": "샘창자(내림부분)",
     "source": "Abdominal Viscera - 3",
     "quiz_id": "trunk-q46",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2010, 1996",
+    "recent_year": "2010",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Abdominal Viscera - 3_Duodenum (Horizontal).jpg",
@@ -746,10 +746,10 @@ const QUIZ_DB = [
     "answer_ko": "샘창자(수평부분)",
     "source": "Abdominal Viscera - 3",
     "quiz_id": "trunk-q47",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2010, 1996",
+    "recent_year": "2010",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Abdominal Viscera - 3_Pancreas.jpg",
@@ -762,10 +762,10 @@ const QUIZ_DB = [
     "answer_ko": "이자",
     "source": "Abdominal Viscera - 3",
     "quiz_id": "trunk-q48",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2005",
+    "recent_year": "2005",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Abdominal Viscera - 3_Pancreas.jpg",
@@ -778,10 +778,10 @@ const QUIZ_DB = [
     "answer_ko": "이자",
     "source": "Abdominal Viscera - 3",
     "quiz_id": "trunk-q49",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2005",
+    "recent_year": "2005",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Abdominal Viscera - 4_Taenia Coli.jpg",
@@ -794,10 +794,10 @@ const QUIZ_DB = [
     "answer_ko": "결장띠",
     "source": "Abdominal Viscera - 4",
     "quiz_id": "trunk-q50",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 11,
+    "exam_years": "2021, 2016, 2015, 2014, 2012, 2009, 2006, 1999, 1997",
+    "recent_year": "2021",
+    "exam_weight": 3.4641016151377544
   },
   {
     "image_filename": "Abdominal Viscera - 4_Transverse Colon.jpg",
@@ -810,10 +810,10 @@ const QUIZ_DB = [
     "answer_ko": "가로잘록창자",
     "source": "Abdominal Viscera - 4",
     "quiz_id": "trunk-q51",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2020",
+    "recent_year": "2020",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Abdominal Viscera - 5_Common Hepatic Duct.jpg",
@@ -826,10 +826,10 @@ const QUIZ_DB = [
     "answer_ko": "총간관",
     "source": "Abdominal Viscera - 5",
     "quiz_id": "trunk-q52",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 5,
+    "exam_years": "2014, 2013, 2011, 2010, 2007",
+    "recent_year": "2014",
+    "exam_weight": 2.449489742783178
   },
   {
     "image_filename": "Abdominal Viscera - 5_Common Bile Duct.jpg",
@@ -842,10 +842,10 @@ const QUIZ_DB = [
     "answer_ko": "총쓸개관",
     "source": "Abdominal Viscera - 5",
     "quiz_id": "trunk-q53",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2018, 2013, 2008, 2005",
+    "recent_year": "2018",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Abdominal Viscera - 5_Cystic Duct.jpg",
@@ -858,10 +858,10 @@ const QUIZ_DB = [
     "answer_ko": "쓸개주머니관",
     "source": "Abdominal Viscera - 5",
     "quiz_id": "trunk-q54",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2013, 2002",
+    "recent_year": "2013",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Abdominal Viscera - 5_Hepatic Portal Vein.jpg",
@@ -874,10 +874,10 @@ const QUIZ_DB = [
     "answer_ko": "간문맥",
     "source": "Abdominal Viscera - 5",
     "quiz_id": "trunk-q55",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 7,
+    "exam_years": "2018, 2005, 2003, 2000, 1999, 1997",
+    "recent_year": "2018",
+    "exam_weight": 2.8284271247461903
   },
   {
     "image_filename": "Abdominal Viscera - 5_Gall Bladder.jpg",
@@ -890,10 +890,10 @@ const QUIZ_DB = [
     "answer_ko": "쓸개주머니",
     "source": "Abdominal Viscera - 5",
     "quiz_id": "trunk-q56",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2009, 2005, 2002, 1999",
+    "recent_year": "2009",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Abdominal Viscera - 5_Duodenum (1st Part).jpg",
@@ -906,10 +906,10 @@ const QUIZ_DB = [
     "answer_ko": "샘창자(첫부분)",
     "source": "Abdominal Viscera - 5",
     "quiz_id": "trunk-q57",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2010, 1996",
+    "recent_year": "2010",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Abdominal Viscera - 6_Appendix.jpg",
@@ -922,10 +922,10 @@ const QUIZ_DB = [
     "answer_ko": "충수",
     "source": "Abdominal Viscera - 6",
     "quiz_id": "trunk-q58",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 7,
+    "exam_years": "2020, 2012, 2009, 2005, 2004, 2003, 2002",
+    "recent_year": "2020",
+    "exam_weight": 2.8284271247461903
   },
   {
     "image_filename": "Abdominal Viscera - 6_Ileum.jpg",
@@ -938,10 +938,10 @@ const QUIZ_DB = [
     "answer_ko": "돌창자",
     "source": "Abdominal Viscera - 6",
     "quiz_id": "trunk-q59",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 6,
+    "exam_years": "2017, 2016, 2015, 2012, 2011, 2004",
+    "recent_year": "2017",
+    "exam_weight": 2.6457513110645907
   },
   {
     "image_filename": "Abdominal Viscera - 6_Transverse Colon.jpg",
@@ -954,10 +954,10 @@ const QUIZ_DB = [
     "answer_ko": "가로잘록창자",
     "source": "Abdominal Viscera - 6",
     "quiz_id": "trunk-q60",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2020",
+    "recent_year": "2020",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Abdominal Viscera - 6_Jejunum.jpg",
@@ -970,10 +970,10 @@ const QUIZ_DB = [
     "answer_ko": "빈창자",
     "source": "Abdominal Viscera - 6",
     "quiz_id": "trunk-q61",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2012, 2011",
+    "recent_year": "2012",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Abdominal Viscera - 6_Gall Bladder.jpg",
@@ -986,10 +986,10 @@ const QUIZ_DB = [
     "answer_ko": "쓸개주머니",
     "source": "Abdominal Viscera - 6",
     "quiz_id": "trunk-q62",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2009, 2005, 2002, 1999",
+    "recent_year": "2009",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Anterior Abdominal Wall - 1_External Oblique Muscle.jpg",
@@ -1002,10 +1002,10 @@ const QUIZ_DB = [
     "answer_ko": "배바깥빗근",
     "source": "Anterior Abdominal Wall - 1",
     "quiz_id": "trunk-q63",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2021, 2017",
+    "recent_year": "2021",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Anterior Abdominal Wall - 1_Inferior Epigastric Artery.jpg",
@@ -1018,10 +1018,10 @@ const QUIZ_DB = [
     "answer_ko": "아래배벽동맥",
     "source": "Anterior Abdominal Wall - 1",
     "quiz_id": "trunk-q64",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 5,
+    "exam_years": "2023, 2022, 2018, 2015, 1996",
+    "recent_year": "2023",
+    "exam_weight": 2.449489742783178
   },
   {
     "image_filename": "Anterior Abdominal Wall - 1_Spermatic Cord.jpg",
@@ -1034,10 +1034,10 @@ const QUIZ_DB = [
     "answer_ko": "정삭",
     "source": "Anterior Abdominal Wall - 1",
     "quiz_id": "trunk-q65",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2020, 2019, 2018",
+    "recent_year": "2020",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Anterior Abdominal Wall - 2_Ilioinguinal Nerve.jpg",
@@ -1050,10 +1050,10 @@ const QUIZ_DB = [
     "answer_ko": "엉덩샅굴신경",
     "source": "Anterior Abdominal Wall - 2",
     "quiz_id": "trunk-q66",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2006",
+    "recent_year": "2006",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Anterior Abdominal Wall - 2_Inguinal Ligament.jpg",
@@ -1066,10 +1066,10 @@ const QUIZ_DB = [
     "answer_ko": "샅고랑인대",
     "source": "Anterior Abdominal Wall - 2",
     "quiz_id": "trunk-q67",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2010",
+    "recent_year": "2010",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Anterior Abdominal Wall - 2_Inguinal Ligament.jpg",
@@ -1082,10 +1082,10 @@ const QUIZ_DB = [
     "answer_ko": "샅고랑인대",
     "source": "Anterior Abdominal Wall - 2",
     "quiz_id": "trunk-q68",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2010",
+    "recent_year": "2010",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Anterior Abdominal Wall - 3_Arcuate Line.jpg",
@@ -1098,10 +1098,10 @@ const QUIZ_DB = [
     "answer_ko": "활선",
     "source": "Anterior Abdominal Wall - 3",
     "quiz_id": "trunk-q69",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2022",
+    "recent_year": "2022",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Anterior Abdominal Wall - 3_Iliohypogastric Nerve.jpg",
@@ -1114,10 +1114,10 @@ const QUIZ_DB = [
     "answer_ko": "엉덩아랫배신경",
     "source": "Anterior Abdominal Wall - 3",
     "quiz_id": "trunk-q70",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2013, 1999",
+    "recent_year": "2013",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Anterior Abdominal Wall - 3_Ilioinguinal Nerve.jpg",
@@ -1130,10 +1130,10 @@ const QUIZ_DB = [
     "answer_ko": "엉덩샅굴신경",
     "source": "Anterior Abdominal Wall - 3",
     "quiz_id": "trunk-q71",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2006",
+    "recent_year": "2006",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Anterior Abdominal Wall - 3_Inferior Epigastric Artery.jpg",
@@ -1146,10 +1146,10 @@ const QUIZ_DB = [
     "answer_ko": "아래배벽동맥",
     "source": "Anterior Abdominal Wall - 3",
     "quiz_id": "trunk-q72",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 5,
+    "exam_years": "2023, 2022, 2018, 2015, 1996",
+    "recent_year": "2023",
+    "exam_weight": 2.449489742783178
   },
   {
     "image_filename": "Anterior Abdominal Wall - 3_Internal Oblique Muscle.jpg",
@@ -1162,10 +1162,10 @@ const QUIZ_DB = [
     "answer_ko": "배속빗근",
     "source": "Anterior Abdominal Wall - 3",
     "quiz_id": "trunk-q73",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 10,
+    "exam_years": "2025, 2020, 2019, 2016, 2014, 2012, 2011, 2010, 2009, 2007",
+    "recent_year": "2025",
+    "exam_weight": 3.3166247903554
   },
   {
     "image_filename": "Anterior Abdominal Wall - 3_Spermatic Cord.jpg",
@@ -1178,10 +1178,10 @@ const QUIZ_DB = [
     "answer_ko": "정삭",
     "source": "Anterior Abdominal Wall - 3",
     "quiz_id": "trunk-q74",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2020, 2019, 2018",
+    "recent_year": "2020",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Anterior Abdominal Wall - 4_Iliohypogastric Nerve.jpg",
@@ -1194,10 +1194,10 @@ const QUIZ_DB = [
     "answer_ko": "엉덩아랫배신경",
     "source": "Anterior Abdominal Wall - 4",
     "quiz_id": "trunk-q75",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2013, 1999",
+    "recent_year": "2013",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Anterior Abdominal Wall - 4_Ilioinguinal Nerve.jpg",
@@ -1210,10 +1210,10 @@ const QUIZ_DB = [
     "answer_ko": "엉덩샅굴신경",
     "source": "Anterior Abdominal Wall - 4",
     "quiz_id": "trunk-q76",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2006",
+    "recent_year": "2006",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Anterior Abdominal Wall - 4_Inferior Epigastric Artery.jpg",
@@ -1226,10 +1226,10 @@ const QUIZ_DB = [
     "answer_ko": "아래배벽동맥",
     "source": "Anterior Abdominal Wall - 4",
     "quiz_id": "trunk-q77",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 5,
+    "exam_years": "2023, 2022, 2018, 2015, 1996",
+    "recent_year": "2023",
+    "exam_weight": 2.449489742783178
   },
   {
     "image_filename": "Anterior Abdominal Wall - 4_Internal Oblique Muscle.jpg",
@@ -1242,10 +1242,10 @@ const QUIZ_DB = [
     "answer_ko": "배속빗근",
     "source": "Anterior Abdominal Wall - 4",
     "quiz_id": "trunk-q78",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 10,
+    "exam_years": "2025, 2020, 2019, 2016, 2014, 2012, 2011, 2010, 2009, 2007",
+    "recent_year": "2025",
+    "exam_weight": 3.3166247903554
   },
   {
     "image_filename": "Anterior Abdominal Wall - 4_Spermatic Cord.jpg",
@@ -1258,10 +1258,10 @@ const QUIZ_DB = [
     "answer_ko": "정삭",
     "source": "Anterior Abdominal Wall - 4",
     "quiz_id": "trunk-q79",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2020, 2019, 2018",
+    "recent_year": "2020",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Anterior Abdominal Wall - 5_Bladder.jpg",
@@ -1274,10 +1274,10 @@ const QUIZ_DB = [
     "answer_ko": "방광",
     "source": "Anterior Abdominal Wall - 5",
     "quiz_id": "trunk-q80",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2018, 2015",
+    "recent_year": "2018",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Anterior Abdominal Wall - 5_Ilioinguinal Nerve.jpg",
@@ -1290,10 +1290,10 @@ const QUIZ_DB = [
     "answer_ko": "엉덩샅굴신경",
     "source": "Anterior Abdominal Wall - 5",
     "quiz_id": "trunk-q81",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2006",
+    "recent_year": "2006",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Anterior Abdominal Wall - 5_Inferior Epigastric Artery.jpg",
@@ -1306,10 +1306,10 @@ const QUIZ_DB = [
     "answer_ko": "아래배벽동맥",
     "source": "Anterior Abdominal Wall - 5",
     "quiz_id": "trunk-q82",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 5,
+    "exam_years": "2023, 2022, 2018, 2015, 1996",
+    "recent_year": "2023",
+    "exam_weight": 2.449489742783178
   },
   {
     "image_filename": "Anterior Abdominal Wall - 5_Round Ligament of Uterus.jpg",
@@ -1322,10 +1322,10 @@ const QUIZ_DB = [
     "answer_ko": "자궁원인대",
     "source": "Anterior Abdominal Wall - 5",
     "quiz_id": "trunk-q83",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 9,
+    "exam_years": "2025, 2023, 2018, 2003, 2002, 2000, 1999, 1997, 1996",
+    "recent_year": "2025",
+    "exam_weight": 3.1622776601683795
   },
   {
     "image_filename": "Anterior Abdominal Wall - 5_Uterus.jpg",
@@ -1338,10 +1338,10 @@ const QUIZ_DB = [
     "answer_ko": "자궁",
     "source": "Anterior Abdominal Wall - 5",
     "quiz_id": "trunk-q84",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2021",
+    "recent_year": "2021",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Anterior Abdominal Wall - 6_External Oblique Muscle.jpg",
@@ -1354,10 +1354,10 @@ const QUIZ_DB = [
     "answer_ko": "배바깥빗근",
     "source": "Anterior Abdominal Wall - 6",
     "quiz_id": "trunk-q85",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2021, 2017",
+    "recent_year": "2021",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Anterior Abdominal Wall - 6_Inguinal Ligament.jpg",
@@ -1370,10 +1370,10 @@ const QUIZ_DB = [
     "answer_ko": "샅고랑인대",
     "source": "Anterior Abdominal Wall - 6",
     "quiz_id": "trunk-q86",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2010",
+    "recent_year": "2010",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Anterior Abdominal Wall - 6_Internal Oblique Muscle.jpg",
@@ -1386,10 +1386,10 @@ const QUIZ_DB = [
     "answer_ko": "배속빗근",
     "source": "Anterior Abdominal Wall - 6",
     "quiz_id": "trunk-q87",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 10,
+    "exam_years": "2025, 2020, 2019, 2016, 2014, 2012, 2011, 2010, 2009, 2007",
+    "recent_year": "2025",
+    "exam_weight": 3.3166247903554
   },
   {
     "image_filename": "Anterior Abdominal Wall - 6_Spermatic Cord.jpg",
@@ -1402,10 +1402,10 @@ const QUIZ_DB = [
     "answer_ko": "정삭",
     "source": "Anterior Abdominal Wall - 6",
     "quiz_id": "trunk-q88",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2020, 2019, 2018",
+    "recent_year": "2020",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Back - 2_Spinous Process.jpg",
@@ -1418,10 +1418,10 @@ const QUIZ_DB = [
     "answer_ko": "가시돌기",
     "source": "Back - 2",
     "quiz_id": "trunk-q89",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2021",
+    "recent_year": "2021",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Back - 2_Spinous Process.jpg",
@@ -1434,10 +1434,10 @@ const QUIZ_DB = [
     "answer_ko": "가시돌기",
     "source": "Back - 2",
     "quiz_id": "trunk-q90",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2021",
+    "recent_year": "2021",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Back - 2_Longissimus Muscle.jpg",
@@ -1450,10 +1450,10 @@ const QUIZ_DB = [
     "answer_ko": "최장근",
     "source": "Back - 2",
     "quiz_id": "trunk-q91",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 7,
+    "exam_years": "2022, 2021, 2018, 2015, 2014, 2010, 2002",
+    "recent_year": "2022",
+    "exam_weight": 2.8284271247461903
   },
   {
     "image_filename": "Back - 2_Iliocostalis Muscle.jpg",
@@ -1466,10 +1466,10 @@ const QUIZ_DB = [
     "answer_ko": "엉덩갈비근",
     "source": "Back - 2",
     "quiz_id": "trunk-q92",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 7,
+    "exam_years": "2025, 2023, 2019, 2016, 2009, 2000, 1999",
+    "recent_year": "2025",
+    "exam_weight": 2.8284271247461903
   },
   {
     "image_filename": "Back - 7_Longissimus Muscle.jpg",
@@ -1482,10 +1482,10 @@ const QUIZ_DB = [
     "answer_ko": "최장근",
     "source": "Back - 7",
     "quiz_id": "trunk-q93",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 7,
+    "exam_years": "2022, 2021, 2018, 2015, 2014, 2010, 2002",
+    "recent_year": "2022",
+    "exam_weight": 2.8284271247461903
   },
   {
     "image_filename": "Back - 7_Iliocostalis Muscle.jpg",
@@ -1498,10 +1498,10 @@ const QUIZ_DB = [
     "answer_ko": "엉덩갈비근",
     "source": "Back - 7",
     "quiz_id": "trunk-q94",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 7,
+    "exam_years": "2025, 2023, 2019, 2016, 2009, 2000, 1999",
+    "recent_year": "2025",
+    "exam_weight": 2.8284271247461903
   },
   {
     "image_filename": "Female Anal Triangle - 1_External Anal Sphincter.jpg",
@@ -1514,10 +1514,10 @@ const QUIZ_DB = [
     "answer_ko": "바깥항문조임근",
     "source": "Female Anal Triangle - 1",
     "quiz_id": "trunk-q95",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2022, 2021, 2005",
+    "recent_year": "2022",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Female Anal Triangle - 1_Ischial Tuberosity.jpg",
@@ -1530,10 +1530,10 @@ const QUIZ_DB = [
     "answer_ko": "궁둥뼈거친면",
     "source": "Female Anal Triangle - 1",
     "quiz_id": "trunk-q96",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2016",
+    "recent_year": "2016",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Female Anal Triangle - 2_Internal Pudendal Artery.jpg",
@@ -1546,10 +1546,10 @@ const QUIZ_DB = [
     "answer_ko": "속음부동맥",
     "source": "Female Anal Triangle - 2",
     "quiz_id": "trunk-q97",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 13,
+    "exam_years": "2022, 2017, 2016, 2015, 2012, 2011, 2009, 2006, 2005, 2003, 1999, 1997, 1996",
+    "recent_year": "2022",
+    "exam_weight": 3.7416573867739413
   },
   {
     "image_filename": "Female Anal Triangle - 3_External Anal Sphincter.jpg",
@@ -1562,10 +1562,10 @@ const QUIZ_DB = [
     "answer_ko": "바깥항문조임근",
     "source": "Female Anal Triangle - 3",
     "quiz_id": "trunk-q98",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2022, 2021, 2005",
+    "recent_year": "2022",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Female Anal Triangle - 3_Inferior Rectal Nerve.jpg",
@@ -1578,10 +1578,10 @@ const QUIZ_DB = [
     "answer_ko": "아래곧창자신경",
     "source": "Female Anal Triangle - 3",
     "quiz_id": "trunk-q99",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2021",
+    "recent_year": "2021",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Female Anal Triangle - 3_Inferior Rectal Nerve.jpg",
@@ -1594,10 +1594,10 @@ const QUIZ_DB = [
     "answer_ko": "아래곧창자신경",
     "source": "Female Anal Triangle - 3",
     "quiz_id": "trunk-q100",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2021",
+    "recent_year": "2021",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Female Anal Triangle - 3_Inferior Rectal Nerve.jpg",
@@ -1610,10 +1610,10 @@ const QUIZ_DB = [
     "answer_ko": "아래곧창자신경",
     "source": "Female Anal Triangle - 3",
     "quiz_id": "trunk-q101",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2021",
+    "recent_year": "2021",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Female Anal Triangle - 4_Internal Pudendal Artery.jpg",
@@ -1626,10 +1626,10 @@ const QUIZ_DB = [
     "answer_ko": "속음부동맥",
     "source": "Female Anal Triangle - 4",
     "quiz_id": "trunk-q102",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 13,
+    "exam_years": "2022, 2017, 2016, 2015, 2012, 2011, 2009, 2006, 2005, 2003, 1999, 1997, 1996",
+    "recent_year": "2022",
+    "exam_weight": 3.7416573867739413
   },
   {
     "image_filename": "Female Anal Triangle - 4_External Anal Sphincter.jpg",
@@ -1642,10 +1642,10 @@ const QUIZ_DB = [
     "answer_ko": "바깥항문조임근",
     "source": "Female Anal Triangle - 4",
     "quiz_id": "trunk-q103",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2022, 2021, 2005",
+    "recent_year": "2022",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Female Anal Triangle - 5_External Anal Sphincter.jpg",
@@ -1658,10 +1658,10 @@ const QUIZ_DB = [
     "answer_ko": "바깥항문조임근",
     "source": "Female Anal Triangle - 5",
     "quiz_id": "trunk-q104",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2022, 2021, 2005",
+    "recent_year": "2022",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Female Anal Triangle - 5_Internal Pudendal Artery.jpg",
@@ -1674,10 +1674,10 @@ const QUIZ_DB = [
     "answer_ko": "속음부동맥",
     "source": "Female Anal Triangle - 5",
     "quiz_id": "trunk-q105",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 13,
+    "exam_years": "2022, 2017, 2016, 2015, 2012, 2011, 2009, 2006, 2005, 2003, 1999, 1997, 1996",
+    "recent_year": "2022",
+    "exam_weight": 3.7416573867739413
   },
   {
     "image_filename": "Female Pelvis - 1_Common Iliac Artery.jpg",
@@ -1690,10 +1690,10 @@ const QUIZ_DB = [
     "answer_ko": "총장골동맥",
     "source": "Female Pelvis - 1",
     "quiz_id": "trunk-q106",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2018, 2008, 2002",
+    "recent_year": "2018",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Female Pelvis - 1_Ureter.jpg",
@@ -1706,10 +1706,10 @@ const QUIZ_DB = [
     "answer_ko": "요관",
     "source": "Female Pelvis - 1",
     "quiz_id": "trunk-q107",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 11,
+    "exam_years": "2020, 2018, 2016, 2010, 2009, 2007, 2006, 2005, 2004, 2000, 1996",
+    "recent_year": "2020",
+    "exam_weight": 3.4641016151377544
   },
   {
     "image_filename": "Female Pelvis - 1_Uterine Tube.jpg",
@@ -1722,10 +1722,10 @@ const QUIZ_DB = [
     "answer_ko": "자궁관",
     "source": "Female Pelvis - 1",
     "quiz_id": "trunk-q108",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2009, 2000",
+    "recent_year": "2009",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Female Pelvis - 1_Uterine tube (Ampulla and Fimbria).jpg",
@@ -1738,10 +1738,10 @@ const QUIZ_DB = [
     "answer_ko": "자궁관(팽대부와 술)",
     "source": "Female Pelvis - 1",
     "quiz_id": "trunk-q109",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2009, 2000",
+    "recent_year": "2009",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Female Pelvis - 1_Uterus (Fundus).jpg",
@@ -1770,10 +1770,10 @@ const QUIZ_DB = [
     "answer_ko": "방광",
     "source": "Female Pelvis - 2",
     "quiz_id": "trunk-q111",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2018, 2015",
+    "recent_year": "2018",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Female Pelvis - 2_Cervix.jpg",
@@ -1786,10 +1786,10 @@ const QUIZ_DB = [
     "answer_ko": "자궁목",
     "source": "Female Pelvis - 2",
     "quiz_id": "trunk-q112",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2014, 2011, 2005, 2002",
+    "recent_year": "2014",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Female Pelvis - 2_Rectouterine Pouch.jpg",
@@ -1802,10 +1802,10 @@ const QUIZ_DB = [
     "answer_ko": "자궁곧창자오목",
     "source": "Female Pelvis - 2",
     "quiz_id": "trunk-q113",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2012",
+    "recent_year": "2012",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Female Pelvis - 2_Rectum.jpg",
@@ -1818,10 +1818,10 @@ const QUIZ_DB = [
     "answer_ko": "곧창자",
     "source": "Female Pelvis - 2",
     "quiz_id": "trunk-q114",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2010, 2008, 2007",
+    "recent_year": "2010",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Female Pelvis - 2_Rectum.jpg",
@@ -1834,10 +1834,10 @@ const QUIZ_DB = [
     "answer_ko": "곧창자",
     "source": "Female Pelvis - 2",
     "quiz_id": "trunk-q115",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2010, 2008, 2007",
+    "recent_year": "2010",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Female Pelvis - 2_Uterine Tube (Ampulla and Fimbria).jpg",
@@ -1850,10 +1850,10 @@ const QUIZ_DB = [
     "answer_ko": "자궁관(팽대부와 술)",
     "source": "Female Pelvis - 2",
     "quiz_id": "trunk-q116",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2009, 2000",
+    "recent_year": "2009",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Female Pelvis - 2_Uterus.jpg",
@@ -1866,10 +1866,10 @@ const QUIZ_DB = [
     "answer_ko": "자궁",
     "source": "Female Pelvis - 2",
     "quiz_id": "trunk-q117",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2021",
+    "recent_year": "2021",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Female Pelvis - 2_Vagina.jpg",
@@ -1882,10 +1882,10 @@ const QUIZ_DB = [
     "answer_ko": "질",
     "source": "Female Pelvis - 2",
     "quiz_id": "trunk-q118",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2003",
+    "recent_year": "2003",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Female Pelvis - 3_Bladder.jpg",
@@ -1898,10 +1898,10 @@ const QUIZ_DB = [
     "answer_ko": "방광",
     "source": "Female Pelvis - 3",
     "quiz_id": "trunk-q119",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2018, 2015",
+    "recent_year": "2018",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Female Pelvis - 3_Common Iliac Artery.jpg",
@@ -1914,10 +1914,10 @@ const QUIZ_DB = [
     "answer_ko": "총장골동맥",
     "source": "Female Pelvis - 3",
     "quiz_id": "trunk-q120",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2018, 2008, 2002",
+    "recent_year": "2018",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Female Pelvis - 3_Common Iliac Vein.jpg",
@@ -1946,10 +1946,10 @@ const QUIZ_DB = [
     "answer_ko": "요관",
     "source": "Female Pelvis - 3",
     "quiz_id": "trunk-q122",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 11,
+    "exam_years": "2020, 2018, 2016, 2010, 2009, 2007, 2006, 2005, 2004, 2000, 1996",
+    "recent_year": "2020",
+    "exam_weight": 3.4641016151377544
   },
   {
     "image_filename": "Female Pelvis - 3_Uterus.jpg",
@@ -1962,10 +1962,10 @@ const QUIZ_DB = [
     "answer_ko": "자궁",
     "source": "Female Pelvis - 3",
     "quiz_id": "trunk-q123",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2021",
+    "recent_year": "2021",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Female Pelvis - 4_Bladder.jpg",
@@ -1978,10 +1978,10 @@ const QUIZ_DB = [
     "answer_ko": "방광",
     "source": "Female Pelvis - 4",
     "quiz_id": "trunk-q124",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2018, 2015",
+    "recent_year": "2018",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Female Pelvis - 4_Cervix.jpg",
@@ -1994,10 +1994,10 @@ const QUIZ_DB = [
     "answer_ko": "자궁목",
     "source": "Female Pelvis - 4",
     "quiz_id": "trunk-q125",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2014, 2011, 2005, 2002",
+    "recent_year": "2014",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Female Pelvis - 4_Rectum.jpg",
@@ -2010,10 +2010,10 @@ const QUIZ_DB = [
     "answer_ko": "곧창자",
     "source": "Female Pelvis - 4",
     "quiz_id": "trunk-q126",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2010, 2008, 2007",
+    "recent_year": "2010",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Female Pelvis - 4_Urethra.jpg",
@@ -2026,10 +2026,10 @@ const QUIZ_DB = [
     "answer_ko": "요도",
     "source": "Female Pelvis - 4",
     "quiz_id": "trunk-q127",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2008",
+    "recent_year": "2008",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Female Pelvis - 4_Uterus.jpg",
@@ -2042,10 +2042,10 @@ const QUIZ_DB = [
     "answer_ko": "자궁",
     "source": "Female Pelvis - 4",
     "quiz_id": "trunk-q128",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2021",
+    "recent_year": "2021",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Female Pelvis - 4_Vagina.jpg",
@@ -2058,10 +2058,10 @@ const QUIZ_DB = [
     "answer_ko": "질",
     "source": "Female Pelvis - 4",
     "quiz_id": "trunk-q129",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2003",
+    "recent_year": "2003",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Female Pelvis - 5_Internal Pudendal Artery.jpg",
@@ -2074,10 +2074,10 @@ const QUIZ_DB = [
     "answer_ko": "속음부동맥",
     "source": "Female Pelvis - 5",
     "quiz_id": "trunk-q130",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 13,
+    "exam_years": "2022, 2017, 2016, 2015, 2012, 2011, 2009, 2006, 2005, 2003, 1999, 1997, 1996",
+    "recent_year": "2022",
+    "exam_weight": 3.7416573867739413
   },
   {
     "image_filename": "Female Pelvis - 5_Inferior Gluteal Artery.jpg",
@@ -2090,10 +2090,10 @@ const QUIZ_DB = [
     "answer_ko": "아래볼기동맥",
     "source": "Female Pelvis - 5",
     "quiz_id": "trunk-q131",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2016, 2014",
+    "recent_year": "2016",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Female Pelvis - 5_Ureter.jpg",
@@ -2106,10 +2106,10 @@ const QUIZ_DB = [
     "answer_ko": "요관",
     "source": "Female Pelvis - 5",
     "quiz_id": "trunk-q132",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 11,
+    "exam_years": "2020, 2018, 2016, 2010, 2009, 2007, 2006, 2005, 2004, 2000, 1996",
+    "recent_year": "2020",
+    "exam_weight": 3.4641016151377544
   },
   {
     "image_filename": "Female Pelvis - 5_Uterine Artery.jpg",
@@ -2122,10 +2122,10 @@ const QUIZ_DB = [
     "answer_ko": "자궁동맥",
     "source": "Female Pelvis - 5",
     "quiz_id": "trunk-q133",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2025",
+    "recent_year": "2025",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Female Pelvis - 5_Uterus.jpg",
@@ -2138,10 +2138,10 @@ const QUIZ_DB = [
     "answer_ko": "자궁",
     "source": "Female Pelvis - 5",
     "quiz_id": "trunk-q134",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2021",
+    "recent_year": "2021",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Female Pelvis - 5_Vagina.jpg",
@@ -2154,10 +2154,10 @@ const QUIZ_DB = [
     "answer_ko": "질",
     "source": "Female Pelvis - 5",
     "quiz_id": "trunk-q135",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2003",
+    "recent_year": "2003",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Female Pelvis - 6_Iliolumbar Artery.jpg",
@@ -2170,10 +2170,10 @@ const QUIZ_DB = [
     "answer_ko": "엉덩허리동맥",
     "source": "Female Pelvis - 6",
     "quiz_id": "trunk-q136",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2010",
+    "recent_year": "2010",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Female Pelvis - 6_Inferior Gluteal Artery.jpg",
@@ -2186,10 +2186,10 @@ const QUIZ_DB = [
     "answer_ko": "아래볼기동맥",
     "source": "Female Pelvis - 6",
     "quiz_id": "trunk-q137",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2016, 2014",
+    "recent_year": "2016",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Female Pelvis - 6_Lateral Sacral Artery.jpg",
@@ -2202,10 +2202,10 @@ const QUIZ_DB = [
     "answer_ko": "가쪽천골동맥",
     "source": "Female Pelvis - 6",
     "quiz_id": "trunk-q138",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2012",
+    "recent_year": "2012",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Female Pelvis - 6_Lateral Sacral Artery.jpg",
@@ -2218,10 +2218,10 @@ const QUIZ_DB = [
     "answer_ko": "가쪽천골동맥",
     "source": "Female Pelvis - 6",
     "quiz_id": "trunk-q139",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2012",
+    "recent_year": "2012",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Female Pelvis - 6_Superior Gluteal Artery.jpg",
@@ -2234,10 +2234,10 @@ const QUIZ_DB = [
     "answer_ko": "위볼기동맥",
     "source": "Female Pelvis - 6",
     "quiz_id": "trunk-q140",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 7,
+    "exam_years": "2025, 2023, 2022, 2021, 2019, 2013, 1999",
+    "recent_year": "2025",
+    "exam_weight": 2.8284271247461903
   },
   {
     "image_filename": "Female Pelvis - 7_Obturator Internus.jpg",
@@ -2250,10 +2250,10 @@ const QUIZ_DB = [
     "answer_ko": "속폐쇄근",
     "source": "Female Pelvis - 7",
     "quiz_id": "trunk-q141",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2023, 2013, 2000, 1996",
+    "recent_year": "2023",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Female Pelvis - 7_Obturator Nerve.jpg",
@@ -2266,10 +2266,10 @@ const QUIZ_DB = [
     "answer_ko": "폐쇄신경",
     "source": "Female Pelvis - 7",
     "quiz_id": "trunk-q142",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 19,
+    "exam_years": "2025, 2022, 2019, 2016, 2015, 2014, 2012, 2011, 2010, 2009, 2007, 2006, 2005, 2004, 2003, 2000, 1999, 1997, 1996",
+    "recent_year": "2025",
+    "exam_weight": 4.47213595499958
   },
   {
     "image_filename": "Female Pelvis - 7_Obturator Nerve.jpg",
@@ -2282,10 +2282,10 @@ const QUIZ_DB = [
     "answer_ko": "폐쇄신경",
     "source": "Female Pelvis - 7",
     "quiz_id": "trunk-q143",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 19,
+    "exam_years": "2025, 2022, 2019, 2016, 2015, 2014, 2012, 2011, 2010, 2009, 2007, 2006, 2005, 2004, 2003, 2000, 1999, 1997, 1996",
+    "recent_year": "2025",
+    "exam_weight": 4.47213595499958
   },
   {
     "image_filename": "Female Pelvis - 7_Psoas Muscle.jpg",
@@ -2298,10 +2298,10 @@ const QUIZ_DB = [
     "answer_ko": "큰허리근",
     "source": "Female Pelvis - 7",
     "quiz_id": "trunk-q144",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 13,
+    "exam_years": "2016, 2015, 2014, 2010, 2009, 2008, 2004, 2003, 2002, 1999, 1997, 1996",
+    "recent_year": "2016",
+    "exam_weight": 3.7416573867739413
   },
   {
     "image_filename": "Female Pelvis - 8_Inferior Epigastric Artery.jpg",
@@ -2314,10 +2314,10 @@ const QUIZ_DB = [
     "answer_ko": "아래배벽동맥",
     "source": "Female Pelvis - 8",
     "quiz_id": "trunk-q145",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 5,
+    "exam_years": "2023, 2022, 2018, 2015, 1996",
+    "recent_year": "2023",
+    "exam_weight": 2.449489742783178
   },
   {
     "image_filename": "Female Pelvis - 8_Round Ligament of Uterus.jpg",
@@ -2330,10 +2330,10 @@ const QUIZ_DB = [
     "answer_ko": "자궁원인대",
     "source": "Female Pelvis - 8",
     "quiz_id": "trunk-q146",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 9,
+    "exam_years": "2025, 2023, 2018, 2003, 2002, 2000, 1999, 1997, 1996",
+    "recent_year": "2025",
+    "exam_weight": 3.1622776601683795
   },
   {
     "image_filename": "Female Pelvis - 8_Deep Circumflex Iliac Artery.jpg",
@@ -2346,10 +2346,10 @@ const QUIZ_DB = [
     "answer_ko": "엉덩뼈휘돌이깊은동맥",
     "source": "Female Pelvis - 8",
     "quiz_id": "trunk-q147",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2025, 2020, 2010",
+    "recent_year": "2025",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Female Perineum - 1_Bulbospongiosus Muscle.jpg",
@@ -2362,10 +2362,10 @@ const QUIZ_DB = [
     "answer_ko": "망울해면체근",
     "source": "Female Perineum - 1",
     "quiz_id": "trunk-q148",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2019, 2016, 2006",
+    "recent_year": "2019",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Heart - 1_Ascending Aorta.jpg",
@@ -2378,10 +2378,10 @@ const QUIZ_DB = [
     "answer_ko": "오름대동맥",
     "source": "Heart - 1",
     "quiz_id": "trunk-q149",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2011, 1999",
+    "recent_year": "2011",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Heart - 1_Left coronary Artery.jpg",
@@ -2394,10 +2394,10 @@ const QUIZ_DB = [
     "answer_ko": "왼관상동맥",
     "source": "Heart - 1",
     "quiz_id": "trunk-q150",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2019, 2015, 2012, 2010",
+    "recent_year": "2019",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Heart - 1_Pulmonary Trunk.jpg",
@@ -2410,10 +2410,10 @@ const QUIZ_DB = [
     "answer_ko": "폐동맥줄기",
     "source": "Heart - 1",
     "quiz_id": "trunk-q151",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "1997",
+    "recent_year": "1997",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Heart - 1_Right Atrium (Auricle).jpg",
@@ -2426,10 +2426,10 @@ const QUIZ_DB = [
     "answer_ko": "오른심방(심방귀)",
     "source": "Heart - 1",
     "quiz_id": "trunk-q152",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2014, 2004, 1996",
+    "recent_year": "2014",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Heart - 1_Right Coronary Artery.jpg",
@@ -2442,10 +2442,10 @@ const QUIZ_DB = [
     "answer_ko": "오른관상동맥",
     "source": "Heart - 1",
     "quiz_id": "trunk-q153",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 6,
+    "exam_years": "2023, 2018, 2017, 2016, 2008, 2006",
+    "recent_year": "2023",
+    "exam_weight": 2.6457513110645907
   },
   {
     "image_filename": "Heart - 1_Superior Vena Cava.jpg",
@@ -2458,10 +2458,10 @@ const QUIZ_DB = [
     "answer_ko": "위대정맥",
     "source": "Heart - 1",
     "quiz_id": "trunk-q154",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2020, 2016, 2015",
+    "recent_year": "2020",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Heart - 10_Ascending Aorta.jpg",
@@ -2474,10 +2474,10 @@ const QUIZ_DB = [
     "answer_ko": "오름대동맥",
     "source": "Heart - 10",
     "quiz_id": "trunk-q155",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2011, 1999",
+    "recent_year": "2011",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Heart - 10_Left Coronary Artery.jpg",
@@ -2490,10 +2490,10 @@ const QUIZ_DB = [
     "answer_ko": "왼관상동맥",
     "source": "Heart - 10",
     "quiz_id": "trunk-q156",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2019, 2015, 2012, 2010",
+    "recent_year": "2019",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Heart - 10_Great Cardiac Vein.jpg",
@@ -2506,10 +2506,10 @@ const QUIZ_DB = [
     "answer_ko": "큰심장정맥",
     "source": "Heart - 10",
     "quiz_id": "trunk-q157",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2000",
+    "recent_year": "2000",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Heart - 10_Left Marginal Artery.jpg",
@@ -2538,10 +2538,10 @@ const QUIZ_DB = [
     "answer_ko": "큰심장정맥",
     "source": "Heart - 10",
     "quiz_id": "trunk-q159",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2000",
+    "recent_year": "2000",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Heart - 11_Ascending Aorta.jpg",
@@ -2554,10 +2554,10 @@ const QUIZ_DB = [
     "answer_ko": "오름대동맥",
     "source": "Heart - 11",
     "quiz_id": "trunk-q160",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2011, 1999",
+    "recent_year": "2011",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Heart - 11_Superior Vena Cava.jpg",
@@ -2570,10 +2570,10 @@ const QUIZ_DB = [
     "answer_ko": "위대정맥",
     "source": "Heart - 11",
     "quiz_id": "trunk-q161",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2020, 2016, 2015",
+    "recent_year": "2020",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Heart - 11_Inferior Vena Cava.jpg",
@@ -2586,10 +2586,10 @@ const QUIZ_DB = [
     "answer_ko": "아래대정맥",
     "source": "Heart - 11",
     "quiz_id": "trunk-q162",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 8,
+    "exam_years": "2022, 2020, 2019, 2014, 2008, 2006, 1999, 1997",
+    "recent_year": "2022",
+    "exam_weight": 3.0
   },
   {
     "image_filename": "Heart - 11_Left Atrium.jpg",
@@ -2602,10 +2602,10 @@ const QUIZ_DB = [
     "answer_ko": "왼심방",
     "source": "Heart - 11",
     "quiz_id": "trunk-q163",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2003, 1997",
+    "recent_year": "2003",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Heart - 11_Left Pulmonary Vein.jpg",
@@ -2618,10 +2618,10 @@ const QUIZ_DB = [
     "answer_ko": "왼폐정맥",
     "source": "Heart - 11",
     "quiz_id": "trunk-q164",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 5,
+    "exam_years": "2022, 2008, 2005, 2000, 1997",
+    "recent_year": "2022",
+    "exam_weight": 2.449489742783178
   },
   {
     "image_filename": "Heart - 12_Pulmonary Trunk.jpg",
@@ -2634,10 +2634,10 @@ const QUIZ_DB = [
     "answer_ko": "폐동맥줄기",
     "source": "Heart - 12",
     "quiz_id": "trunk-q165",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "1997",
+    "recent_year": "1997",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Heart - 12_Ascending Aorta.jpg",
@@ -2650,10 +2650,10 @@ const QUIZ_DB = [
     "answer_ko": "오름대동맥",
     "source": "Heart - 12",
     "quiz_id": "trunk-q166",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2011, 1999",
+    "recent_year": "2011",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Heart - 12_Superior Vena Cava.jpg",
@@ -2666,10 +2666,10 @@ const QUIZ_DB = [
     "answer_ko": "위대정맥",
     "source": "Heart - 12",
     "quiz_id": "trunk-q167",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2020, 2016, 2015",
+    "recent_year": "2020",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Heart - 12_Right Atrium.jpg",
@@ -2682,10 +2682,10 @@ const QUIZ_DB = [
     "answer_ko": "오른심방",
     "source": "Heart - 12",
     "quiz_id": "trunk-q168",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2014, 2004, 1996",
+    "recent_year": "2014",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Heart - 12_Right Auricle.jpg",
@@ -2714,10 +2714,10 @@ const QUIZ_DB = [
     "answer_ko": "오름대동맥",
     "source": "Heart - 2",
     "quiz_id": "trunk-q170",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2011, 1999",
+    "recent_year": "2011",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Heart - 2_Great Cardiac Vein.jpg",
@@ -2730,10 +2730,10 @@ const QUIZ_DB = [
     "answer_ko": "큰심장정맥",
     "source": "Heart - 2",
     "quiz_id": "trunk-q171",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2000",
+    "recent_year": "2000",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Heart - 2_Left Coronary Artery.jpg",
@@ -2746,10 +2746,10 @@ const QUIZ_DB = [
     "answer_ko": "왼관상동맥",
     "source": "Heart - 2",
     "quiz_id": "trunk-q172",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2019, 2015, 2012, 2010",
+    "recent_year": "2019",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Heart - 2_Left Coronay Artery (Circumflex Branch).jpg",
@@ -2762,10 +2762,10 @@ const QUIZ_DB = [
     "answer_ko": "왼관상동맥(휘돌이가지)",
     "source": "Heart - 2",
     "quiz_id": "trunk-q173",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2005, 2003",
+    "recent_year": "2005",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Heart - 2_Left Marginal Artery.jpg",
@@ -2794,10 +2794,10 @@ const QUIZ_DB = [
     "answer_ko": "폐동맥줄기",
     "source": "Heart - 2",
     "quiz_id": "trunk-q175",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "1997",
+    "recent_year": "1997",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Heart - 3_Ascending Aorta.jpg",
@@ -2810,10 +2810,10 @@ const QUIZ_DB = [
     "answer_ko": "오름대동맥",
     "source": "Heart - 3",
     "quiz_id": "trunk-q176",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2011, 1999",
+    "recent_year": "2011",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Heart - 3_Right Atrium.jpg",
@@ -2826,10 +2826,10 @@ const QUIZ_DB = [
     "answer_ko": "오른심방",
     "source": "Heart - 3",
     "quiz_id": "trunk-q177",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2014, 2004, 1996",
+    "recent_year": "2014",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Heart - 3_Right Atrium (Auricle).jpg",
@@ -2842,10 +2842,10 @@ const QUIZ_DB = [
     "answer_ko": "오른심방(심방귀)",
     "source": "Heart - 3",
     "quiz_id": "trunk-q178",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2014, 2004, 1996",
+    "recent_year": "2014",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Heart - 3_Right Coronary Artery.jpg",
@@ -2858,10 +2858,10 @@ const QUIZ_DB = [
     "answer_ko": "오른관상동맥",
     "source": "Heart - 3",
     "quiz_id": "trunk-q179",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 6,
+    "exam_years": "2023, 2018, 2017, 2016, 2008, 2006",
+    "recent_year": "2023",
+    "exam_weight": 2.6457513110645907
   },
   {
     "image_filename": "Heart - 3_Superior Vena Cava.jpg",
@@ -2874,10 +2874,10 @@ const QUIZ_DB = [
     "answer_ko": "위대정맥",
     "source": "Heart - 3",
     "quiz_id": "trunk-q180",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2020, 2016, 2015",
+    "recent_year": "2020",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Heart - 4_Left Atrium.jpg",
@@ -2890,10 +2890,10 @@ const QUIZ_DB = [
     "answer_ko": "왼심방",
     "source": "Heart - 4",
     "quiz_id": "trunk-q181",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2003, 1997",
+    "recent_year": "2003",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Heart - 4_Pulmonary Vein.jpg",
@@ -2906,10 +2906,10 @@ const QUIZ_DB = [
     "answer_ko": "폐정맥",
     "source": "Heart - 4",
     "quiz_id": "trunk-q182",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 5,
+    "exam_years": "2022, 2008, 2005, 2000, 1997",
+    "recent_year": "2022",
+    "exam_weight": 2.449489742783178
   },
   {
     "image_filename": "Heart - 4_Pulmonary Vein.jpg",
@@ -2922,10 +2922,10 @@ const QUIZ_DB = [
     "answer_ko": "폐정맥",
     "source": "Heart - 4",
     "quiz_id": "trunk-q183",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 5,
+    "exam_years": "2022, 2008, 2005, 2000, 1997",
+    "recent_year": "2022",
+    "exam_weight": 2.449489742783178
   },
   {
     "image_filename": "Heart - 4_Pulmonary Vein.jpg",
@@ -2938,10 +2938,10 @@ const QUIZ_DB = [
     "answer_ko": "폐정맥",
     "source": "Heart - 4",
     "quiz_id": "trunk-q184",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 5,
+    "exam_years": "2022, 2008, 2005, 2000, 1997",
+    "recent_year": "2022",
+    "exam_weight": 2.449489742783178
   },
   {
     "image_filename": "Heart - 4_Right Coronary Artery.jpg",
@@ -2954,10 +2954,10 @@ const QUIZ_DB = [
     "answer_ko": "오른관상동맥",
     "source": "Heart - 4",
     "quiz_id": "trunk-q185",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 6,
+    "exam_years": "2023, 2018, 2017, 2016, 2008, 2006",
+    "recent_year": "2023",
+    "exam_weight": 2.6457513110645907
   },
   {
     "image_filename": "Heart - 5_Crista Terminalis.jpg",
@@ -2970,10 +2970,10 @@ const QUIZ_DB = [
     "answer_ko": "끝능선",
     "source": "Heart - 5",
     "quiz_id": "trunk-q186",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 5,
+    "exam_years": "2010, 2009, 2007, 2006, 2000",
+    "recent_year": "2010",
+    "exam_weight": 2.449489742783178
   },
   {
     "image_filename": "Heart - 5_Fossa Ovalis.jpg",
@@ -2986,10 +2986,10 @@ const QUIZ_DB = [
     "answer_ko": "타원오목",
     "source": "Heart - 5",
     "quiz_id": "trunk-q187",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 5,
+    "exam_years": "2014, 2008, 2005, 2003, 2002",
+    "recent_year": "2014",
+    "exam_weight": 2.449489742783178
   },
   {
     "image_filename": "Heart - 5_Inferior Vena Cava.jpg",
@@ -3002,10 +3002,10 @@ const QUIZ_DB = [
     "answer_ko": "아래대정맥",
     "source": "Heart - 5",
     "quiz_id": "trunk-q188",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 8,
+    "exam_years": "2022, 2020, 2019, 2014, 2008, 2006, 1999, 1997",
+    "recent_year": "2022",
+    "exam_weight": 3.0
   },
   {
     "image_filename": "Heart - 5_Pectinate Muscle.jpg",
@@ -3018,10 +3018,10 @@ const QUIZ_DB = [
     "answer_ko": "빗살근",
     "source": "Heart - 5",
     "quiz_id": "trunk-q189",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2013, 2010",
+    "recent_year": "2013",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Heart - 5_Superior Vena Cava.jpg",
@@ -3034,10 +3034,10 @@ const QUIZ_DB = [
     "answer_ko": "위대정맥",
     "source": "Heart - 5",
     "quiz_id": "trunk-q190",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2020, 2016, 2015",
+    "recent_year": "2020",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Heart - 6_Anterior Papillary Muscle.jpg",
@@ -3050,10 +3050,10 @@ const QUIZ_DB = [
     "answer_ko": "앞유두근",
     "source": "Heart - 6",
     "quiz_id": "trunk-q191",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 8,
+    "exam_years": "2022, 2011, 2008, 2006, 2005, 2000, 1997, 1996",
+    "recent_year": "2022",
+    "exam_weight": 3.0
   },
   {
     "image_filename": "Heart - 6_Tricuspid Valve (Anterior Cusp).jpg",
@@ -3066,10 +3066,10 @@ const QUIZ_DB = [
     "answer_ko": "삼첨판(앞엽)",
     "source": "Heart - 6",
     "quiz_id": "trunk-q192",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2006",
+    "recent_year": "2006",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Heart - 6_Tricuspid Valve (Orifice).jpg",
@@ -3082,10 +3082,10 @@ const QUIZ_DB = [
     "answer_ko": "삼첨판(구멍)",
     "source": "Heart - 6",
     "quiz_id": "trunk-q193",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2006",
+    "recent_year": "2006",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Heart - 6_Tricuspid Valve (Posterior Cusp).jpg",
@@ -3098,10 +3098,10 @@ const QUIZ_DB = [
     "answer_ko": "삼첨판(뒤엽)",
     "source": "Heart - 6",
     "quiz_id": "trunk-q194",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2006",
+    "recent_year": "2006",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Heart - 6_Tricuspid Valve (Septal Cusp).jpg",
@@ -3114,10 +3114,10 @@ const QUIZ_DB = [
     "answer_ko": "삼첨판(중격엽)",
     "source": "Heart - 6",
     "quiz_id": "trunk-q195",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2020, 2019",
+    "recent_year": "2020",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Heart - 7_Aortic Valve.jpg",
@@ -3130,10 +3130,10 @@ const QUIZ_DB = [
     "answer_ko": "대동맥판막",
     "source": "Heart - 7",
     "quiz_id": "trunk-q196",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2022, 2009, 2000",
+    "recent_year": "2022",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Heart - 7_Bicuspid Valve.jpg",
@@ -3178,10 +3178,10 @@ const QUIZ_DB = [
     "answer_ko": "유두근",
     "source": "Heart - 7",
     "quiz_id": "trunk-q199",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2023, 2016, 2012",
+    "recent_year": "2023",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Heart - 7_Tendinous Cords.jpg",
@@ -3210,10 +3210,10 @@ const QUIZ_DB = [
     "answer_ko": "오름대동맥",
     "source": "Heart - 8",
     "quiz_id": "trunk-q201",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2011, 1999",
+    "recent_year": "2011",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Heart - 8_Right Coronary Artery.jpg",
@@ -3226,10 +3226,10 @@ const QUIZ_DB = [
     "answer_ko": "오른관상동맥",
     "source": "Heart - 8",
     "quiz_id": "trunk-q202",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 6,
+    "exam_years": "2023, 2018, 2017, 2016, 2008, 2006",
+    "recent_year": "2023",
+    "exam_weight": 2.6457513110645907
   },
   {
     "image_filename": "Heart - 8_Right Marginal (Branch) Artery.jpg",
@@ -3242,10 +3242,10 @@ const QUIZ_DB = [
     "answer_ko": "오른모서리가지동맥",
     "source": "Heart - 8",
     "quiz_id": "trunk-q203",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2013",
+    "recent_year": "2013",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Heart - 9_Right Coronary Artery.jpg",
@@ -3258,10 +3258,10 @@ const QUIZ_DB = [
     "answer_ko": "오른관상동맥",
     "source": "Heart - 9",
     "quiz_id": "trunk-q204",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 6,
+    "exam_years": "2023, 2018, 2017, 2016, 2008, 2006",
+    "recent_year": "2023",
+    "exam_weight": 2.6457513110645907
   },
   {
     "image_filename": "Lungs - 2_Pulmonary Artery.jpg",
@@ -3274,10 +3274,10 @@ const QUIZ_DB = [
     "answer_ko": "폐동맥",
     "source": "Lungs - 2",
     "quiz_id": "trunk-q205",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2009, 2008, 1999",
+    "recent_year": "2009",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Lungs - 2_Pulmonary Vein.jpg",
@@ -3290,10 +3290,10 @@ const QUIZ_DB = [
     "answer_ko": "폐정맥",
     "source": "Lungs - 2",
     "quiz_id": "trunk-q206",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 5,
+    "exam_years": "2022, 2008, 2005, 2000, 1997",
+    "recent_year": "2022",
+    "exam_weight": 2.449489742783178
   },
   {
     "image_filename": "Lungs - 2_Pulmonary Veins.jpg",
@@ -3306,10 +3306,10 @@ const QUIZ_DB = [
     "answer_ko": "폐정맥",
     "source": "Lungs - 2",
     "quiz_id": "trunk-q207",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 5,
+    "exam_years": "2022, 2008, 2005, 2000, 1997",
+    "recent_year": "2022",
+    "exam_weight": 2.449489742783178
   },
   {
     "image_filename": "Lungs - 4_Bronchial Artery.jpg",
@@ -3338,10 +3338,10 @@ const QUIZ_DB = [
     "answer_ko": "폐동맥",
     "source": "Lungs - 4",
     "quiz_id": "trunk-q209",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2009, 2008, 1999",
+    "recent_year": "2009",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Lungs - 4_Pulmonary Vein.jpg",
@@ -3354,10 +3354,10 @@ const QUIZ_DB = [
     "answer_ko": "폐정맥",
     "source": "Lungs - 4",
     "quiz_id": "trunk-q210",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 5,
+    "exam_years": "2022, 2008, 2005, 2000, 1997",
+    "recent_year": "2022",
+    "exam_weight": 2.449489742783178
   },
   {
     "image_filename": "Lungs - 4_Pulmonary Vein.jpg",
@@ -3370,10 +3370,10 @@ const QUIZ_DB = [
     "answer_ko": "폐정맥",
     "source": "Lungs - 4",
     "quiz_id": "trunk-q211",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 5,
+    "exam_years": "2022, 2008, 2005, 2000, 1997",
+    "recent_year": "2022",
+    "exam_weight": 2.449489742783178
   },
   {
     "image_filename": "Lungs - 4_Right Main Bronchus.jpg",
@@ -3386,10 +3386,10 @@ const QUIZ_DB = [
     "answer_ko": "오른주기관지",
     "source": "Lungs - 4",
     "quiz_id": "trunk-q212",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2017",
+    "recent_year": "2017",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Lungs - 5_Trachea.jpg",
@@ -3402,10 +3402,10 @@ const QUIZ_DB = [
     "answer_ko": "기관",
     "source": "Lungs - 5",
     "quiz_id": "trunk-q213",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2012, 2007, 2002",
+    "recent_year": "2012",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Lungs - 5_Pulmonary Artery.jpg",
@@ -3418,10 +3418,10 @@ const QUIZ_DB = [
     "answer_ko": "폐동맥",
     "source": "Lungs - 5",
     "quiz_id": "trunk-q214",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2009, 2008, 1999",
+    "recent_year": "2009",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Lungs - 5_Left Principal Bronchus.jpg",
@@ -3434,10 +3434,10 @@ const QUIZ_DB = [
     "answer_ko": "왼주기관지",
     "source": "Lungs - 5",
     "quiz_id": "trunk-q215",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 7,
+    "exam_years": "2021, 2016, 2015, 2014, 2013, 2002",
+    "recent_year": "2021",
+    "exam_weight": 2.8284271247461903
   },
   {
     "image_filename": "Lungs - 5_Pulmonary Vein.jpg",
@@ -3450,10 +3450,10 @@ const QUIZ_DB = [
     "answer_ko": "폐정맥",
     "source": "Lungs - 5",
     "quiz_id": "trunk-q216",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 5,
+    "exam_years": "2022, 2008, 2005, 2000, 1997",
+    "recent_year": "2022",
+    "exam_weight": 2.449489742783178
   },
   {
     "image_filename": "Lungs - 5_Pulmonary Vein.jpg",
@@ -3466,10 +3466,10 @@ const QUIZ_DB = [
     "answer_ko": "폐정맥",
     "source": "Lungs - 5",
     "quiz_id": "trunk-q217",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 5,
+    "exam_years": "2022, 2008, 2005, 2000, 1997",
+    "recent_year": "2022",
+    "exam_weight": 2.449489742783178
   },
   {
     "image_filename": "Lungs - 5_Pulmonary Vein.jpg",
@@ -3482,10 +3482,10 @@ const QUIZ_DB = [
     "answer_ko": "폐정맥",
     "source": "Lungs - 5",
     "quiz_id": "trunk-q218",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 5,
+    "exam_years": "2022, 2008, 2005, 2000, 1997",
+    "recent_year": "2022",
+    "exam_weight": 2.449489742783178
   },
   {
     "image_filename": "Lungs - 5_Right Principal Bronchus.jpg",
@@ -3498,10 +3498,10 @@ const QUIZ_DB = [
     "answer_ko": "오른주기관지",
     "source": "Lungs - 5",
     "quiz_id": "trunk-q219",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2017",
+    "recent_year": "2017",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Lungs - 5_Pulmonary Artery.jpg",
@@ -3514,10 +3514,10 @@ const QUIZ_DB = [
     "answer_ko": "폐동맥",
     "source": "Lungs - 5",
     "quiz_id": "trunk-q220",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2009, 2008, 1999",
+    "recent_year": "2009",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Lungs - 6_Pulmonary Artery.jpg",
@@ -3530,10 +3530,10 @@ const QUIZ_DB = [
     "answer_ko": "폐동맥",
     "source": "Lungs - 6",
     "quiz_id": "trunk-q221",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2009, 2008, 1999",
+    "recent_year": "2009",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Male Anal Triangle - 1_Internal Pudendal Artery.jpg",
@@ -3546,10 +3546,10 @@ const QUIZ_DB = [
     "answer_ko": "속음부동맥",
     "source": "Male Anal Triangle - 1",
     "quiz_id": "trunk-q222",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 13,
+    "exam_years": "2022, 2017, 2016, 2015, 2012, 2011, 2009, 2006, 2005, 2003, 1999, 1997, 1996",
+    "recent_year": "2022",
+    "exam_weight": 3.7416573867739413
   },
   {
     "image_filename": "Male Anal Triangle - 2_External Anal Sphincter.jpg",
@@ -3562,10 +3562,10 @@ const QUIZ_DB = [
     "answer_ko": "바깥항문조임근",
     "source": "Male Anal Triangle - 2",
     "quiz_id": "trunk-q223",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2022, 2021, 2005",
+    "recent_year": "2022",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Male Anal Triangle - 2_Internal Pudendal Artery.jpg",
@@ -3578,10 +3578,10 @@ const QUIZ_DB = [
     "answer_ko": "속음부동맥",
     "source": "Male Anal Triangle - 2",
     "quiz_id": "trunk-q224",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 13,
+    "exam_years": "2022, 2017, 2016, 2015, 2012, 2011, 2009, 2006, 2005, 2003, 1999, 1997, 1996",
+    "recent_year": "2022",
+    "exam_weight": 3.7416573867739413
   },
   {
     "image_filename": "Male Anal Triangle - 3_Internal Pudendal Artery.jpg",
@@ -3594,10 +3594,10 @@ const QUIZ_DB = [
     "answer_ko": "속음부동맥",
     "source": "Male Anal Triangle - 3",
     "quiz_id": "trunk-q225",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 13,
+    "exam_years": "2022, 2017, 2016, 2015, 2012, 2011, 2009, 2006, 2005, 2003, 1999, 1997, 1996",
+    "recent_year": "2022",
+    "exam_weight": 3.7416573867739413
   },
   {
     "image_filename": "Male Anal Triangle - 3_Inferior Rectal Nerve.jpg",
@@ -3610,10 +3610,10 @@ const QUIZ_DB = [
     "answer_ko": "아래곧창자신경",
     "source": "Male Anal Triangle - 3",
     "quiz_id": "trunk-q226",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2021",
+    "recent_year": "2021",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Male Pelvis - 1_Bladder.jpg",
@@ -3626,10 +3626,10 @@ const QUIZ_DB = [
     "answer_ko": "방광",
     "source": "Male Pelvis - 1",
     "quiz_id": "trunk-q227",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2018, 2015",
+    "recent_year": "2018",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Male Pelvis - 1_Ductus Deferens.jpg",
@@ -3642,10 +3642,10 @@ const QUIZ_DB = [
     "answer_ko": "정관",
     "source": "Male Pelvis - 1",
     "quiz_id": "trunk-q228",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 12,
+    "exam_years": "2025, 2022, 2021, 2018, 2017, 2016, 2014, 2013, 2012, 2010, 2006, 2004",
+    "recent_year": "2025",
+    "exam_weight": 3.605551275463989
   },
   {
     "image_filename": "Male Pelvis - 1_Dudctus Deferens (Ampulla).jpg",
@@ -3658,10 +3658,10 @@ const QUIZ_DB = [
     "answer_ko": "정관(팽대)",
     "source": "Male Pelvis - 1",
     "quiz_id": "trunk-q229",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2009",
+    "recent_year": "2009",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Male Pelvis - 1_Prostate.jpg",
@@ -3674,10 +3674,10 @@ const QUIZ_DB = [
     "answer_ko": "전립선",
     "source": "Male Pelvis - 1",
     "quiz_id": "trunk-q230",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 8,
+    "exam_years": "2025, 2006, 2005, 2004, 2003, 2002, 1997",
+    "recent_year": "2025",
+    "exam_weight": 3.0
   },
   {
     "image_filename": "Male Pelvis - 1_Seminal Vesicle.jpg",
@@ -3690,10 +3690,10 @@ const QUIZ_DB = [
     "answer_ko": "정낭",
     "source": "Male Pelvis - 1",
     "quiz_id": "trunk-q231",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 17,
+    "exam_years": "2023, 2022, 2021, 2019, 2018, 2017, 2016, 2015, 2013, 2011, 2009, 2005, 2002, 2000, 1999, 1996",
+    "recent_year": "2023",
+    "exam_weight": 4.242640687119285
   },
   {
     "image_filename": "Male Pelvis - 1_Ureter.jpg",
@@ -3706,10 +3706,10 @@ const QUIZ_DB = [
     "answer_ko": "요관",
     "source": "Male Pelvis - 1",
     "quiz_id": "trunk-q232",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 11,
+    "exam_years": "2020, 2018, 2016, 2010, 2009, 2007, 2006, 2005, 2004, 2000, 1996",
+    "recent_year": "2020",
+    "exam_weight": 3.4641016151377544
   },
   {
     "image_filename": "Male Pelvis - 3_Common Iliac Artery.jpg",
@@ -3722,10 +3722,10 @@ const QUIZ_DB = [
     "answer_ko": "총장골동맥",
     "source": "Male Pelvis - 3",
     "quiz_id": "trunk-q233",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2018, 2008, 2002",
+    "recent_year": "2018",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Male Pelvis - 3_Iliolumbar Artery.jpg",
@@ -3738,10 +3738,10 @@ const QUIZ_DB = [
     "answer_ko": "엉덩허리동맥",
     "source": "Male Pelvis - 3",
     "quiz_id": "trunk-q234",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2010",
+    "recent_year": "2010",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Male Pelvis - 3_Inferior Gluteal Artery.jpg",
@@ -3754,10 +3754,10 @@ const QUIZ_DB = [
     "answer_ko": "아래볼기동맥",
     "source": "Male Pelvis - 3",
     "quiz_id": "trunk-q235",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2016, 2014",
+    "recent_year": "2016",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Male Pelvis - 3_Internal Pudendal Artery.jpg",
@@ -3770,10 +3770,10 @@ const QUIZ_DB = [
     "answer_ko": "속음부동맥",
     "source": "Male Pelvis - 3",
     "quiz_id": "trunk-q236",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 13,
+    "exam_years": "2022, 2017, 2016, 2015, 2012, 2011, 2009, 2006, 2005, 2003, 1999, 1997, 1996",
+    "recent_year": "2022",
+    "exam_weight": 3.7416573867739413
   },
   {
     "image_filename": "Male Pelvis - 3_Lateral Sacral Artery.jpg",
@@ -3786,10 +3786,10 @@ const QUIZ_DB = [
     "answer_ko": "가쪽천골동맥",
     "source": "Male Pelvis - 3",
     "quiz_id": "trunk-q237",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2012",
+    "recent_year": "2012",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Male Pelvis - 3_Lateral Sacral Artery.jpg",
@@ -3802,10 +3802,10 @@ const QUIZ_DB = [
     "answer_ko": "가쪽천골동맥",
     "source": "Male Pelvis - 3",
     "quiz_id": "trunk-q238",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2012",
+    "recent_year": "2012",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Male Pelvis - 3_Obturator Nerve.jpg",
@@ -3818,10 +3818,10 @@ const QUIZ_DB = [
     "answer_ko": "폐쇄신경",
     "source": "Male Pelvis - 3",
     "quiz_id": "trunk-q239",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 19,
+    "exam_years": "2025, 2022, 2019, 2016, 2015, 2014, 2012, 2011, 2010, 2009, 2007, 2006, 2005, 2004, 2003, 2000, 1999, 1997, 1996",
+    "recent_year": "2025",
+    "exam_weight": 4.47213595499958
   },
   {
     "image_filename": "Male Pelvis - 3_Superior Gluteal Artery.jpg",
@@ -3834,10 +3834,10 @@ const QUIZ_DB = [
     "answer_ko": "위볼기동맥",
     "source": "Male Pelvis - 3",
     "quiz_id": "trunk-q240",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 7,
+    "exam_years": "2025, 2023, 2022, 2021, 2019, 2013, 1999",
+    "recent_year": "2025",
+    "exam_weight": 2.8284271247461903
   },
   {
     "image_filename": "Male Pelvis - 4_Obturator Nerve.jpg",
@@ -3850,10 +3850,10 @@ const QUIZ_DB = [
     "answer_ko": "폐쇄신경",
     "source": "Male Pelvis - 4",
     "quiz_id": "trunk-q241",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 19,
+    "exam_years": "2025, 2022, 2019, 2016, 2015, 2014, 2012, 2011, 2010, 2009, 2007, 2006, 2005, 2004, 2003, 2000, 1999, 1997, 1996",
+    "recent_year": "2025",
+    "exam_weight": 4.47213595499958
   },
   {
     "image_filename": "Male Pelvis - 4_Sympathetic Trunk.jpg",
@@ -3866,10 +3866,10 @@ const QUIZ_DB = [
     "answer_ko": "교감신경줄기",
     "source": "Male Pelvis - 4",
     "quiz_id": "trunk-q242",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 8,
+    "exam_years": "2020, 2014, 2012, 2009, 2005, 2000, 1997, 1996",
+    "recent_year": "2020",
+    "exam_weight": 3.0
   },
   {
     "image_filename": "Male Pelvis - 5_Bladder (trigone).jpg",
@@ -3882,10 +3882,10 @@ const QUIZ_DB = [
     "answer_ko": "방광(방광삼각)",
     "source": "Male Pelvis - 5",
     "quiz_id": "trunk-q243",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2011, 1997",
+    "recent_year": "2011",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Male Pelvis - 5_Ductus Deferens.jpg",
@@ -3898,10 +3898,10 @@ const QUIZ_DB = [
     "answer_ko": "정관",
     "source": "Male Pelvis - 5",
     "quiz_id": "trunk-q244",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 12,
+    "exam_years": "2025, 2022, 2021, 2018, 2017, 2016, 2014, 2013, 2012, 2010, 2006, 2004",
+    "recent_year": "2025",
+    "exam_weight": 3.605551275463989
   },
   {
     "image_filename": "Male Pelvis - 5_Ductus Deferens (ampulla).jpg",
@@ -3914,10 +3914,10 @@ const QUIZ_DB = [
     "answer_ko": "정관(팽대)",
     "source": "Male Pelvis - 5",
     "quiz_id": "trunk-q245",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2009",
+    "recent_year": "2009",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Male Pelvis - 5_Seminal Vesicle.jpg",
@@ -3930,10 +3930,10 @@ const QUIZ_DB = [
     "answer_ko": "정낭",
     "source": "Male Pelvis - 5",
     "quiz_id": "trunk-q246",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 17,
+    "exam_years": "2023, 2022, 2021, 2019, 2018, 2017, 2016, 2015, 2013, 2011, 2009, 2005, 2002, 2000, 1999, 1996",
+    "recent_year": "2023",
+    "exam_weight": 4.242640687119285
   },
   {
     "image_filename": "Male Pelvis - 5_Urethra.jpg",
@@ -3946,10 +3946,10 @@ const QUIZ_DB = [
     "answer_ko": "요도",
     "source": "Male Pelvis - 5",
     "quiz_id": "trunk-q247",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2008",
+    "recent_year": "2008",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Male Pelvis - 5_Right Ureter.jpg",
@@ -3962,10 +3962,10 @@ const QUIZ_DB = [
     "answer_ko": "오른요관",
     "source": "Male Pelvis - 5",
     "quiz_id": "trunk-q248",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 11,
+    "exam_years": "2020, 2018, 2016, 2010, 2009, 2007, 2006, 2005, 2004, 2000, 1996",
+    "recent_year": "2020",
+    "exam_weight": 3.4641016151377544
   },
   {
     "image_filename": "Male Perineum - 1_Ductus Deferens.jpg",
@@ -3978,10 +3978,10 @@ const QUIZ_DB = [
     "answer_ko": "정관",
     "source": "Male Perineum - 1",
     "quiz_id": "trunk-q249",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 12,
+    "exam_years": "2025, 2022, 2021, 2018, 2017, 2016, 2014, 2013, 2012, 2010, 2006, 2004",
+    "recent_year": "2025",
+    "exam_weight": 3.605551275463989
   },
   {
     "image_filename": "Male Perineum - 1_Epididymis (Body).jpg",
@@ -3994,10 +3994,10 @@ const QUIZ_DB = [
     "answer_ko": "부고환(몸통)",
     "source": "Male Perineum - 1",
     "quiz_id": "trunk-q250",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 11,
+    "exam_years": "2020, 2018, 2017, 2015, 2014, 2013, 2009, 2005, 2002, 1999, 1997",
+    "recent_year": "2020",
+    "exam_weight": 3.4641016151377544
   },
   {
     "image_filename": "Male Perineum - 1_Epididymis (Head).jpg",
@@ -4010,10 +4010,10 @@ const QUIZ_DB = [
     "answer_ko": "부고환(머리)",
     "source": "Male Perineum - 1",
     "quiz_id": "trunk-q251",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2023, 2003",
+    "recent_year": "2023",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Male Perineum - 1_Epididymis (Tail).jpg",
@@ -4026,10 +4026,10 @@ const QUIZ_DB = [
     "answer_ko": "부고환(꼬리)",
     "source": "Male Perineum - 1",
     "quiz_id": "trunk-q252",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 11,
+    "exam_years": "2020, 2018, 2017, 2015, 2014, 2013, 2009, 2005, 2002, 1999, 1997",
+    "recent_year": "2020",
+    "exam_weight": 3.4641016151377544
   },
   {
     "image_filename": "Male Perineum - 1_Testis.jpg",
@@ -4042,10 +4042,10 @@ const QUIZ_DB = [
     "answer_ko": "고환",
     "source": "Male Perineum - 1",
     "quiz_id": "trunk-q253",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2007",
+    "recent_year": "2007",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Male Perineum - 3_Bulb of Penis.jpg",
@@ -4058,10 +4058,10 @@ const QUIZ_DB = [
     "answer_ko": "음경망울",
     "source": "Male Perineum - 3",
     "quiz_id": "trunk-q254",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2010, 2008, 2006",
+    "recent_year": "2010",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Male Perineum - 3_Corpus Cavernosum.jpg",
@@ -4074,10 +4074,10 @@ const QUIZ_DB = [
     "answer_ko": "음경해면체",
     "source": "Male Perineum - 3",
     "quiz_id": "trunk-q255",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 8,
+    "exam_years": "2021, 2018, 2015, 2011, 2005, 2002, 2000, 1996",
+    "recent_year": "2021",
+    "exam_weight": 3.0
   },
   {
     "image_filename": "Male Perineum - 3_Corpus Spongiosum.jpg",
@@ -4090,10 +4090,10 @@ const QUIZ_DB = [
     "answer_ko": "요도해면체",
     "source": "Male Perineum - 3",
     "quiz_id": "trunk-q256",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 8,
+    "exam_years": "2025, 2023, 2022, 2019, 2017, 2012, 2000, 1999",
+    "recent_year": "2025",
+    "exam_weight": 3.0
   },
   {
     "image_filename": "Male Perineum - 4_Corpus Cavernosum.jpg",
@@ -4106,10 +4106,10 @@ const QUIZ_DB = [
     "answer_ko": "음경해면체",
     "source": "Male Perineum - 4",
     "quiz_id": "trunk-q257",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 8,
+    "exam_years": "2021, 2018, 2015, 2011, 2005, 2002, 2000, 1996",
+    "recent_year": "2021",
+    "exam_weight": 3.0
   },
   {
     "image_filename": "Male Perineum - 4_Corpus Spongiosum.jpg",
@@ -4122,10 +4122,10 @@ const QUIZ_DB = [
     "answer_ko": "요도해면체",
     "source": "Male Perineum - 4",
     "quiz_id": "trunk-q258",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 8,
+    "exam_years": "2025, 2023, 2022, 2019, 2017, 2012, 2000, 1999",
+    "recent_year": "2025",
+    "exam_weight": 3.0
   },
   {
     "image_filename": "Male Perineum - 4_Spongy Urethra.jpg",
@@ -4138,10 +4138,10 @@ const QUIZ_DB = [
     "answer_ko": "해면부요도",
     "source": "Male Perineum - 4",
     "quiz_id": "trunk-q259",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2009",
+    "recent_year": "2009",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Male Perineum - 6_Bulb of Penis.jpg",
@@ -4154,10 +4154,10 @@ const QUIZ_DB = [
     "answer_ko": "음경망울",
     "source": "Male Perineum - 6",
     "quiz_id": "trunk-q260",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2010, 2008, 2006",
+    "recent_year": "2010",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Male Perineum - 6_Bulbospongiosus Muscle (reflected).jpg",
@@ -4170,10 +4170,10 @@ const QUIZ_DB = [
     "answer_ko": "망울해면체근(뒤침)",
     "source": "Male Perineum - 6",
     "quiz_id": "trunk-q261",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2019, 2016, 2006",
+    "recent_year": "2019",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Male Perineum - 6_Ischiocavernosus Muscle.jpg",
@@ -4186,10 +4186,10 @@ const QUIZ_DB = [
     "answer_ko": "궁둥해면체근",
     "source": "Male Perineum - 6",
     "quiz_id": "trunk-q262",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2014",
+    "recent_year": "2014",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Male Perineum - 7_Anus.jpg",
@@ -4202,10 +4202,10 @@ const QUIZ_DB = [
     "answer_ko": "항문",
     "source": "Male Perineum - 7",
     "quiz_id": "trunk-q263",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2009",
+    "recent_year": "2009",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Male Perineum - 7_Inferior Rectal Nerve.jpg",
@@ -4218,10 +4218,10 @@ const QUIZ_DB = [
     "answer_ko": "아래곧창자신경",
     "source": "Male Perineum - 7",
     "quiz_id": "trunk-q264",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2021",
+    "recent_year": "2021",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Male Perineum - 7_Internal Pudendal Artery.jpg",
@@ -4234,10 +4234,10 @@ const QUIZ_DB = [
     "answer_ko": "속음부동맥",
     "source": "Male Perineum - 7",
     "quiz_id": "trunk-q265",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 13,
+    "exam_years": "2022, 2017, 2016, 2015, 2012, 2011, 2009, 2006, 2005, 2003, 1999, 1997, 1996",
+    "recent_year": "2022",
+    "exam_weight": 3.7416573867739413
   },
   {
     "image_filename": "Male Perineum - 8_Anus.jpg",
@@ -4250,10 +4250,10 @@ const QUIZ_DB = [
     "answer_ko": "항문",
     "source": "Male Perineum - 8",
     "quiz_id": "trunk-q266",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2009",
+    "recent_year": "2009",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Male Perineum - 8_External Anal Sphincter.jpg",
@@ -4266,10 +4266,10 @@ const QUIZ_DB = [
     "answer_ko": "바깥항문조임근",
     "source": "Male Perineum - 8",
     "quiz_id": "trunk-q267",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2022, 2021, 2005",
+    "recent_year": "2022",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Male Perineum - 9_Ischiocavernosus Muscle.jpg",
@@ -4282,10 +4282,10 @@ const QUIZ_DB = [
     "answer_ko": "궁둥해면체근",
     "source": "Male Perineum - 9",
     "quiz_id": "trunk-q268",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2014",
+    "recent_year": "2014",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Male Perineum - 9_Bulbospongiosus Muscle.jpg",
@@ -4298,10 +4298,10 @@ const QUIZ_DB = [
     "answer_ko": "망울해면체근",
     "source": "Male Perineum - 9",
     "quiz_id": "trunk-q269",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2019, 2016, 2006",
+    "recent_year": "2019",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Mediastinum - 1_Ascending Aorta.jpg",
@@ -4314,10 +4314,10 @@ const QUIZ_DB = [
     "answer_ko": "오름대동맥",
     "source": "Mediastinum - 1",
     "quiz_id": "trunk-q270",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2011, 1999",
+    "recent_year": "2011",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Mediastinum - 1_Left Brachiocephalic Vein.jpg",
@@ -4346,10 +4346,10 @@ const QUIZ_DB = [
     "answer_ko": "왼총목동맥",
     "source": "Mediastinum - 1",
     "quiz_id": "trunk-q272",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2013, 2003, 1999",
+    "recent_year": "2013",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Mediastinum - 1_Left Phrenic Nerve.jpg",
@@ -4362,10 +4362,10 @@ const QUIZ_DB = [
     "answer_ko": "왼가로막신경",
     "source": "Mediastinum - 1",
     "quiz_id": "trunk-q273",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 14,
+    "exam_years": "2022, 2021, 2020, 2019, 2017, 2016, 2014, 2013, 2012, 2010, 2009, 2007, 1999, 1996",
+    "recent_year": "2022",
+    "exam_weight": 3.872983346207417
   },
   {
     "image_filename": "Mediastinum - 1_Left Subclavian Artery.jpg",
@@ -4394,10 +4394,10 @@ const QUIZ_DB = [
     "answer_ko": "왼미주신경",
     "source": "Mediastinum - 1",
     "quiz_id": "trunk-q275",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2015",
+    "recent_year": "2015",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Mediastinum - 1_Right Brachiocephalic Vein.jpg",
@@ -4426,10 +4426,10 @@ const QUIZ_DB = [
     "answer_ko": "위대정맥",
     "source": "Mediastinum - 1",
     "quiz_id": "trunk-q277",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2020, 2016, 2015",
+    "recent_year": "2020",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Mediastinum - 2_Aortic Arch.jpg",
@@ -4442,10 +4442,10 @@ const QUIZ_DB = [
     "answer_ko": "대동맥활",
     "source": "Mediastinum - 2",
     "quiz_id": "trunk-q278",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2012, 2006",
+    "recent_year": "2012",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Mediastinum - 2_Phrenic Nerve.jpg",
@@ -4458,10 +4458,10 @@ const QUIZ_DB = [
     "answer_ko": "가로막신경",
     "source": "Mediastinum - 2",
     "quiz_id": "trunk-q279",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 14,
+    "exam_years": "2022, 2021, 2020, 2019, 2017, 2016, 2014, 2013, 2012, 2010, 2009, 2007, 1999, 1996",
+    "recent_year": "2022",
+    "exam_weight": 3.872983346207417
   },
   {
     "image_filename": "Mediastinum - 2_Descending Aorta.jpg",
@@ -4474,10 +4474,10 @@ const QUIZ_DB = [
     "answer_ko": "내림대동맥",
     "source": "Mediastinum - 2",
     "quiz_id": "trunk-q280",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2021",
+    "recent_year": "2021",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Mediastinum - 2_Left Brachiocephalic Vein.jpg",
@@ -4506,10 +4506,10 @@ const QUIZ_DB = [
     "answer_ko": "왼되돌이후두신경",
     "source": "Mediastinum - 2",
     "quiz_id": "trunk-q282",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 12,
+    "exam_years": "2025, 2023, 2022, 2020, 2019, 2018, 2016, 2015, 2014, 2009, 2003, 1999",
+    "recent_year": "2025",
+    "exam_weight": 3.605551275463989
   },
   {
     "image_filename": "Mediastinum - 2_Left Vagus Nerve.jpg",
@@ -4522,10 +4522,10 @@ const QUIZ_DB = [
     "answer_ko": "왼미주신경",
     "source": "Mediastinum - 2",
     "quiz_id": "trunk-q283",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2015",
+    "recent_year": "2015",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Mediastinum - 2_Ligamentum Arteriosum.jpg",
@@ -4538,10 +4538,10 @@ const QUIZ_DB = [
     "answer_ko": "동맥관인대",
     "source": "Mediastinum - 2",
     "quiz_id": "trunk-q284",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2016, 2003",
+    "recent_year": "2016",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Mediastinum - 2_Pulmonary Trunk.jpg",
@@ -4554,10 +4554,10 @@ const QUIZ_DB = [
     "answer_ko": "폐동맥줄기",
     "source": "Mediastinum - 2",
     "quiz_id": "trunk-q285",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "1997",
+    "recent_year": "1997",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Mediastinum - 3_Azygos Vein.jpg",
@@ -4570,10 +4570,10 @@ const QUIZ_DB = [
     "answer_ko": "홀정맥",
     "source": "Mediastinum - 3",
     "quiz_id": "trunk-q286",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 13,
+    "exam_years": "2023, 2018, 2015, 2013, 2012, 2011, 2010, 2009, 2007, 2005, 2003, 2000, 1996",
+    "recent_year": "2023",
+    "exam_weight": 3.7416573867739413
   },
   {
     "image_filename": "Mediastinum - 3_Esophagus.jpg",
@@ -4586,10 +4586,10 @@ const QUIZ_DB = [
     "answer_ko": "식도",
     "source": "Mediastinum - 3",
     "quiz_id": "trunk-q287",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 14,
+    "exam_years": "2023, 2019, 2018, 2017, 2014, 2009, 2007, 2006, 2005, 2003, 2002, 2000, 1997",
+    "recent_year": "2023",
+    "exam_weight": 3.872983346207417
   },
   {
     "image_filename": "Mediastinum - 3_Greater Splanchnic Nerve.jpg",
@@ -4602,10 +4602,10 @@ const QUIZ_DB = [
     "answer_ko": "큰내장신경",
     "source": "Mediastinum - 3",
     "quiz_id": "trunk-q288",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2025, 2019, 2006",
+    "recent_year": "2025",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Mediastinum - 3_Intercostal Nerve.jpg",
@@ -4618,10 +4618,10 @@ const QUIZ_DB = [
     "answer_ko": "갈비사이신경",
     "source": "Mediastinum - 3",
     "quiz_id": "trunk-q289",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2015, 2014, 2009",
+    "recent_year": "2015",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Mediastinum - 3_Right Phrenic Nerve.jpg",
@@ -4634,10 +4634,10 @@ const QUIZ_DB = [
     "answer_ko": "오른가로막신경",
     "source": "Mediastinum - 3",
     "quiz_id": "trunk-q290",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 14,
+    "exam_years": "2022, 2021, 2020, 2019, 2017, 2016, 2014, 2013, 2012, 2010, 2009, 2007, 1999, 1996",
+    "recent_year": "2022",
+    "exam_weight": 3.872983346207417
   },
   {
     "image_filename": "Mediastinum - 3_Sympathetic Chain.jpg",
@@ -4650,10 +4650,10 @@ const QUIZ_DB = [
     "answer_ko": "교감신경줄기",
     "source": "Mediastinum - 3",
     "quiz_id": "trunk-q291",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 8,
+    "exam_years": "2020, 2014, 2012, 2009, 2005, 2000, 1997, 1996",
+    "recent_year": "2020",
+    "exam_weight": 3.0
   },
   {
     "image_filename": "Mediastinum - 3_Thoracic Duct.jpg",
@@ -4666,10 +4666,10 @@ const QUIZ_DB = [
     "answer_ko": "가슴관",
     "source": "Mediastinum - 3",
     "quiz_id": "trunk-q292",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2016",
+    "recent_year": "2016",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Mediastinum - 4_Azygos Vein.jpg",
@@ -4682,10 +4682,10 @@ const QUIZ_DB = [
     "answer_ko": "홀정맥",
     "source": "Mediastinum - 4",
     "quiz_id": "trunk-q293",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 13,
+    "exam_years": "2023, 2018, 2015, 2013, 2012, 2011, 2010, 2009, 2007, 2005, 2003, 2000, 1996",
+    "recent_year": "2023",
+    "exam_weight": 3.7416573867739413
   },
   {
     "image_filename": "Mediastinum - 4_Azygos Vein (Arch).jpg",
@@ -4698,10 +4698,10 @@ const QUIZ_DB = [
     "answer_ko": "홀정맥(활)",
     "source": "Mediastinum - 4",
     "quiz_id": "trunk-q294",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 13,
+    "exam_years": "2023, 2018, 2015, 2013, 2012, 2011, 2010, 2009, 2007, 2005, 2003, 2000, 1996",
+    "recent_year": "2023",
+    "exam_weight": 3.7416573867739413
   },
   {
     "image_filename": "Mediastinum - 4_Esophagus.jpg",
@@ -4714,10 +4714,10 @@ const QUIZ_DB = [
     "answer_ko": "식도",
     "source": "Mediastinum - 4",
     "quiz_id": "trunk-q295",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 14,
+    "exam_years": "2023, 2019, 2018, 2017, 2014, 2009, 2007, 2006, 2005, 2003, 2002, 2000, 1997",
+    "recent_year": "2023",
+    "exam_weight": 3.872983346207417
   },
   {
     "image_filename": "Mediastinum - 4_Phrenic Nerve.jpg",
@@ -4730,10 +4730,10 @@ const QUIZ_DB = [
     "answer_ko": "가로막신경",
     "source": "Mediastinum - 4",
     "quiz_id": "trunk-q296",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 14,
+    "exam_years": "2022, 2021, 2020, 2019, 2017, 2016, 2014, 2013, 2012, 2010, 2009, 2007, 1999, 1996",
+    "recent_year": "2022",
+    "exam_weight": 3.872983346207417
   },
   {
     "image_filename": "Mediastinum - 4_Right Main Bronchus.jpg",
@@ -4746,10 +4746,10 @@ const QUIZ_DB = [
     "answer_ko": "오른주기관지",
     "source": "Mediastinum - 4",
     "quiz_id": "trunk-q297",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2017",
+    "recent_year": "2017",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Mediastinum - 4_Right Pulmonary Artery.jpg",
@@ -4778,10 +4778,10 @@ const QUIZ_DB = [
     "answer_ko": "오른폐정맥",
     "source": "Mediastinum - 4",
     "quiz_id": "trunk-q299",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2014, 2012",
+    "recent_year": "2014",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Mediastinum - 4_Right Pulmonary Vein.jpg",
@@ -4794,10 +4794,10 @@ const QUIZ_DB = [
     "answer_ko": "오른폐정맥",
     "source": "Mediastinum - 4",
     "quiz_id": "trunk-q300",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2014, 2012",
+    "recent_year": "2014",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Mediastinum - 4_Superior Vena Cava.jpg",
@@ -4810,10 +4810,10 @@ const QUIZ_DB = [
     "answer_ko": "위대정맥",
     "source": "Mediastinum - 4",
     "quiz_id": "trunk-q301",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2020, 2016, 2015",
+    "recent_year": "2020",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Mediastinum - 4_Vagus Nerve.jpg",
@@ -4826,10 +4826,10 @@ const QUIZ_DB = [
     "answer_ko": "미주신경",
     "source": "Mediastinum - 4",
     "quiz_id": "trunk-q302",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2015, 2012, 2002, 1997",
+    "recent_year": "2015",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Mediastinum - 4_Vagus Nerve.jpg",
@@ -4842,10 +4842,10 @@ const QUIZ_DB = [
     "answer_ko": "미주신경",
     "source": "Mediastinum - 4",
     "quiz_id": "trunk-q303",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2015, 2012, 2002, 1997",
+    "recent_year": "2015",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Mediastinum - 5_Right Phrenic Nerve.jpg",
@@ -4858,10 +4858,10 @@ const QUIZ_DB = [
     "answer_ko": "오른가로막신경",
     "source": "Mediastinum - 5",
     "quiz_id": "trunk-q304",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 14,
+    "exam_years": "2022, 2021, 2020, 2019, 2017, 2016, 2014, 2013, 2012, 2010, 2009, 2007, 1999, 1996",
+    "recent_year": "2022",
+    "exam_weight": 3.872983346207417
   },
   {
     "image_filename": "Mediastinum - 5_Right Brachiocephalic Vein.jpg",
@@ -4890,10 +4890,10 @@ const QUIZ_DB = [
     "answer_ko": "팔머리동맥",
     "source": "Mediastinum - 5",
     "quiz_id": "trunk-q306",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2012, 2002, 1999",
+    "recent_year": "2012",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Mediastinum - 5_Left Brachiocephalic Vein.jpg",
@@ -4922,10 +4922,10 @@ const QUIZ_DB = [
     "answer_ko": "위대정맥",
     "source": "Mediastinum - 5",
     "quiz_id": "trunk-q308",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2020, 2016, 2015",
+    "recent_year": "2020",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Mediastinum - 5_Aortic Arch.jpg",
@@ -4938,10 +4938,10 @@ const QUIZ_DB = [
     "answer_ko": "대동맥활",
     "source": "Mediastinum - 5",
     "quiz_id": "trunk-q309",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2012, 2006",
+    "recent_year": "2012",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Mediastinum - 5_Left Common Carotid Artery.jpg",
@@ -4954,10 +4954,10 @@ const QUIZ_DB = [
     "answer_ko": "왼총목동맥",
     "source": "Mediastinum - 5",
     "quiz_id": "trunk-q310",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2013, 2003, 1999",
+    "recent_year": "2013",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Mediastinum - 5_Left Vagus Nerve.jpg",
@@ -4970,10 +4970,10 @@ const QUIZ_DB = [
     "answer_ko": "왼미주신경",
     "source": "Mediastinum - 5",
     "quiz_id": "trunk-q311",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2015",
+    "recent_year": "2015",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Mediastinum - 5_Left Subclavian Artery.jpg",
@@ -5002,10 +5002,10 @@ const QUIZ_DB = [
     "answer_ko": "왼가로막신경",
     "source": "Mediastinum - 5",
     "quiz_id": "trunk-q313",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 14,
+    "exam_years": "2022, 2021, 2020, 2019, 2017, 2016, 2014, 2013, 2012, 2010, 2009, 2007, 1999, 1996",
+    "recent_year": "2022",
+    "exam_weight": 3.872983346207417
   },
   {
     "image_filename": "Mediastinum - 5_Pulmonary Trunk.jpg",
@@ -5018,10 +5018,10 @@ const QUIZ_DB = [
     "answer_ko": "폐동맥줄기",
     "source": "Mediastinum - 5",
     "quiz_id": "trunk-q314",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "1997",
+    "recent_year": "1997",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Mediastinum - 6_Right Vagus Nerve.jpg",
@@ -5050,10 +5050,10 @@ const QUIZ_DB = [
     "answer_ko": "위대정맥",
     "source": "Mediastinum - 6",
     "quiz_id": "trunk-q316",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2020, 2016, 2015",
+    "recent_year": "2020",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Mediastinum - 6_Azygos Vein (Arch).jpg",
@@ -5066,10 +5066,10 @@ const QUIZ_DB = [
     "answer_ko": "홀정맥(활)",
     "source": "Mediastinum - 6",
     "quiz_id": "trunk-q317",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 13,
+    "exam_years": "2023, 2018, 2015, 2013, 2012, 2011, 2010, 2009, 2007, 2005, 2003, 2000, 1996",
+    "recent_year": "2023",
+    "exam_weight": 3.7416573867739413
   },
   {
     "image_filename": "Mediastinum - 6_Right Primary Bronchus.jpg",
@@ -5082,10 +5082,10 @@ const QUIZ_DB = [
     "answer_ko": "오른주기관지",
     "source": "Mediastinum - 6",
     "quiz_id": "trunk-q318",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2017",
+    "recent_year": "2017",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Mediastinum - 6_Posterior Intercostal Artery.jpg",
@@ -5098,10 +5098,10 @@ const QUIZ_DB = [
     "answer_ko": "뒤갈비사이동맥",
     "source": "Mediastinum - 6",
     "quiz_id": "trunk-q319",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2016, 2012, 2010",
+    "recent_year": "2016",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Mediastinum - 6_Intercostal Nerve.jpg",
@@ -5114,10 +5114,10 @@ const QUIZ_DB = [
     "answer_ko": "갈비사이신경",
     "source": "Mediastinum - 6",
     "quiz_id": "trunk-q320",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2015, 2014, 2009",
+    "recent_year": "2015",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Mediastinum - 6_Greater Splanchnic Nerve.jpg",
@@ -5130,10 +5130,10 @@ const QUIZ_DB = [
     "answer_ko": "큰내장신경",
     "source": "Mediastinum - 6",
     "quiz_id": "trunk-q321",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2025, 2019, 2006",
+    "recent_year": "2025",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Mediastinum - 6_Esophagus.jpg",
@@ -5146,10 +5146,10 @@ const QUIZ_DB = [
     "answer_ko": "식도",
     "source": "Mediastinum - 6",
     "quiz_id": "trunk-q322",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 14,
+    "exam_years": "2023, 2019, 2018, 2017, 2014, 2009, 2007, 2006, 2005, 2003, 2002, 2000, 1997",
+    "recent_year": "2023",
+    "exam_weight": 3.872983346207417
   },
   {
     "image_filename": "Mediastinum - 7_Superior Vena Cava.jpg",
@@ -5162,10 +5162,10 @@ const QUIZ_DB = [
     "answer_ko": "위대정맥",
     "source": "Mediastinum - 7",
     "quiz_id": "trunk-q323",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2020, 2016, 2015",
+    "recent_year": "2020",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Mediastinum - 7_Azygos Vein (Arch).jpg",
@@ -5178,10 +5178,10 @@ const QUIZ_DB = [
     "answer_ko": "홀정맥(활)",
     "source": "Mediastinum - 7",
     "quiz_id": "trunk-q324",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 13,
+    "exam_years": "2023, 2018, 2015, 2013, 2012, 2011, 2010, 2009, 2007, 2005, 2003, 2000, 1996",
+    "recent_year": "2023",
+    "exam_weight": 3.7416573867739413
   },
   {
     "image_filename": "Mediastinum - 7_Right Primary Bronchus.jpg",
@@ -5194,10 +5194,10 @@ const QUIZ_DB = [
     "answer_ko": "오른주기관지",
     "source": "Mediastinum - 7",
     "quiz_id": "trunk-q325",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2017",
+    "recent_year": "2017",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Mediastinum - 7_Esophagus.jpg",
@@ -5210,10 +5210,10 @@ const QUIZ_DB = [
     "answer_ko": "식도",
     "source": "Mediastinum - 7",
     "quiz_id": "trunk-q326",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 14,
+    "exam_years": "2023, 2019, 2018, 2017, 2014, 2009, 2007, 2006, 2005, 2003, 2002, 2000, 1997",
+    "recent_year": "2023",
+    "exam_weight": 3.872983346207417
   },
   {
     "image_filename": "Mediastinum - 7_Azygos Vein.jpg",
@@ -5226,10 +5226,10 @@ const QUIZ_DB = [
     "answer_ko": "홀정맥",
     "source": "Mediastinum - 7",
     "quiz_id": "trunk-q327",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 13,
+    "exam_years": "2023, 2018, 2015, 2013, 2012, 2011, 2010, 2009, 2007, 2005, 2003, 2000, 1996",
+    "recent_year": "2023",
+    "exam_weight": 3.7416573867739413
   },
   {
     "image_filename": "Mediastinum - 7_Sympathetic Trunk.jpg",
@@ -5242,10 +5242,10 @@ const QUIZ_DB = [
     "answer_ko": "교감신경줄기",
     "source": "Mediastinum - 7",
     "quiz_id": "trunk-q328",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 8,
+    "exam_years": "2020, 2014, 2012, 2009, 2005, 2000, 1997, 1996",
+    "recent_year": "2020",
+    "exam_weight": 3.0
   },
   {
     "image_filename": "Mediastinum - 7_Greater Splanchnic Nerve.jpg",
@@ -5258,10 +5258,10 @@ const QUIZ_DB = [
     "answer_ko": "큰내장신경",
     "source": "Mediastinum - 7",
     "quiz_id": "trunk-q329",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2025, 2019, 2006",
+    "recent_year": "2025",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Peritoneal Cavity - 1_Gallbladder.jpg",
@@ -5274,10 +5274,10 @@ const QUIZ_DB = [
     "answer_ko": "쓸개주머니",
     "source": "Peritoneal Cavity - 1",
     "quiz_id": "trunk-q330",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2009, 2005, 2002, 1999",
+    "recent_year": "2009",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Peritoneal Cavity - 1_Gastrocolic Ligament.jpg",
@@ -5290,10 +5290,10 @@ const QUIZ_DB = [
     "answer_ko": "위잘록창자인대",
     "source": "Peritoneal Cavity - 1",
     "quiz_id": "trunk-q331",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2011",
+    "recent_year": "2011",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Peritoneal Cavity - 1_Transverse Colon.jpg",
@@ -5306,10 +5306,10 @@ const QUIZ_DB = [
     "answer_ko": "가로잘록창자",
     "source": "Peritoneal Cavity - 1",
     "quiz_id": "trunk-q332",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2020",
+    "recent_year": "2020",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Peritoneal Cavity - 2_Falciform Ligament.jpg",
@@ -5322,10 +5322,10 @@ const QUIZ_DB = [
     "answer_ko": "낫인대",
     "source": "Peritoneal Cavity - 2",
     "quiz_id": "trunk-q333",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 11,
+    "exam_years": "2025, 2023, 2020, 2018, 2016, 2010, 2007, 2003, 2000, 1996",
+    "recent_year": "2025",
+    "exam_weight": 3.4641016151377544
   },
   {
     "image_filename": "Peritoneal Cavity - 3_Gallbladder.jpg",
@@ -5338,10 +5338,10 @@ const QUIZ_DB = [
     "answer_ko": "쓸개주머니",
     "source": "Peritoneal Cavity - 3",
     "quiz_id": "trunk-q334",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2009, 2005, 2002, 1999",
+    "recent_year": "2009",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Peritoneal Cavity - 3_Transverse Colon.jpg",
@@ -5354,10 +5354,10 @@ const QUIZ_DB = [
     "answer_ko": "가로잘록창자",
     "source": "Peritoneal Cavity - 3",
     "quiz_id": "trunk-q335",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2020",
+    "recent_year": "2020",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Peritoneal Cavity - 4_Gallbladder.jpg",
@@ -5370,10 +5370,10 @@ const QUIZ_DB = [
     "answer_ko": "쓸개주머니",
     "source": "Peritoneal Cavity - 4",
     "quiz_id": "trunk-q336",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2009, 2005, 2002, 1999",
+    "recent_year": "2009",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Peritoneal Cavity - 4_Transverse Colon.jpg",
@@ -5386,10 +5386,10 @@ const QUIZ_DB = [
     "answer_ko": "가로잘록창자",
     "source": "Peritoneal Cavity - 4",
     "quiz_id": "trunk-q337",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2020",
+    "recent_year": "2020",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Peritoneal Cavity - 5_Gallbladder.jpg",
@@ -5402,10 +5402,10 @@ const QUIZ_DB = [
     "answer_ko": "쓸개주머니",
     "source": "Peritoneal Cavity - 5",
     "quiz_id": "trunk-q338",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2009, 2005, 2002, 1999",
+    "recent_year": "2009",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Peritoneal Cavity - 5_Ileum.jpg",
@@ -5418,10 +5418,10 @@ const QUIZ_DB = [
     "answer_ko": "돌창자",
     "source": "Peritoneal Cavity - 5",
     "quiz_id": "trunk-q339",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 6,
+    "exam_years": "2017, 2016, 2015, 2012, 2011, 2004",
+    "recent_year": "2017",
+    "exam_weight": 2.6457513110645907
   },
   {
     "image_filename": "Posterior Abdominal Wall - 1_Femoral Nerve.jpg",
@@ -5434,10 +5434,10 @@ const QUIZ_DB = [
     "answer_ko": "넙다리신경",
     "source": "Posterior Abdominal Wall - 1",
     "quiz_id": "trunk-q340",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 5,
+    "exam_years": "2021, 2016, 2006, 2004, 1996",
+    "recent_year": "2021",
+    "exam_weight": 2.449489742783178
   },
   {
     "image_filename": "Posterior Abdominal Wall - 1_Genitofemoral Nerve.jpg",
@@ -5450,10 +5450,10 @@ const QUIZ_DB = [
     "answer_ko": "음부넙다리신경",
     "source": "Posterior Abdominal Wall - 1",
     "quiz_id": "trunk-q341",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 6,
+    "exam_years": "2025, 2020, 2011, 2003, 2000, 1996",
+    "recent_year": "2025",
+    "exam_weight": 2.6457513110645907
   },
   {
     "image_filename": "Posterior Abdominal Wall - 1_Genitofemoral Nerve.jpg",
@@ -5466,10 +5466,10 @@ const QUIZ_DB = [
     "answer_ko": "음부넙다리신경",
     "source": "Posterior Abdominal Wall - 1",
     "quiz_id": "trunk-q342",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 6,
+    "exam_years": "2025, 2020, 2011, 2003, 2000, 1996",
+    "recent_year": "2025",
+    "exam_weight": 2.6457513110645907
   },
   {
     "image_filename": "Posterior Abdominal Wall - 1_Iliacus.jpg",
@@ -5482,10 +5482,10 @@ const QUIZ_DB = [
     "answer_ko": "엉덩근",
     "source": "Posterior Abdominal Wall - 1",
     "quiz_id": "trunk-q343",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2021, 2000, 1997",
+    "recent_year": "2021",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Posterior Abdominal Wall - 1_Lateral Cutaneous Nerve of Thigh.jpg",
@@ -5498,10 +5498,10 @@ const QUIZ_DB = [
     "answer_ko": "가쪽넙다리피부신경",
     "source": "Posterior Abdominal Wall - 1",
     "quiz_id": "trunk-q344",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 9,
+    "exam_years": "2023, 2018, 2013, 2011, 2010, 2009, 2007, 2000, 1999",
+    "recent_year": "2023",
+    "exam_weight": 3.1622776601683795
   },
   {
     "image_filename": "Posterior Abdominal Wall - 1_Psoas Muscle.jpg",
@@ -5514,10 +5514,10 @@ const QUIZ_DB = [
     "answer_ko": "큰허리근",
     "source": "Posterior Abdominal Wall - 1",
     "quiz_id": "trunk-q345",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 13,
+    "exam_years": "2016, 2015, 2014, 2010, 2009, 2008, 2004, 2003, 2002, 1999, 1997, 1996",
+    "recent_year": "2016",
+    "exam_weight": 3.7416573867739413
   },
   {
     "image_filename": "Posterior Abdominal Wall - 2_Celiac Trunk.jpg",
@@ -5530,10 +5530,10 @@ const QUIZ_DB = [
     "answer_ko": "복강동맥줄기",
     "source": "Posterior Abdominal Wall - 2",
     "quiz_id": "trunk-q346",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2000",
+    "recent_year": "2000",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Posterior Abdominal Wall - 2_Iliohypogastric Nerve.jpg",
@@ -5546,10 +5546,10 @@ const QUIZ_DB = [
     "answer_ko": "엉덩아랫배신경",
     "source": "Posterior Abdominal Wall - 2",
     "quiz_id": "trunk-q347",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2013, 1999",
+    "recent_year": "2013",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Posterior Abdominal Wall - 2_Ilioinguinal Nerve.jpg",
@@ -5562,10 +5562,10 @@ const QUIZ_DB = [
     "answer_ko": "엉덩샅굴신경",
     "source": "Posterior Abdominal Wall - 2",
     "quiz_id": "trunk-q348",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2006",
+    "recent_year": "2006",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Posterior Abdominal Wall - 2_Psoas Muscle.jpg",
@@ -5578,10 +5578,10 @@ const QUIZ_DB = [
     "answer_ko": "큰허리근",
     "source": "Posterior Abdominal Wall - 2",
     "quiz_id": "trunk-q349",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 13,
+    "exam_years": "2016, 2015, 2014, 2010, 2009, 2008, 2004, 2003, 2002, 1999, 1997, 1996",
+    "recent_year": "2016",
+    "exam_weight": 3.7416573867739413
   },
   {
     "image_filename": "Posterior Abdominal Wall - 2_Quadratus Lumborum Muscle.jpg",
@@ -5594,10 +5594,10 @@ const QUIZ_DB = [
     "answer_ko": "허리네모근",
     "source": "Posterior Abdominal Wall - 2",
     "quiz_id": "trunk-q350",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 10,
+    "exam_years": "2019, 2016, 2014, 2013, 2012, 2010, 2002, 2000, 1999, 1997",
+    "recent_year": "2019",
+    "exam_weight": 3.3166247903554
   },
   {
     "image_filename": "Posterior Abdominal Wall - 2_Subcostal Nerve.jpg",
@@ -5610,10 +5610,10 @@ const QUIZ_DB = [
     "answer_ko": "갈비밑신경",
     "source": "Posterior Abdominal Wall - 2",
     "quiz_id": "trunk-q351",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2016, 1999, 1997",
+    "recent_year": "2016",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Posterior Abdominal Wall - 2_Superior Mesenteric Artery.jpg",
@@ -5626,10 +5626,10 @@ const QUIZ_DB = [
     "answer_ko": "위창자간막동맥",
     "source": "Posterior Abdominal Wall - 2",
     "quiz_id": "trunk-q352",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 14,
+    "exam_years": "2022, 2021, 2019, 2018, 2017, 2015, 2014, 2010, 2008, 2006, 2003, 2002, 2000, 1997",
+    "recent_year": "2022",
+    "exam_weight": 3.872983346207417
   },
   {
     "image_filename": "Posterior Abdominal Wall - 3_Psoas Muscle.jpg",
@@ -5642,10 +5642,10 @@ const QUIZ_DB = [
     "answer_ko": "큰허리근",
     "source": "Posterior Abdominal Wall - 3",
     "quiz_id": "trunk-q353",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 13,
+    "exam_years": "2016, 2015, 2014, 2010, 2009, 2008, 2004, 2003, 2002, 1999, 1997, 1996",
+    "recent_year": "2016",
+    "exam_weight": 3.7416573867739413
   },
   {
     "image_filename": "Posterior Abdominal Wall - 3_Quadratus Lumborum Muscle.jpg",
@@ -5658,10 +5658,10 @@ const QUIZ_DB = [
     "answer_ko": "허리네모근",
     "source": "Posterior Abdominal Wall - 3",
     "quiz_id": "trunk-q354",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 10,
+    "exam_years": "2019, 2016, 2014, 2013, 2012, 2010, 2002, 2000, 1999, 1997",
+    "recent_year": "2019",
+    "exam_weight": 3.3166247903554
   },
   {
     "image_filename": "Posterior Abdominal Wall - 3_Superior Mesenteric Artery.jpg",
@@ -5674,10 +5674,10 @@ const QUIZ_DB = [
     "answer_ko": "위창자간막동맥",
     "source": "Posterior Abdominal Wall - 3",
     "quiz_id": "trunk-q355",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 14,
+    "exam_years": "2022, 2021, 2019, 2018, 2017, 2015, 2014, 2010, 2008, 2006, 2003, 2002, 2000, 1997",
+    "recent_year": "2022",
+    "exam_weight": 3.872983346207417
   },
   {
     "image_filename": "Posterior Abdominal Wall - 3_Inferior Mesenteric Artery.jpg",
@@ -5690,10 +5690,10 @@ const QUIZ_DB = [
     "answer_ko": "아래창자간막동맥",
     "source": "Posterior Abdominal Wall - 3",
     "quiz_id": "trunk-q356",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 11,
+    "exam_years": "2023, 2020, 2016, 2010, 2005, 2003, 2000, 1999, 1997, 1996",
+    "recent_year": "2023",
+    "exam_weight": 3.4641016151377544
   },
   {
     "image_filename": "Posterior Abdominal Wall - 3_Subcostal Nerve.jpg",
@@ -5706,10 +5706,10 @@ const QUIZ_DB = [
     "answer_ko": "갈비밑신경",
     "source": "Posterior Abdominal Wall - 3",
     "quiz_id": "trunk-q357",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2016, 1999, 1997",
+    "recent_year": "2016",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Posterior Abdominal Wall - 3_Iliohypogastric Nerve.jpg",
@@ -5722,10 +5722,10 @@ const QUIZ_DB = [
     "answer_ko": "엉덩아랫배신경",
     "source": "Posterior Abdominal Wall - 3",
     "quiz_id": "trunk-q358",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2013, 1999",
+    "recent_year": "2013",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Posterior Abdominal Wall - 3_Ilioinguinal Nerve.jpg",
@@ -5738,10 +5738,10 @@ const QUIZ_DB = [
     "answer_ko": "엉덩샅굴신경",
     "source": "Posterior Abdominal Wall - 3",
     "quiz_id": "trunk-q359",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2006",
+    "recent_year": "2006",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Posterior Abdominal Wall - 3_Lateral Cutaneous Nerve of the Thigh.jpg",
@@ -5754,10 +5754,10 @@ const QUIZ_DB = [
     "answer_ko": "가쪽넙다리피부신경",
     "source": "Posterior Abdominal Wall - 3",
     "quiz_id": "trunk-q360",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 9,
+    "exam_years": "2023, 2018, 2013, 2011, 2010, 2009, 2007, 2000, 1999",
+    "recent_year": "2023",
+    "exam_weight": 3.1622776601683795
   },
   {
     "image_filename": "Posterior Abdominal Wall - 4_Left Renal Artery.jpg",
@@ -5770,10 +5770,10 @@ const QUIZ_DB = [
     "answer_ko": "왼콩팥동맥",
     "source": "Posterior Abdominal Wall - 4",
     "quiz_id": "trunk-q361",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 7,
+    "exam_years": "2023, 2017, 2016, 2014, 2005, 2004, 1996",
+    "recent_year": "2023",
+    "exam_weight": 2.8284271247461903
   },
   {
     "image_filename": "Posterior Abdominal Wall - 4_Psoas Muscle.jpg",
@@ -5786,10 +5786,10 @@ const QUIZ_DB = [
     "answer_ko": "큰허리근",
     "source": "Posterior Abdominal Wall - 4",
     "quiz_id": "trunk-q362",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 13,
+    "exam_years": "2016, 2015, 2014, 2010, 2009, 2008, 2004, 2003, 2002, 1999, 1997, 1996",
+    "recent_year": "2016",
+    "exam_weight": 3.7416573867739413
   },
   {
     "image_filename": "Posterior Abdominal Wall - 4_Left Inferior Phrenic Artery.jpg",
@@ -5802,10 +5802,10 @@ const QUIZ_DB = [
     "answer_ko": "왼아래가로막동맥",
     "source": "Posterior Abdominal Wall - 4",
     "quiz_id": "trunk-q363",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2023, 2021, 2013",
+    "recent_year": "2023",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Posterior Abdominal Wall - 4_Inferior Vena Cava.jpg",
@@ -5818,10 +5818,10 @@ const QUIZ_DB = [
     "answer_ko": "아래대정맥",
     "source": "Posterior Abdominal Wall - 4",
     "quiz_id": "trunk-q364",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 8,
+    "exam_years": "2022, 2020, 2019, 2014, 2008, 2006, 1999, 1997",
+    "recent_year": "2022",
+    "exam_weight": 3.0
   },
   {
     "image_filename": "Posterior Abdominal Wall - 5_Left Renal Vein.jpg",
@@ -5834,10 +5834,10 @@ const QUIZ_DB = [
     "answer_ko": "왼콩팥정맥",
     "source": "Posterior Abdominal Wall - 5",
     "quiz_id": "trunk-q365",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2019, 2006, 2003",
+    "recent_year": "2019",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Posterior Abdominal Wall - 6_Left Renal Vein.jpg",
@@ -5850,10 +5850,10 @@ const QUIZ_DB = [
     "answer_ko": "왼콩팥정맥",
     "source": "Posterior Abdominal Wall - 6",
     "quiz_id": "trunk-q366",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2019, 2006, 2003",
+    "recent_year": "2019",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Posterior Abdominal Wall - 6_Left Ureter.jpg",
@@ -5866,10 +5866,10 @@ const QUIZ_DB = [
     "answer_ko": "왼요관",
     "source": "Posterior Abdominal Wall - 6",
     "quiz_id": "trunk-q367",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 11,
+    "exam_years": "2020, 2018, 2016, 2010, 2009, 2007, 2006, 2005, 2004, 2000, 1996",
+    "recent_year": "2020",
+    "exam_weight": 3.4641016151377544
   },
   {
     "image_filename": "Posterior Abdominal Wall - 6_Left Testicular Vein.jpg",
@@ -5882,10 +5882,10 @@ const QUIZ_DB = [
     "answer_ko": "왼고환정맥",
     "source": "Posterior Abdominal Wall - 6",
     "quiz_id": "trunk-q368",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 6,
+    "exam_years": "2012, 2011, 2008, 2007, 2006",
+    "recent_year": "2012",
+    "exam_weight": 2.6457513110645907
   },
   {
     "image_filename": "Posterior Abdominal Wall - 6_Inferior Vena Cava.jpg",
@@ -5898,10 +5898,10 @@ const QUIZ_DB = [
     "answer_ko": "아래대정맥",
     "source": "Posterior Abdominal Wall - 6",
     "quiz_id": "trunk-q369",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 8,
+    "exam_years": "2022, 2020, 2019, 2014, 2008, 2006, 1999, 1997",
+    "recent_year": "2022",
+    "exam_weight": 3.0
   },
   {
     "image_filename": "Posterior Abdominal Wall - 6_Right Lumbar Artery.jpg",
@@ -5914,10 +5914,10 @@ const QUIZ_DB = [
     "answer_ko": "오른허리동맥",
     "source": "Posterior Abdominal Wall - 6",
     "quiz_id": "trunk-q370",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2011, 2005",
+    "recent_year": "2011",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Posterior Abdominal Wall - 6_Abdominal Aorta.jpg",
@@ -5930,10 +5930,10 @@ const QUIZ_DB = [
     "answer_ko": "복부대동맥",
     "source": "Posterior Abdominal Wall - 6",
     "quiz_id": "trunk-q371",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "1996",
+    "recent_year": "1996",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Posterior Abdominal Wall - 6_Right Common Iliac Artery.jpg",
@@ -5946,10 +5946,10 @@ const QUIZ_DB = [
     "answer_ko": "오른총장골동맥",
     "source": "Posterior Abdominal Wall - 6",
     "quiz_id": "trunk-q372",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2018, 2008, 2002",
+    "recent_year": "2018",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Posterior Abdominal Wall - 6_Left Common Iliac Vein.jpg",
@@ -5978,10 +5978,10 @@ const QUIZ_DB = [
     "answer_ko": "왼콩팥정맥",
     "source": "Posterior Abdominal Wall - 7",
     "quiz_id": "trunk-q374",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2019, 2006, 2003",
+    "recent_year": "2019",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Posterior Abdominal Wall - 7_Psoas Muscle.jpg",
@@ -5994,10 +5994,10 @@ const QUIZ_DB = [
     "answer_ko": "큰허리근",
     "source": "Posterior Abdominal Wall - 7",
     "quiz_id": "trunk-q375",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 13,
+    "exam_years": "2016, 2015, 2014, 2010, 2009, 2008, 2004, 2003, 2002, 1999, 1997, 1996",
+    "recent_year": "2016",
+    "exam_weight": 3.7416573867739413
   },
   {
     "image_filename": "Posterior Abdominal Wall - 7_Left Testicular Vein.jpg",
@@ -6010,10 +6010,10 @@ const QUIZ_DB = [
     "answer_ko": "왼고환정맥",
     "source": "Posterior Abdominal Wall - 7",
     "quiz_id": "trunk-q376",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 6,
+    "exam_years": "2012, 2011, 2008, 2007, 2006",
+    "recent_year": "2012",
+    "exam_weight": 2.6457513110645907
   },
   {
     "image_filename": "Posterior Abdominal Wall - 7_Left Ureter.jpg",
@@ -6026,10 +6026,10 @@ const QUIZ_DB = [
     "answer_ko": "왼요관",
     "source": "Posterior Abdominal Wall - 7",
     "quiz_id": "trunk-q377",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 11,
+    "exam_years": "2020, 2018, 2016, 2010, 2009, 2007, 2006, 2005, 2004, 2000, 1996",
+    "recent_year": "2020",
+    "exam_weight": 3.4641016151377544
   },
   {
     "image_filename": "Posterior Abdominal Wall - 7_Sympathetic Trunk.jpg",
@@ -6042,10 +6042,10 @@ const QUIZ_DB = [
     "answer_ko": "교감신경줄기",
     "source": "Posterior Abdominal Wall - 7",
     "quiz_id": "trunk-q378",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 8,
+    "exam_years": "2020, 2014, 2012, 2009, 2005, 2000, 1997, 1996",
+    "recent_year": "2020",
+    "exam_weight": 3.0
   },
   {
     "image_filename": "Posterior Abdominal Wall - 7_Left Kidney.jpg",
@@ -6058,10 +6058,10 @@ const QUIZ_DB = [
     "answer_ko": "왼콩팥",
     "source": "Posterior Abdominal Wall - 7",
     "quiz_id": "trunk-q379",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2007",
+    "recent_year": "2007",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Posterior Abdominal Wall - 8_Left Ureter.jpg",
@@ -6074,10 +6074,10 @@ const QUIZ_DB = [
     "answer_ko": "왼요관",
     "source": "Posterior Abdominal Wall - 8",
     "quiz_id": "trunk-q380",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 11,
+    "exam_years": "2020, 2018, 2016, 2010, 2009, 2007, 2006, 2005, 2004, 2000, 1996",
+    "recent_year": "2020",
+    "exam_weight": 3.4641016151377544
   },
   {
     "image_filename": "Posterior Abdominal Wall - 8_Right Common Iliac Artery.jpg",
@@ -6090,10 +6090,10 @@ const QUIZ_DB = [
     "answer_ko": "오른총장골동맥",
     "source": "Posterior Abdominal Wall - 8",
     "quiz_id": "trunk-q381",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2018, 2008, 2002",
+    "recent_year": "2018",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Posterior Abdominal Wall - 8_Right Testicular Vein.jpg",
@@ -6106,10 +6106,10 @@ const QUIZ_DB = [
     "answer_ko": "오른고환정맥",
     "source": "Posterior Abdominal Wall - 8",
     "quiz_id": "trunk-q382",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 6,
+    "exam_years": "2012, 2011, 2008, 2007, 2006",
+    "recent_year": "2012",
+    "exam_weight": 2.6457513110645907
   },
   {
     "image_filename": "Posterior Abdominal Wall - 8_Inferior Vena Cava.jpg",
@@ -6122,10 +6122,10 @@ const QUIZ_DB = [
     "answer_ko": "아래대정맥",
     "source": "Posterior Abdominal Wall - 8",
     "quiz_id": "trunk-q383",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 8,
+    "exam_years": "2022, 2020, 2019, 2014, 2008, 2006, 1999, 1997",
+    "recent_year": "2022",
+    "exam_weight": 3.0
   },
   {
     "image_filename": "Posterior Abdominal Wall - 8_Right Ureter.jpg",
@@ -6138,10 +6138,10 @@ const QUIZ_DB = [
     "answer_ko": "오른요관",
     "source": "Posterior Abdominal Wall - 8",
     "quiz_id": "trunk-q384",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 11,
+    "exam_years": "2020, 2018, 2016, 2010, 2009, 2007, 2006, 2005, 2004, 2000, 1996",
+    "recent_year": "2020",
+    "exam_weight": 3.4641016151377544
   },
   {
     "image_filename": "Posterior Neck - 1_Levator Scapulae.jpg",
@@ -6154,10 +6154,10 @@ const QUIZ_DB = [
     "answer_ko": "어깨올림근",
     "source": "Posterior Neck - 1",
     "quiz_id": "trunk-q385",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2018",
+    "recent_year": "2018",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Posterior Neck - 1_Splenius Capitis.jpg",
@@ -6170,10 +6170,10 @@ const QUIZ_DB = [
     "answer_ko": "널판근(머리)",
     "source": "Posterior Neck - 1",
     "quiz_id": "trunk-q386",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2020",
+    "recent_year": "2020",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Posterior Neck - 2_Semispinalis Capitis.jpg",
@@ -6186,10 +6186,10 @@ const QUIZ_DB = [
     "answer_ko": "반가시근(머리)",
     "source": "Posterior Neck - 2",
     "quiz_id": "trunk-q387",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2022, 2015, 2010",
+    "recent_year": "2022",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Posterior Neck - 2_Splenius Capitis.jpg",
@@ -6202,10 +6202,10 @@ const QUIZ_DB = [
     "answer_ko": "널판근(머리)",
     "source": "Posterior Neck - 2",
     "quiz_id": "trunk-q388",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2020",
+    "recent_year": "2020",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Posterior Neck - 4_Splenius Capitis Muscle.jpg",
@@ -6218,10 +6218,10 @@ const QUIZ_DB = [
     "answer_ko": "널판근(머리)",
     "source": "Posterior Neck - 4",
     "quiz_id": "trunk-q389",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2020",
+    "recent_year": "2020",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Posterior Neck - 4_Levator Scapulae Muscle.jpg",
@@ -6234,10 +6234,10 @@ const QUIZ_DB = [
     "answer_ko": "어깨올림근",
     "source": "Posterior Neck - 4",
     "quiz_id": "trunk-q390",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2018",
+    "recent_year": "2018",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Retroperitoneal Viscera - 1_Gall Bladder.jpg",
@@ -6250,10 +6250,10 @@ const QUIZ_DB = [
     "answer_ko": "쓸개주머니",
     "source": "Retroperitoneal Viscera - 1",
     "quiz_id": "trunk-q391",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2009, 2005, 2002, 1999",
+    "recent_year": "2009",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Retroperitoneal Viscera - 1_Inferior Vena Cava.jpg",
@@ -6266,10 +6266,10 @@ const QUIZ_DB = [
     "answer_ko": "아래대정맥",
     "source": "Retroperitoneal Viscera - 1",
     "quiz_id": "trunk-q392",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 8,
+    "exam_years": "2022, 2020, 2019, 2014, 2008, 2006, 1999, 1997",
+    "recent_year": "2022",
+    "exam_weight": 3.0
   },
   {
     "image_filename": "Retroperitoneal Viscera - 1_Left Renal Vein.jpg",
@@ -6282,10 +6282,10 @@ const QUIZ_DB = [
     "answer_ko": "왼콩팥정맥",
     "source": "Retroperitoneal Viscera - 1",
     "quiz_id": "trunk-q393",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2019, 2006, 2003",
+    "recent_year": "2019",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Retroperitoneal Viscera - 1_Psoas Muscle.jpg",
@@ -6298,10 +6298,10 @@ const QUIZ_DB = [
     "answer_ko": "큰허리근",
     "source": "Retroperitoneal Viscera - 1",
     "quiz_id": "trunk-q394",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 13,
+    "exam_years": "2016, 2015, 2014, 2010, 2009, 2008, 2004, 2003, 2002, 1999, 1997, 1996",
+    "recent_year": "2016",
+    "exam_weight": 3.7416573867739413
   },
   {
     "image_filename": "Retroperitoneal Viscera - 1_Right Kidney.jpg",
@@ -6314,10 +6314,10 @@ const QUIZ_DB = [
     "answer_ko": "오른콩팥",
     "source": "Retroperitoneal Viscera - 1",
     "quiz_id": "trunk-q395",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2007",
+    "recent_year": "2007",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Retroperitoneal Viscera - 1_Right Renal Vein.jpg",
@@ -6346,10 +6346,10 @@ const QUIZ_DB = [
     "answer_ko": "오른고환정맥",
     "source": "Retroperitoneal Viscera - 1",
     "quiz_id": "trunk-q397",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 6,
+    "exam_years": "2012, 2011, 2008, 2007, 2006",
+    "recent_year": "2012",
+    "exam_weight": 2.6457513110645907
   },
   {
     "image_filename": "Retroperitoneal Viscera - 1_Right Ureter.jpg",
@@ -6362,10 +6362,10 @@ const QUIZ_DB = [
     "answer_ko": "오른요관",
     "source": "Retroperitoneal Viscera - 1",
     "quiz_id": "trunk-q398",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 11,
+    "exam_years": "2020, 2018, 2016, 2010, 2009, 2007, 2006, 2005, 2004, 2000, 1996",
+    "recent_year": "2020",
+    "exam_weight": 3.4641016151377544
   },
   {
     "image_filename": "Retroperitoneal Viscera - 2_Abdominal Aorta.jpg",
@@ -6378,10 +6378,10 @@ const QUIZ_DB = [
     "answer_ko": "복부대동맥",
     "source": "Retroperitoneal Viscera - 2",
     "quiz_id": "trunk-q399",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "1996",
+    "recent_year": "1996",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Retroperitoneal Viscera - 2_Celiac Trunk.jpg",
@@ -6394,10 +6394,10 @@ const QUIZ_DB = [
     "answer_ko": "복강동맥줄기",
     "source": "Retroperitoneal Viscera - 2",
     "quiz_id": "trunk-q400",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2000",
+    "recent_year": "2000",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Retroperitoneal Viscera - 2_Left Kidney.jpg",
@@ -6410,10 +6410,10 @@ const QUIZ_DB = [
     "answer_ko": "왼콩팥",
     "source": "Retroperitoneal Viscera - 2",
     "quiz_id": "trunk-q401",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2007",
+    "recent_year": "2007",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Retroperitoneal Viscera - 2_Left Renal Artery.jpg",
@@ -6426,10 +6426,10 @@ const QUIZ_DB = [
     "answer_ko": "왼콩팥동맥",
     "source": "Retroperitoneal Viscera - 2",
     "quiz_id": "trunk-q402",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 7,
+    "exam_years": "2023, 2017, 2016, 2014, 2005, 2004, 1996",
+    "recent_year": "2023",
+    "exam_weight": 2.8284271247461903
   },
   {
     "image_filename": "Retroperitoneal Viscera - 2_Left Renal Vein.jpg",
@@ -6442,10 +6442,10 @@ const QUIZ_DB = [
     "answer_ko": "왼콩팥정맥",
     "source": "Retroperitoneal Viscera - 2",
     "quiz_id": "trunk-q403",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2019, 2006, 2003",
+    "recent_year": "2019",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Retroperitoneal Viscera - 2_Left Ureter.jpg",
@@ -6458,10 +6458,10 @@ const QUIZ_DB = [
     "answer_ko": "왼요관",
     "source": "Retroperitoneal Viscera - 2",
     "quiz_id": "trunk-q404",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 11,
+    "exam_years": "2020, 2018, 2016, 2010, 2009, 2007, 2006, 2005, 2004, 2000, 1996",
+    "recent_year": "2020",
+    "exam_weight": 3.4641016151377544
   },
   {
     "image_filename": "Retroperitoneal Viscera - 2_Superior Mesenteric Artery.jpg",
@@ -6474,10 +6474,10 @@ const QUIZ_DB = [
     "answer_ko": "위창자간막동맥",
     "source": "Retroperitoneal Viscera - 2",
     "quiz_id": "trunk-q405",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 14,
+    "exam_years": "2022, 2021, 2019, 2018, 2017, 2015, 2014, 2010, 2008, 2006, 2003, 2002, 2000, 1997",
+    "recent_year": "2022",
+    "exam_weight": 3.872983346207417
   },
   {
     "image_filename": "Retroperitoneal Viscera - 3_Ureter.jpg",
@@ -6490,10 +6490,10 @@ const QUIZ_DB = [
     "answer_ko": "요관",
     "source": "Retroperitoneal Viscera - 3",
     "quiz_id": "trunk-q406",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 11,
+    "exam_years": "2020, 2018, 2016, 2010, 2009, 2007, 2006, 2005, 2004, 2000, 1996",
+    "recent_year": "2020",
+    "exam_weight": 3.4641016151377544
   },
   {
     "image_filename": "Retroperitoneal Viscera - 3_Renal Vein.jpg",
@@ -6522,10 +6522,10 @@ const QUIZ_DB = [
     "answer_ko": "콩팥동맥",
     "source": "Retroperitoneal Viscera - 3",
     "quiz_id": "trunk-q408",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 7,
+    "exam_years": "2023, 2017, 2016, 2014, 2005, 2004, 1996",
+    "recent_year": "2023",
+    "exam_weight": 2.8284271247461903
   },
   {
     "image_filename": "Retroperitoneal Viscera - 3_Renal Pelvis.jpg",
@@ -6538,10 +6538,10 @@ const QUIZ_DB = [
     "answer_ko": "콩팥깔때기",
     "source": "Retroperitoneal Viscera - 3",
     "quiz_id": "trunk-q409",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 10,
+    "exam_years": "2025, 2016, 2013, 2010, 2007, 2006, 2005, 2000, 1999, 1996",
+    "recent_year": "2025",
+    "exam_weight": 3.3166247903554
   },
   {
     "image_filename": "Retroperitoneal Viscera - 3_Renal Pyramid.jpg",
@@ -6554,10 +6554,10 @@ const QUIZ_DB = [
     "answer_ko": "콩팥피라미드",
     "source": "Retroperitoneal Viscera - 3",
     "quiz_id": "trunk-q410",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 5,
+    "exam_years": "2022, 2003, 2002, 2000, 1996",
+    "recent_year": "2022",
+    "exam_weight": 2.449489742783178
   },
   {
     "image_filename": "Retroperitoneal Viscera - 3_Renal Papilla.jpg",
@@ -6570,10 +6570,10 @@ const QUIZ_DB = [
     "answer_ko": "콩팥유두",
     "source": "Retroperitoneal Viscera - 3",
     "quiz_id": "trunk-q411",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2012, 2009",
+    "recent_year": "2012",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Retroperitoneal Viscera - 4_Right Kidney.jpg",
@@ -6586,10 +6586,10 @@ const QUIZ_DB = [
     "answer_ko": "오른콩팥",
     "source": "Retroperitoneal Viscera - 4",
     "quiz_id": "trunk-q412",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2007",
+    "recent_year": "2007",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Retroperitoneal Viscera - 4_Right Renal Vein.jpg",
@@ -6618,10 +6618,10 @@ const QUIZ_DB = [
     "answer_ko": "위창자간막동맥",
     "source": "Retroperitoneal Viscera - 4",
     "quiz_id": "trunk-q414",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 14,
+    "exam_years": "2022, 2021, 2019, 2018, 2017, 2015, 2014, 2010, 2008, 2006, 2003, 2002, 2000, 1997",
+    "recent_year": "2022",
+    "exam_weight": 3.872983346207417
   },
   {
     "image_filename": "Retroperitoneal Viscera - 4_Left Testicular Vein.jpg",
@@ -6634,10 +6634,10 @@ const QUIZ_DB = [
     "answer_ko": "왼고환정맥",
     "source": "Retroperitoneal Viscera - 4",
     "quiz_id": "trunk-q415",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 6,
+    "exam_years": "2012, 2011, 2008, 2007, 2006",
+    "recent_year": "2012",
+    "exam_weight": 2.6457513110645907
   },
   {
     "image_filename": "Retroperitoneal Viscera - 4_Left Common Iliac Vein.jpg",
@@ -6666,10 +6666,10 @@ const QUIZ_DB = [
     "answer_ko": "왼총장골동맥",
     "source": "Retroperitoneal Viscera - 4",
     "quiz_id": "trunk-q417",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2018, 2008, 2002",
+    "recent_year": "2018",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Retroperitoneal Viscera - 4_Left Ureter.jpg",
@@ -6682,10 +6682,10 @@ const QUIZ_DB = [
     "answer_ko": "왼요관",
     "source": "Retroperitoneal Viscera - 4",
     "quiz_id": "trunk-q418",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 11,
+    "exam_years": "2020, 2018, 2016, 2010, 2009, 2007, 2006, 2005, 2004, 2000, 1996",
+    "recent_year": "2020",
+    "exam_weight": 3.4641016151377544
   },
   {
     "image_filename": "Retroperitoneal Viscera - 4_Abdominal Aorta.jpg",
@@ -6698,10 +6698,10 @@ const QUIZ_DB = [
     "answer_ko": "복부대동맥",
     "source": "Retroperitoneal Viscera - 4",
     "quiz_id": "trunk-q419",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "1996",
+    "recent_year": "1996",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Retroperitoneal Viscera - 4_Right Ureter.jpg",
@@ -6714,10 +6714,10 @@ const QUIZ_DB = [
     "answer_ko": "오른요관",
     "source": "Retroperitoneal Viscera - 4",
     "quiz_id": "trunk-q420",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 11,
+    "exam_years": "2020, 2018, 2016, 2010, 2009, 2007, 2006, 2005, 2004, 2000, 1996",
+    "recent_year": "2020",
+    "exam_weight": 3.4641016151377544
   },
   {
     "image_filename": "Suboccipital Triangle - 1_Obliquus Capitis inferior.jpg",
@@ -6746,10 +6746,10 @@ const QUIZ_DB = [
     "answer_ko": "위빗머리근",
     "source": "Suboccipital Triangle - 1",
     "quiz_id": "trunk-q422",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2025, 2022",
+    "recent_year": "2025",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Suboccipital Triangle - 1_Rectus Capitis Posterior Major.jpg",
@@ -6762,10 +6762,10 @@ const QUIZ_DB = [
     "answer_ko": "큰뒤곧은머리근",
     "source": "Suboccipital Triangle - 1",
     "quiz_id": "trunk-q423",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2021, 2014, 2013, 2011",
+    "recent_year": "2021",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Suboccipital Triangle - 1_Rectus Capitis Posterior Minor.jpg",
@@ -6794,10 +6794,10 @@ const QUIZ_DB = [
     "answer_ko": "중쇠뼈(가시돌기)",
     "source": "Suboccipital Triangle - 2",
     "quiz_id": "trunk-q425",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2017",
+    "recent_year": "2017",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Suboccipital Triangle - 2_Multifidus.jpg",
@@ -6810,10 +6810,10 @@ const QUIZ_DB = [
     "answer_ko": "뭇갈래근",
     "source": "Suboccipital Triangle - 2",
     "quiz_id": "trunk-q426",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2002",
+    "recent_year": "2002",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Suboccipital Triangle - 2_Obliquus Capitis Inferior.jpg",
@@ -6842,10 +6842,10 @@ const QUIZ_DB = [
     "answer_ko": "큰뒤곧은머리근",
     "source": "Suboccipital Triangle - 2",
     "quiz_id": "trunk-q428",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2021, 2014, 2013, 2011",
+    "recent_year": "2021",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Suboccipital Triangle - 3_Rectus Capitis Posterior Minor Muscle.jpg",
@@ -6874,10 +6874,10 @@ const QUIZ_DB = [
     "answer_ko": "위빗머리근",
     "source": "Suboccipital Triangle - 3",
     "quiz_id": "trunk-q430",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 2,
+    "exam_years": "2025, 2022",
+    "recent_year": "2025",
+    "exam_weight": 1.7320508075688772
   },
   {
     "image_filename": "Suboccipital Triangle - 3_Rectus Capitis Posterior Major Muscle.jpg",
@@ -6890,10 +6890,10 @@ const QUIZ_DB = [
     "answer_ko": "큰뒤곧은머리근",
     "source": "Suboccipital Triangle - 3",
     "quiz_id": "trunk-q431",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2021, 2014, 2013, 2011",
+    "recent_year": "2021",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Suboccipital Triangle - 3_Obliquus Capitis Inferior Muscle.jpg",
@@ -6922,10 +6922,10 @@ const QUIZ_DB = [
     "answer_ko": "반가시근(머리, 뒤침)",
     "source": "Suboccipital Triangle - 3",
     "quiz_id": "trunk-q433",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2022, 2015, 2010",
+    "recent_year": "2022",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Suboccipital Triangle - 4_Left Rectus Capitis Posterior Major Muscle.jpg",
@@ -6938,10 +6938,10 @@ const QUIZ_DB = [
     "answer_ko": "왼큰뒤곧은머리근",
     "source": "Suboccipital Triangle - 4",
     "quiz_id": "trunk-q434",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2021, 2014, 2013, 2011",
+    "recent_year": "2021",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Suboccipital Triangle - 4_Left Rectus Capitis Posterior Minor Muscle.jpg",
@@ -6970,10 +6970,10 @@ const QUIZ_DB = [
     "answer_ko": "중쇠뼈(가시돌기)",
     "source": "Suboccipital Triangle - 4",
     "quiz_id": "trunk-q436",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2017",
+    "recent_year": "2017",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Suboccipital Triangle - 4_Right Rectus Capitis Posterior Major Muscle.jpg",
@@ -6986,10 +6986,10 @@ const QUIZ_DB = [
     "answer_ko": "오른큰뒤곧은머리근",
     "source": "Suboccipital Triangle - 4",
     "quiz_id": "trunk-q437",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 4,
+    "exam_years": "2021, 2014, 2013, 2011",
+    "recent_year": "2021",
+    "exam_weight": 2.23606797749979
   },
   {
     "image_filename": "Thoracic Wall - 1_External Intercostal Muscle.jpg",
@@ -7002,10 +7002,10 @@ const QUIZ_DB = [
     "answer_ko": "바깥갈비사이근",
     "source": "Thoracic Wall - 1",
     "quiz_id": "trunk-q438",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2006",
+    "recent_year": "2006",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Thoracic Wall - 1_Internal Intercostal Muscle.jpg",
@@ -7018,10 +7018,10 @@ const QUIZ_DB = [
     "answer_ko": "속갈비사이근",
     "source": "Thoracic Wall - 1",
     "quiz_id": "trunk-q439",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2006",
+    "recent_year": "2006",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Thoracic Wall - 1_Internal Thoracic Artery.jpg",
@@ -7034,10 +7034,10 @@ const QUIZ_DB = [
     "answer_ko": "속가슴동맥",
     "source": "Thoracic Wall - 1",
     "quiz_id": "trunk-q440",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 16,
+    "exam_years": "2025, 2023, 2022, 2021, 2020, 2019, 2017, 2016, 2015, 2014, 2012, 2011, 2010, 2006, 1999, 1996",
+    "recent_year": "2025",
+    "exam_weight": 4.123105625617661
   },
   {
     "image_filename": "Thoracic Wall - 2_Aortic Arch.jpg",
@@ -7050,10 +7050,10 @@ const QUIZ_DB = [
     "answer_ko": "대동맥활",
     "source": "Thoracic Wall - 2",
     "quiz_id": "trunk-q441",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2012, 2006",
+    "recent_year": "2012",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Thoracic Wall - 2_Internal Thoracic Artery.jpg",
@@ -7066,10 +7066,10 @@ const QUIZ_DB = [
     "answer_ko": "속가슴동맥",
     "source": "Thoracic Wall - 2",
     "quiz_id": "trunk-q442",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 16,
+    "exam_years": "2025, 2023, 2022, 2021, 2020, 2019, 2017, 2016, 2015, 2014, 2012, 2011, 2010, 2006, 1999, 1996",
+    "recent_year": "2025",
+    "exam_weight": 4.123105625617661
   },
   {
     "image_filename": "Thoracic Wall - 2_Phrenic Nerve.jpg",
@@ -7082,10 +7082,10 @@ const QUIZ_DB = [
     "answer_ko": "가로막신경",
     "source": "Thoracic Wall - 2",
     "quiz_id": "trunk-q443",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 14,
+    "exam_years": "2022, 2021, 2020, 2019, 2017, 2016, 2014, 2013, 2012, 2010, 2009, 2007, 1999, 1996",
+    "recent_year": "2022",
+    "exam_weight": 3.872983346207417
   },
   {
     "image_filename": "Thoracic Wall - 2_Transversus Thoracis Muscle.jpg",
@@ -7098,10 +7098,10 @@ const QUIZ_DB = [
     "answer_ko": "가로가슴근",
     "source": "Thoracic Wall - 2",
     "quiz_id": "trunk-q444",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 5,
+    "exam_years": "2023, 2015, 2013, 2009, 2007",
+    "recent_year": "2023",
+    "exam_weight": 2.449489742783178
   },
   {
     "image_filename": "Thoracic Wall - 3_Azygos Vein.jpg",
@@ -7114,10 +7114,10 @@ const QUIZ_DB = [
     "answer_ko": "홀정맥",
     "source": "Thoracic Wall - 3",
     "quiz_id": "trunk-q445",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 13,
+    "exam_years": "2023, 2018, 2015, 2013, 2012, 2011, 2010, 2009, 2007, 2005, 2003, 2000, 1996",
+    "recent_year": "2023",
+    "exam_weight": 3.7416573867739413
   },
   {
     "image_filename": "Thoracic Wall - 3_Greater Splanchnic Nerve.jpg",
@@ -7130,10 +7130,10 @@ const QUIZ_DB = [
     "answer_ko": "큰내장신경",
     "source": "Thoracic Wall - 3",
     "quiz_id": "trunk-q446",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2025, 2019, 2006",
+    "recent_year": "2025",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Thoracic Wall - 3_Intercostal Nerve.jpg",
@@ -7146,10 +7146,10 @@ const QUIZ_DB = [
     "answer_ko": "갈비사이신경",
     "source": "Thoracic Wall - 3",
     "quiz_id": "trunk-q447",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 3,
+    "exam_years": "2015, 2014, 2009",
+    "recent_year": "2015",
+    "exam_weight": 2.0
   },
   {
     "image_filename": "Thoracic Wall - 3_Sympathetic Chain.jpg",
@@ -7162,10 +7162,10 @@ const QUIZ_DB = [
     "answer_ko": "교감신경줄기",
     "source": "Thoracic Wall - 3",
     "quiz_id": "trunk-q448",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 8,
+    "exam_years": "2020, 2014, 2012, 2009, 2005, 2000, 1997, 1996",
+    "recent_year": "2020",
+    "exam_weight": 3.0
   },
   {
     "image_filename": "Thoracic Wall - 4_Internal Thoracic Artery.jpg",
@@ -7178,10 +7178,10 @@ const QUIZ_DB = [
     "answer_ko": "속가슴동맥",
     "source": "Thoracic Wall - 4",
     "quiz_id": "trunk-q449",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 16,
+    "exam_years": "2025, 2023, 2022, 2021, 2020, 2019, 2017, 2016, 2015, 2014, 2012, 2011, 2010, 2006, 1999, 1996",
+    "recent_year": "2025",
+    "exam_weight": 4.123105625617661
   },
   {
     "image_filename": "Thoracic Wall - 4_External Intercostal Muscle.jpg",
@@ -7194,10 +7194,10 @@ const QUIZ_DB = [
     "answer_ko": "바깥갈비사이근",
     "source": "Thoracic Wall - 4",
     "quiz_id": "trunk-q450",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2006",
+    "recent_year": "2006",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Thoracic Wall - 4_Internal Intercostal Muscle.jpg",
@@ -7210,10 +7210,10 @@ const QUIZ_DB = [
     "answer_ko": "속갈비사이근",
     "source": "Thoracic Wall - 4",
     "quiz_id": "trunk-q451",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "2006",
+    "recent_year": "2006",
+    "exam_weight": 1.4142135623730951
   },
   {
     "image_filename": "Thoracic Wall - 4_Rectus Abdominis Muscle.jpg",
@@ -7226,9 +7226,9 @@ const QUIZ_DB = [
     "answer_ko": "배곧은근",
     "source": "Thoracic Wall - 4",
     "quiz_id": "trunk-q452",
-    "past_count": 0,
-    "exam_years": "",
-    "recent_year": "",
-    "exam_weight": 1.0
+    "past_count": 1,
+    "exam_years": "1997",
+    "recent_year": "1997",
+    "exam_weight": 1.4142135623730951
   }
 ];

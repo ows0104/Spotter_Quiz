@@ -12,10 +12,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q1_1",
         "marker_left":  37.08,
         "marker_bottom":  64.67,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(4), 2015, 2009",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_0052.jpg",
@@ -33,7 +33,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0052.jpg",
@@ -51,7 +51,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0052.jpg",
@@ -69,7 +69,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0052.jpg",
@@ -87,7 +87,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0053.jpg",
@@ -102,10 +102,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q2_1",
         "marker_left":  41.69,
         "marker_bottom":  30.89,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2014",
+        "recent_year":  "2014",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0053.jpg",
@@ -123,7 +123,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0053.jpg",
@@ -138,10 +138,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q2_3",
         "marker_left":  49.06,
         "marker_bottom":  39,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(4), 2015, 2009",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_0053.jpg",
@@ -159,7 +159,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0053.jpg",
@@ -174,10 +174,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q2_5",
         "marker_left":  25.55,
         "marker_bottom":  51.11,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2023",
+        "recent_year":  "2023",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0053.jpg",
@@ -195,7 +195,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0053.jpg",
@@ -210,10 +210,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q2_7",
         "marker_left":  23.91,
         "marker_bottom":  17.44,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2012",
+        "recent_year":  "2012",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0053.jpg",
@@ -228,10 +228,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q2_8",
         "marker_left":  36.77,
         "marker_bottom":  34.22,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2021, 2019, 2013, 2012, 2010, 2009, 2004",
+        "recent_year":  "2021",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "upper_0053.jpg",
@@ -246,10 +246,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q2_9",
         "marker_left":  32.6,
         "marker_bottom":  47.78,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2021, 2019, 2013, 2012, 2010, 2009, 2004",
+        "recent_year":  "2021",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "upper_0054.jpg",
@@ -267,7 +267,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0054.jpg",
@@ -282,10 +282,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q3_2",
         "marker_left":  54.03,
         "marker_bottom":  56.33,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2023",
+        "recent_year":  "2023",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0054.jpg",
@@ -300,10 +300,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q3_3",
         "marker_left":  49.55,
         "marker_bottom":  33.44,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2008",
+        "recent_year":  "2008",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0054.jpg",
@@ -321,7 +321,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0054.jpg",
@@ -336,10 +336,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q3_5",
         "marker_left":  65.55,
         "marker_bottom":  24.78,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2012",
+        "recent_year":  "2012",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0054.jpg",
@@ -354,10 +354,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q3_6",
         "marker_left":  65.44,
         "marker_bottom":  47.11,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2021, 2019, 2013, 2012, 2010, 2009, 2004",
+        "recent_year":  "2021",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "upper_2014_11.jpg",
@@ -375,7 +375,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_11.jpg",
@@ -393,7 +393,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_11.jpg",
@@ -408,10 +408,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q3A_3",
         "marker_left":  73.09,
         "marker_bottom":  68.61,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(4), 2015, 2009",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_2014_11.jpg",
@@ -429,7 +429,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_11.jpg",
@@ -447,7 +447,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_11.jpg",
@@ -462,10 +462,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q3A_6",
         "marker_left":  63.48,
         "marker_bottom":  9.41,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2018, 2015, 2011",
+        "recent_year":  "2018",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_2014_11.jpg",
@@ -483,7 +483,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2016_05.jpg",
@@ -498,10 +498,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q3B_1",
         "marker_left":  32.17,
         "marker_bottom":  32.22,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2012",
+        "recent_year":  "2012",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2016_05.jpg",
@@ -516,10 +516,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q3B_2",
         "marker_left":  53.45,
         "marker_bottom":  63.55,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2008",
+        "recent_year":  "2008",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2016_05.jpg",
@@ -534,10 +534,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q3B_3",
         "marker_left":  40.6,
         "marker_bottom":  66.57,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2021, 2019, 2013, 2012, 2010, 2009, 2004",
+        "recent_year":  "2021",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "upper_2016_05.jpg",
@@ -552,10 +552,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q3B_4",
         "marker_left":  37.47,
         "marker_bottom":  73.01,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2023",
+        "recent_year":  "2023",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2016_05.jpg",
@@ -573,7 +573,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2016_05.jpg",
@@ -588,10 +588,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q3B_6",
         "marker_left":  82.41,
         "marker_bottom":  39.27,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(4), 2015, 2009",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_0055.jpg",
@@ -606,10 +606,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q4_1",
         "marker_left":  85.83,
         "marker_bottom":  78.1,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2014",
+        "recent_year":  "2014",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0055.jpg",
@@ -627,7 +627,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0055.jpg",
@@ -642,10 +642,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q4_3",
         "marker_left":  21.04,
         "marker_bottom":  57.36,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2023, 2010",
+        "recent_year":  "2023",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_0055.jpg",
@@ -660,10 +660,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q4_4",
         "marker_left":  48.06,
         "marker_bottom":  71.49,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2013, 2010, 2009",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "upper_0055.jpg",
@@ -681,7 +681,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0055.jpg",
@@ -696,10 +696,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q4_6",
         "marker_left":  73.09,
         "marker_bottom":  51.45,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(3), 2016, 2015, 2011, 2010, 2009, 2008",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "upper_0055.jpg",
@@ -714,10 +714,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q4_7",
         "marker_left":  29.46,
         "marker_bottom":  21.44,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2011",
+        "recent_year":  "2011",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0055.jpg",
@@ -732,10 +732,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q4_8",
         "marker_left":  64.12,
         "marker_bottom":  39.28,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2023, 2022, 2019, 2014, 2010",
+        "recent_year":  "2023",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "upper_0055.jpg",
@@ -750,10 +750,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q4_9",
         "marker_left":  43.96,
         "marker_bottom":  57.82,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2023, 2019, 2016, 2014, 2012, 2011, 2009, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_0055.jpg",
@@ -768,10 +768,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q4_10",
         "marker_left":  64.89,
         "marker_bottom":  76.94,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  16,
+        "exam_years":  "2025(3), 2022, 2021, 2020, 2019, 2018, 2017, 2014, 2013, 2012, 2010, 2009, 2008, 2004",
+        "recent_year":  "2025",
+        "exam_weight":  4.123105625617661
     },
     {
         "image_filename":  "upper_0055.jpg",
@@ -786,10 +786,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q4_11",
         "marker_left":  78.18,
         "marker_bottom":  18.77,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2018, 2015, 2011",
+        "recent_year":  "2018",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_0055.jpg",
@@ -804,10 +804,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q4_12",
         "marker_left":  78.07,
         "marker_bottom":  6.6,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2018, 2015, 2011",
+        "recent_year":  "2018",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_0055.jpg",
@@ -822,10 +822,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q4_13",
         "marker_left":  38.43,
         "marker_bottom":  33.95,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(4)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0058.jpg",
@@ -840,10 +840,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q5_1",
         "marker_left":  88.97,
         "marker_bottom":  35.97,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2014",
+        "recent_year":  "2014",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0058.jpg",
@@ -861,7 +861,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0058.jpg",
@@ -876,10 +876,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q5_3",
         "marker_left":  45.65,
         "marker_bottom":  73.18,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2023, 2010",
+        "recent_year":  "2023",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_0058.jpg",
@@ -894,10 +894,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q5_4",
         "marker_left":  36.14,
         "marker_bottom":  60.82,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2019",
+        "recent_year":  "2019",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0058.jpg",
@@ -912,10 +912,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q5_5",
         "marker_left":  71.03,
         "marker_bottom":  59.95,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2013, 2010, 2009",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "upper_0058.jpg",
@@ -933,7 +933,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0058.jpg",
@@ -948,10 +948,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q5_7",
         "marker_left":  77.04,
         "marker_bottom":  11.25,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(3), 2016, 2015, 2011, 2010, 2009, 2008",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "upper_0058.jpg",
@@ -966,10 +966,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q5_8",
         "marker_left":  64.84,
         "marker_bottom":  11.74,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2023, 2022, 2019, 2014, 2010",
+        "recent_year":  "2023",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "upper_0058.jpg",
@@ -984,10 +984,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q5_9",
         "marker_left":  60.63,
         "marker_bottom":  55.62,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2023, 2019, 2016, 2014, 2012, 2011, 2009, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_0058.jpg",
@@ -1002,10 +1002,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q5_10",
         "marker_left":  77.13,
         "marker_bottom":  51.42,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  16,
+        "exam_years":  "2025(3), 2022, 2021, 2020, 2019, 2018, 2017, 2014, 2013, 2012, 2010, 2009, 2008, 2004",
+        "recent_year":  "2025",
+        "exam_weight":  4.123105625617661
     },
     {
         "image_filename":  "upper_0058.jpg",
@@ -1023,7 +1023,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0058.jpg",
@@ -1038,10 +1038,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q5_12",
         "marker_left":  62.6,
         "marker_bottom":  43.39,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  16,
+        "exam_years":  "2023, 2021, 2020, 2019, 2018, 2017, 2016, 2013, 2012, 2011, 2009, 2008, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  4.123105625617661
     },
     {
         "image_filename":  "upper_0057.jpg",
@@ -1056,10 +1056,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q6_1",
         "marker_left":  38,
         "marker_bottom":  63.89,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2019",
+        "recent_year":  "2019",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0057.jpg",
@@ -1077,7 +1077,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0057.jpg",
@@ -1092,10 +1092,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q6_3",
         "marker_left":  9.54,
         "marker_bottom":  6.11,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2008",
+        "recent_year":  "2008",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0057.jpg",
@@ -1110,10 +1110,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q6_4",
         "marker_left":  28.78,
         "marker_bottom":  26.89,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2023, 2019, 2016, 2014, 2012, 2011, 2009, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_0057.jpg",
@@ -1128,10 +1128,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q6_5",
         "marker_left":  69.71,
         "marker_bottom":  57.56,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  16,
+        "exam_years":  "2025(3), 2022, 2021, 2020, 2019, 2018, 2017, 2014, 2013, 2012, 2010, 2009, 2008, 2004",
+        "recent_year":  "2025",
+        "exam_weight":  4.123105625617661
     },
     {
         "image_filename":  "upper_0057.jpg",
@@ -1146,10 +1146,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q6_6",
         "marker_left":  56.04,
         "marker_bottom":  50.44,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  11,
+        "exam_years":  "2023, 2022, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2011, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.4641016151377544
     },
     {
         "image_filename":  "upper_0057.jpg",
@@ -1164,10 +1164,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q6_7",
         "marker_left":  23.77,
         "marker_bottom":  15,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  16,
+        "exam_years":  "2023, 2021, 2020, 2019, 2018, 2017, 2016, 2013, 2012, 2011, 2009, 2008, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  4.123105625617661
     },
     {
         "image_filename":  "upper_0056.jpg",
@@ -1185,7 +1185,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0056.jpg",
@@ -1200,10 +1200,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7_2",
         "marker_left":  54.98,
         "marker_bottom":  49,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2014",
+        "recent_year":  "2014",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0056.jpg",
@@ -1221,7 +1221,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0056.jpg",
@@ -1236,10 +1236,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7_4",
         "marker_left":  21.65,
         "marker_bottom":  61,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2023, 2010",
+        "recent_year":  "2023",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_0056.jpg",
@@ -1254,10 +1254,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7_5",
         "marker_left":  61.53,
         "marker_bottom":  61.78,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2013, 2010, 2009",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "upper_0056.jpg",
@@ -1272,10 +1272,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7_6",
         "marker_left":  80.69,
         "marker_bottom":  33.67,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(3), 2016, 2015, 2011, 2010, 2009, 2008",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "upper_0056.jpg",
@@ -1290,10 +1290,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7_7",
         "marker_left":  12.93,
         "marker_bottom":  21.56,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2011",
+        "recent_year":  "2011",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0056.jpg",
@@ -1308,10 +1308,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7_8",
         "marker_left":  56.85,
         "marker_bottom":  20.56,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2023, 2022, 2019, 2014, 2010",
+        "recent_year":  "2023",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "upper_0056.jpg",
@@ -1326,10 +1326,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7_9",
         "marker_left":  31.46,
         "marker_bottom":  52.44,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  16,
+        "exam_years":  "2025(3), 2022, 2021, 2020, 2019, 2018, 2017, 2014, 2013, 2012, 2010, 2009, 2008, 2004",
+        "recent_year":  "2025",
+        "exam_weight":  4.123105625617661
     },
     {
         "image_filename":  "upper_0056.jpg",
@@ -1344,10 +1344,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7_10",
         "marker_left":  47.82,
         "marker_bottom":  56.56,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2025(3), 2023, 2022, 2021, 2017, 2016, 2015, 2012, 2011, 2006",
+        "recent_year":  "2025",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_2014_12.jpg",
@@ -1365,7 +1365,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_12.jpg",
@@ -1380,10 +1380,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7A_2",
         "marker_left":  40.03,
         "marker_bottom":  71.42,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(3), 2016, 2015, 2011, 2010, 2009, 2008",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "upper_2014_12.jpg",
@@ -1398,10 +1398,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7A_3",
         "marker_left":  61.36,
         "marker_bottom":  75.68,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2014",
+        "recent_year":  "2014",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2014_12.jpg",
@@ -1419,7 +1419,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_12.jpg",
@@ -1434,10 +1434,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7A_5",
         "marker_left":  40.93,
         "marker_bottom":  25.16,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2018, 2015, 2011",
+        "recent_year":  "2018",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_2014_12.jpg",
@@ -1455,7 +1455,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_12.jpg",
@@ -1470,10 +1470,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7A_7",
         "marker_left":  77.85,
         "marker_bottom":  36,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2011",
+        "recent_year":  "2011",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2014_12.jpg",
@@ -1488,10 +1488,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7A_8",
         "marker_left":  53.84,
         "marker_bottom":  64.71,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2023, 2022, 2019, 2014, 2010",
+        "recent_year":  "2023",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "upper_2014_12.jpg",
@@ -1506,10 +1506,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7A_9",
         "marker_left":  86.34,
         "marker_bottom":  66.61,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2019",
+        "recent_year":  "2019",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2014_13.jpg",
@@ -1524,10 +1524,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7B_1",
         "marker_left":  46.11,
         "marker_bottom":  84.63,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2014",
+        "recent_year":  "2014",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2014_13.jpg",
@@ -1542,10 +1542,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7B_2",
         "marker_left":  53.68,
         "marker_bottom":  77.97,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2025(4), 2018, 2013, 2012, 2011",
+        "recent_year":  "2025",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "upper_2014_13.jpg",
@@ -1560,10 +1560,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7B_3",
         "marker_left":  87.15,
         "marker_bottom":  64.6,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2012, 2010",
+        "recent_year":  "2012",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_2014_13.jpg",
@@ -1578,10 +1578,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7B_4",
         "marker_left":  39.97,
         "marker_bottom":  55.95,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2014_13.jpg",
@@ -1596,10 +1596,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7B_5",
         "marker_left":  75.16,
         "marker_bottom":  34.39,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2011",
+        "recent_year":  "2011",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2014_13.jpg",
@@ -1614,10 +1614,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7B_6",
         "marker_left":  66.02,
         "marker_bottom":  41.64,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(4)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2014_13.jpg",
@@ -1632,10 +1632,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7B_7",
         "marker_left":  8.35,
         "marker_bottom":  70.02,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(3), 2016, 2015, 2011, 2010, 2009, 2008",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "upper_2014_14.jpg",
@@ -1650,10 +1650,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7C_1",
         "marker_left":  74.15,
         "marker_bottom":  78.73,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2025(3), 2023, 2022, 2021, 2017, 2016, 2015, 2012, 2011, 2006",
+        "recent_year":  "2025",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_2014_14.jpg",
@@ -1671,7 +1671,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_14.jpg",
@@ -1686,10 +1686,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7C_3",
         "marker_left":  56.48,
         "marker_bottom":  82.96,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  8,
+        "exam_years":  "2020, 2019, 2015, 2014, 2012, 2011, 2010, 2006",
+        "recent_year":  "2020",
+        "exam_weight":  3.0
     },
     {
         "image_filename":  "upper_2014_14.jpg",
@@ -1704,10 +1704,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7C_4",
         "marker_left":  89.47,
         "marker_bottom":  66.2,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  11,
+        "exam_years":  "2023, 2022, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2011, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.4641016151377544
     },
     {
         "image_filename":  "upper_2014_14.jpg",
@@ -1725,7 +1725,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_14.jpg",
@@ -1740,10 +1740,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7C_6",
         "marker_left":  66.2,
         "marker_bottom":  28.59,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2011",
+        "recent_year":  "2011",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2014_14.jpg",
@@ -1758,10 +1758,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7C_7",
         "marker_left":  54.05,
         "marker_bottom":  46.66,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(4)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2014_14.jpg",
@@ -1776,10 +1776,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7C_8",
         "marker_left":  69.37,
         "marker_bottom":  60.17,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2025(4), 2018, 2013, 2012, 2011",
+        "recent_year":  "2025",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "upper_2014_14.jpg",
@@ -1794,10 +1794,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7C_9",
         "marker_left":  20.47,
         "marker_bottom":  81.41,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(3), 2016, 2015, 2011, 2010, 2009, 2008",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "upper_2014_15.jpg",
@@ -1815,7 +1815,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_15.jpg",
@@ -1830,10 +1830,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7M_2",
         "marker_left":  76.38,
         "marker_bottom":  53.21,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2023, 2010",
+        "recent_year":  "2023",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_2014_15.jpg",
@@ -1848,10 +1848,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7M_3",
         "marker_left":  30.34,
         "marker_bottom":  78.19,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2013, 2010, 2009",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "upper_2014_15.jpg",
@@ -1866,10 +1866,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7M_4",
         "marker_left":  41.33,
         "marker_bottom":  59.85,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  11,
+        "exam_years":  "2023, 2022, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2011, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.4641016151377544
     },
     {
         "image_filename":  "upper_2014_15.jpg",
@@ -1887,7 +1887,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_15.jpg",
@@ -1902,10 +1902,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7M_6",
         "marker_left":  62.56,
         "marker_bottom":  41.09,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2019",
+        "recent_year":  "2019",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2016_13.jpg",
@@ -1920,10 +1920,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7N_1",
         "marker_left":  31.26,
         "marker_bottom":  49.68,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  16,
+        "exam_years":  "2025(3), 2022, 2021, 2020, 2019, 2018, 2017, 2014, 2013, 2012, 2010, 2009, 2008, 2004",
+        "recent_year":  "2025",
+        "exam_weight":  4.123105625617661
     },
     {
         "image_filename":  "upper_2016_13.jpg",
@@ -1938,10 +1938,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7N_2",
         "marker_left":  45.8,
         "marker_bottom":  52.74,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2013, 2010, 2009",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "upper_2016_13.jpg",
@@ -1959,7 +1959,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2016_13.jpg",
@@ -1977,7 +1977,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2016_13.jpg",
@@ -1992,10 +1992,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7N_5",
         "marker_left":  52.8,
         "marker_bottom":  45.26,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2023, 2019, 2016, 2014, 2012, 2011, 2009, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_2016_13.jpg",
@@ -2010,10 +2010,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7N_6",
         "marker_left":  39.65,
         "marker_bottom":  35.69,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  16,
+        "exam_years":  "2023, 2021, 2020, 2019, 2018, 2017, 2016, 2013, 2012, 2011, 2009, 2008, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  4.123105625617661
     },
     {
         "image_filename":  "upper_2016_16.jpg",
@@ -2031,7 +2031,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2016_16.jpg",
@@ -2049,7 +2049,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2016_16.jpg",
@@ -2064,10 +2064,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7O_3",
         "marker_left":  30,
         "marker_bottom":  71.96,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  16,
+        "exam_years":  "2023, 2021, 2020, 2019, 2018, 2017, 2016, 2013, 2012, 2011, 2009, 2008, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  4.123105625617661
     },
     {
         "image_filename":  "upper_2016_16.jpg",
@@ -2082,10 +2082,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q7O_4",
         "marker_left":  58,
         "marker_bottom":  64.76,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2023, 2019, 2016, 2014, 2012, 2011, 2009, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_0061.jpg",
@@ -2103,7 +2103,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0061.jpg",
@@ -2118,10 +2118,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q8_2",
         "marker_left":  48.68,
         "marker_bottom":  30.06,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2023, 2022",
+        "recent_year":  "2023",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_0063.jpg",
@@ -2136,10 +2136,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q9_1",
         "marker_left":  25.96,
         "marker_bottom":  56.22,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  8,
+        "exam_years":  "2020, 2019, 2015, 2014, 2012, 2011, 2010, 2006",
+        "recent_year":  "2020",
+        "exam_weight":  3.0
     },
     {
         "image_filename":  "upper_0063.jpg",
@@ -2157,7 +2157,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0063.jpg",
@@ -2172,10 +2172,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q9_3",
         "marker_left":  52.04,
         "marker_bottom":  65.33,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2016",
+        "recent_year":  "2016",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0063.jpg",
@@ -2190,10 +2190,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q9_4",
         "marker_left":  49.71,
         "marker_bottom":  14.78,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2011",
+        "recent_year":  "2011",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0063.jpg",
@@ -2208,10 +2208,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q9_5",
         "marker_left":  24.21,
         "marker_bottom":  52,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2025(3), 2023, 2022, 2021, 2017, 2016, 2015, 2012, 2011, 2006",
+        "recent_year":  "2025",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_0063.jpg",
@@ -2226,10 +2226,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q9_6",
         "marker_left":  61,
         "marker_bottom":  33.33,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2012, 2010",
+        "recent_year":  "2012",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_0063.jpg",
@@ -2244,10 +2244,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q9_7",
         "marker_left":  32.71,
         "marker_bottom":  60.44,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2025(4), 2009",
+        "recent_year":  "2025",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_0063.jpg",
@@ -2265,7 +2265,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0059.jpg",
@@ -2283,7 +2283,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0059.jpg",
@@ -2298,10 +2298,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q10_2",
         "marker_left":  56.44,
         "marker_bottom":  25,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(3)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0059.jpg",
@@ -2316,10 +2316,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q10_3",
         "marker_left":  50.53,
         "marker_bottom":  62.89,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2025(3), 2011",
+        "recent_year":  "2025",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_0059.jpg",
@@ -2334,10 +2334,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q10_4",
         "marker_left":  55.68,
         "marker_bottom":  58.42,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2017, 2015, 2010",
+        "recent_year":  "2017",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_0059.jpg",
@@ -2352,10 +2352,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q10_5",
         "marker_left":  48.26,
         "marker_bottom":  44.39,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2017, 2015, 2010",
+        "recent_year":  "2017",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_0059.jpg",
@@ -2373,7 +2373,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0059.jpg",
@@ -2388,10 +2388,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q10_7",
         "marker_left":  37.35,
         "marker_bottom":  43.77,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2019",
+        "recent_year":  "2019",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0059.jpg",
@@ -2409,7 +2409,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0060.jpg",
@@ -2427,7 +2427,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0060.jpg",
@@ -2445,7 +2445,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0060.jpg",
@@ -2463,7 +2463,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0060.jpg",
@@ -2481,7 +2481,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0060.jpg",
@@ -2496,10 +2496,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q11_5",
         "marker_left":  55.7,
         "marker_bottom":  84.51,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(3)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0060.jpg",
@@ -2514,10 +2514,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q11_6",
         "marker_left":  49.98,
         "marker_bottom":  59.72,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2025(3), 2011",
+        "recent_year":  "2025",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_2014_33.jpg",
@@ -2535,7 +2535,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_33.jpg",
@@ -2550,10 +2550,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q11A_2",
         "marker_left":  57.38,
         "marker_bottom":  46.56,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2019",
+        "recent_year":  "2019",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2014_33.jpg",
@@ -2568,10 +2568,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q11A_3",
         "marker_left":  54.01,
         "marker_bottom":  72.44,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2025(3), 2011",
+        "recent_year":  "2025",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_2014_33.jpg",
@@ -2589,7 +2589,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_33.jpg",
@@ -2604,10 +2604,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q11A_5",
         "marker_left":  41.5,
         "marker_bottom":  73.85,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2017, 2015, 2010",
+        "recent_year":  "2017",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_2014_33.jpg",
@@ -2622,10 +2622,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q11A_6",
         "marker_left":  41.33,
         "marker_bottom":  52.83,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2017, 2015, 2010",
+        "recent_year":  "2017",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_2014_33.jpg",
@@ -2640,10 +2640,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q11A_7",
         "marker_left":  41.5,
         "marker_bottom":  37.87,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(3)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2014_33.jpg",
@@ -2658,10 +2658,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q11A_8",
         "marker_left":  38.65,
         "marker_bottom":  16.17,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2016",
+        "recent_year":  "2016",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0062.jpg",
@@ -2679,7 +2679,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0062.jpg",
@@ -2697,7 +2697,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0062.jpg",
@@ -2715,7 +2715,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0062.jpg",
@@ -2730,10 +2730,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q12_4",
         "marker_left":  65.11,
         "marker_bottom":  66.87,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  11,
+        "exam_years":  "2023, 2022, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2011, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.4641016151377544
     },
     {
         "image_filename":  "upper_0062.jpg",
@@ -2751,7 +2751,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0062.jpg",
@@ -2769,7 +2769,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_36.jpg",
@@ -2787,7 +2787,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_36.jpg",
@@ -2802,10 +2802,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q12A_2",
         "marker_left":  81.97,
         "marker_bottom":  88.64,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2012, 2010",
+        "recent_year":  "2012",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_2014_36.jpg",
@@ -2823,7 +2823,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_36.jpg",
@@ -2841,7 +2841,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_36.jpg",
@@ -2859,7 +2859,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_36.jpg",
@@ -2877,7 +2877,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_36.jpg",
@@ -2895,7 +2895,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0064.jpg",
@@ -2910,10 +2910,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q13_1",
         "marker_left":  58.19,
         "marker_bottom":  81.2,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2022",
+        "recent_year":  "2022",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0064.jpg",
@@ -2928,10 +2928,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q13_2",
         "marker_left":  20.07,
         "marker_bottom":  68.3,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0064.jpg",
@@ -2949,7 +2949,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0064.jpg",
@@ -2967,7 +2967,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0065.jpg",
@@ -2982,10 +2982,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q14_1",
         "marker_left":  57.86,
         "marker_bottom":  72.41,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2021, 2013, 2010",
+        "recent_year":  "2021",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_0065.jpg",
@@ -3000,10 +3000,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q14_2",
         "marker_left":  58.46,
         "marker_bottom":  42.71,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2018, 2017, 2015, 2014, 2009",
+        "recent_year":  "2018",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "upper_0065.jpg",
@@ -3018,10 +3018,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q14_3",
         "marker_left":  48.07,
         "marker_bottom":  48.94,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(3), 2023, 2013",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_0065.jpg",
@@ -3036,10 +3036,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q14_4",
         "marker_left":  53.71,
         "marker_bottom":  60.51,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  8,
+        "exam_years":  "2025(3), 2022, 2017, 2015, 2014, 2013, 2012, 2011",
+        "recent_year":  "2025",
+        "exam_weight":  3.0
     },
     {
         "image_filename":  "upper_0065.jpg",
@@ -3054,10 +3054,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q14_5",
         "marker_left":  38.28,
         "marker_bottom":  31.59,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  8,
+        "exam_years":  "2025(3), 2020, 2018, 2017, 2014, 2011, 2006, 2004",
+        "recent_year":  "2025",
+        "exam_weight":  3.0
     },
     {
         "image_filename":  "upper_0065.jpg",
@@ -3072,10 +3072,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q14_6",
         "marker_left":  43.92,
         "marker_bottom":  39.49,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  9,
+        "exam_years":  "2025(4), 2022, 2021, 2016, 2014, 2012, 2011, 2010, 2009",
+        "recent_year":  "2025",
+        "exam_weight":  3.1622776601683795
     },
     {
         "image_filename":  "upper_0066.jpg",
@@ -3090,10 +3090,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q15_1",
         "marker_left":  58.17,
         "marker_bottom":  86.11,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2021, 2013, 2010",
+        "recent_year":  "2021",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_0066.jpg",
@@ -3108,10 +3108,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q15_2",
         "marker_left":  48.2,
         "marker_bottom":  60.78,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(3), 2023, 2013",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_0066.jpg",
@@ -3126,10 +3126,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q15_3",
         "marker_left":  56.23,
         "marker_bottom":  55,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2018, 2017, 2015, 2014, 2009",
+        "recent_year":  "2018",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "upper_0066.jpg",
@@ -3144,10 +3144,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q15_4",
         "marker_left":  83.66,
         "marker_bottom":  53.22,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2025(4), 2023, 2015, 2004",
+        "recent_year":  "2025",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "upper_0066.jpg",
@@ -3162,10 +3162,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q15_5",
         "marker_left":  56.51,
         "marker_bottom":  74.33,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  8,
+        "exam_years":  "2025(3), 2022, 2017, 2015, 2014, 2013, 2012, 2011",
+        "recent_year":  "2025",
+        "exam_weight":  3.0
     },
     {
         "image_filename":  "upper_0066.jpg",
@@ -3180,10 +3180,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q15_6",
         "marker_left":  24.65,
         "marker_bottom":  31,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  8,
+        "exam_years":  "2025(3), 2020, 2018, 2017, 2014, 2011, 2006, 2004",
+        "recent_year":  "2025",
+        "exam_weight":  3.0
     },
     {
         "image_filename":  "upper_0066.jpg",
@@ -3201,7 +3201,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0066.jpg",
@@ -3216,10 +3216,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q15_8",
         "marker_left":  39.61,
         "marker_bottom":  45.78,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  9,
+        "exam_years":  "2025(4), 2022, 2021, 2016, 2014, 2012, 2011, 2010, 2009",
+        "recent_year":  "2025",
+        "exam_weight":  3.1622776601683795
     },
     {
         "image_filename":  "upper_0067.jpg",
@@ -3234,10 +3234,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q16_1",
         "marker_left":  13.38,
         "marker_bottom":  15.13,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2021, 2013, 2010",
+        "recent_year":  "2021",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_0067.jpg",
@@ -3252,10 +3252,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q16_2",
         "marker_left":  9.03,
         "marker_bottom":  28.7,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(3), 2023, 2013",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_0067.jpg",
@@ -3270,10 +3270,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q16_3",
         "marker_left":  12.71,
         "marker_bottom":  20.91,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2018, 2017, 2015, 2014, 2009",
+        "recent_year":  "2018",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "upper_0067.jpg",
@@ -3288,10 +3288,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q16_4",
         "marker_left":  58.19,
         "marker_bottom":  16.91,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2022",
+        "recent_year":  "2022",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0067.jpg",
@@ -3306,10 +3306,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q16_5",
         "marker_left":  79.26,
         "marker_bottom":  16.02,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0067.jpg",
@@ -3327,7 +3327,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0067.jpg",
@@ -3342,10 +3342,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q16_7",
         "marker_left":  12.04,
         "marker_bottom":  4.67,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  8,
+        "exam_years":  "2025(3), 2022, 2017, 2015, 2014, 2013, 2012, 2011",
+        "recent_year":  "2025",
+        "exam_weight":  3.0
     },
     {
         "image_filename":  "upper_0067.jpg",
@@ -3360,10 +3360,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q16_8",
         "marker_left":  36.45,
         "marker_bottom":  10.01,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  8,
+        "exam_years":  "2025(3), 2020, 2018, 2017, 2014, 2011, 2006, 2004",
+        "recent_year":  "2025",
+        "exam_weight":  3.0
     },
     {
         "image_filename":  "upper_0067.jpg",
@@ -3378,10 +3378,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q16_9",
         "marker_left":  46.49,
         "marker_bottom":  5.9,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2025(4), 2023, 2015, 2004",
+        "recent_year":  "2025",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "upper_0067.jpg",
@@ -3396,10 +3396,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q16_10",
         "marker_left":  46.82,
         "marker_bottom":  63.29,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(4), 2021, 2020, 2018, 2015, 2013, 2004",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "upper_0067.jpg",
@@ -3414,10 +3414,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q16_11",
         "marker_left":  58.19,
         "marker_bottom":  57.95,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2010",
+        "recent_year":  "2010",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0068.jpg",
@@ -3435,7 +3435,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0068.jpg",
@@ -3450,10 +3450,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17_2",
         "marker_left":  42.14,
         "marker_bottom":  86.65,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2019, 2015, 2014, 2011, 2010, 2009",
+        "recent_year":  "2019",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "upper_0068.jpg",
@@ -3468,10 +3468,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17_3",
         "marker_left":  59.2,
         "marker_bottom":  57.95,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2018, 2017, 2015, 2014, 2009",
+        "recent_year":  "2018",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "upper_0068.jpg",
@@ -3486,10 +3486,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17_4",
         "marker_left":  57.53,
         "marker_bottom":  83.43,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(3), 2023, 2013",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_0068.jpg",
@@ -3504,10 +3504,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17_5",
         "marker_left":  45.82,
         "marker_bottom":  28.36,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  8,
+        "exam_years":  "2025(3), 2022, 2017, 2015, 2014, 2013, 2012, 2011",
+        "recent_year":  "2025",
+        "exam_weight":  3.0
     },
     {
         "image_filename":  "upper_0068.jpg",
@@ -3522,10 +3522,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17_6",
         "marker_left":  56.52,
         "marker_bottom":  27.14,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  8,
+        "exam_years":  "2025(3), 2020, 2018, 2017, 2014, 2011, 2006, 2004",
+        "recent_year":  "2025",
+        "exam_weight":  3.0
     },
     {
         "image_filename":  "upper_0068.jpg",
@@ -3540,10 +3540,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17_7",
         "marker_left":  41.47,
         "marker_bottom":  75.75,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(4), 2021, 2009",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_2014_78.jpg",
@@ -3561,7 +3561,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_78.jpg",
@@ -3576,10 +3576,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17A_2",
         "marker_left":  59.13,
         "marker_bottom":  58.87,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2019, 2015, 2014, 2011, 2010, 2009",
+        "recent_year":  "2019",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "upper_2014_78.jpg",
@@ -3594,10 +3594,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17A_3",
         "marker_left":  44.18,
         "marker_bottom":  16.67,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2018, 2017, 2015, 2014, 2009",
+        "recent_year":  "2018",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "upper_2014_78.jpg",
@@ -3612,10 +3612,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17A_4",
         "marker_left":  47.09,
         "marker_bottom":  31.19,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(3), 2023, 2013",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_2014_78.jpg",
@@ -3630,10 +3630,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17A_5",
         "marker_left":  47.22,
         "marker_bottom":  66.88,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  11,
+        "exam_years":  "2023, 2022, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2011, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.4641016151377544
     },
     {
         "image_filename":  "upper_2014_78.jpg",
@@ -3648,10 +3648,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17A_6",
         "marker_left":  62.7,
         "marker_bottom":  92.13,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2017, 2006, 2004",
+        "recent_year":  "2017",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_2014_78.jpg",
@@ -3666,10 +3666,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17A_7",
         "marker_left":  54.63,
         "marker_bottom":  43.63,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(4), 2021, 2009",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_2014_78.jpg",
@@ -3684,10 +3684,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17A_8",
         "marker_left":  43.25,
         "marker_bottom":  61.45,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2025(3), 2018, 2017, 2014, 2012",
+        "recent_year":  "2025",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "upper_2014_78.jpg",
@@ -3702,10 +3702,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17A_9",
         "marker_left":  41.8,
         "marker_bottom":  71.96,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2017, 2006, 2004",
+        "recent_year":  "2017",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_2014_78.jpg",
@@ -3723,7 +3723,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2016_26.jpg",
@@ -3738,10 +3738,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17B_1",
         "marker_left":  53.26,
         "marker_bottom":  60.35,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2019, 2015, 2014, 2011, 2010, 2009",
+        "recent_year":  "2019",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "upper_2016_26.jpg",
@@ -3756,10 +3756,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17B_2",
         "marker_left":  55.89,
         "marker_bottom":  42.03,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  9,
+        "exam_years":  "2025(4), 2022, 2021, 2016, 2014, 2012, 2011, 2010, 2009",
+        "recent_year":  "2025",
+        "exam_weight":  3.1622776601683795
     },
     {
         "image_filename":  "upper_2016_26.jpg",
@@ -3774,10 +3774,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17B_3",
         "marker_left":  59.47,
         "marker_bottom":  40,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(3), 2023, 2013",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_2016_26.jpg",
@@ -3792,10 +3792,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17B_4",
         "marker_left":  62.63,
         "marker_bottom":  38.95,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2018, 2017, 2015, 2014, 2009",
+        "recent_year":  "2018",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "upper_2016_26.jpg",
@@ -3810,10 +3810,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17B_5",
         "marker_left":  62.53,
         "marker_bottom":  29.02,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2021, 2013, 2010",
+        "recent_year":  "2021",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_2016_26.jpg",
@@ -3828,10 +3828,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17B_6",
         "marker_left":  63.58,
         "marker_bottom":  23.57,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  8,
+        "exam_years":  "2025(3), 2022, 2017, 2015, 2014, 2013, 2012, 2011",
+        "recent_year":  "2025",
+        "exam_weight":  3.0
     },
     {
         "image_filename":  "upper_2016_26.jpg",
@@ -3846,10 +3846,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17B_7",
         "marker_left":  55.47,
         "marker_bottom":  5.67,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  9,
+        "exam_years":  "2025(4), 2022, 2021, 2016, 2014, 2012, 2011, 2010, 2009",
+        "recent_year":  "2025",
+        "exam_weight":  3.1622776601683795
     },
     {
         "image_filename":  "upper_2016_26.jpg",
@@ -3864,10 +3864,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17B_8",
         "marker_left":  59.26,
         "marker_bottom":  3.85,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  8,
+        "exam_years":  "2025(3), 2020, 2018, 2017, 2014, 2011, 2006, 2004",
+        "recent_year":  "2025",
+        "exam_weight":  3.0
     },
     {
         "image_filename":  "upper_2016_26.jpg",
@@ -3882,10 +3882,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17B_9",
         "marker_left":  52.74,
         "marker_bottom":  49.65,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2013, 2012",
+        "recent_year":  "2013",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_2016_23.jpg",
@@ -3900,10 +3900,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17C_1",
         "marker_left":  56.63,
         "marker_bottom":  90.56,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2022",
+        "recent_year":  "2022",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2016_23.jpg",
@@ -3918,10 +3918,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17C_2",
         "marker_left":  47.37,
         "marker_bottom":  78.81,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2016_23.jpg",
@@ -3939,7 +3939,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2016_23.jpg",
@@ -3957,7 +3957,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2016_23.jpg",
@@ -3972,10 +3972,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17C_5",
         "marker_left":  36.32,
         "marker_bottom":  50.77,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2006, 2004",
+        "recent_year":  "2006",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_2016_27.jpg",
@@ -3990,10 +3990,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17D_1",
         "marker_left":  43.7,
         "marker_bottom":  88.89,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2021, 2013, 2010",
+        "recent_year":  "2021",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_2016_27.jpg",
@@ -4008,10 +4008,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17D_2",
         "marker_left":  48.15,
         "marker_bottom":  83.87,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  8,
+        "exam_years":  "2025(3), 2022, 2017, 2015, 2014, 2013, 2012, 2011",
+        "recent_year":  "2025",
+        "exam_weight":  3.0
     },
     {
         "image_filename":  "upper_2016_27.jpg",
@@ -4026,10 +4026,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17D_3",
         "marker_left":  56.89,
         "marker_bottom":  77.29,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  8,
+        "exam_years":  "2025(3), 2020, 2018, 2017, 2014, 2011, 2006, 2004",
+        "recent_year":  "2025",
+        "exam_weight":  3.0
     },
     {
         "image_filename":  "upper_2016_27.jpg",
@@ -4044,10 +4044,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17D_4",
         "marker_left":  57.48,
         "marker_bottom":  55.85,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2018, 2017, 2015, 2014, 2009",
+        "recent_year":  "2018",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "upper_2016_27.jpg",
@@ -4065,7 +4065,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2016_27.jpg",
@@ -4080,10 +4080,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17D_6",
         "marker_left":  43.41,
         "marker_bottom":  49.75,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  8,
+        "exam_years":  "2025(3), 2020, 2018, 2017, 2014, 2011, 2006, 2004",
+        "recent_year":  "2025",
+        "exam_weight":  3.0
     },
     {
         "image_filename":  "upper_2016_27.jpg",
@@ -4098,10 +4098,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17D_7",
         "marker_left":  41.33,
         "marker_bottom":  60.37,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  8,
+        "exam_years":  "2025(3), 2022, 2017, 2015, 2014, 2013, 2012, 2011",
+        "recent_year":  "2025",
+        "exam_weight":  3.0
     },
     {
         "image_filename":  "upper_2016_27.jpg",
@@ -4116,10 +4116,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q17D_8",
         "marker_left":  62.08,
         "marker_bottom":  34.8,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2025(4), 2023, 2015, 2004",
+        "recent_year":  "2025",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "upper_0172.jpg",
@@ -4134,10 +4134,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q18_1",
         "marker_left":  27.43,
         "marker_bottom":  69.96,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2019, 2015, 2014, 2011, 2010, 2009",
+        "recent_year":  "2019",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "upper_0172.jpg",
@@ -4152,10 +4152,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q18_2",
         "marker_left":  43.52,
         "marker_bottom":  62.78,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2013, 2012",
+        "recent_year":  "2013",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_0172.jpg",
@@ -4170,10 +4170,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q18_3",
         "marker_left":  69.38,
         "marker_bottom":  43.28,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2020, 2015, 2004",
+        "recent_year":  "2020",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_0172.jpg",
@@ -4188,10 +4188,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q18_4",
         "marker_left":  58.78,
         "marker_bottom":  46.08,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(3)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0172.jpg",
@@ -4209,7 +4209,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0172.jpg",
@@ -4224,10 +4224,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q18_6",
         "marker_left":  41.56,
         "marker_bottom":  24.25,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  9,
+        "exam_years":  "2025(4), 2022, 2021, 2016, 2014, 2012, 2011, 2010, 2009",
+        "recent_year":  "2025",
+        "exam_weight":  3.1622776601683795
     },
     {
         "image_filename":  "upper_0173.jpg",
@@ -4242,10 +4242,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q19_1",
         "marker_left":  21.06,
         "marker_bottom":  46.56,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2019, 2015, 2014, 2011, 2010, 2009",
+        "recent_year":  "2019",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "upper_0173.jpg",
@@ -4260,10 +4260,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q19_2",
         "marker_left":  39.52,
         "marker_bottom":  44.62,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2013, 2012",
+        "recent_year":  "2013",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_0173.jpg",
@@ -4278,10 +4278,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q19_3",
         "marker_left":  71.34,
         "marker_bottom":  45.91,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2020, 2015, 2004",
+        "recent_year":  "2020",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_0173.jpg",
@@ -4296,10 +4296,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q19_4",
         "marker_left":  56.38,
         "marker_bottom":  45.73,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(3)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0173.jpg",
@@ -4314,10 +4314,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q19_5",
         "marker_left":  48.04,
         "marker_bottom":  44.52,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(4)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0173.jpg",
@@ -4332,10 +4332,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q19_6",
         "marker_left":  31.55,
         "marker_bottom":  44.34,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  9,
+        "exam_years":  "2025(4), 2022, 2021, 2016, 2014, 2012, 2011, 2010, 2009",
+        "recent_year":  "2025",
+        "exam_weight":  3.1622776601683795
     },
     {
         "image_filename":  "upper_0173.jpg",
@@ -4353,7 +4353,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0176.jpg",
@@ -4371,7 +4371,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0176.jpg",
@@ -4386,10 +4386,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q20_2",
         "marker_left":  49.8,
         "marker_bottom":  77.39,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2019",
+        "recent_year":  "2019",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0176.jpg",
@@ -4404,10 +4404,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q20_3",
         "marker_left":  74.75,
         "marker_bottom":  53.54,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2019, 2015, 2014, 2011, 2010, 2009",
+        "recent_year":  "2019",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "upper_0176.jpg",
@@ -4422,10 +4422,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q20_4",
         "marker_left":  49.54,
         "marker_bottom":  6.51,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(3)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0176.jpg",
@@ -4440,10 +4440,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q20_5",
         "marker_left":  47.19,
         "marker_bottom":  31.75,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2023, 2019, 2016, 2014, 2012, 2011, 2009, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_0176.jpg",
@@ -4458,10 +4458,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q20_6",
         "marker_left":  46.66,
         "marker_bottom":  51.51,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2016, 2009",
+        "recent_year":  "2016",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_0176.jpg",
@@ -4476,10 +4476,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q20_7",
         "marker_left":  56.96,
         "marker_bottom":  23.61,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  9,
+        "exam_years":  "2025(4), 2022, 2021, 2016, 2014, 2012, 2011, 2010, 2009",
+        "recent_year":  "2025",
+        "exam_weight":  3.1622776601683795
     },
     {
         "image_filename":  "upper_0179.jpg",
@@ -4494,10 +4494,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q21_1",
         "marker_left":  77.95,
         "marker_bottom":  63.99,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2019, 2015, 2014, 2011, 2010, 2009",
+        "recent_year":  "2019",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "upper_0179.jpg",
@@ -4512,10 +4512,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q21_2",
         "marker_left":  33.29,
         "marker_bottom":  72.2,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2013, 2012",
+        "recent_year":  "2013",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_0179.jpg",
@@ -4530,10 +4530,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q21_3",
         "marker_left":  51.4,
         "marker_bottom":  11.1,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2013, 2012",
+        "recent_year":  "2013",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_0179.jpg",
@@ -4548,10 +4548,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q21_4",
         "marker_left":  45.65,
         "marker_bottom":  50.09,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2025(3), 2015, 2014, 2012, 2011",
+        "recent_year":  "2025",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "upper_0179.jpg",
@@ -4566,10 +4566,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q21_5",
         "marker_left":  33.29,
         "marker_bottom":  47.48,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(3)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0179.jpg",
@@ -4584,10 +4584,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q21_6",
         "marker_left":  58.01,
         "marker_bottom":  52.24,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(4), 2022, 2010",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_0179.jpg",
@@ -4602,10 +4602,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q21_7",
         "marker_left":  48.6,
         "marker_bottom":  40.76,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2023, 2019, 2016, 2014, 2012, 2011, 2009, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_0179.jpg",
@@ -4620,10 +4620,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q21_8",
         "marker_left":  63.9,
         "marker_bottom":  40.3,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  9,
+        "exam_years":  "2025(4), 2022, 2021, 2016, 2014, 2012, 2011, 2010, 2009",
+        "recent_year":  "2025",
+        "exam_weight":  3.1622776601683795
     },
     {
         "image_filename":  "upper_0178.jpg",
@@ -4641,7 +4641,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0178.jpg",
@@ -4656,10 +4656,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q22_2",
         "marker_left":  59.73,
         "marker_bottom":  75.61,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2017, 2006, 2004",
+        "recent_year":  "2017",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_0178.jpg",
@@ -4674,10 +4674,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q22_3",
         "marker_left":  72.29,
         "marker_bottom":  61.93,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2019, 2015, 2014, 2011, 2010, 2009",
+        "recent_year":  "2019",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "upper_0178.jpg",
@@ -4692,10 +4692,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q22_4",
         "marker_left":  37.32,
         "marker_bottom":  67.35,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2023, 2019, 2016, 2014, 2012, 2011, 2009, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_0178.jpg",
@@ -4710,10 +4710,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q22_5",
         "marker_left":  42.98,
         "marker_bottom":  63,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2019",
+        "recent_year":  "2019",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0178.jpg",
@@ -4728,10 +4728,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q22_6",
         "marker_left":  46.67,
         "marker_bottom":  31.04,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  9,
+        "exam_years":  "2025(4), 2022, 2021, 2016, 2014, 2012, 2011, 2010, 2009",
+        "recent_year":  "2025",
+        "exam_weight":  3.1622776601683795
     },
     {
         "image_filename":  "upper_0178.jpg",
@@ -4746,10 +4746,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q22_7",
         "marker_left":  65.02,
         "marker_bottom":  64.98,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  11,
+        "exam_years":  "2023, 2022, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2011, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.4641016151377544
     },
     {
         "image_filename":  "upper_0178.jpg",
@@ -4764,10 +4764,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q22_8",
         "marker_left":  58.62,
         "marker_bottom":  47.55,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2013",
+        "recent_year":  "2013",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0178.jpg",
@@ -4782,10 +4782,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q22_9",
         "marker_left":  40.52,
         "marker_bottom":  38.3,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2018, 2015, 2013, 2009, 2006, 2004",
+        "recent_year":  "2018",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "upper_0180.jpg",
@@ -4803,7 +4803,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0180.jpg",
@@ -4818,10 +4818,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q23_2",
         "marker_left":  57.05,
         "marker_bottom":  77.09,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2019",
+        "recent_year":  "2019",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0180.jpg",
@@ -4836,10 +4836,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q23_3",
         "marker_left":  45.64,
         "marker_bottom":  70.7,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2017, 2006, 2004",
+        "recent_year":  "2017",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_0180.jpg",
@@ -4854,10 +4854,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q23_4",
         "marker_left":  49.15,
         "marker_bottom":  42.4,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2019, 2016, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "upper_0180.jpg",
@@ -4875,7 +4875,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0180.jpg",
@@ -4890,10 +4890,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q23_6",
         "marker_left":  27.03,
         "marker_bottom":  63.92,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2016, 2009",
+        "recent_year":  "2016",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_0180.jpg",
@@ -4908,10 +4908,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q23_7",
         "marker_left":  60.95,
         "marker_bottom":  24.84,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  9,
+        "exam_years":  "2025(4), 2022, 2021, 2016, 2014, 2012, 2011, 2010, 2009",
+        "recent_year":  "2025",
+        "exam_weight":  3.1622776601683795
     },
     {
         "image_filename":  "upper_0180.jpg",
@@ -4926,10 +4926,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q23_8",
         "marker_left":  51.71,
         "marker_bottom":  51.15,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2018, 2015, 2013, 2009, 2006, 2004",
+        "recent_year":  "2018",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "upper_0181.jpg",
@@ -4944,10 +4944,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q24_1",
         "marker_left":  53.49,
         "marker_bottom":  42.26,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2013, 2011, 2010",
+        "recent_year":  "2013",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_0181.jpg",
@@ -4962,10 +4962,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q24_2",
         "marker_left":  55.98,
         "marker_bottom":  88.49,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2019",
+        "recent_year":  "2019",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0181.jpg",
@@ -4980,10 +4980,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q24_3",
         "marker_left":  47.93,
         "marker_bottom":  57.49,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2019, 2016, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "upper_0181.jpg",
@@ -4998,10 +4998,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q24_4",
         "marker_left":  50.3,
         "marker_bottom":  27.38,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2023, 2019, 2016, 2014, 2012, 2011, 2009, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_0181.jpg",
@@ -5016,10 +5016,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q24_5",
         "marker_left":  51.83,
         "marker_bottom":  54.05,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(4)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0181.jpg",
@@ -5034,10 +5034,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q24_6",
         "marker_left":  55.15,
         "marker_bottom":  53.67,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(4)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0181.jpg",
@@ -5052,10 +5052,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q24_7",
         "marker_left":  58.22,
         "marker_bottom":  76.47,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  9,
+        "exam_years":  "2025(4), 2022, 2021, 2016, 2014, 2012, 2011, 2010, 2009",
+        "recent_year":  "2025",
+        "exam_weight":  3.1622776601683795
     },
     {
         "image_filename":  "upper_0181.jpg",
@@ -5070,10 +5070,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q24_8",
         "marker_left":  45.21,
         "marker_bottom":  72.46,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2018, 2015, 2013, 2009, 2006, 2004",
+        "recent_year":  "2018",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "upper_0184.jpg",
@@ -5088,10 +5088,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25_1",
         "marker_left":  47.48,
         "marker_bottom":  68.44,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2013, 2011, 2010",
+        "recent_year":  "2013",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_0184.jpg",
@@ -5106,10 +5106,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25_2",
         "marker_left":  50.13,
         "marker_bottom":  65.29,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(4)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0184.jpg",
@@ -5124,10 +5124,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25_3",
         "marker_left":  34.37,
         "marker_bottom":  86.33,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2025(3), 2015, 2014, 2012, 2011",
+        "recent_year":  "2025",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "upper_0184.jpg",
@@ -5142,10 +5142,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25_4",
         "marker_left":  54.12,
         "marker_bottom":  86.73,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2025(3), 2015, 2014, 2012, 2011",
+        "recent_year":  "2025",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "upper_0184.jpg",
@@ -5160,10 +5160,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25_5",
         "marker_left":  63.7,
         "marker_bottom":  42.87,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2023, 2019, 2016, 2014, 2012, 2011, 2009, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_0184.jpg",
@@ -5178,10 +5178,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25_6",
         "marker_left":  47.35,
         "marker_bottom":  49.07,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2025(3), 2017, 2016, 2013, 2011, 2004",
+        "recent_year":  "2025",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "upper_0184.jpg",
@@ -5196,10 +5196,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25_7",
         "marker_left":  72.65,
         "marker_bottom":  41.79,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  9,
+        "exam_years":  "2025(4), 2022, 2021, 2016, 2014, 2012, 2011, 2010, 2009",
+        "recent_year":  "2025",
+        "exam_weight":  3.1622776601683795
     },
     {
         "image_filename":  "upper_2017_15a.jpg",
@@ -5214,10 +5214,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25a_1",
         "marker_left":  59.85,
         "marker_bottom":  29.1,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2023, 2019, 2016, 2014, 2012, 2011, 2009, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_2017_15a.jpg",
@@ -5232,10 +5232,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25a_2",
         "marker_left":  46.67,
         "marker_bottom":  27.83,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2025(3), 2015, 2014, 2012, 2011",
+        "recent_year":  "2025",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "upper_2017_15a.jpg",
@@ -5250,10 +5250,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25a_3",
         "marker_left":  40.89,
         "marker_bottom":  88,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(4)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2017_15a.jpg",
@@ -5268,10 +5268,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25a_4",
         "marker_left":  42.37,
         "marker_bottom":  63.91,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2018, 2015, 2013, 2009, 2006, 2004",
+        "recent_year":  "2018",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "upper_2017_15a.jpg",
@@ -5286,10 +5286,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25a_5",
         "marker_left":  31.56,
         "marker_bottom":  57.13,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  9,
+        "exam_years":  "2025(4), 2022, 2021, 2016, 2014, 2012, 2011, 2010, 2009",
+        "recent_year":  "2025",
+        "exam_weight":  3.1622776601683795
     },
     {
         "image_filename":  "upper_2017_15a.jpg",
@@ -5304,10 +5304,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25a_6",
         "marker_left":  35.41,
         "marker_bottom":  47.59,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(4)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2017_15a.jpg",
@@ -5322,10 +5322,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25a_7",
         "marker_left":  36.3,
         "marker_bottom":  40.12,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2013, 2011, 2010",
+        "recent_year":  "2013",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_2017_15a.jpg",
@@ -5340,10 +5340,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25a_8",
         "marker_left":  41.19,
         "marker_bottom":  52.11,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2019, 2016, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "upper_2017_28b.jpg",
@@ -5358,10 +5358,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25b_1",
         "marker_left":  55.7,
         "marker_bottom":  73.94,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(4)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2017_28b.jpg",
@@ -5376,10 +5376,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25b_2",
         "marker_left":  39.7,
         "marker_bottom":  66.37,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2019, 2015, 2014, 2011, 2010, 2009",
+        "recent_year":  "2019",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "upper_2017_28b.jpg",
@@ -5394,10 +5394,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25b_3",
         "marker_left":  47.41,
         "marker_bottom":  62.24,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2013, 2012",
+        "recent_year":  "2013",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_2017_28b.jpg",
@@ -5412,10 +5412,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25b_4",
         "marker_left":  63.26,
         "marker_bottom":  56.83,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2020, 2015, 2004",
+        "recent_year":  "2020",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_2017_28b.jpg",
@@ -5430,10 +5430,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25b_5",
         "marker_left":  57.33,
         "marker_bottom":  50.44,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(3)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2017_28b.jpg",
@@ -5448,10 +5448,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25b_6",
         "marker_left":  50.37,
         "marker_bottom":  25.96,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2023, 2019, 2016, 2014, 2012, 2011, 2009, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_2017_28b.jpg",
@@ -5466,10 +5466,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25b_7",
         "marker_left":  44.16,
         "marker_bottom":  24.19,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  9,
+        "exam_years":  "2025(4), 2022, 2021, 2016, 2014, 2012, 2011, 2010, 2009",
+        "recent_year":  "2025",
+        "exam_weight":  3.1622776601683795
     },
     {
         "image_filename":  "upper_2017_10c.jpg",
@@ -5484,10 +5484,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25c_1",
         "marker_left":  44.74,
         "marker_bottom":  40.22,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(4), 2022, 2010",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_2017_10c.jpg",
@@ -5502,10 +5502,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25c_2",
         "marker_left":  39.26,
         "marker_bottom":  65.49,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2013, 2012",
+        "recent_year":  "2013",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_2017_10c.jpg",
@@ -5520,10 +5520,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25c_3",
         "marker_left":  44,
         "marker_bottom":  79.15,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(4)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2017_10c.jpg",
@@ -5538,10 +5538,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25c_4",
         "marker_left":  60.3,
         "marker_bottom":  48.48,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2020, 2015, 2004",
+        "recent_year":  "2020",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_2017_10c.jpg",
@@ -5556,10 +5556,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25c_5",
         "marker_left":  51.85,
         "marker_bottom":  52.31,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2025(3), 2015, 2014, 2012, 2011",
+        "recent_year":  "2025",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "upper_2017_10c.jpg",
@@ -5574,10 +5574,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25c_6",
         "marker_left":  33.04,
         "marker_bottom":  71.09,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2019, 2015, 2014, 2011, 2010, 2009",
+        "recent_year":  "2019",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "upper_2017_10c.jpg",
@@ -5592,10 +5592,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25c_7",
         "marker_left":  46.22,
         "marker_bottom":  28.61,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2023, 2019, 2016, 2014, 2012, 2011, 2009, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_2017_10c.jpg",
@@ -5610,10 +5610,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q25c_8",
         "marker_left":  40.39,
         "marker_bottom":  32.49,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  9,
+        "exam_years":  "2025(4), 2022, 2021, 2016, 2014, 2012, 2011, 2010, 2009",
+        "recent_year":  "2025",
+        "exam_weight":  3.1622776601683795
     },
     {
         "image_filename":  "upper_2017_10c.jpg",
@@ -5622,7 +5622,7 @@ const QUIZ_DB = [
         "region":  "Region: Upper Extremities / Anterior Forearm",
         "unit":  "Upper Extremities",
         "region_detail":  "Anterior Forearm",
-        "answer_en":  "Ulnar Artery \u0026 Nerve",
+        "answer_en":  "Ulnar Artery & Nerve",
         "answer_ko":  "",
         "source":  "Anterior Forearm - 11",
         "quiz_id":  "upper_q25c_9",
@@ -5631,7 +5631,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0174.jpg",
@@ -5646,10 +5646,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q26_1",
         "marker_left":  41.15,
         "marker_bottom":  89.04,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2013, 2012",
+        "recent_year":  "2013",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_0174.jpg",
@@ -5664,10 +5664,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q26_2",
         "marker_left":  54.92,
         "marker_bottom":  88.06,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(3)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0174.jpg",
@@ -5685,7 +5685,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0174.jpg",
@@ -5703,7 +5703,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0174.jpg",
@@ -5718,10 +5718,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q26_5",
         "marker_left":  47.89,
         "marker_bottom":  87.97,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(4)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0174.jpg",
@@ -5736,10 +5736,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q26_6",
         "marker_left":  35.88,
         "marker_bottom":  83.91,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  9,
+        "exam_years":  "2025(4), 2022, 2021, 2016, 2014, 2012, 2011, 2010, 2009",
+        "recent_year":  "2025",
+        "exam_weight":  3.1622776601683795
     },
     {
         "image_filename":  "upper_0174.jpg",
@@ -5754,10 +5754,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q26_7",
         "marker_left":  37.5,
         "marker_bottom":  68.19,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  9,
+        "exam_years":  "2025(4), 2022, 2021, 2016, 2014, 2012, 2011, 2010, 2009",
+        "recent_year":  "2025",
+        "exam_weight":  3.1622776601683795
     },
     {
         "image_filename":  "upper_0174.jpg",
@@ -5772,10 +5772,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q26_8",
         "marker_left":  41.57,
         "marker_bottom":  54.29,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  9,
+        "exam_years":  "2025(4), 2022, 2021, 2016, 2014, 2012, 2011, 2010, 2009",
+        "recent_year":  "2025",
+        "exam_weight":  3.1622776601683795
     },
     {
         "image_filename":  "upper_0174.jpg",
@@ -5790,10 +5790,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q26_9",
         "marker_left":  59.83,
         "marker_bottom":  88.43,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2018, 2015, 2013, 2009, 2006, 2004",
+        "recent_year":  "2018",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "upper_0174.jpg",
@@ -5808,10 +5808,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q26_10",
         "marker_left":  63.06,
         "marker_bottom":  86.57,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  16,
+        "exam_years":  "2023, 2021, 2020, 2019, 2018, 2017, 2016, 2013, 2012, 2011, 2009, 2008, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  4.123105625617661
     },
     {
         "image_filename":  "upper_0174.jpg",
@@ -5826,10 +5826,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q26_11",
         "marker_left":  68.12,
         "marker_bottom":  85.91,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2020, 2015, 2004",
+        "recent_year":  "2020",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_0175.jpg",
@@ -5844,10 +5844,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q27_1",
         "marker_left":  90.06,
         "marker_bottom":  79.94,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2009, 2006",
+        "recent_year":  "2009",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "upper_0175.jpg",
@@ -5862,10 +5862,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q27_2",
         "marker_left":  29.64,
         "marker_bottom":  76.5,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2008",
+        "recent_year":  "2008",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0175.jpg",
@@ -5883,7 +5883,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0175.jpg",
@@ -5901,7 +5901,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0175.jpg",
@@ -5919,7 +5919,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0175.jpg",
@@ -5937,7 +5937,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0175.jpg",
@@ -5955,7 +5955,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0175.jpg",
@@ -5973,7 +5973,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0175.jpg",
@@ -5991,7 +5991,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0175.jpg",
@@ -6006,10 +6006,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q27_10",
         "marker_left":  67.16,
         "marker_bottom":  85.13,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2018, 2015, 2013, 2009, 2006, 2004",
+        "recent_year":  "2018",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "upper_0177.jpg",
@@ -6024,10 +6024,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q28_1",
         "marker_left":  68.12,
         "marker_bottom":  61.85,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2009, 2006",
+        "recent_year":  "2009",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "upper_0177.jpg",
@@ -6045,7 +6045,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0177.jpg",
@@ -6060,10 +6060,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q28_3",
         "marker_left":  60.25,
         "marker_bottom":  62.59,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2011",
+        "recent_year":  "2011",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0177.jpg",
@@ -6078,10 +6078,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q28_4",
         "marker_left":  48.17,
         "marker_bottom":  64.93,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2010, 2006",
+        "recent_year":  "2010",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_0177.jpg",
@@ -6099,7 +6099,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0177.jpg",
@@ -6117,7 +6117,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0177.jpg",
@@ -6135,7 +6135,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0177.jpg",
@@ -6153,7 +6153,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0177.jpg",
@@ -6171,7 +6171,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0177.jpg",
@@ -6186,10 +6186,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q28_10",
         "marker_left":  39.19,
         "marker_bottom":  78.64,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2018, 2015, 2013, 2009, 2006, 2004",
+        "recent_year":  "2018",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "upper_0177.jpg",
@@ -6204,10 +6204,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q28_11",
         "marker_left":  43.4,
         "marker_bottom":  77.24,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(3)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0182.jpg",
@@ -6222,10 +6222,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29_1",
         "marker_left":  29.6,
         "marker_bottom":  74.14,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2008",
+        "recent_year":  "2008",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0182.jpg",
@@ -6240,10 +6240,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29_2",
         "marker_left":  37.15,
         "marker_bottom":  58.75,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2014, 2009",
+        "recent_year":  "2014",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_0182.jpg",
@@ -6258,10 +6258,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29_3",
         "marker_left":  51.09,
         "marker_bottom":  52.16,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2023, 2019, 2016, 2014, 2012, 2011, 2009, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_0182.jpg",
@@ -6276,10 +6276,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29_4",
         "marker_left":  59.2,
         "marker_bottom":  50.85,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2023, 2019, 2016, 2014, 2012, 2011, 2009, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_0182.jpg",
@@ -6294,10 +6294,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29_5",
         "marker_left":  47.63,
         "marker_bottom":  34.44,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2023, 2019, 2016, 2014, 2012, 2011, 2009, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_0182.jpg",
@@ -6312,10 +6312,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29_6",
         "marker_left":  53.34,
         "marker_bottom":  32.48,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2023, 2019, 2016, 2014, 2012, 2011, 2009, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_0182.jpg",
@@ -6330,10 +6330,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29_7",
         "marker_left":  61.91,
         "marker_bottom":  40.79,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2023, 2019, 2016, 2014, 2012, 2011, 2009, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_0182.jpg",
@@ -6348,10 +6348,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29_8",
         "marker_left":  65.29,
         "marker_bottom":  40.22,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2023, 2019, 2016, 2014, 2012, 2011, 2009, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_0182.jpg",
@@ -6369,7 +6369,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0182.jpg",
@@ -6384,10 +6384,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29_10",
         "marker_left":  61.12,
         "marker_bottom":  76.34,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2018, 2015, 2013, 2009, 2006, 2004",
+        "recent_year":  "2018",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "upper_2014_83.jpg",
@@ -6402,10 +6402,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29A_1",
         "marker_left":  63.25,
         "marker_bottom":  90,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2018, 2015, 2013, 2009, 2006, 2004",
+        "recent_year":  "2018",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "upper_2014_83.jpg",
@@ -6420,10 +6420,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29A_2",
         "marker_left":  70.18,
         "marker_bottom":  89.9,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  16,
+        "exam_years":  "2023, 2021, 2020, 2019, 2018, 2017, 2016, 2013, 2012, 2011, 2009, 2008, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  4.123105625617661
     },
     {
         "image_filename":  "upper_2014_83.jpg",
@@ -6438,10 +6438,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29A_3",
         "marker_left":  38.85,
         "marker_bottom":  82.3,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2014, 2009",
+        "recent_year":  "2014",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_2014_83.jpg",
@@ -6456,10 +6456,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29A_4",
         "marker_left":  26.36,
         "marker_bottom":  91.3,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2008",
+        "recent_year":  "2008",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2014_83.jpg",
@@ -6474,10 +6474,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29A_5",
         "marker_left":  67.17,
         "marker_bottom":  62.8,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  16,
+        "exam_years":  "2023, 2021, 2020, 2019, 2018, 2017, 2016, 2013, 2012, 2011, 2009, 2008, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  4.123105625617661
     },
     {
         "image_filename":  "upper_2014_83.jpg",
@@ -6492,10 +6492,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29A_6",
         "marker_left":  71.23,
         "marker_bottom":  56.4,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  16,
+        "exam_years":  "2023, 2021, 2020, 2019, 2018, 2017, 2016, 2013, 2012, 2011, 2009, 2008, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  4.123105625617661
     },
     {
         "image_filename":  "upper_2014_83.jpg",
@@ -6513,7 +6513,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_83.jpg",
@@ -6528,10 +6528,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29A_8",
         "marker_left":  53.16,
         "marker_bottom":  63.9,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2023, 2019, 2016, 2014, 2012, 2011, 2009, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_2014_83.jpg",
@@ -6546,10 +6546,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29A_9",
         "marker_left":  57.23,
         "marker_bottom":  42.5,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2023, 2019, 2016, 2014, 2012, 2011, 2009, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_2014_84.jpg",
@@ -6564,10 +6564,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29B_1",
         "marker_left":  32.21,
         "marker_bottom":  72.59,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2008",
+        "recent_year":  "2008",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2014_84.jpg",
@@ -6582,10 +6582,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29B_2",
         "marker_left":  44.84,
         "marker_bottom":  79.93,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2020, 2011",
+        "recent_year":  "2020",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_2014_84.jpg",
@@ -6603,7 +6603,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_84.jpg",
@@ -6621,7 +6621,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_84.jpg",
@@ -6636,10 +6636,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29B_5",
         "marker_left":  41.68,
         "marker_bottom":  67.76,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2014, 2009",
+        "recent_year":  "2014",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_2014_84.jpg",
@@ -6657,7 +6657,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_84.jpg",
@@ -6675,7 +6675,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_84.jpg",
@@ -6690,10 +6690,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29B_8",
         "marker_left":  90.53,
         "marker_bottom":  80.63,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2009, 2006",
+        "recent_year":  "2009",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "upper_2014_84.jpg",
@@ -6708,10 +6708,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29B_9",
         "marker_left":  82.45,
         "marker_bottom":  85.1,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  16,
+        "exam_years":  "2023, 2021, 2020, 2019, 2018, 2017, 2016, 2013, 2012, 2011, 2009, 2008, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  4.123105625617661
     },
     {
         "image_filename":  "upper_2014_84.jpg",
@@ -6726,10 +6726,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29B_10",
         "marker_left":  78.63,
         "marker_bottom":  77.69,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2018, 2015, 2013, 2009, 2006, 2004",
+        "recent_year":  "2018",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "upper_2014_84.jpg",
@@ -6747,7 +6747,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2017_17e.jpg",
@@ -6762,10 +6762,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29C_1",
         "marker_left":  62.22,
         "marker_bottom":  53.98,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  9,
+        "exam_years":  "2015, 2014, 2013, 2012, 2011, 2009, 2006",
+        "recent_year":  "2015",
+        "exam_weight":  3.1622776601683795
     },
     {
         "image_filename":  "upper_2017_17e.jpg",
@@ -6780,10 +6780,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29C_2",
         "marker_left":  65.48,
         "marker_bottom":  39.13,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2014, 2009",
+        "recent_year":  "2014",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_2017_17e.jpg",
@@ -6798,10 +6798,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29C_3",
         "marker_left":  69.33,
         "marker_bottom":  28.32,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2008",
+        "recent_year":  "2008",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2017_17e.jpg",
@@ -6819,7 +6819,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2017_17e.jpg",
@@ -6837,7 +6837,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2017_17e.jpg",
@@ -6855,7 +6855,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2017_17e.jpg",
@@ -6870,10 +6870,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29C_7",
         "marker_left":  40.59,
         "marker_bottom":  21.53,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2018, 2015, 2013, 2009, 2006, 2004",
+        "recent_year":  "2018",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "upper_2017_17e.jpg",
@@ -6888,10 +6888,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29C_8",
         "marker_left":  20,
         "marker_bottom":  30.19,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2009, 2006",
+        "recent_year":  "2009",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "upper_2017_17e.jpg",
@@ -6906,10 +6906,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q29C_9",
         "marker_left":  45.63,
         "marker_bottom":  7.28,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2023, 2019, 2016, 2014, 2012, 2011, 2009, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_0183.jpg",
@@ -6924,10 +6924,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q30_1",
         "marker_left":  88.67,
         "marker_bottom":  62.94,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2009, 2006",
+        "recent_year":  "2009",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "upper_0183.jpg",
@@ -6942,10 +6942,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q30_2",
         "marker_left":  48.39,
         "marker_bottom":  83.32,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2008",
+        "recent_year":  "2008",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0183.jpg",
@@ -6960,10 +6960,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q30_3",
         "marker_left":  38.61,
         "marker_bottom":  51.55,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2008",
+        "recent_year":  "2008",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0183.jpg",
@@ -6978,10 +6978,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q30_4",
         "marker_left":  80.8,
         "marker_bottom":  62.14,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2011",
+        "recent_year":  "2011",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0183.jpg",
@@ -6996,10 +6996,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q30_5",
         "marker_left":  26.32,
         "marker_bottom":  38.16,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2014, 2009",
+        "recent_year":  "2014",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_0183.jpg",
@@ -7017,7 +7017,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0183.jpg",
@@ -7032,10 +7032,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q30_7",
         "marker_left":  33.84,
         "marker_bottom":  65.13,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2020, 2011",
+        "recent_year":  "2020",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_0183.jpg",
@@ -7050,10 +7050,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q30_8",
         "marker_left":  71.37,
         "marker_bottom":  64.14,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2010, 2006",
+        "recent_year":  "2010",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_0183.jpg",
@@ -7071,7 +7071,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0185.jpg",
@@ -7089,7 +7089,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0185.jpg",
@@ -7104,10 +7104,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q31_2",
         "marker_left":  44.81,
         "marker_bottom":  32.96,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2023, 2022, 2020, 2013, 2010, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "upper_0185.jpg",
@@ -7125,7 +7125,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0185.jpg",
@@ -7143,7 +7143,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0185.jpg",
@@ -7161,7 +7161,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0185.jpg",
@@ -7179,7 +7179,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0186.jpg",
@@ -7197,7 +7197,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0186.jpg",
@@ -7212,10 +7212,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q32_2",
         "marker_left":  43.51,
         "marker_bottom":  59.85,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2004",
+        "recent_year":  "2004",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_0186.jpg",
@@ -7233,7 +7233,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0186.jpg",
@@ -7251,7 +7251,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0186.jpg",
@@ -7266,10 +7266,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q32_5",
         "marker_left":  31.85,
         "marker_bottom":  26.85,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2023, 2022, 2020, 2013, 2010, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "upper_0186.jpg",
@@ -7287,7 +7287,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0187.jpg",
@@ -7305,7 +7305,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0187.jpg",
@@ -7320,10 +7320,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q33_2",
         "marker_left":  50.2,
         "marker_bottom":  72.77,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2023, 2019, 2016, 2014, 2012, 2011, 2009, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_0187.jpg",
@@ -7341,7 +7341,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0187.jpg",
@@ -7359,7 +7359,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0187.jpg",
@@ -7377,7 +7377,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0187.jpg",
@@ -7395,7 +7395,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0187.jpg",
@@ -7410,10 +7410,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q33_7",
         "marker_left":  23.35,
         "marker_bottom":  74.66,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2018, 2015, 2013, 2009, 2006, 2004",
+        "recent_year":  "2018",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "upper_0187.jpg",
@@ -7428,10 +7428,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q33_8",
         "marker_left":  29.2,
         "marker_bottom":  69.74,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2018, 2015, 2013, 2009, 2006, 2004",
+        "recent_year":  "2018",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "upper_0187.jpg",
@@ -7449,7 +7449,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0187.jpg",
@@ -7467,7 +7467,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0188.jpg",
@@ -7485,7 +7485,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0188.jpg",
@@ -7503,7 +7503,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0188.jpg",
@@ -7521,7 +7521,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0188.jpg",
@@ -7539,7 +7539,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0188.jpg",
@@ -7557,7 +7557,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0188.jpg",
@@ -7575,7 +7575,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0188.jpg",
@@ -7593,7 +7593,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0188.jpg",
@@ -7608,10 +7608,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q34_8",
         "marker_left":  53.05,
         "marker_bottom":  74.57,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2018, 2014, 2012, 2011",
+        "recent_year":  "2018",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "upper_0188.jpg",
@@ -7629,7 +7629,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0188.jpg",
@@ -7647,7 +7647,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_85.jpg",
@@ -7665,7 +7665,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_85.jpg",
@@ -7683,7 +7683,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_85.jpg",
@@ -7698,10 +7698,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q34A_3",
         "marker_left":  46.31,
         "marker_bottom":  68.59,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2008",
+        "recent_year":  "2008",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2014_85.jpg",
@@ -7716,10 +7716,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q34A_4",
         "marker_left":  53.21,
         "marker_bottom":  75.7,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2008",
+        "recent_year":  "2008",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2014_85.jpg",
@@ -7737,7 +7737,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_85.jpg",
@@ -7755,7 +7755,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2014_85.jpg",
@@ -7770,10 +7770,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q34A_7",
         "marker_left":  42.45,
         "marker_bottom":  62.92,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2018, 2014, 2012, 2011",
+        "recent_year":  "2018",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "upper_2014_85.jpg",
@@ -7788,10 +7788,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q34A_8",
         "marker_left":  33.35,
         "marker_bottom":  57.83,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2018, 2014, 2012, 2011",
+        "recent_year":  "2018",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "upper_2014_85.jpg",
@@ -7806,10 +7806,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q34A_9",
         "marker_left":  26.75,
         "marker_bottom":  50.05,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2018, 2014, 2012, 2011",
+        "recent_year":  "2018",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "upper_2014_85.jpg",
@@ -7824,10 +7824,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q34A_10",
         "marker_left":  45.18,
         "marker_bottom":  35.26,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2019, 2015",
+        "recent_year":  "2019",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_0069.jpg",
@@ -7845,7 +7845,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0069.jpg",
@@ -7863,7 +7863,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0069.jpg",
@@ -7881,7 +7881,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0069.jpg",
@@ -7899,7 +7899,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0069.jpg",
@@ -7914,10 +7914,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q35_5",
         "marker_left":  68.6,
         "marker_bottom":  70.14,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2017, 2014, 2010",
+        "recent_year":  "2017",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_0069.jpg",
@@ -7935,7 +7935,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0069.jpg",
@@ -7953,7 +7953,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0069.jpg",
@@ -7971,7 +7971,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0069.jpg",
@@ -7989,7 +7989,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0069.jpg",
@@ -8007,7 +8007,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0069.jpg",
@@ -8022,10 +8022,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q35_11",
         "marker_left":  85.9,
         "marker_bottom":  45.06,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2012",
+        "recent_year":  "2012",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0069.jpg",
@@ -8043,7 +8043,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0070.jpg",
@@ -8061,7 +8061,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0070.jpg",
@@ -8079,7 +8079,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0070.jpg",
@@ -8097,7 +8097,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0070.jpg",
@@ -8112,10 +8112,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q36_4",
         "marker_left":  23.38,
         "marker_bottom":  59.77,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2016",
+        "recent_year":  "2016",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0070.jpg",
@@ -8133,7 +8133,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0070.jpg",
@@ -8151,7 +8151,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0070.jpg",
@@ -8166,10 +8166,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q36_7",
         "marker_left":  62.17,
         "marker_bottom":  59.54,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2019",
+        "recent_year":  "2019",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0071.jpg",
@@ -8187,7 +8187,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0071.jpg",
@@ -8205,7 +8205,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0071.jpg",
@@ -8223,7 +8223,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0071.jpg",
@@ -8238,10 +8238,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q37_4",
         "marker_left":  53.82,
         "marker_bottom":  13.43,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(3)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0071.jpg",
@@ -8256,10 +8256,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q37_5",
         "marker_left":  59.66,
         "marker_bottom":  58.49,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2025(3), 2011",
+        "recent_year":  "2025",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_0071.jpg",
@@ -8274,10 +8274,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q37_6",
         "marker_left":  57.85,
         "marker_bottom":  42.98,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2017, 2015, 2010",
+        "recent_year":  "2017",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_0071.jpg",
@@ -8292,10 +8292,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q37_7",
         "marker_left":  69.63,
         "marker_bottom":  65.51,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2017, 2015, 2010",
+        "recent_year":  "2017",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_0071.jpg",
@@ -8310,10 +8310,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q37_8",
         "marker_left":  35.54,
         "marker_bottom":  47.99,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2019",
+        "recent_year":  "2019",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_0071.jpg",
@@ -8331,7 +8331,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0072.jpg",
@@ -8349,7 +8349,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0072.jpg",
@@ -8367,7 +8367,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0072.jpg",
@@ -8385,7 +8385,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0072.jpg",
@@ -8403,7 +8403,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0072.jpg",
@@ -8418,10 +8418,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q38_5",
         "marker_left":  25.35,
         "marker_bottom":  51.47,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  9,
+        "exam_years":  "2022, 2021, 2019, 2016, 2015, 2014, 2011, 2010, 2009",
+        "recent_year":  "2022",
+        "exam_weight":  3.1622776601683795
     },
     {
         "image_filename":  "upper_0072.jpg",
@@ -8439,7 +8439,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0072.jpg",
@@ -8457,7 +8457,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0073.jpg",
@@ -8475,7 +8475,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0073.jpg",
@@ -8493,7 +8493,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0073.jpg",
@@ -8508,10 +8508,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q39_3",
         "marker_left":  38.89,
         "marker_bottom":  39.9,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2017, 2006, 2004",
+        "recent_year":  "2017",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_0073.jpg",
@@ -8529,7 +8529,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0073.jpg",
@@ -8547,7 +8547,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0073.jpg",
@@ -8562,10 +8562,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q39_6",
         "marker_left":  21.88,
         "marker_bottom":  69.65,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2023, 2019, 2016, 2014, 2012, 2011, 2009, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_0073.jpg",
@@ -8583,7 +8583,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0073.jpg",
@@ -8601,7 +8601,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_0073.jpg",
@@ -8616,10 +8616,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q39_9",
         "marker_left":  55.79,
         "marker_bottom":  59.04,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2018, 2013",
+        "recent_year":  "2018",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_0073.jpg",
@@ -8634,10 +8634,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q39_10",
         "marker_left":  73.15,
         "marker_bottom":  60.36,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  16,
+        "exam_years":  "2023, 2021, 2020, 2019, 2018, 2017, 2016, 2013, 2012, 2011, 2009, 2008, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  4.123105625617661
     },
     {
         "image_filename":  "upper_2015_39.jpg",
@@ -8652,10 +8652,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q40_1",
         "marker_left":  9.72,
         "marker_bottom":  49.9,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2023, 2010",
+        "recent_year":  "2023",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_2015_39.jpg",
@@ -8670,10 +8670,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q40_2",
         "marker_left":  26.29,
         "marker_bottom":  50.11,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2013, 2010, 2009",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "upper_2015_39.jpg",
@@ -8688,10 +8688,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q40_3",
         "marker_left":  40.21,
         "marker_bottom":  46.21,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2023, 2019, 2016, 2014, 2012, 2011, 2009, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_2015_39.jpg",
@@ -8706,10 +8706,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q40_4",
         "marker_left":  12.66,
         "marker_bottom":  28.74,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  16,
+        "exam_years":  "2023, 2021, 2020, 2019, 2018, 2017, 2016, 2013, 2012, 2011, 2009, 2008, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  4.123105625617661
     },
     {
         "image_filename":  "upper_2015_39.jpg",
@@ -8724,10 +8724,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q40_5",
         "marker_left":  62.45,
         "marker_bottom":  52.74,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2023, 2019, 2016, 2014, 2012, 2011, 2009, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_2015_39.jpg",
@@ -8742,10 +8742,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q40_6",
         "marker_left":  57.06,
         "marker_bottom":  56.63,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  16,
+        "exam_years":  "2025(3), 2022, 2021, 2020, 2019, 2018, 2017, 2014, 2013, 2012, 2010, 2009, 2008, 2004",
+        "recent_year":  "2025",
+        "exam_weight":  4.123105625617661
     },
     {
         "image_filename":  "upper_2015_39.jpg",
@@ -8760,10 +8760,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q40_7",
         "marker_left":  71.61,
         "marker_bottom":  58.53,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2008",
+        "recent_year":  "2008",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2015_39.jpg",
@@ -8778,10 +8778,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q40_8",
         "marker_left":  80.63,
         "marker_bottom":  53.47,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2014",
+        "recent_year":  "2014",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2015_39.jpg",
@@ -8799,7 +8799,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2016_08.jpg",
@@ -8814,10 +8814,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q40a_1",
         "marker_left":  49.81,
         "marker_bottom":  56.11,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2021, 2019, 2013, 2012, 2010, 2009, 2004",
+        "recent_year":  "2021",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "upper_2016_08.jpg",
@@ -8832,10 +8832,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q40a_2",
         "marker_left":  41.65,
         "marker_bottom":  57.65,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2023",
+        "recent_year":  "2023",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2016_08.jpg",
@@ -8853,7 +8853,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2016_08.jpg",
@@ -8868,10 +8868,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q40a_4",
         "marker_left":  44.12,
         "marker_bottom":  48.67,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2014",
+        "recent_year":  "2014",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2016_08.jpg",
@@ -8886,10 +8886,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q40a_5",
         "marker_left":  50.51,
         "marker_bottom":  39.96,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2023, 2022, 2019, 2014, 2010",
+        "recent_year":  "2023",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "upper_2016_08.jpg",
@@ -8904,10 +8904,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q40a_6",
         "marker_left":  78.54,
         "marker_bottom":  39.12,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2023, 2019, 2016, 2014, 2012, 2011, 2009, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_2016_08.jpg",
@@ -8922,10 +8922,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q40a_7",
         "marker_left":  83.4,
         "marker_bottom":  33.43,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  16,
+        "exam_years":  "2023, 2021, 2020, 2019, 2018, 2017, 2016, 2013, 2012, 2011, 2009, 2008, 2006, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  4.123105625617661
     },
     {
         "image_filename":  "upper_2016_08.jpg",
@@ -8940,10 +8940,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q40a_8",
         "marker_left":  66.51,
         "marker_bottom":  21.07,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2011",
+        "recent_year":  "2011",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2016_08.jpg",
@@ -8958,10 +8958,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q40a_9",
         "marker_left":  58.12,
         "marker_bottom":  19.73,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(4)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2016_10.jpg",
@@ -8979,7 +8979,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2016_10.jpg",
@@ -8994,10 +8994,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q40b_2",
         "marker_left":  42.45,
         "marker_bottom":  58.53,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2014",
+        "recent_year":  "2014",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2016_10.jpg",
@@ -9012,10 +9012,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q40b_3",
         "marker_left":  48.53,
         "marker_bottom":  48.42,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2025(4), 2018, 2013, 2012, 2011",
+        "recent_year":  "2025",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "upper_2016_10.jpg",
@@ -9033,7 +9033,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2016_10.jpg",
@@ -9048,10 +9048,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q40b_5",
         "marker_left":  42.66,
         "marker_bottom":  46.53,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  8,
+        "exam_years":  "2020, 2019, 2015, 2014, 2012, 2011, 2010, 2006",
+        "recent_year":  "2020",
+        "exam_weight":  3.0
     },
     {
         "image_filename":  "upper_2016_10.jpg",
@@ -9066,10 +9066,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q40b_6",
         "marker_left":  64.48,
         "marker_bottom":  49.79,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  11,
+        "exam_years":  "2023, 2022, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2011, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.4641016151377544
     },
     {
         "image_filename":  "upper_2016_10.jpg",
@@ -9084,10 +9084,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q40b_7",
         "marker_left":  36.71,
         "marker_bottom":  27.37,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(4)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2017_31b.jpg",
@@ -9102,10 +9102,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q40c_1",
         "marker_left":  81.93,
         "marker_bottom":  32.15,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2018, 2015, 2011",
+        "recent_year":  "2018",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_2017_31b.jpg",
@@ -9120,10 +9120,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q40c_2",
         "marker_left":  90.07,
         "marker_bottom":  39.04,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(3), 2016, 2015, 2011, 2010, 2009, 2008",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "upper_2017_31b.jpg",
@@ -9138,10 +9138,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q40c_3",
         "marker_left":  37.33,
         "marker_bottom":  59,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2025(3), 2023, 2022, 2021, 2017, 2016, 2015, 2012, 2011, 2006",
+        "recent_year":  "2025",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_2017_31b.jpg",
@@ -9156,10 +9156,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q40c_4",
         "marker_left":  52.3,
         "marker_bottom":  57.03,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  8,
+        "exam_years":  "2020, 2019, 2015, 2014, 2012, 2011, 2010, 2006",
+        "recent_year":  "2020",
+        "exam_weight":  3.0
     },
     {
         "image_filename":  "upper_2017_31b.jpg",
@@ -9174,10 +9174,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q40c_5",
         "marker_left":  72.3,
         "marker_bottom":  30.41,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2023, 2022, 2019, 2014, 2010",
+        "recent_year":  "2023",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "upper_2017_31b.jpg",
@@ -9195,7 +9195,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2017_31b.jpg",
@@ -9210,10 +9210,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q40c_7",
         "marker_left":  40.15,
         "marker_bottom":  50.93,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2014",
+        "recent_year":  "2014",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2017_31b.jpg",
@@ -9228,10 +9228,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q40c_8",
         "marker_left":  27.85,
         "marker_bottom":  30.78,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2011",
+        "recent_year":  "2011",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2015_40.jpg",
@@ -9246,10 +9246,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q41_1",
         "marker_left":  43.47,
         "marker_bottom":  53.72,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2025(4), 2023, 2022, 2021, 2014",
+        "recent_year":  "2025",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "upper_2015_40.jpg",
@@ -9264,10 +9264,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q41_2",
         "marker_left":  41.93,
         "marker_bottom":  62.85,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2025(3), 2011",
+        "recent_year":  "2025",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_2015_40.jpg",
@@ -9282,10 +9282,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q41_3",
         "marker_left":  49.25,
         "marker_bottom":  55.83,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2017, 2015, 2010",
+        "recent_year":  "2017",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "upper_2015_40.jpg",
@@ -9303,7 +9303,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2015_40.jpg",
@@ -9318,10 +9318,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q41_5",
         "marker_left":  32.56,
         "marker_bottom":  41.36,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(3)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2015_40.jpg",
@@ -9336,10 +9336,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q41_6",
         "marker_left":  32.14,
         "marker_bottom":  65.59,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2019",
+        "recent_year":  "2019",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2015_40.jpg",
@@ -9354,10 +9354,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q41_7",
         "marker_left":  31.44,
         "marker_bottom":  14.25,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2016",
+        "recent_year":  "2016",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2016_45.jpg",
@@ -9372,10 +9372,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q41A_1",
         "marker_left":  41.2,
         "marker_bottom":  52.74,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  8,
+        "exam_years":  "2020, 2019, 2015, 2014, 2012, 2011, 2010, 2006",
+        "recent_year":  "2020",
+        "exam_weight":  3.0
     },
     {
         "image_filename":  "upper_2016_45.jpg",
@@ -9393,7 +9393,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2016_45.jpg",
@@ -9408,10 +9408,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q41A_3",
         "marker_left":  53.1,
         "marker_bottom":  54.22,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2025(4), 2009",
+        "recent_year":  "2025",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_2016_45.jpg",
@@ -9426,10 +9426,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q41A_4",
         "marker_left":  61.36,
         "marker_bottom":  61.48,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2016",
+        "recent_year":  "2016",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2016_45.jpg",
@@ -9444,10 +9444,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q41A_5",
         "marker_left":  66.76,
         "marker_bottom":  30.81,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2012, 2010",
+        "recent_year":  "2012",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "upper_2016_45.jpg",
@@ -9465,7 +9465,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2016_45.jpg",
@@ -9483,7 +9483,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2016_45.jpg",
@@ -9498,10 +9498,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q41A_8",
         "marker_left":  59.39,
         "marker_bottom":  14.37,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2011",
+        "recent_year":  "2011",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "upper_2016_45.jpg",
@@ -9519,7 +9519,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2015_49.jpg",
@@ -9534,10 +9534,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q42_1",
         "marker_left":  57.47,
         "marker_bottom":  58.46,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  8,
+        "exam_years":  "2020, 2019, 2015, 2014, 2012, 2011, 2010, 2006",
+        "recent_year":  "2020",
+        "exam_weight":  3.0
     },
     {
         "image_filename":  "upper_2015_49.jpg",
@@ -9552,10 +9552,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q42_2",
         "marker_left":  62.21,
         "marker_bottom":  55.31,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2025(3), 2023, 2022, 2021, 2017, 2016, 2015, 2012, 2011, 2006",
+        "recent_year":  "2025",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_2015_49.jpg",
@@ -9570,10 +9570,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q42_3",
         "marker_left":  56.32,
         "marker_bottom":  44.34,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2025(3), 2023, 2022, 2021, 2017, 2016, 2015, 2012, 2011, 2006",
+        "recent_year":  "2025",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "upper_2015_49.jpg",
@@ -9591,7 +9591,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "upper_2015_49.jpg",
@@ -9606,10 +9606,10 @@ const QUIZ_DB = [
         "quiz_id":  "upper_q42_5",
         "marker_left":  51.26,
         "marker_bottom":  26.85,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  11,
+        "exam_years":  "2023, 2022, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2011, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  3.4641016151377544
     },
     {
         "image_filename":  "upper_2015_49.jpg",
@@ -9627,7 +9627,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0005.jpg",
@@ -9645,7 +9645,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0005.jpg",
@@ -9660,10 +9660,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q1_2",
         "marker_left":  35.56,
         "marker_bottom":  39.39,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2014",
+        "recent_year":  "2014",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0005.jpg",
@@ -9678,10 +9678,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q1_3",
         "marker_left":  76.67,
         "marker_bottom":  84.08,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0005.jpg",
@@ -9696,10 +9696,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q1_4",
         "marker_left":  74.44,
         "marker_bottom":  37.57,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0005.jpg",
@@ -9714,10 +9714,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q1_5",
         "marker_left":  50.67,
         "marker_bottom":  88.5,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2025(3), 2023, 2017, 2014, 2006",
+        "recent_year":  "2025",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "lower_0010.jpg",
@@ -9735,7 +9735,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0010.jpg",
@@ -9753,7 +9753,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0010.jpg",
@@ -9768,10 +9768,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q2_3",
         "marker_left":  34.4,
         "marker_bottom":  13.56,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2014",
+        "recent_year":  "2014",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0010.jpg",
@@ -9786,10 +9786,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q2_4",
         "marker_left":  40,
         "marker_bottom":  45.11,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2022, 2017, 2016, 2004",
+        "recent_year":  "2022",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_0010.jpg",
@@ -9804,10 +9804,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q2_5",
         "marker_left":  19.73,
         "marker_bottom":  59.56,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2013, 2008",
+        "recent_year":  "2013",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0010.jpg",
@@ -9825,7 +9825,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2014_17.jpg",
@@ -9843,7 +9843,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2014_17.jpg",
@@ -9861,7 +9861,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2014_17.jpg",
@@ -9876,10 +9876,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q2A_3",
         "marker_left":  31.58,
         "marker_bottom":  80.35,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2020, 2017, 2016",
+        "recent_year":  "2020",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_2014_17.jpg",
@@ -9894,10 +9894,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q2A_4",
         "marker_left":  31.16,
         "marker_bottom":  62.8,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2022, 2013, 2011, 2010, 2008",
+        "recent_year":  "2022",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "lower_2014_17.jpg",
@@ -9912,10 +9912,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q2A_5",
         "marker_left":  36.53,
         "marker_bottom":  55.38,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2013, 2012",
+        "recent_year":  "2013",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_2014_17.jpg",
@@ -9933,7 +9933,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2014_17.jpg",
@@ -9951,7 +9951,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2014_17.jpg",
@@ -9969,7 +9969,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2014_18.jpg",
@@ -9984,10 +9984,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q2B_1",
         "marker_left":  79.2,
         "marker_bottom":  74.2,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2025(3), 2023, 2017, 2014, 2006",
+        "recent_year":  "2025",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "lower_2014_18.jpg",
@@ -10005,7 +10005,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2014_18.jpg",
@@ -10020,10 +10020,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q2B_3",
         "marker_left":  54.31,
         "marker_bottom":  38.86,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2014_18.jpg",
@@ -10038,10 +10038,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q2B_4",
         "marker_left":  68.44,
         "marker_bottom":  21.98,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2014",
+        "recent_year":  "2014",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2014_18.jpg",
@@ -10056,10 +10056,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q2B_5",
         "marker_left":  35.82,
         "marker_bottom":  26.36,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2023, 2019, 2017",
+        "recent_year":  "2023",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_2014_18.jpg",
@@ -10074,10 +10074,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q2B_6",
         "marker_left":  14.22,
         "marker_bottom":  47.72,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2021, 2012, 2009",
+        "recent_year":  "2021",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_2014_18.jpg",
@@ -10092,10 +10092,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q2B_7",
         "marker_left":  15.92,
         "marker_bottom":  29.21,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2013",
+        "recent_year":  "2013",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2014_18.jpg",
@@ -10113,7 +10113,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2014_20.jpg",
@@ -10131,7 +10131,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2014_20.jpg",
@@ -10149,7 +10149,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2014_20.jpg",
@@ -10164,10 +10164,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q2C_3",
         "marker_left":  35.19,
         "marker_bottom":  57.87,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2023, 2019, 2017",
+        "recent_year":  "2023",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_2014_20.jpg",
@@ -10185,7 +10185,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2014_20.jpg",
@@ -10203,7 +10203,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2016_42.jpg",
@@ -10218,10 +10218,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q2D_1",
         "marker_left":  59.39,
         "marker_bottom":  92.23,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2025(3), 2023, 2017, 2014, 2006",
+        "recent_year":  "2025",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "lower_2016_42.jpg",
@@ -10236,10 +10236,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q2D_2",
         "marker_left":  39.39,
         "marker_bottom":  81.91,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2016_42.jpg",
@@ -10254,10 +10254,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q2D_3",
         "marker_left":  26.33,
         "marker_bottom":  59.98,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2022, 2013, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_2016_42.jpg",
@@ -10272,10 +10272,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q2D_4",
         "marker_left":  51.84,
         "marker_bottom":  52.9,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2014",
+        "recent_year":  "2014",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2016_42.jpg",
@@ -10290,10 +10290,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q2D_5",
         "marker_left":  75.51,
         "marker_bottom":  46.12,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2021, 2008, 2004",
+        "recent_year":  "2021",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_2016_42.jpg",
@@ -10308,10 +10308,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q2D_6",
         "marker_left":  65.92,
         "marker_bottom":  32.45,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2013, 2008",
+        "recent_year":  "2013",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_2016_42.jpg",
@@ -10329,7 +10329,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0007.jpg",
@@ -10344,10 +10344,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q3_1",
         "marker_left":  59.09,
         "marker_bottom":  88,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2013",
+        "recent_year":  "2013",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0007.jpg",
@@ -10362,10 +10362,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q3_2",
         "marker_left":  48.09,
         "marker_bottom":  73.33,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2013",
+        "recent_year":  "2013",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0007.jpg",
@@ -10380,10 +10380,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q3_3",
         "marker_left":  68.18,
         "marker_bottom":  48.33,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2022, 2013, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_0007.jpg",
@@ -10398,10 +10398,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q3_4",
         "marker_left":  72.97,
         "marker_bottom":  89,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2020, 2013",
+        "recent_year":  "2020",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0007.jpg",
@@ -10416,10 +10416,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q3_5",
         "marker_left":  10.29,
         "marker_bottom":  49.33,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2014",
+        "recent_year":  "2014",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0007.jpg",
@@ -10434,10 +10434,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q3_6",
         "marker_left":  41.39,
         "marker_bottom":  18.33,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(4), 2021, 2015, 2014, 2013, 2012, 2004",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "lower_0007.jpg",
@@ -10452,10 +10452,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q3_7",
         "marker_left":  48.33,
         "marker_bottom":  32.78,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0007.jpg",
@@ -10473,7 +10473,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0009.jpg",
@@ -10488,10 +10488,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7_1",
         "marker_left":  55.21,
         "marker_bottom":  24.79,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(3), 2022, 2020, 2019, 2015, 2012, 2011",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "lower_0009.jpg",
@@ -10509,7 +10509,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0009.jpg",
@@ -10524,10 +10524,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7_3",
         "marker_left":  91.35,
         "marker_bottom":  26.79,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2022, 2013, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_0009.jpg",
@@ -10545,7 +10545,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0009.jpg",
@@ -10563,7 +10563,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0009.jpg",
@@ -10578,10 +10578,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7_6",
         "marker_left":  60.5,
         "marker_bottom":  66.91,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2020, 2013",
+        "recent_year":  "2020",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0009.jpg",
@@ -10596,10 +10596,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7_7",
         "marker_left":  65.46,
         "marker_bottom":  51.43,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2020, 2013",
+        "recent_year":  "2020",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0009.jpg",
@@ -10614,10 +10614,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7_8",
         "marker_left":  17.07,
         "marker_bottom":  71.49,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2014",
+        "recent_year":  "2014",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2014_37.jpg",
@@ -10632,10 +10632,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7A_1",
         "marker_left":  70.32,
         "marker_bottom":  84.76,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2015",
+        "recent_year":  "2015",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2014_37.jpg",
@@ -10653,7 +10653,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2014_37.jpg",
@@ -10668,10 +10668,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7A_3",
         "marker_left":  54.53,
         "marker_bottom":  79.44,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2020, 2017, 2016",
+        "recent_year":  "2020",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_2014_37.jpg",
@@ -10689,7 +10689,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2014_37.jpg",
@@ -10704,10 +10704,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7A_5",
         "marker_left":  83.68,
         "marker_bottom":  64.06,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2014",
+        "recent_year":  "2014",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2014_37.jpg",
@@ -10725,7 +10725,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2014_37.jpg",
@@ -10740,10 +10740,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7A_7",
         "marker_left":  36.11,
         "marker_bottom":  68.32,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2021, 2012, 2009",
+        "recent_year":  "2021",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_2014_37.jpg",
@@ -10758,10 +10758,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7A_8",
         "marker_left":  14.1,
         "marker_bottom":  74.48,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2013",
+        "recent_year":  "2013",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2014_37.jpg",
@@ -10776,10 +10776,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7A_9",
         "marker_left":  25.16,
         "marker_bottom":  35.59,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2022, 2013, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_2014_37.jpg",
@@ -10794,10 +10794,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7A_10",
         "marker_left":  52.63,
         "marker_bottom":  30.91,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2013",
+        "recent_year":  "2013",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2014_37.jpg",
@@ -10812,10 +10812,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7A_11",
         "marker_left":  72.11,
         "marker_bottom":  32.87,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2014_37.jpg",
@@ -10830,10 +10830,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7A_12",
         "marker_left":  65.68,
         "marker_bottom":  51.4,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(4), 2016, 2011",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_2014_37.jpg",
@@ -10848,10 +10848,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7A_13",
         "marker_left":  24.63,
         "marker_bottom":  58.11,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(4), 2016, 2011",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_2014_37.jpg",
@@ -10869,7 +10869,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2014_37.jpg",
@@ -10884,10 +10884,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7A_15",
         "marker_left":  33.26,
         "marker_bottom":  52.24,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2020, 2013",
+        "recent_year":  "2020",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_2014_37.jpg",
@@ -10902,10 +10902,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7A_16",
         "marker_left":  41.37,
         "marker_bottom":  36.5,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(3), 2022, 2020, 2019, 2015, 2012, 2011",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "lower_2016_44.jpg",
@@ -10920,10 +10920,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7B_1",
         "marker_left":  51.62,
         "marker_bottom":  56.89,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2020, 2013",
+        "recent_year":  "2020",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_2016_44.jpg",
@@ -10938,10 +10938,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7B_2",
         "marker_left":  52.8,
         "marker_bottom":  39.41,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2020, 2013",
+        "recent_year":  "2020",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_2016_44.jpg",
@@ -10959,7 +10959,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2016_44.jpg",
@@ -10974,10 +10974,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7B_4",
         "marker_left":  61.95,
         "marker_bottom":  22.22,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(4), 2016, 2011",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_2016_44.jpg",
@@ -10992,10 +10992,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7B_5",
         "marker_left":  67.06,
         "marker_bottom":  6.37,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2013",
+        "recent_year":  "2013",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2016_36.jpg",
@@ -11010,10 +11010,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7C_1",
         "marker_left":  34.67,
         "marker_bottom":  87.81,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2013",
+        "recent_year":  "2013",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2016_36.jpg",
@@ -11028,10 +11028,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7C_2",
         "marker_left":  29.18,
         "marker_bottom":  73.06,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(3), 2022, 2020, 2019, 2015, 2012, 2011",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "lower_2016_36.jpg",
@@ -11046,10 +11046,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7C_3",
         "marker_left":  65.63,
         "marker_bottom":  54.87,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2014",
+        "recent_year":  "2014",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2016_36.jpg",
@@ -11064,10 +11064,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7C_4",
         "marker_left":  49.18,
         "marker_bottom":  42.58,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2009",
+        "recent_year":  "2009",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2016_36.jpg",
@@ -11082,10 +11082,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7C_5",
         "marker_left":  33.33,
         "marker_bottom":  53.1,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2012",
+        "recent_year":  "2012",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_2016_36.jpg",
@@ -11100,10 +11100,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7C_6",
         "marker_left":  21.63,
         "marker_bottom":  61.26,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2022, 2013, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_2016_36.jpg",
@@ -11118,10 +11118,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7C_7",
         "marker_left":  43.41,
         "marker_bottom":  84.56,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2016_36.jpg",
@@ -11139,7 +11139,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2016_33.jpg",
@@ -11157,7 +11157,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2016_33.jpg",
@@ -11172,10 +11172,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7D_2",
         "marker_left":  40.71,
         "marker_bottom":  92.16,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2015",
+        "recent_year":  "2015",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2016_33.jpg",
@@ -11190,10 +11190,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7D_3",
         "marker_left":  55.16,
         "marker_bottom":  74.5,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2016_33.jpg",
@@ -11208,10 +11208,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7D_4",
         "marker_left":  24.78,
         "marker_bottom":  64.29,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2013",
+        "recent_year":  "2013",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2016_33.jpg",
@@ -11226,10 +11226,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7D_5",
         "marker_left":  24.49,
         "marker_bottom":  50.4,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(3), 2022, 2020, 2019, 2015, 2012, 2011",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "lower_2016_33.jpg",
@@ -11244,10 +11244,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7D_6",
         "marker_left":  30.98,
         "marker_bottom":  38.49,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2012",
+        "recent_year":  "2012",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_2016_33.jpg",
@@ -11262,10 +11262,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q7D_7",
         "marker_left":  30.38,
         "marker_bottom":  21.23,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2022, 2013, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_2016_33.jpg",
@@ -11283,7 +11283,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0006.jpg",
@@ -11298,10 +11298,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q4_1",
         "marker_left":  79.81,
         "marker_bottom":  62.11,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2020, 2017, 2016",
+        "recent_year":  "2020",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_0006.jpg",
@@ -11319,7 +11319,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0006.jpg",
@@ -11334,10 +11334,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q4_3",
         "marker_left":  49.71,
         "marker_bottom":  75.89,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2015",
+        "recent_year":  "2015",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0006.jpg",
@@ -11355,7 +11355,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0006.jpg",
@@ -11370,10 +11370,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q4_5",
         "marker_left":  58.45,
         "marker_bottom":  42.33,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2013, 2012",
+        "recent_year":  "2013",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0006.jpg",
@@ -11388,10 +11388,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q4_6",
         "marker_left":  78.06,
         "marker_bottom":  49.33,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2022, 2013, 2011, 2010, 2008",
+        "recent_year":  "2022",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "lower_0008.jpg",
@@ -11406,10 +11406,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q5_1",
         "marker_left":  44.39,
         "marker_bottom":  34.44,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(4), 2016, 2011",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_0008.jpg",
@@ -11424,10 +11424,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q5_2",
         "marker_left":  23.03,
         "marker_bottom":  11.78,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2013",
+        "recent_year":  "2013",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0008.jpg",
@@ -11442,10 +11442,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q5_3",
         "marker_left":  48.79,
         "marker_bottom":  81.33,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2020, 2017, 2016",
+        "recent_year":  "2020",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_0008.jpg",
@@ -11463,7 +11463,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0008.jpg",
@@ -11478,10 +11478,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q5_5",
         "marker_left":  32.73,
         "marker_bottom":  86.67,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2015",
+        "recent_year":  "2015",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0008.jpg",
@@ -11499,7 +11499,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0008.jpg",
@@ -11517,7 +11517,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0008.jpg",
@@ -11532,10 +11532,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q5_8",
         "marker_left":  63.64,
         "marker_bottom":  49.22,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2020, 2013",
+        "recent_year":  "2020",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0008.jpg",
@@ -11550,10 +11550,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q5_9",
         "marker_left":  71.67,
         "marker_bottom":  68.11,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2021, 2012, 2009",
+        "recent_year":  "2021",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_0008.jpg",
@@ -11568,10 +11568,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q5_10",
         "marker_left":  8.18,
         "marker_bottom":  72.44,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0011.jpg",
@@ -11586,10 +11586,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6_1",
         "marker_left":  62.28,
         "marker_bottom":  39.44,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(4), 2016, 2011",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_0011.jpg",
@@ -11604,10 +11604,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6_2",
         "marker_left":  61.52,
         "marker_bottom":  18.11,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2013",
+        "recent_year":  "2013",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0011.jpg",
@@ -11622,10 +11622,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6_3",
         "marker_left":  64.3,
         "marker_bottom":  70.89,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2020, 2017, 2016",
+        "recent_year":  "2020",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_0011.jpg",
@@ -11640,10 +11640,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6_4",
         "marker_left":  75.7,
         "marker_bottom":  6.56,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2022, 2013, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_0011.jpg",
@@ -11658,10 +11658,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6_5",
         "marker_left":  53.92,
         "marker_bottom":  83.78,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2015",
+        "recent_year":  "2015",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0011.jpg",
@@ -11676,10 +11676,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6_6",
         "marker_left":  64.81,
         "marker_bottom":  59.67,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2025(3), 2015",
+        "recent_year":  "2025",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0011.jpg",
@@ -11694,10 +11694,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6_7",
         "marker_left":  47.59,
         "marker_bottom":  47.56,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2022, 2013, 2011, 2010, 2008",
+        "recent_year":  "2022",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "lower_2014_16.jpg",
@@ -11715,7 +11715,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2014_16.jpg",
@@ -11730,10 +11730,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6A_2",
         "marker_left":  34.93,
         "marker_bottom":  18.93,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2013",
+        "recent_year":  "2013",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2014_16.jpg",
@@ -11748,10 +11748,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6A_3",
         "marker_left":  30,
         "marker_bottom":  44.6,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2021, 2012, 2009",
+        "recent_year":  "2021",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_2014_16.jpg",
@@ -11769,7 +11769,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2014_16.jpg",
@@ -11784,10 +11784,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6A_5",
         "marker_left":  46.72,
         "marker_bottom":  58.87,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2020, 2017, 2016",
+        "recent_year":  "2020",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_2014_16.jpg",
@@ -11805,7 +11805,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2014_16.jpg",
@@ -11820,10 +11820,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6A_7",
         "marker_left":  70,
         "marker_bottom":  42.12,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2014_16.jpg",
@@ -11838,10 +11838,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6A_8",
         "marker_left":  83.13,
         "marker_bottom":  20.12,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2014",
+        "recent_year":  "2014",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2014_19.jpg",
@@ -11856,10 +11856,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6B_1",
         "marker_left":  89.04,
         "marker_bottom":  81.2,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2025(3), 2023, 2017, 2014, 2006",
+        "recent_year":  "2025",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "lower_2014_19.jpg",
@@ -11874,10 +11874,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6B_2",
         "marker_left":  64.82,
         "marker_bottom":  78.5,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2015",
+        "recent_year":  "2015",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2014_19.jpg",
@@ -11892,10 +11892,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6B_3",
         "marker_left":  68.19,
         "marker_bottom":  58.07,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2014_19.jpg",
@@ -11913,7 +11913,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2014_19.jpg",
@@ -11928,10 +11928,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6B_5",
         "marker_left":  74.16,
         "marker_bottom":  26.82,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2014",
+        "recent_year":  "2014",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2014_19.jpg",
@@ -11946,10 +11946,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6B_6",
         "marker_left":  32.66,
         "marker_bottom":  19.36,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2022, 2013, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_2014_19.jpg",
@@ -11964,10 +11964,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6B_7",
         "marker_left":  36.45,
         "marker_bottom":  41.79,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2013",
+        "recent_year":  "2013",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2014_19.jpg",
@@ -11982,10 +11982,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6B_8",
         "marker_left":  37.92,
         "marker_bottom":  61.47,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2021, 2012, 2009",
+        "recent_year":  "2021",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_2014_19.jpg",
@@ -12000,10 +12000,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6B_9",
         "marker_left":  54.63,
         "marker_bottom":  50.23,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2022, 2013, 2011, 2010, 2008",
+        "recent_year":  "2022",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "lower_2014_19.jpg",
@@ -12018,10 +12018,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6B_10",
         "marker_left":  49.23,
         "marker_bottom":  35.68,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2020, 2017, 2016",
+        "recent_year":  "2020",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_2016_37.jpg",
@@ -12036,10 +12036,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6C_1",
         "marker_left":  45.04,
         "marker_bottom":  87.81,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2015",
+        "recent_year":  "2015",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2016_37.jpg",
@@ -12057,7 +12057,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2016_37.jpg",
@@ -12072,10 +12072,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6C_3",
         "marker_left":  35.7,
         "marker_bottom":  78.17,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2020, 2017, 2016",
+        "recent_year":  "2020",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_2016_37.jpg",
@@ -12093,7 +12093,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2016_37.jpg",
@@ -12108,10 +12108,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6C_5",
         "marker_left":  62.37,
         "marker_bottom":  64.11,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2016_37.jpg",
@@ -12129,7 +12129,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2016_37.jpg",
@@ -12144,10 +12144,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6C_7",
         "marker_left":  36.89,
         "marker_bottom":  45.33,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2013",
+        "recent_year":  "2013",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2016_37.jpg",
@@ -12162,10 +12162,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6C_8",
         "marker_left":  32.45,
         "marker_bottom":  54.97,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2023, 2019, 2017",
+        "recent_year":  "2023",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_2017_4a.jpg",
@@ -12180,10 +12180,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6D_1",
         "marker_left":  61.94,
         "marker_bottom":  81.44,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2015",
+        "recent_year":  "2015",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2017_4a.jpg",
@@ -12198,10 +12198,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6D_2",
         "marker_left":  88.2,
         "marker_bottom":  80.78,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2025(3), 2023, 2017, 2014, 2006",
+        "recent_year":  "2025",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "lower_2017_4a.jpg",
@@ -12219,7 +12219,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2017_4a.jpg",
@@ -12234,10 +12234,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6D_4",
         "marker_left":  46.63,
         "marker_bottom":  36.94,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2020, 2017, 2016",
+        "recent_year":  "2020",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_2017_4a.jpg",
@@ -12252,10 +12252,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6D_5",
         "marker_left":  59.13,
         "marker_bottom":  21.18,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2017_4a.jpg",
@@ -12270,10 +12270,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6D_6",
         "marker_left":  27.39,
         "marker_bottom":  48.97,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2013",
+        "recent_year":  "2013",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2017_4a.jpg",
@@ -12291,7 +12291,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2017_4a.jpg",
@@ -12306,10 +12306,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6D_8",
         "marker_left":  32.45,
         "marker_bottom":  23.79,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2014",
+        "recent_year":  "2014",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2017_37.jpg",
@@ -12324,10 +12324,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6E_1",
         "marker_left":  45.42,
         "marker_bottom":  55.48,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2025(3), 2015",
+        "recent_year":  "2025",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_2017_37.jpg",
@@ -12342,10 +12342,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6E_2",
         "marker_left":  38.52,
         "marker_bottom":  51.14,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2021, 2012, 2009",
+        "recent_year":  "2021",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_2017_37.jpg",
@@ -12360,10 +12360,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6E_3",
         "marker_left":  44.94,
         "marker_bottom":  74.73,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2020, 2017, 2016",
+        "recent_year":  "2020",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_2017_37.jpg",
@@ -12381,7 +12381,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2017_37.jpg",
@@ -12396,10 +12396,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6E_5",
         "marker_left":  59.07,
         "marker_bottom":  80.99,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2015",
+        "recent_year":  "2015",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2017_37.jpg",
@@ -12417,7 +12417,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2017_37.jpg",
@@ -12432,10 +12432,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6E_7",
         "marker_left":  34.03,
         "marker_bottom":  28.64,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2013",
+        "recent_year":  "2013",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2017_37.jpg",
@@ -12450,10 +12450,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q6E_8",
         "marker_left":  81.86,
         "marker_bottom":  48.74,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0012.jpg",
@@ -12471,7 +12471,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0012.jpg",
@@ -12489,7 +12489,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0012.jpg",
@@ -12504,10 +12504,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q8_3",
         "marker_left":  51.07,
         "marker_bottom":  89.49,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0013.jpg",
@@ -12522,10 +12522,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q9_1",
         "marker_left":  52.06,
         "marker_bottom":  73.5,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0013.jpg",
@@ -12543,7 +12543,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0013.jpg",
@@ -12561,7 +12561,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0013.jpg",
@@ -12576,10 +12576,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q9_4",
         "marker_left":  28.87,
         "marker_bottom":  63.2,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2018, 2009",
+        "recent_year":  "2018",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0013.jpg",
@@ -12597,7 +12597,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0013.jpg",
@@ -12612,10 +12612,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q9_6",
         "marker_left":  52.32,
         "marker_bottom":  30.55,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2015",
+        "recent_year":  "2015",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0013.jpg",
@@ -12630,10 +12630,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q9_7",
         "marker_left":  36.86,
         "marker_bottom":  48.15,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2013, 2009",
+        "recent_year":  "2013",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0013.jpg",
@@ -12648,10 +12648,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q9_8",
         "marker_left":  48.97,
         "marker_bottom":  49.56,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2022",
+        "recent_year":  "2022",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0014.jpg",
@@ -12666,10 +12666,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q10_1",
         "marker_left":  73.03,
         "marker_bottom":  73.3,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0014.jpg",
@@ -12684,10 +12684,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q10_2",
         "marker_left":  19.87,
         "marker_bottom":  51.61,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2023",
+        "recent_year":  "2023",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0014.jpg",
@@ -12702,10 +12702,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q10_3",
         "marker_left":  37.89,
         "marker_bottom":  62.59,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2011",
+        "recent_year":  "2011",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0014.jpg",
@@ -12720,10 +12720,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q10_4",
         "marker_left":  41.05,
         "marker_bottom":  56.6,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2011",
+        "recent_year":  "2011",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0014.jpg",
@@ -12741,7 +12741,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0014.jpg",
@@ -12756,10 +12756,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q10_6",
         "marker_left":  29.04,
         "marker_bottom":  74.63,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2018, 2009",
+        "recent_year":  "2018",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0014.jpg",
@@ -12777,7 +12777,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0014.jpg",
@@ -12792,10 +12792,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q10_8",
         "marker_left":  39.78,
         "marker_bottom":  40.44,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2013, 2009",
+        "recent_year":  "2013",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0015.jpg",
@@ -12813,7 +12813,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0015.jpg",
@@ -12831,7 +12831,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0015.jpg",
@@ -12849,7 +12849,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0015.jpg",
@@ -12864,10 +12864,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q11_4",
         "marker_left":  54.8,
         "marker_bottom":  19,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2015",
+        "recent_year":  "2015",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0015.jpg",
@@ -12882,10 +12882,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q11_5",
         "marker_left":  23.78,
         "marker_bottom":  63.58,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2013, 2009",
+        "recent_year":  "2013",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0015.jpg",
@@ -12900,10 +12900,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q11_6",
         "marker_left":  45.28,
         "marker_bottom":  75.07,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2022",
+        "recent_year":  "2022",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0017.jpg",
@@ -12918,10 +12918,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q12_1",
         "marker_left":  64.78,
         "marker_bottom":  30.86,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0017.jpg",
@@ -12939,7 +12939,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0017.jpg",
@@ -12957,7 +12957,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0017.jpg",
@@ -12972,10 +12972,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q12_4",
         "marker_left":  4.03,
         "marker_bottom":  52.75,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2018, 2009",
+        "recent_year":  "2018",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0017.jpg",
@@ -12993,7 +12993,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0017.jpg",
@@ -13011,7 +13011,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0017.jpg",
@@ -13029,7 +13029,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0017.jpg",
@@ -13047,7 +13047,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0017.jpg",
@@ -13065,7 +13065,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0017.jpg",
@@ -13083,7 +13083,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0017.jpg",
@@ -13101,7 +13101,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2017_26.jpg",
@@ -13116,10 +13116,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q12A_1",
         "marker_left":  49.21,
         "marker_bottom":  73.1,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2017_26.jpg",
@@ -13134,10 +13134,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q12A_2",
         "marker_left":  32.51,
         "marker_bottom":  65.94,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2018, 2009",
+        "recent_year":  "2018",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_2017_26.jpg",
@@ -13155,7 +13155,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2017_26.jpg",
@@ -13170,10 +13170,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q12A_4",
         "marker_left":  25.65,
         "marker_bottom":  58.5,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2025(4), 2017, 2016, 2012, 2009",
+        "recent_year":  "2025",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "lower_2017_26.jpg",
@@ -13188,10 +13188,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q12A_5",
         "marker_left":  44.4,
         "marker_bottom":  42.34,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2015",
+        "recent_year":  "2015",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2017_26.jpg",
@@ -13206,10 +13206,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q12A_6",
         "marker_left":  40.39,
         "marker_bottom":  16.57,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2013, 2009",
+        "recent_year":  "2013",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_2017_26.jpg",
@@ -13227,7 +13227,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2017_43a.jpg",
@@ -13245,7 +13245,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2017_43a.jpg",
@@ -13263,7 +13263,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2017_43a.jpg",
@@ -13281,7 +13281,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2017_43a.jpg",
@@ -13296,10 +13296,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q12B_4",
         "marker_left":  30.27,
         "marker_bottom":  66.65,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2018, 2009",
+        "recent_year":  "2018",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_2017_43a.jpg",
@@ -13317,7 +13317,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2017_43a.jpg",
@@ -13335,7 +13335,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2017_43a.jpg",
@@ -13350,10 +13350,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q12B_7",
         "marker_left":  38.06,
         "marker_bottom":  59.61,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2022",
+        "recent_year":  "2022",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2017_43a.jpg",
@@ -13368,10 +13368,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q12B_8",
         "marker_left":  55.55,
         "marker_bottom":  47.99,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2015",
+        "recent_year":  "2015",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2017_43a.jpg",
@@ -13386,10 +13386,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q12B_9",
         "marker_left":  55.13,
         "marker_bottom":  26.49,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2013, 2009",
+        "recent_year":  "2013",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_2017_43a.jpg",
@@ -13404,10 +13404,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q12B_10",
         "marker_left":  76.05,
         "marker_bottom":  79.66,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2017_43a.jpg",
@@ -13425,7 +13425,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0016.jpg",
@@ -13440,10 +13440,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q13_1",
         "marker_left":  78.77,
         "marker_bottom":  73.68,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(3), 2018, 2008",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_0016.jpg",
@@ -13458,10 +13458,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q13_2",
         "marker_left":  81.13,
         "marker_bottom":  39.26,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2021, 2017, 2015, 2006, 2004",
+        "recent_year":  "2021",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "lower_0016.jpg",
@@ -13476,10 +13476,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q13_3",
         "marker_left":  80.01,
         "marker_bottom":  13.75,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(4)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0016.jpg",
@@ -13497,7 +13497,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0016.jpg",
@@ -13512,10 +13512,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q13_5",
         "marker_left":  27.15,
         "marker_bottom":  71.92,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2022, 2013, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_0016.jpg",
@@ -13533,7 +13533,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0016.jpg",
@@ -13548,10 +13548,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q13_7",
         "marker_left":  17.84,
         "marker_bottom":  73.75,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0016.jpg",
@@ -13566,10 +13566,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q13_8",
         "marker_left":  64.11,
         "marker_bottom":  74.52,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2013, 2009",
+        "recent_year":  "2013",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0016.jpg",
@@ -13584,10 +13584,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q13_9",
         "marker_left":  45.28,
         "marker_bottom":  85.21,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2012",
+        "recent_year":  "2012",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0016.jpg",
@@ -13602,10 +13602,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q13_10",
         "marker_left":  55.42,
         "marker_bottom":  83.53,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2020, 2015, 2009",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_0016.jpg",
@@ -13620,10 +13620,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q13_11",
         "marker_left":  66.97,
         "marker_bottom":  48.96,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2016, 2006",
+        "recent_year":  "2016",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0018.jpg",
@@ -13638,10 +13638,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q14_1",
         "marker_left":  27.21,
         "marker_bottom":  53.24,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(3), 2022, 2020, 2019, 2015, 2012, 2011",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "lower_0018.jpg",
@@ -13659,7 +13659,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0018.jpg",
@@ -13674,10 +13674,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q14_3",
         "marker_left":  16.18,
         "marker_bottom":  55.97,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2022, 2013, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_0018.jpg",
@@ -13692,10 +13692,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q14_4",
         "marker_left":  65.1,
         "marker_bottom":  81.78,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2015",
+        "recent_year":  "2015",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0018.jpg",
@@ -13710,10 +13710,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q14_5",
         "marker_left":  28.5,
         "marker_bottom":  11.03,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2012",
+        "recent_year":  "2012",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0018.jpg",
@@ -13728,10 +13728,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q14_6",
         "marker_left":  39.27,
         "marker_bottom":  20.91,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2020, 2015, 2009",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_0018.jpg",
@@ -13746,10 +13746,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q14_7",
         "marker_left":  64.32,
         "marker_bottom":  32.02,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2013, 2008",
+        "recent_year":  "2013",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0019.jpg",
@@ -13764,10 +13764,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q15_1",
         "marker_left":  54.69,
         "marker_bottom":  61.67,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2021, 2017, 2015, 2006, 2004",
+        "recent_year":  "2021",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "lower_0019.jpg",
@@ -13782,10 +13782,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q15_2",
         "marker_left":  53.61,
         "marker_bottom":  38,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2017",
+        "recent_year":  "2017",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0019.jpg",
@@ -13803,7 +13803,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0019.jpg",
@@ -13818,10 +13818,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q15_4",
         "marker_left":  51.26,
         "marker_bottom":  29.22,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(4), 2021, 2015, 2014, 2013, 2012, 2004",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "lower_0019.jpg",
@@ -13836,10 +13836,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q15_5",
         "marker_left":  48.19,
         "marker_bottom":  82,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2016, 2006",
+        "recent_year":  "2016",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0021.jpg",
@@ -13854,10 +13854,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q16_1",
         "marker_left":  73.9,
         "marker_bottom":  88.65,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(3), 2018, 2008",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_0021.jpg",
@@ -13872,10 +13872,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q16_2",
         "marker_left":  86.22,
         "marker_bottom":  39.16,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(4)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0021.jpg",
@@ -13893,7 +13893,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0021.jpg",
@@ -13908,10 +13908,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q16_4",
         "marker_left":  68.9,
         "marker_bottom":  23.74,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2011, 2010, 2009",
+        "recent_year":  "2011",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_0021.jpg",
@@ -13929,7 +13929,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0021.jpg",
@@ -13947,7 +13947,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0021.jpg",
@@ -13965,7 +13965,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0022.jpg",
@@ -13980,10 +13980,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q17_1",
         "marker_left":  81.47,
         "marker_bottom":  76.36,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(4)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0022.jpg",
@@ -14001,7 +14001,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0022.jpg",
@@ -14019,7 +14019,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0022.jpg",
@@ -14037,7 +14037,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0022.jpg",
@@ -14055,7 +14055,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0022.jpg",
@@ -14073,7 +14073,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0022.jpg",
@@ -14088,10 +14088,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q17_7",
         "marker_left":  39.93,
         "marker_bottom":  16.81,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2025(3), 2022, 2019, 2016, 2015, 2014, 2013, 2012, 2010, 2008",
+        "recent_year":  "2025",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "lower_0022.jpg",
@@ -14106,10 +14106,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q17_8",
         "marker_left":  78.17,
         "marker_bottom":  13.36,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2021, 2020",
+        "recent_year":  "2021",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0022.jpg",
@@ -14124,10 +14124,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q17_9",
         "marker_left":  60.24,
         "marker_bottom":  22.77,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2016, 2006",
+        "recent_year":  "2016",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_2014_38.jpg",
@@ -14142,10 +14142,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q17A_1",
         "marker_left":  67.12,
         "marker_bottom":  60.62,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(3), 2018, 2008",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_2014_38.jpg",
@@ -14163,7 +14163,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2014_38.jpg",
@@ -14178,10 +14178,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q17A_3",
         "marker_left":  47.6,
         "marker_bottom":  58.62,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2020",
+        "recent_year":  "2020",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2014_38.jpg",
@@ -14196,10 +14196,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q17A_4",
         "marker_left":  53.15,
         "marker_bottom":  32.4,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2016, 2006",
+        "recent_year":  "2016",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_2014_38.jpg",
@@ -14214,10 +14214,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q17A_5",
         "marker_left":  62.46,
         "marker_bottom":  31.41,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2021, 2017, 2015, 2006, 2004",
+        "recent_year":  "2021",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "lower_2014_38.jpg",
@@ -14232,10 +14232,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q17A_6",
         "marker_left":  24.33,
         "marker_bottom":  68.79,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2012",
+        "recent_year":  "2012",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_2014_38.jpg",
@@ -14253,7 +14253,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2014_38.jpg",
@@ -14268,10 +14268,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q17A_8",
         "marker_left":  59.76,
         "marker_bottom":  6.38,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(4)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2017_43b.jpg",
@@ -14286,10 +14286,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q17B_1",
         "marker_left":  46.07,
         "marker_bottom":  19.47,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2021, 2020",
+        "recent_year":  "2021",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_2017_43b.jpg",
@@ -14307,7 +14307,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2017_43b.jpg",
@@ -14325,7 +14325,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2017_43b.jpg",
@@ -14340,10 +14340,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q17B_4",
         "marker_left":  73.19,
         "marker_bottom":  52.51,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(4)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2017_43b.jpg",
@@ -14358,10 +14358,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q17B_5",
         "marker_left":  54.07,
         "marker_bottom":  51.92,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2011, 2010, 2009",
+        "recent_year":  "2011",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_2017_43b.jpg",
@@ -14376,10 +14376,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q17B_6",
         "marker_left":  69.04,
         "marker_bottom":  71.19,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(3), 2018, 2008",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_2017_43b.jpg",
@@ -14397,7 +14397,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2017_43b.jpg",
@@ -14412,10 +14412,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q17B_8",
         "marker_left":  50.22,
         "marker_bottom":  89.97,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2013, 2009",
+        "recent_year":  "2013",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_2017_43b.jpg",
@@ -14430,10 +14430,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q17B_9",
         "marker_left":  61.63,
         "marker_bottom":  71.39,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2021, 2017, 2015, 2006, 2004",
+        "recent_year":  "2021",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "lower_2017_43b.jpg",
@@ -14448,10 +14448,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q17B_10",
         "marker_left":  52.3,
         "marker_bottom":  71.58,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2016, 2006",
+        "recent_year":  "2016",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_2017_43b.jpg",
@@ -14466,10 +14466,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q17B_11",
         "marker_left":  29.04,
         "marker_bottom":  75.81,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2012",
+        "recent_year":  "2012",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0020.jpg",
@@ -14484,10 +14484,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q18_1",
         "marker_left":  43.52,
         "marker_bottom":  49.22,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2014",
+        "recent_year":  "2014",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0020.jpg",
@@ -14502,10 +14502,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q18_2",
         "marker_left":  91.69,
         "marker_bottom":  36.44,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(4), 2025(3), 2015, 2013, 2012, 2011, 2010",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "lower_0020.jpg",
@@ -14520,10 +14520,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q18_3",
         "marker_left":  48.5,
         "marker_bottom":  61,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2016, 2006",
+        "recent_year":  "2016",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0020.jpg",
@@ -14538,10 +14538,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q18_4",
         "marker_left":  33.22,
         "marker_bottom":  40.22,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2025(4), 2023",
+        "recent_year":  "2025",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0023.jpg",
@@ -14556,10 +14556,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q19_1",
         "marker_left":  26.11,
         "marker_bottom":  62.74,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2012, 2006",
+        "recent_year":  "2012",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0023.jpg",
@@ -14574,10 +14574,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q19_2",
         "marker_left":  69,
         "marker_bottom":  13.63,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(4), 2022, 2010",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_0023.jpg",
@@ -14595,7 +14595,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0023.jpg",
@@ -14610,10 +14610,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q19_4",
         "marker_left":  55.86,
         "marker_bottom":  87.34,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2021, 2020",
+        "recent_year":  "2021",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0023.jpg",
@@ -14628,10 +14628,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q19_5",
         "marker_left":  49.63,
         "marker_bottom":  32.74,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2016, 2006",
+        "recent_year":  "2016",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0023.jpg",
@@ -14646,10 +14646,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q19_6",
         "marker_left":  43.4,
         "marker_bottom":  41.83,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  9,
+        "exam_years":  "2021, 2019, 2016, 2012, 2011, 2010, 2008, 2006, 2004",
+        "recent_year":  "2021",
+        "exam_weight":  3.1622776601683795
     },
     {
         "image_filename":  "lower_2015_47.jpg",
@@ -14667,7 +14667,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2015_47.jpg",
@@ -14682,10 +14682,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q56_2",
         "marker_left":  70.44,
         "marker_bottom":  67.63,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2025(3), 2023, 2021, 2019, 2013, 2009, 2006",
+        "recent_year":  "2025",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "lower_2015_47.jpg",
@@ -14700,10 +14700,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q56_3",
         "marker_left":  28.65,
         "marker_bottom":  53.45,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2021, 2020",
+        "recent_year":  "2021",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_2015_47.jpg",
@@ -14718,10 +14718,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q56_4",
         "marker_left":  66.57,
         "marker_bottom":  59.93,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2022, 2020, 2016, 2014, 2012, 2010",
+        "recent_year":  "2022",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "lower_2015_47.jpg",
@@ -14736,10 +14736,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q56_5",
         "marker_left":  63.13,
         "marker_bottom":  51.03,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2023, 2017, 2015, 2014, 2013, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "lower_2015_47.jpg",
@@ -14757,7 +14757,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2015_47.jpg",
@@ -14772,10 +14772,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q56_7",
         "marker_left":  60.32,
         "marker_bottom":  25.84,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2016, 2006",
+        "recent_year":  "2016",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_2015_47.jpg",
@@ -14790,10 +14790,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q56_8",
         "marker_left":  77.67,
         "marker_bottom":  84.84,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2021, 2017, 2015, 2006, 2004",
+        "recent_year":  "2021",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "lower_0219.jpg",
@@ -14808,10 +14808,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q20_1",
         "marker_left":  72.38,
         "marker_bottom":  65.76,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2020, 2014",
+        "recent_year":  "2020",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0219.jpg",
@@ -14826,10 +14826,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q20_2",
         "marker_left":  45.41,
         "marker_bottom":  85.75,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2012, 2006",
+        "recent_year":  "2012",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0219.jpg",
@@ -14844,10 +14844,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q20_3",
         "marker_left":  57.42,
         "marker_bottom":  67.03,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(4), 2022, 2010",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_0219.jpg",
@@ -14865,7 +14865,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0219.jpg",
@@ -14880,10 +14880,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q20_5",
         "marker_left":  52.4,
         "marker_bottom":  73.45,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2023, 2017, 2015, 2014, 2013, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "lower_0219.jpg",
@@ -14901,7 +14901,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0219.jpg",
@@ -14916,10 +14916,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q20_7",
         "marker_left":  51.75,
         "marker_bottom":  52.99,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2016, 2006",
+        "recent_year":  "2016",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0219.jpg",
@@ -14934,10 +14934,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q20_8",
         "marker_left":  38.97,
         "marker_bottom":  54.34,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2025(4), 2023",
+        "recent_year":  "2025",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0024.jpg",
@@ -14955,7 +14955,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0024.jpg",
@@ -14970,10 +14970,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q21_2",
         "marker_left":  53.07,
         "marker_bottom":  48.78,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(4)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0024.jpg",
@@ -14988,10 +14988,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q21_3",
         "marker_left":  38.63,
         "marker_bottom":  58,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(4)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0024.jpg",
@@ -15009,7 +15009,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0024.jpg",
@@ -15027,7 +15027,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0024.jpg",
@@ -15042,10 +15042,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q21_6",
         "marker_left":  51.26,
         "marker_bottom":  62.33,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2020",
+        "recent_year":  "2020",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0025.jpg",
@@ -15060,10 +15060,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q22_1",
         "marker_left":  66.06,
         "marker_bottom":  36.33,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  8,
+        "exam_years":  "2025(4), 2022, 2019, 2018, 2014, 2012, 2006, 2004",
+        "recent_year":  "2025",
+        "exam_weight":  3.0
     },
     {
         "image_filename":  "lower_0025.jpg",
@@ -15078,10 +15078,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q22_2",
         "marker_left":  41.97,
         "marker_bottom":  59.89,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2022",
+        "recent_year":  "2022",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0025.jpg",
@@ -15096,10 +15096,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q22_3",
         "marker_left":  83.03,
         "marker_bottom":  14.67,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2009",
+        "recent_year":  "2009",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0025.jpg",
@@ -15114,10 +15114,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q22_4",
         "marker_left":  19.04,
         "marker_bottom":  65.11,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  12,
+        "exam_years":  "2021, 2019, 2018, 2017, 2016, 2014, 2013, 2009, 2006, 2004",
+        "recent_year":  "2021",
+        "exam_weight":  3.605551275463989
     },
     {
         "image_filename":  "lower_0025.jpg",
@@ -15132,10 +15132,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q22_5",
         "marker_left":  27.75,
         "marker_bottom":  47.11,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2025(3), 2020, 2019, 2016, 2011, 2008",
+        "recent_year":  "2025",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "lower_0025.jpg",
@@ -15150,10 +15150,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q22_6",
         "marker_left":  37.39,
         "marker_bottom":  31.56,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2025(3), 2020, 2019, 2016, 2011, 2008",
+        "recent_year":  "2025",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "lower_0025.jpg",
@@ -15168,10 +15168,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q22_7",
         "marker_left":  84.17,
         "marker_bottom":  25.44,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2020",
+        "recent_year":  "2020",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0028.jpg",
@@ -15186,10 +15186,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q23_1",
         "marker_left":  50.38,
         "marker_bottom":  88.33,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2010, 2009",
+        "recent_year":  "2010",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0028.jpg",
@@ -15207,7 +15207,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0028.jpg",
@@ -15222,10 +15222,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q23_3",
         "marker_left":  17.45,
         "marker_bottom":  78.22,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2004",
+        "recent_year":  "2004",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0028.jpg",
@@ -15240,10 +15240,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q23_4",
         "marker_left":  14.72,
         "marker_bottom":  86.67,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(4), 2025(3), 2015, 2013, 2012, 2011, 2010",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "lower_0028.jpg",
@@ -15261,7 +15261,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0220.jpg",
@@ -15276,10 +15276,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q24_1",
         "marker_left":  30.81,
         "marker_bottom":  86.99,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2020, 2014",
+        "recent_year":  "2020",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0220.jpg",
@@ -15297,7 +15297,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0220.jpg",
@@ -15312,10 +15312,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q24_3",
         "marker_left":  66.51,
         "marker_bottom":  22.3,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2010, 2009",
+        "recent_year":  "2010",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0220.jpg",
@@ -15330,10 +15330,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q24_4",
         "marker_left":  73.4,
         "marker_bottom":  20.99,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2010, 2009",
+        "recent_year":  "2010",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0220.jpg",
@@ -15348,10 +15348,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q24_5",
         "marker_left":  78.65,
         "marker_bottom":  19.76,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2010, 2009",
+        "recent_year":  "2010",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0220.jpg",
@@ -15369,7 +15369,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0220.jpg",
@@ -15384,10 +15384,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q24_7",
         "marker_left":  38.74,
         "marker_bottom":  52.88,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2004",
+        "recent_year":  "2004",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0220.jpg",
@@ -15402,10 +15402,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q24_8",
         "marker_left":  33.72,
         "marker_bottom":  59.61,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(4), 2025(3), 2015, 2013, 2012, 2011, 2010",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "lower_0220.jpg",
@@ -15420,10 +15420,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q24_9",
         "marker_left":  68.96,
         "marker_bottom":  89.04,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2004",
+        "recent_year":  "2004",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0220.jpg",
@@ -15441,7 +15441,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0026.jpg",
@@ -15456,10 +15456,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q25_1",
         "marker_left":  44.18,
         "marker_bottom":  45.56,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2025(3), 2023, 2021, 2019, 2013, 2009, 2006",
+        "recent_year":  "2025",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "lower_0026.jpg",
@@ -15474,10 +15474,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q25_2",
         "marker_left":  35.19,
         "marker_bottom":  68.89,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  8,
+        "exam_years":  "2025(3), 2020, 2018, 2017, 2014, 2011, 2006, 2004",
+        "recent_year":  "2025",
+        "exam_weight":  3.0
     },
     {
         "image_filename":  "lower_0026.jpg",
@@ -15492,10 +15492,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q25_3",
         "marker_left":  68.52,
         "marker_bottom":  64.33,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2019, 2017, 2012, 2010, 2009",
+        "recent_year":  "2019",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "lower_2016_66.jpg",
@@ -15510,10 +15510,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q25A_1",
         "marker_left":  44.59,
         "marker_bottom":  88.1,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2019, 2017, 2012, 2010, 2009",
+        "recent_year":  "2019",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "lower_2016_66.jpg",
@@ -15528,10 +15528,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q25A_2",
         "marker_left":  50.22,
         "marker_bottom":  80.73,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  8,
+        "exam_years":  "2025(3), 2020, 2018, 2017, 2014, 2011, 2006, 2004",
+        "recent_year":  "2025",
+        "exam_weight":  3.0
     },
     {
         "image_filename":  "lower_2016_66.jpg",
@@ -15546,10 +15546,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q25A_3",
         "marker_left":  54.96,
         "marker_bottom":  76.3,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2022",
+        "recent_year":  "2022",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2016_66.jpg",
@@ -15567,7 +15567,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2016_66.jpg",
@@ -15582,10 +15582,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q25A_5",
         "marker_left":  62.81,
         "marker_bottom":  53.49,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2018, 2016, 2006",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_2016_66.jpg",
@@ -15600,10 +15600,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q25A_6",
         "marker_left":  52.15,
         "marker_bottom":  63.91,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2013, 2011, 2006, 2004",
+        "recent_year":  "2013",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_2016_66.jpg",
@@ -15621,7 +15621,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2016_66.jpg",
@@ -15639,7 +15639,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2016_76.jpg",
@@ -15654,10 +15654,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q25B_1",
         "marker_left":  37.63,
         "marker_bottom":  88,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2019, 2017, 2012, 2010, 2009",
+        "recent_year":  "2019",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "lower_2016_76.jpg",
@@ -15672,10 +15672,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q25B_2",
         "marker_left":  45.48,
         "marker_bottom":  79.06,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  8,
+        "exam_years":  "2025(3), 2020, 2018, 2017, 2014, 2011, 2006, 2004",
+        "recent_year":  "2025",
+        "exam_weight":  3.0
     },
     {
         "image_filename":  "lower_2016_76.jpg",
@@ -15690,10 +15690,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q25B_3",
         "marker_left":  51.7,
         "marker_bottom":  68.24,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2022",
+        "recent_year":  "2022",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2016_76.jpg",
@@ -15708,10 +15708,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q25B_4",
         "marker_left":  65.48,
         "marker_bottom":  41.5,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  12,
+        "exam_years":  "2021, 2019, 2018, 2017, 2016, 2014, 2013, 2009, 2006, 2004",
+        "recent_year":  "2021",
+        "exam_weight":  3.605551275463989
     },
     {
         "image_filename":  "lower_2016_76.jpg",
@@ -15726,10 +15726,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q25B_5",
         "marker_left":  55.26,
         "marker_bottom":  34.81,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2004",
+        "recent_year":  "2004",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2016_76.jpg",
@@ -15747,7 +15747,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2016_76.jpg",
@@ -15762,10 +15762,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q25B_7",
         "marker_left":  39.47,
         "marker_bottom":  18.05,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2018, 2016, 2006",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_2016_74.jpg",
@@ -15780,10 +15780,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q25C_1",
         "marker_left":  47.26,
         "marker_bottom":  83.09,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_2016_74.jpg",
@@ -15798,10 +15798,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q25C_2",
         "marker_left":  36.89,
         "marker_bottom":  75.32,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2025(3), 2023, 2021, 2019, 2013, 2009, 2006",
+        "recent_year":  "2025",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "lower_2016_74.jpg",
@@ -15816,10 +15816,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q25C_3",
         "marker_left":  50.66,
         "marker_bottom":  65.59,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  6,
+        "exam_years":  "2022, 2020, 2016, 2014, 2012, 2010",
+        "recent_year":  "2022",
+        "exam_weight":  2.6457513110645907
     },
     {
         "image_filename":  "lower_2016_74.jpg",
@@ -15834,10 +15834,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q25C_4",
         "marker_left":  69.19,
         "marker_bottom":  30.58,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2013",
+        "recent_year":  "2013",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2016_74.jpg",
@@ -15852,10 +15852,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q25C_5",
         "marker_left":  28.3,
         "marker_bottom":  37.86,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2004",
+        "recent_year":  "2004",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2016_74.jpg",
@@ -15870,10 +15870,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q25C_6",
         "marker_left":  41.63,
         "marker_bottom":  18.29,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2018, 2016, 2006",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_0027.jpg",
@@ -15891,7 +15891,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0027.jpg",
@@ -15906,10 +15906,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q26_2",
         "marker_left":  45.79,
         "marker_bottom":  81.11,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2022",
+        "recent_year":  "2022",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0027.jpg",
@@ -15924,10 +15924,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q26_3",
         "marker_left":  50.92,
         "marker_bottom":  26.44,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2010, 2009",
+        "recent_year":  "2010",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0027.jpg",
@@ -15945,7 +15945,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0027.jpg",
@@ -15960,10 +15960,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q26_5",
         "marker_left":  86.08,
         "marker_bottom":  35.67,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2009",
+        "recent_year":  "2009",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0027.jpg",
@@ -15978,10 +15978,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q26_6",
         "marker_left":  29.67,
         "marker_bottom":  84.44,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  12,
+        "exam_years":  "2021, 2019, 2018, 2017, 2016, 2014, 2013, 2009, 2006, 2004",
+        "recent_year":  "2021",
+        "exam_weight":  3.605551275463989
     },
     {
         "image_filename":  "lower_0029.jpg",
@@ -15996,10 +15996,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q27_1",
         "marker_left":  42.53,
         "marker_bottom":  76.11,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2025(3), 2023, 2021, 2019, 2013, 2009, 2006",
+        "recent_year":  "2025",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "lower_0029.jpg",
@@ -16017,7 +16017,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0029.jpg",
@@ -16032,10 +16032,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q27_3",
         "marker_left":  44.23,
         "marker_bottom":  42.78,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2013, 2011, 2006, 2004",
+        "recent_year":  "2013",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_0029.jpg",
@@ -16053,7 +16053,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0029.jpg",
@@ -16068,10 +16068,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q27_5",
         "marker_left":  76.37,
         "marker_bottom":  30.11,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2009",
+        "recent_year":  "2009",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0029.jpg",
@@ -16089,7 +16089,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0029.jpg",
@@ -16107,7 +16107,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2014_47.jpg",
@@ -16122,10 +16122,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q27A_1",
         "marker_left":  42.14,
         "marker_bottom":  58.12,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2013, 2011, 2006, 2004",
+        "recent_year":  "2013",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_2014_47.jpg",
@@ -16143,7 +16143,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2014_47.jpg",
@@ -16158,10 +16158,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q27A_3",
         "marker_left":  62.29,
         "marker_bottom":  47.53,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  8,
+        "exam_years":  "2025(3), 2020, 2018, 2017, 2014, 2011, 2006, 2004",
+        "recent_year":  "2025",
+        "exam_weight":  3.0
     },
     {
         "image_filename":  "lower_2014_47.jpg",
@@ -16179,7 +16179,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2014_47.jpg",
@@ -16194,10 +16194,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q27A_5",
         "marker_left":  33.99,
         "marker_bottom":  51.03,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2022",
+        "recent_year":  "2022",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2014_47.jpg",
@@ -16212,10 +16212,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q27A_6",
         "marker_left":  23.67,
         "marker_bottom":  52.47,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2004",
+        "recent_year":  "2004",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2014_47.jpg",
@@ -16233,7 +16233,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2016_69.jpg",
@@ -16248,10 +16248,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q27B_1",
         "marker_left":  31.74,
         "marker_bottom":  87.78,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2020",
+        "recent_year":  "2020",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2016_69.jpg",
@@ -16266,10 +16266,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q27B_2",
         "marker_left":  41.99,
         "marker_bottom":  86.1,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2009",
+        "recent_year":  "2009",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2016_69.jpg",
@@ -16284,10 +16284,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q27B_3",
         "marker_left":  46.49,
         "marker_bottom":  82.65,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2010, 2009",
+        "recent_year":  "2010",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_2016_69.jpg",
@@ -16302,10 +16302,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q27B_4",
         "marker_left":  51.4,
         "marker_bottom":  76.03,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2004",
+        "recent_year":  "2004",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2016_69.jpg",
@@ -16320,10 +16320,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q27B_5",
         "marker_left":  68.68,
         "marker_bottom":  76.77,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2004",
+        "recent_year":  "2004",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2016_69.jpg",
@@ -16338,10 +16338,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q27B_6",
         "marker_left":  71.21,
         "marker_bottom":  72.95,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(4), 2025(3), 2015, 2013, 2012, 2011, 2010",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "lower_2016_69.jpg",
@@ -16356,10 +16356,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q27B_7",
         "marker_left":  58.57,
         "marker_bottom":  64.37,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2018, 2016, 2006",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_2016_69.jpg",
@@ -16377,7 +16377,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2016_69.jpg",
@@ -16392,10 +16392,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q27B_9",
         "marker_left":  64.61,
         "marker_bottom":  43.47,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2009, 2006",
+        "recent_year":  "2009",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_0034.jpg",
@@ -16410,10 +16410,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q28_1",
         "marker_left":  12.22,
         "marker_bottom":  51.98,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2009, 2006",
+        "recent_year":  "2009",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_0034.jpg",
@@ -16428,10 +16428,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q28_2",
         "marker_left":  53.66,
         "marker_bottom":  32.72,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2021, 2012, 2009",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_0034.jpg",
@@ -16446,10 +16446,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q28_3",
         "marker_left":  38.83,
         "marker_bottom":  49.82,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2008",
+        "recent_year":  "2008",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0034.jpg",
@@ -16464,10 +16464,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q28_4",
         "marker_left":  71.15,
         "marker_bottom":  87.95,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(4), 2022, 2010",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_0032.jpg",
@@ -16482,10 +16482,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q29_1",
         "marker_left":  17.76,
         "marker_bottom":  56.2,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2009, 2006",
+        "recent_year":  "2009",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_0032.jpg",
@@ -16500,10 +16500,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q29_2",
         "marker_left":  66.83,
         "marker_bottom":  44.31,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2021, 2012, 2009",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_0032.jpg",
@@ -16518,10 +16518,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q29_3",
         "marker_left":  65.91,
         "marker_bottom":  30.54,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2008",
+        "recent_year":  "2008",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0032.jpg",
@@ -16536,10 +16536,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q29_4",
         "marker_left":  68.1,
         "marker_bottom":  55.1,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2014, 2009",
+        "recent_year":  "2014",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0032.jpg",
@@ -16554,10 +16554,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q29_5",
         "marker_left":  48.27,
         "marker_bottom":  42.93,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2014",
+        "recent_year":  "2014",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0032.jpg",
@@ -16572,10 +16572,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q29_6",
         "marker_left":  31.86,
         "marker_bottom":  34.33,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2016",
+        "recent_year":  "2016",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0032.jpg",
@@ -16590,10 +16590,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q29_7",
         "marker_left":  46.07,
         "marker_bottom":  53.79,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  9,
+        "exam_years":  "2015, 2014, 2013, 2012, 2011, 2009, 2006",
+        "recent_year":  "2015",
+        "exam_weight":  3.1622776601683795
     },
     {
         "image_filename":  "lower_0032.jpg",
@@ -16608,10 +16608,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q29_8",
         "marker_left":  51.46,
         "marker_bottom":  50.87,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  9,
+        "exam_years":  "2015, 2014, 2013, 2012, 2011, 2009, 2006",
+        "recent_year":  "2015",
+        "exam_weight":  3.1622776601683795
     },
     {
         "image_filename":  "lower_0032.jpg",
@@ -16626,10 +16626,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q29_9",
         "marker_left":  53.2,
         "marker_bottom":  39.43,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2004",
+        "recent_year":  "2004",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0032.jpg",
@@ -16644,10 +16644,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q29_10",
         "marker_left":  39.14,
         "marker_bottom":  40.6,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2023, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0030.jpg",
@@ -16662,10 +16662,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q30_1",
         "marker_left":  9.7,
         "marker_bottom":  31.37,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2009, 2006",
+        "recent_year":  "2009",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_0030.jpg",
@@ -16680,10 +16680,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q30_2",
         "marker_left":  86.59,
         "marker_bottom":  41.25,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2021, 2012, 2009",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_0030.jpg",
@@ -16698,10 +16698,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q30_3",
         "marker_left":  47.51,
         "marker_bottom":  34.4,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2013",
+        "recent_year":  "2013",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0030.jpg",
@@ -16716,10 +16716,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q30_4",
         "marker_left":  48.15,
         "marker_bottom":  23.15,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2013",
+        "recent_year":  "2013",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0030.jpg",
@@ -16734,10 +16734,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q30_5",
         "marker_left":  47.51,
         "marker_bottom":  52.21,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2022, 2017, 2010",
+        "recent_year":  "2022",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_0030.jpg",
@@ -16752,10 +16752,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q30_6",
         "marker_left":  80.27,
         "marker_bottom":  40.46,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2014, 2009",
+        "recent_year":  "2014",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0030.jpg",
@@ -16770,10 +16770,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q30_7",
         "marker_left":  70.03,
         "marker_bottom":  42.62,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2014, 2009",
+        "recent_year":  "2014",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0030.jpg",
@@ -16788,10 +16788,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q30_8",
         "marker_left":  69.27,
         "marker_bottom":  26.18,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(4), 2022, 2010",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_0030.jpg",
@@ -16806,10 +16806,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q30_9",
         "marker_left":  28.79,
         "marker_bottom":  22.72,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2016",
+        "recent_year":  "2016",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0030.jpg",
@@ -16824,10 +16824,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q30_10",
         "marker_left":  60.16,
         "marker_bottom":  11.97,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2004",
+        "recent_year":  "2004",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0030.jpg",
@@ -16842,10 +16842,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q30_11",
         "marker_left":  67.75,
         "marker_bottom":  10.53,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2004",
+        "recent_year":  "2004",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0031.jpg",
@@ -16863,7 +16863,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0031.jpg",
@@ -16881,7 +16881,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0031.jpg",
@@ -16896,10 +16896,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q31_3",
         "marker_left":  57.23,
         "marker_bottom":  51.61,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2004",
+        "recent_year":  "2004",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0031.jpg",
@@ -16914,10 +16914,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q31_4",
         "marker_left":  48.63,
         "marker_bottom":  29.45,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(4), 2025(3), 2015, 2013, 2012, 2011, 2010",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "lower_0031.jpg",
@@ -16935,7 +16935,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0031.jpg",
@@ -16953,7 +16953,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0031.jpg",
@@ -16971,7 +16971,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0033.jpg",
@@ -16986,10 +16986,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q32_1",
         "marker_left":  79.63,
         "marker_bottom":  45.4,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2021, 2012, 2009",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_0033.jpg",
@@ -17007,7 +17007,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0033.jpg",
@@ -17022,10 +17022,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q32_3",
         "marker_left":  50.69,
         "marker_bottom":  28.67,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2016",
+        "recent_year":  "2016",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0033.jpg",
@@ -17043,7 +17043,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0033.jpg",
@@ -17058,10 +17058,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q32_5",
         "marker_left":  41.78,
         "marker_bottom":  47.34,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(3), 2020, 2008",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_0033.jpg",
@@ -17076,10 +17076,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q32_6",
         "marker_left":  71.99,
         "marker_bottom":  48.97,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(3)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0033.jpg",
@@ -17094,10 +17094,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q32_7",
         "marker_left":  66.67,
         "marker_bottom":  44.09,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2004",
+        "recent_year":  "2004",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0033.jpg",
@@ -17112,10 +17112,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q32_8",
         "marker_left":  48.5,
         "marker_bottom":  66.86,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(4), 2025(3), 2015, 2013, 2012, 2011, 2010",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "lower_0037.jpg",
@@ -17130,10 +17130,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q33_1",
         "marker_left":  69.83,
         "marker_bottom":  31.13,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2013",
+        "recent_year":  "2013",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0037.jpg",
@@ -17148,10 +17148,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q33_2",
         "marker_left":  55.39,
         "marker_bottom":  67.76,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2020, 2017, 2016",
+        "recent_year":  "2020",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_0037.jpg",
@@ -17169,7 +17169,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0037.jpg",
@@ -17184,10 +17184,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q33_4",
         "marker_left":  42.14,
         "marker_bottom":  84.93,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2015",
+        "recent_year":  "2015",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0037.jpg",
@@ -17205,7 +17205,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0037.jpg",
@@ -17220,10 +17220,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q33_6",
         "marker_left":  71.81,
         "marker_bottom":  52.29,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2020, 2013",
+        "recent_year":  "2020",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0037.jpg",
@@ -17238,10 +17238,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q33_7",
         "marker_left":  72.5,
         "marker_bottom":  63.89,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2021, 2012, 2009",
+        "recent_year":  "2021",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_0037.jpg",
@@ -17256,10 +17256,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q33_8",
         "marker_left":  27.5,
         "marker_bottom":  56.49,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2014",
+        "recent_year":  "2014",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0037.jpg",
@@ -17274,10 +17274,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q33_9",
         "marker_left":  26.11,
         "marker_bottom":  77,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0038.jpg",
@@ -17295,7 +17295,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0038.jpg",
@@ -17313,7 +17313,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0038.jpg",
@@ -17328,10 +17328,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q34_3",
         "marker_left":  53.44,
         "marker_bottom":  33.68,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2025(3), 2023",
+        "recent_year":  "2025",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0038.jpg",
@@ -17349,7 +17349,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0038.jpg",
@@ -17364,10 +17364,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q34_5",
         "marker_left":  80.64,
         "marker_bottom":  72.51,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2020, 2013",
+        "recent_year":  "2020",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0039.jpg",
@@ -17385,7 +17385,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0039.jpg",
@@ -17403,7 +17403,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0039.jpg",
@@ -17421,7 +17421,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0039.jpg",
@@ -17439,7 +17439,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0039.jpg",
@@ -17457,7 +17457,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0035.jpg",
@@ -17475,7 +17475,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0035.jpg",
@@ -17490,10 +17490,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q36_2",
         "marker_left":  31.09,
         "marker_bottom":  52.89,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0035.jpg",
@@ -17508,10 +17508,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q36_3",
         "marker_left":  54.41,
         "marker_bottom":  60.88,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0035.jpg",
@@ -17529,7 +17529,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0035.jpg",
@@ -17547,7 +17547,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0035.jpg",
@@ -17562,10 +17562,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q36_6",
         "marker_left":  50.32,
         "marker_bottom":  41.4,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2018, 2009",
+        "recent_year":  "2018",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0035.jpg",
@@ -17580,10 +17580,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q36_7",
         "marker_left":  65.02,
         "marker_bottom":  45.74,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2018, 2009",
+        "recent_year":  "2018",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0035.jpg",
@@ -17598,10 +17598,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q36_8",
         "marker_left":  39.92,
         "marker_bottom":  27.55,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2015",
+        "recent_year":  "2015",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0035.jpg",
@@ -17616,10 +17616,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q36_9",
         "marker_left":  60.08,
         "marker_bottom":  29.53,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2013, 2009",
+        "recent_year":  "2013",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0036.jpg",
@@ -17637,7 +17637,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0036.jpg",
@@ -17652,10 +17652,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q37_2",
         "marker_left":  43.03,
         "marker_bottom":  24.83,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2025(3), 2023",
+        "recent_year":  "2025",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0036.jpg",
@@ -17673,7 +17673,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0036.jpg",
@@ -17691,7 +17691,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0036.jpg",
@@ -17709,7 +17709,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0036.jpg",
@@ -17724,10 +17724,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q37_6",
         "marker_left":  26.34,
         "marker_bottom":  57.85,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2018, 2009",
+        "recent_year":  "2018",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0036.jpg",
@@ -17742,10 +17742,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q37_7",
         "marker_left":  68.51,
         "marker_bottom":  61.01,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2018, 2009",
+        "recent_year":  "2018",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0036.jpg",
@@ -17760,10 +17760,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q37_8",
         "marker_left":  54.01,
         "marker_bottom":  26.51,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2015",
+        "recent_year":  "2015",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0045.jpg",
@@ -17778,10 +17778,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q38_1",
         "marker_left":  73.85,
         "marker_bottom":  45.93,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2022, 2013, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_0045.jpg",
@@ -17799,7 +17799,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0045.jpg",
@@ -17814,10 +17814,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q38_3",
         "marker_left":  25.31,
         "marker_bottom":  38.22,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2018",
+        "recent_year":  "2018",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0045.jpg",
@@ -17832,10 +17832,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q38_4",
         "marker_left":  63.02,
         "marker_bottom":  70.19,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0045.jpg",
@@ -17850,10 +17850,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q38_5",
         "marker_left":  71.34,
         "marker_bottom":  26.73,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2020, 2015, 2009",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_0045.jpg",
@@ -17871,7 +17871,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0044.jpg",
@@ -17889,7 +17889,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0044.jpg",
@@ -17907,7 +17907,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0044.jpg",
@@ -17925,7 +17925,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0044.jpg",
@@ -17940,10 +17940,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q39_4",
         "marker_left":  78.08,
         "marker_bottom":  62.32,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0044.jpg",
@@ -17961,7 +17961,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0043.jpg",
@@ -17976,10 +17976,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q40_1",
         "marker_left":  57.67,
         "marker_bottom":  49.74,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(4), 2025(3), 2017, 2016, 2015, 2010, 2006",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "lower_0043.jpg",
@@ -17997,7 +17997,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0043.jpg",
@@ -18015,7 +18015,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0043.jpg",
@@ -18033,7 +18033,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0043.jpg",
@@ -18051,7 +18051,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0043.jpg",
@@ -18066,10 +18066,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q40_6",
         "marker_left":  72.73,
         "marker_bottom":  48.26,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2019, 2018, 2006",
+        "recent_year":  "2019",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_0043.jpg",
@@ -18087,7 +18087,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0043.jpg",
@@ -18102,10 +18102,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q40_8",
         "marker_left":  32.06,
         "marker_bottom":  20.76,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2004",
+        "recent_year":  "2004",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0040.jpg",
@@ -18120,10 +18120,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q41_1",
         "marker_left":  58.65,
         "marker_bottom":  82,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(3), 2018, 2008",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_0040.jpg",
@@ -18138,10 +18138,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q41_2",
         "marker_left":  58.15,
         "marker_bottom":  39.92,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2021, 2017, 2015, 2006, 2004",
+        "recent_year":  "2021",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "lower_0040.jpg",
@@ -18159,7 +18159,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0040.jpg",
@@ -18174,10 +18174,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q41_4",
         "marker_left":  63.17,
         "marker_bottom":  19.24,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(4)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0040.jpg",
@@ -18192,10 +18192,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q41_5",
         "marker_left":  30.8,
         "marker_bottom":  86.28,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2013, 2008",
+        "recent_year":  "2013",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0041.jpg",
@@ -18210,10 +18210,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q42_1",
         "marker_left":  21.77,
         "marker_bottom":  40.29,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(3), 2018, 2008",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_0041.jpg",
@@ -18228,10 +18228,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q42_2",
         "marker_left":  69.09,
         "marker_bottom":  44.48,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2021, 2017, 2015, 2006, 2004",
+        "recent_year":  "2021",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "lower_0041.jpg",
@@ -18249,7 +18249,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0041.jpg",
@@ -18264,10 +18264,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q42_4",
         "marker_left":  85.08,
         "marker_bottom":  26.83,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(4)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0041.jpg",
@@ -18285,7 +18285,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0041.jpg",
@@ -18300,10 +18300,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q42_6",
         "marker_left":  19.62,
         "marker_bottom":  88.86,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2013, 2008",
+        "recent_year":  "2013",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0046.jpg",
@@ -18318,10 +18318,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q43_1",
         "marker_left":  14.54,
         "marker_bottom":  74.54,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(3), 2018, 2008",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_0046.jpg",
@@ -18336,10 +18336,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q43_2",
         "marker_left":  18.44,
         "marker_bottom":  50.85,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2021, 2017, 2015, 2006, 2004",
+        "recent_year":  "2021",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "lower_0046.jpg",
@@ -18354,10 +18354,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q43_3",
         "marker_left":  29.79,
         "marker_bottom":  88.04,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(4)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0046.jpg",
@@ -18375,7 +18375,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0046.jpg",
@@ -18393,7 +18393,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0046.jpg",
@@ -18411,7 +18411,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0046.jpg",
@@ -18426,10 +18426,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q43_7",
         "marker_left":  54.04,
         "marker_bottom":  15.12,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2025(3), 2022, 2019, 2016, 2015, 2014, 2013, 2012, 2010, 2008",
+        "recent_year":  "2025",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "lower_0046.jpg",
@@ -18444,10 +18444,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q43_8",
         "marker_left":  38.79,
         "marker_bottom":  29.24,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2025(3), 2022, 2019, 2016, 2015, 2014, 2013, 2012, 2010, 2008",
+        "recent_year":  "2025",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "lower_0046.jpg",
@@ -18462,10 +18462,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q43_9",
         "marker_left":  70.92,
         "marker_bottom":  87.35,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2012",
+        "recent_year":  "2012",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0046.jpg",
@@ -18483,7 +18483,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0046.jpg",
@@ -18498,10 +18498,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q43_11",
         "marker_left":  28.58,
         "marker_bottom":  17.9,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2021, 2020",
+        "recent_year":  "2021",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0046.jpg",
@@ -18516,10 +18516,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q43_12",
         "marker_left":  46.52,
         "marker_bottom":  32.33,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2016, 2006",
+        "recent_year":  "2016",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0042.jpg",
@@ -18534,10 +18534,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q44_1",
         "marker_left":  20.87,
         "marker_bottom":  27.78,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2021, 2017, 2015, 2006, 2004",
+        "recent_year":  "2021",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "lower_0042.jpg",
@@ -18555,7 +18555,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0042.jpg",
@@ -18573,7 +18573,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0042.jpg",
@@ -18588,10 +18588,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q44_4",
         "marker_left":  39.54,
         "marker_bottom":  34.76,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2022",
+        "recent_year":  "2022",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0042.jpg",
@@ -18606,10 +18606,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q44_5",
         "marker_left":  41.66,
         "marker_bottom":  12.54,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  10,
+        "exam_years":  "2025(3), 2022, 2019, 2016, 2015, 2014, 2013, 2012, 2010, 2008",
+        "recent_year":  "2025",
+        "exam_weight":  3.3166247903554
     },
     {
         "image_filename":  "lower_0042.jpg",
@@ -18624,10 +18624,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q44_6",
         "marker_left":  63.56,
         "marker_bottom":  48.3,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2023, 2021, 2013, 2012, 2010",
+        "recent_year":  "2023",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "lower_0042.jpg",
@@ -18642,10 +18642,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q44_7",
         "marker_left":  73.48,
         "marker_bottom":  87.04,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2020, 2015, 2009",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_0042.jpg",
@@ -18660,10 +18660,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q44_8",
         "marker_left":  52.51,
         "marker_bottom":  17.98,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2016, 2006",
+        "recent_year":  "2016",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0223.jpg",
@@ -18678,10 +18678,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q45_1",
         "marker_left":  45,
         "marker_bottom":  59.34,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(4), 2025(3), 2017, 2016, 2015, 2010, 2006",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "lower_0223.jpg",
@@ -18699,7 +18699,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0223.jpg",
@@ -18717,7 +18717,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0223.jpg",
@@ -18735,7 +18735,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0223.jpg",
@@ -18753,7 +18753,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0223.jpg",
@@ -18771,7 +18771,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0223.jpg",
@@ -18789,7 +18789,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0223.jpg",
@@ -18804,10 +18804,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q45_8",
         "marker_left":  51.82,
         "marker_bottom":  46.72,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2023, 2021, 2013, 2012, 2010",
+        "recent_year":  "2023",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "lower_0224.jpg",
@@ -18822,10 +18822,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q46_1",
         "marker_left":  45.96,
         "marker_bottom":  41.38,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(4), 2025(3), 2017, 2016, 2015, 2010, 2006",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "lower_0224.jpg",
@@ -18840,10 +18840,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q46_2",
         "marker_left":  12.13,
         "marker_bottom":  58.4,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2021, 2008, 2004",
+        "recent_year":  "2021",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_0224.jpg",
@@ -18861,7 +18861,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0224.jpg",
@@ -18879,7 +18879,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0224.jpg",
@@ -18897,7 +18897,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0224.jpg",
@@ -18915,7 +18915,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0224.jpg",
@@ -18933,7 +18933,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0224.jpg",
@@ -18948,10 +18948,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q46_8",
         "marker_left":  55.65,
         "marker_bottom":  40.27,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2023, 2021, 2013, 2012, 2010",
+        "recent_year":  "2023",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "lower_0224.jpg",
@@ -18969,7 +18969,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0224.jpg",
@@ -18987,7 +18987,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2014_46.jpg",
@@ -19005,7 +19005,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2014_46.jpg",
@@ -19023,7 +19023,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2014_46.jpg",
@@ -19038,10 +19038,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q46A_3",
         "marker_left":  61.55,
         "marker_bottom":  43.98,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2014_46.jpg",
@@ -19056,10 +19056,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q46A_4",
         "marker_left":  68.6,
         "marker_bottom":  49.31,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2022, 2013, 2004",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_2014_46.jpg",
@@ -19074,10 +19074,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q46A_5",
         "marker_left":  55.66,
         "marker_bottom":  66.75,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(4), 2021, 2015, 2014, 2013, 2012, 2004",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "lower_2014_46.jpg",
@@ -19092,10 +19092,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q46A_6",
         "marker_left":  52.37,
         "marker_bottom":  43.98,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(4), 2021, 2015, 2014, 2013, 2012, 2004",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "lower_0048.jpg",
@@ -19113,7 +19113,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0048.jpg",
@@ -19131,7 +19131,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0048.jpg",
@@ -19149,7 +19149,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0048.jpg",
@@ -19164,10 +19164,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q47_4",
         "marker_left":  54.99,
         "marker_bottom":  81.51,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2022",
+        "recent_year":  "2022",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0048.jpg",
@@ -19182,10 +19182,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q47_5",
         "marker_left":  67.66,
         "marker_bottom":  76.64,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  8,
+        "exam_years":  "2025(3), 2020, 2018, 2017, 2014, 2011, 2006, 2004",
+        "recent_year":  "2025",
+        "exam_weight":  3.0
     },
     {
         "image_filename":  "lower_0048.jpg",
@@ -19200,10 +19200,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q47_6",
         "marker_left":  39.2,
         "marker_bottom":  83.39,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2006",
+        "recent_year":  "2006",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0048.jpg",
@@ -19221,7 +19221,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0048.jpg",
@@ -19236,10 +19236,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q47_8",
         "marker_left":  25.69,
         "marker_bottom":  11.47,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2004",
+        "recent_year":  "2004",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0048.jpg",
@@ -19254,10 +19254,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q47_9",
         "marker_left":  21.54,
         "marker_bottom":  77.63,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(4), 2025(3), 2015, 2013, 2012, 2011, 2010",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "lower_0048.jpg",
@@ -19272,10 +19272,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q47_10",
         "marker_left":  77.22,
         "marker_bottom":  70.56,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  5,
+        "exam_years":  "2019, 2017, 2012, 2010, 2009",
+        "recent_year":  "2019",
+        "exam_weight":  2.449489742783178
     },
     {
         "image_filename":  "lower_0051.jpg",
@@ -19290,10 +19290,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q48_1",
         "marker_left":  26.04,
         "marker_bottom":  49.28,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2020, 2014",
+        "recent_year":  "2020",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0051.jpg",
@@ -19308,10 +19308,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q48_2",
         "marker_left":  65.16,
         "marker_bottom":  73.92,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2022",
+        "recent_year":  "2022",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0051.jpg",
@@ -19326,10 +19326,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q48_3",
         "marker_left":  54.98,
         "marker_bottom":  35.25,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  9,
+        "exam_years":  "2022, 2021, 2019, 2016, 2015, 2014, 2011, 2010, 2009",
+        "recent_year":  "2022",
+        "exam_weight":  3.1622776601683795
     },
     {
         "image_filename":  "lower_0051.jpg",
@@ -19344,10 +19344,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q48_4",
         "marker_left":  44.21,
         "marker_bottom":  34.01,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  9,
+        "exam_years":  "2022, 2021, 2019, 2016, 2015, 2014, 2011, 2010, 2009",
+        "recent_year":  "2022",
+        "exam_weight":  3.1622776601683795
     },
     {
         "image_filename":  "lower_0051.jpg",
@@ -19365,7 +19365,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0051.jpg",
@@ -19380,10 +19380,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q48_6",
         "marker_left":  44.1,
         "marker_bottom":  62.6,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2013",
+        "recent_year":  "2013",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0051.jpg",
@@ -19398,10 +19398,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q48_7",
         "marker_left":  50.69,
         "marker_bottom":  19.37,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2004",
+        "recent_year":  "2004",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0051.jpg",
@@ -19416,10 +19416,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q48_8",
         "marker_left":  54.48,
         "marker_bottom":  86.67,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  12,
+        "exam_years":  "2021, 2019, 2018, 2017, 2016, 2014, 2013, 2009, 2006, 2004",
+        "recent_year":  "2021",
+        "exam_weight":  3.605551275463989
     },
     {
         "image_filename":  "lower_0051.jpg",
@@ -19434,10 +19434,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q48_9",
         "marker_left":  41.44,
         "marker_bottom":  23.71,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(4), 2025(3), 2015, 2013, 2012, 2011, 2010",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "lower_0047.jpg",
@@ -19452,10 +19452,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q49_1",
         "marker_left":  15.39,
         "marker_bottom":  57.95,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2020, 2014",
+        "recent_year":  "2020",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0047.jpg",
@@ -19470,10 +19470,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q49_2",
         "marker_left":  54.4,
         "marker_bottom":  24.79,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  9,
+        "exam_years":  "2022, 2021, 2019, 2016, 2015, 2014, 2011, 2010, 2009",
+        "recent_year":  "2022",
+        "exam_weight":  3.1622776601683795
     },
     {
         "image_filename":  "lower_0047.jpg",
@@ -19491,7 +19491,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0047.jpg",
@@ -19506,10 +19506,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q49_4",
         "marker_left":  62.73,
         "marker_bottom":  79.03,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2013",
+        "recent_year":  "2013",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0047.jpg",
@@ -19524,10 +19524,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q49_5",
         "marker_left":  81.6,
         "marker_bottom":  68.26,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  12,
+        "exam_years":  "2021, 2019, 2018, 2017, 2016, 2014, 2013, 2009, 2006, 2004",
+        "recent_year":  "2021",
+        "exam_weight":  3.605551275463989
     },
     {
         "image_filename":  "lower_0047.jpg",
@@ -19542,10 +19542,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q49_6",
         "marker_left":  86.34,
         "marker_bottom":  4.73,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  12,
+        "exam_years":  "2021, 2019, 2018, 2017, 2016, 2014, 2013, 2009, 2006, 2004",
+        "recent_year":  "2021",
+        "exam_weight":  3.605551275463989
     },
     {
         "image_filename":  "lower_0047.jpg",
@@ -19563,7 +19563,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0050.jpg",
@@ -19578,10 +19578,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q50_1",
         "marker_left":  32.02,
         "marker_bottom":  9.03,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2021, 2012, 2009",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_0050.jpg",
@@ -19596,10 +19596,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q50_2",
         "marker_left":  77.84,
         "marker_bottom":  71.91,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2020, 2014",
+        "recent_year":  "2020",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_0050.jpg",
@@ -19614,10 +19614,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q50_3",
         "marker_left":  44.58,
         "marker_bottom":  55.48,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2013, 2009, 2004",
+        "recent_year":  "2013",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_0050.jpg",
@@ -19632,10 +19632,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q50_4",
         "marker_left":  50.36,
         "marker_bottom":  76.47,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2014",
+        "recent_year":  "2014",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0050.jpg",
@@ -19653,7 +19653,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0050.jpg",
@@ -19671,7 +19671,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0050.jpg",
@@ -19689,7 +19689,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0050.jpg",
@@ -19704,10 +19704,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q50_8",
         "marker_left":  37.04,
         "marker_bottom":  56.4,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2020",
+        "recent_year":  "2020",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0050.jpg",
@@ -19722,10 +19722,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q50_9",
         "marker_left":  52.12,
         "marker_bottom":  70.06,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2025(4), 2023",
+        "recent_year":  "2025",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_2017_16b.jpg",
@@ -19740,10 +19740,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q57_1",
         "marker_left":  29.63,
         "marker_bottom":  45.43,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2020",
+        "recent_year":  "2020",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2017_16b.jpg",
@@ -19758,10 +19758,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q57_2",
         "marker_left":  44,
         "marker_bottom":  47.39,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2025(4), 2023",
+        "recent_year":  "2025",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_2017_16b.jpg",
@@ -19776,10 +19776,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q57_3",
         "marker_left":  52.3,
         "marker_bottom":  48.97,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2014",
+        "recent_year":  "2014",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2017_16b.jpg",
@@ -19797,7 +19797,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2017_16b.jpg",
@@ -19812,10 +19812,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q57_5",
         "marker_left":  86.67,
         "marker_bottom":  51.23,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2020, 2014",
+        "recent_year":  "2020",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_2017_16b.jpg",
@@ -19833,7 +19833,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2017_16b.jpg",
@@ -19851,7 +19851,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0049.jpg",
@@ -19866,10 +19866,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q51_1",
         "marker_left":  79.75,
         "marker_bottom":  51.37,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2021, 2012, 2009",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_0049.jpg",
@@ -19887,7 +19887,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0049.jpg",
@@ -19902,10 +19902,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q51_3",
         "marker_left":  52.08,
         "marker_bottom":  27.58,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2016",
+        "recent_year":  "2016",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_0049.jpg",
@@ -19923,7 +19923,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_0049.jpg",
@@ -19938,10 +19938,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q51_5",
         "marker_left":  44.68,
         "marker_bottom":  44.55,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2025(3), 2020, 2008",
+        "recent_year":  "2025",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_0049.jpg",
@@ -19956,10 +19956,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q51_6",
         "marker_left":  49.42,
         "marker_bottom":  67.56,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  7,
+        "exam_years":  "2025(4), 2025(3), 2015, 2013, 2012, 2011, 2010",
+        "recent_year":  "2025",
+        "exam_weight":  2.8284271247461903
     },
     {
         "image_filename":  "lower_0049.jpg",
@@ -19974,10 +19974,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q51_7",
         "marker_left":  57.75,
         "marker_bottom":  56.25,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2025(4), 2023",
+        "recent_year":  "2025",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_2015_41.jpg",
@@ -19995,7 +19995,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2015_41.jpg",
@@ -20010,10 +20010,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q52_2",
         "marker_left":  37.16,
         "marker_bottom":  70.21,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2014",
+        "recent_year":  "2014",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2015_41.jpg",
@@ -20028,10 +20028,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q52_3",
         "marker_left":  47.89,
         "marker_bottom":  64.34,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  9,
+        "exam_years":  "2015, 2014, 2013, 2012, 2011, 2009, 2006",
+        "recent_year":  "2015",
+        "exam_weight":  3.1622776601683795
     },
     {
         "image_filename":  "lower_2015_41.jpg",
@@ -20046,10 +20046,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q52_4",
         "marker_left":  54.42,
         "marker_bottom":  44.69,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2004",
+        "recent_year":  "2004",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2015_41.jpg",
@@ -20067,7 +20067,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2015_41.jpg",
@@ -20085,7 +20085,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2015_41.jpg",
@@ -20100,10 +20100,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q52_7",
         "marker_left":  35.47,
         "marker_bottom":  33.99,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2016",
+        "recent_year":  "2016",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2015_44.jpg",
@@ -20121,7 +20121,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2015_44.jpg",
@@ -20139,7 +20139,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2015_44.jpg",
@@ -20157,7 +20157,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2015_44.jpg",
@@ -20172,10 +20172,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q53_4",
         "marker_left":  50,
         "marker_bottom":  71.41,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2022, 2017, 2010",
+        "recent_year":  "2022",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_2015_44.jpg",
@@ -20193,7 +20193,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2015_44.jpg",
@@ -20211,7 +20211,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2015_44.jpg",
@@ -20226,10 +20226,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q53_7",
         "marker_left":  41.36,
         "marker_bottom":  39.46,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2016",
+        "recent_year":  "2016",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2015_44.jpg",
@@ -20244,10 +20244,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q53_8",
         "marker_left":  59.55,
         "marker_bottom":  51.45,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2004",
+        "recent_year":  "2004",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2015_44.jpg",
@@ -20265,7 +20265,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2015_44.jpg",
@@ -20280,10 +20280,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q53_10",
         "marker_left":  28.02,
         "marker_bottom":  53.87,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2012",
+        "recent_year":  "2012",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2015_46.jpg",
@@ -20298,10 +20298,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q54_1",
         "marker_left":  48.46,
         "marker_bottom":  64.69,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  3,
+        "exam_years":  "2022, 2017, 2010",
+        "recent_year":  "2022",
+        "exam_weight":  2.0
     },
     {
         "image_filename":  "lower_2015_46.jpg",
@@ -20319,7 +20319,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2015_46.jpg",
@@ -20334,10 +20334,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q54_3",
         "marker_left":  51.34,
         "marker_bottom":  49.77,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2013",
+        "recent_year":  "2013",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2015_46.jpg",
@@ -20352,10 +20352,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q54_4",
         "marker_left":  67.48,
         "marker_bottom":  52.89,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  2,
+        "exam_years":  "2014, 2009",
+        "recent_year":  "2014",
+        "exam_weight":  1.7320508075688772
     },
     {
         "image_filename":  "lower_2015_46.jpg",
@@ -20370,10 +20370,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q54_5",
         "marker_left":  35.82,
         "marker_bottom":  52.38,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2012",
+        "recent_year":  "2012",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2015_46.jpg",
@@ -20388,10 +20388,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q54_6",
         "marker_left":  35.18,
         "marker_bottom":  22.67,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2009, 2006",
+        "recent_year":  "2009",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_2015_48.jpg",
@@ -20409,7 +20409,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2015_48.jpg",
@@ -20424,10 +20424,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q55_2",
         "marker_left":  40.45,
         "marker_bottom":  69.36,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2014",
+        "recent_year":  "2014",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2015_48.jpg",
@@ -20442,10 +20442,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q55_3",
         "marker_left":  49.44,
         "marker_bottom":  39.65,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2025(3)",
+        "recent_year":  "2025",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2015_48.jpg",
@@ -20460,10 +20460,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q55_4",
         "marker_left":  46.98,
         "marker_bottom":  45.94,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2004",
+        "recent_year":  "2004",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2015_48.jpg",
@@ -20481,7 +20481,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2015_48.jpg",
@@ -20499,7 +20499,7 @@ const QUIZ_DB = [
         "past_count":  0,
         "exam_years":  "",
         "recent_year":  "",
-        "exam_weight":  1
+        "exam_weight":  1.0
     },
     {
         "image_filename":  "lower_2015_48.jpg",
@@ -20514,10 +20514,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q55_7",
         "marker_left":  53.93,
         "marker_bottom":  36.66,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2023, 2021, 2012, 2009",
+        "recent_year":  "2023",
+        "exam_weight":  2.23606797749979
     },
     {
         "image_filename":  "lower_2015_48.jpg",
@@ -20532,10 +20532,10 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q55_8",
         "marker_left":  34.41,
         "marker_bottom":  38.15,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  1,
+        "exam_years":  "2016",
+        "recent_year":  "2016",
+        "exam_weight":  1.4142135623730951
     },
     {
         "image_filename":  "lower_2015_48.jpg",
@@ -20550,9 +20550,9 @@ const QUIZ_DB = [
         "quiz_id":  "lower_q55_9",
         "marker_left":  26.4,
         "marker_bottom":  31.02,
-        "past_count":  0,
-        "exam_years":  "",
-        "recent_year":  "",
-        "exam_weight":  1
+        "past_count":  4,
+        "exam_years":  "2009, 2006",
+        "recent_year":  "2009",
+        "exam_weight":  2.23606797749979
     }
 ];

@@ -59,8 +59,8 @@ const QUIZ_DB = [
         "source": "Back - 6",
         "quiz_id": "q30",
         "past_count": 1,
-        "exam_years": "06",
-        "recent_year": "06",
+        "exam_years": "2006",
+        "recent_year": "2006",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -91,8 +91,8 @@ const QUIZ_DB = [
         "source": "Face - 1",
         "quiz_id": "q50",
         "past_count": 1,
-        "exam_years": "22",
-        "recent_year": "22",
+        "exam_years": "2022",
+        "recent_year": "2022",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -107,8 +107,8 @@ const QUIZ_DB = [
         "source": "Face - 1",
         "quiz_id": "q51",
         "past_count": 3,
-        "exam_years": "25, 12, 11",
-        "recent_year": "25",
+        "exam_years": "2025, 2012, 2011",
+        "recent_year": "2025",
         "exam_weight": 2.0
     },
     {
@@ -123,8 +123,8 @@ const QUIZ_DB = [
         "source": "Face - 1",
         "quiz_id": "q52",
         "past_count": 1,
-        "exam_years": "16",
-        "recent_year": "16",
+        "exam_years": "2016",
+        "recent_year": "2016",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -139,8 +139,8 @@ const QUIZ_DB = [
         "source": "Face - 1",
         "quiz_id": "q53",
         "past_count": 6,
-        "exam_years": "14, 10, 09, 07, 05, 03",
-        "recent_year": "14",
+        "exam_years": "2014, 2010, 2009, 2007, 2005, 2003",
+        "recent_year": "2014",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -155,8 +155,8 @@ const QUIZ_DB = [
         "source": "Face - 1",
         "quiz_id": "q54",
         "past_count": 6,
-        "exam_years": "14, 10, 09, 07, 05, 03",
-        "recent_year": "14",
+        "exam_years": "2014, 2010, 2009, 2007, 2005, 2003",
+        "recent_year": "2014",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -187,8 +187,8 @@ const QUIZ_DB = [
         "source": "Face - 1",
         "quiz_id": "q56",
         "past_count": 10,
-        "exam_years": "23, 20, 17, 15, 11, 10, 09, 08, 07, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2020, 2017, 2015, 2011, 2010, 2009, 2008, 2007, 2002",
+        "recent_year": "2023",
         "exam_weight": 3.3166247903554
     },
     {
@@ -203,8 +203,8 @@ const QUIZ_DB = [
         "source": "Face - 2",
         "quiz_id": "q57",
         "past_count": 3,
-        "exam_years": "18, 13, 11",
-        "recent_year": "18",
+        "exam_years": "2018, 2013, 2011",
+        "recent_year": "2018",
         "exam_weight": 2.0
     },
     {
@@ -219,8 +219,8 @@ const QUIZ_DB = [
         "source": "Face - 2",
         "quiz_id": "q58",
         "past_count": 2,
-        "exam_years": "19, 16",
-        "recent_year": "19",
+        "exam_years": "2019, 2016",
+        "recent_year": "2019",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -235,8 +235,8 @@ const QUIZ_DB = [
         "source": "Face - 2",
         "quiz_id": "q59",
         "past_count": 13,
-        "exam_years": "25, 21, 16, 15, 14, 13, 12, 11, 10, 08, 07, 05, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2005, 2003",
+        "recent_year": "2025",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -315,8 +315,8 @@ const QUIZ_DB = [
         "source": "Face - 2",
         "quiz_id": "q64",
         "past_count": 1,
-        "exam_years": "15",
-        "recent_year": "15",
+        "exam_years": "2015",
+        "recent_year": "2015",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -331,8 +331,8 @@ const QUIZ_DB = [
         "source": "Face - 2",
         "quiz_id": "q65",
         "past_count": 10,
-        "exam_years": "23, 20, 17, 15, 11, 10, 09, 08, 07, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2020, 2017, 2015, 2011, 2010, 2009, 2008, 2007, 2002",
+        "recent_year": "2023",
         "exam_weight": 3.3166247903554
     },
     {
@@ -347,8 +347,8 @@ const QUIZ_DB = [
         "source": "Face - 3",
         "quiz_id": "q66",
         "past_count": 13,
-        "exam_years": "25, 21, 16, 15, 14, 13, 12, 11, 10, 08, 07, 05, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2005, 2003",
+        "recent_year": "2025",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -395,8 +395,8 @@ const QUIZ_DB = [
         "source": "Face - 3",
         "quiz_id": "q70",
         "past_count": 11,
-        "exam_years": "23, 20, 19, 16, 14, 12, 09, 06, 05, 03, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2020, 2019, 2016, 2014, 2012, 2009, 2006, 2005, 2003, 2002",
+        "recent_year": "2023",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -427,8 +427,8 @@ const QUIZ_DB = [
         "source": "Face - 3",
         "quiz_id": "q72",
         "past_count": 1,
-        "exam_years": "15",
-        "recent_year": "15",
+        "exam_years": "2015",
+        "recent_year": "2015",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -443,8 +443,8 @@ const QUIZ_DB = [
         "source": "Face - 3",
         "quiz_id": "q73",
         "past_count": 3,
-        "exam_years": "16, 14, 03",
-        "recent_year": "16",
+        "exam_years": "2016, 2014, 2003",
+        "recent_year": "2016",
         "exam_weight": 2.0
     },
     {
@@ -459,8 +459,8 @@ const QUIZ_DB = [
         "source": "Face - 3",
         "quiz_id": "q74",
         "past_count": 10,
-        "exam_years": "23, 20, 17, 15, 11, 10, 09, 08, 07, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2020, 2017, 2015, 2011, 2010, 2009, 2008, 2007, 2002",
+        "recent_year": "2023",
         "exam_weight": 3.3166247903554
     },
     {
@@ -475,8 +475,8 @@ const QUIZ_DB = [
         "source": "Face - 4",
         "quiz_id": "q75",
         "past_count": 1,
-        "exam_years": "20",
-        "recent_year": "20",
+        "exam_years": "2020",
+        "recent_year": "2020",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -491,8 +491,8 @@ const QUIZ_DB = [
         "source": "Face - 4",
         "quiz_id": "q76",
         "past_count": 6,
-        "exam_years": "25, 22, 15, 14, 07, 06",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2015, 2014, 2007, 2006",
+        "recent_year": "2025",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -507,8 +507,8 @@ const QUIZ_DB = [
         "source": "Face - 4",
         "quiz_id": "q77",
         "past_count": 13,
-        "exam_years": "25, 21, 16, 15, 14, 13, 12, 11, 10, 08, 07, 05, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2005, 2003",
+        "recent_year": "2025",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -539,8 +539,8 @@ const QUIZ_DB = [
         "source": "Face - 4",
         "quiz_id": "q80",
         "past_count": 6,
-        "exam_years": "14, 10, 09, 07, 05, 03",
-        "recent_year": "14",
+        "exam_years": "2014, 2010, 2009, 2007, 2005, 2003",
+        "recent_year": "2014",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -555,8 +555,8 @@ const QUIZ_DB = [
         "source": "Face - 4",
         "quiz_id": "q81",
         "past_count": 6,
-        "exam_years": "14, 10, 09, 07, 05, 03",
-        "recent_year": "14",
+        "exam_years": "2014, 2010, 2009, 2007, 2005, 2003",
+        "recent_year": "2014",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -571,8 +571,8 @@ const QUIZ_DB = [
         "source": "Face - 4",
         "quiz_id": "q82",
         "past_count": 6,
-        "exam_years": "14, 10, 09, 07, 05, 03",
-        "recent_year": "14",
+        "exam_years": "2014, 2010, 2009, 2007, 2005, 2003",
+        "recent_year": "2014",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -587,8 +587,8 @@ const QUIZ_DB = [
         "source": "Face - 4",
         "quiz_id": "q83",
         "past_count": 11,
-        "exam_years": "23, 20, 19, 16, 14, 12, 09, 06, 05, 03, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2020, 2019, 2016, 2014, 2012, 2009, 2006, 2005, 2003, 2002",
+        "recent_year": "2023",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -603,8 +603,8 @@ const QUIZ_DB = [
         "source": "Face - 4",
         "quiz_id": "q84",
         "past_count": 4,
-        "exam_years": "19, 09, 08, 07",
-        "recent_year": "19",
+        "exam_years": "2019, 2009, 2008, 2007",
+        "recent_year": "2019",
         "exam_weight": 2.23606797749979
     },
     {
@@ -619,8 +619,8 @@ const QUIZ_DB = [
         "source": "Face - 4",
         "quiz_id": "q85",
         "past_count": 3,
-        "exam_years": "16, 14, 03",
-        "recent_year": "16",
+        "exam_years": "2016, 2014, 2003",
+        "recent_year": "2016",
         "exam_weight": 2.0
     },
     {
@@ -635,8 +635,8 @@ const QUIZ_DB = [
         "source": "Face - 4",
         "quiz_id": "q86",
         "past_count": 3,
-        "exam_years": "23, 22, 14",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2014",
+        "recent_year": "2023",
         "exam_weight": 2.0
     },
     {
@@ -651,8 +651,8 @@ const QUIZ_DB = [
         "source": "Face - 5",
         "quiz_id": "q87",
         "past_count": 1,
-        "exam_years": "20",
-        "recent_year": "20",
+        "exam_years": "2020",
+        "recent_year": "2020",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -667,8 +667,8 @@ const QUIZ_DB = [
         "source": "Face - 5",
         "quiz_id": "q88",
         "past_count": 13,
-        "exam_years": "25, 21, 16, 15, 14, 13, 12, 11, 10, 08, 07, 05, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2005, 2003",
+        "recent_year": "2025",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -682,10 +682,10 @@ const QUIZ_DB = [
         "answer_ko": "아래입술동맥",
         "source": "Face - 5",
         "quiz_id": "q89",
-        "past_count": 1,
-        "exam_years": "13",
-        "recent_year": "13",
-        "exam_weight": 1.4142135623730951
+        "past_count": 0,
+        "exam_years": "",
+        "recent_year": "",
+        "exam_weight": 1.0
     },
     {
         "image_filename": "0090.jpg",
@@ -715,8 +715,8 @@ const QUIZ_DB = [
         "source": "Face - 5",
         "quiz_id": "q91",
         "past_count": 3,
-        "exam_years": "25, 19, 16",
-        "recent_year": "25",
+        "exam_years": "2025, 2019, 2016",
+        "recent_year": "2025",
         "exam_weight": 2.0
     },
     {
@@ -731,8 +731,8 @@ const QUIZ_DB = [
         "source": "Face - 5",
         "quiz_id": "q93",
         "past_count": 3,
-        "exam_years": "23, 22, 14",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2014",
+        "recent_year": "2023",
         "exam_weight": 2.0
     },
     {
@@ -778,10 +778,10 @@ const QUIZ_DB = [
         "answer_ko": "목가지",
         "source": "Face - 6",
         "quiz_id": "q96",
-        "past_count": 1,
-        "exam_years": "18",
-        "recent_year": "18",
-        "exam_weight": 1.4142135623730951
+        "past_count": 0,
+        "exam_years": "",
+        "recent_year": "",
+        "exam_weight": 1.0
     },
     {
         "image_filename": "0097.jpg",
@@ -794,10 +794,10 @@ const QUIZ_DB = [
         "answer_ko": "턱모서리가지",
         "source": "Face - 6",
         "quiz_id": "q97",
-        "past_count": 2,
-        "exam_years": "21, 16",
-        "recent_year": "21",
-        "exam_weight": 1.7320508075688772
+        "past_count": 0,
+        "exam_years": "",
+        "recent_year": "",
+        "exam_weight": 1.0
     },
     {
         "image_filename": "0098.jpg",
@@ -826,10 +826,10 @@ const QUIZ_DB = [
         "answer_ko": "광대가지",
         "source": "Face - 6",
         "quiz_id": "q99",
-        "past_count": 1,
-        "exam_years": "13",
-        "recent_year": "13",
-        "exam_weight": 1.4142135623730951
+        "past_count": 0,
+        "exam_years": "",
+        "recent_year": "",
+        "exam_weight": 1.0
     },
     {
         "image_filename": "0100.jpg",
@@ -859,8 +859,8 @@ const QUIZ_DB = [
         "source": "Face - 6",
         "quiz_id": "q101",
         "past_count": 8,
-        "exam_years": "21, 17, 14, 08, 07, 06, 05, 03",
-        "recent_year": "21",
+        "exam_years": "2021, 2017, 2014, 2008, 2007, 2006, 2005, 2003",
+        "recent_year": "2021",
         "exam_weight": 3.0
     },
     {
@@ -875,8 +875,8 @@ const QUIZ_DB = [
         "source": "Face - 6",
         "quiz_id": "q102",
         "past_count": 11,
-        "exam_years": "23, 20, 19, 16, 14, 12, 09, 06, 05, 03, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2020, 2019, 2016, 2014, 2012, 2009, 2006, 2005, 2003, 2002",
+        "recent_year": "2023",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -891,8 +891,8 @@ const QUIZ_DB = [
         "source": "Face - 6",
         "quiz_id": "q103",
         "past_count": 3,
-        "exam_years": "16, 14, 03",
-        "recent_year": "16",
+        "exam_years": "2016, 2014, 2003",
+        "recent_year": "2016",
         "exam_weight": 2.0
     },
     {
@@ -907,8 +907,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 1",
         "quiz_id": "q104",
         "past_count": 3,
-        "exam_years": "18, 13, 11",
-        "recent_year": "18",
+        "exam_years": "2018, 2013, 2011",
+        "recent_year": "2018",
         "exam_weight": 2.0
     },
     {
@@ -923,8 +923,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 1",
         "quiz_id": "q105",
         "past_count": 13,
-        "exam_years": "25, 21, 16, 15, 14, 13, 12, 11, 10, 08, 07, 05, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2005, 2003",
+        "recent_year": "2025",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -954,10 +954,10 @@ const QUIZ_DB = [
         "answer_ko": "아래입술동맥",
         "source": "Lateral Neck - 1",
         "quiz_id": "q107",
-        "past_count": 1,
-        "exam_years": "13",
-        "recent_year": "13",
-        "exam_weight": 1.4142135623730951
+        "past_count": 0,
+        "exam_years": "",
+        "recent_year": "",
+        "exam_weight": 1.0
     },
     {
         "image_filename": "0108.jpg",
@@ -1003,8 +1003,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 1",
         "quiz_id": "q110",
         "past_count": 1,
-        "exam_years": "15",
-        "recent_year": "15",
+        "exam_years": "2015",
+        "recent_year": "2015",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -1018,10 +1018,10 @@ const QUIZ_DB = [
         "answer_ko": "바깥목정맥",
         "source": "Lateral Neck - 2",
         "quiz_id": "q111",
-        "past_count": 2,
-        "exam_years": "08, 06",
-        "recent_year": "08",
-        "exam_weight": 1.7320508075688772
+        "past_count": 1,
+        "exam_years": "2008",
+        "recent_year": "2008",
+        "exam_weight": 1.4142135623730951
     },
     {
         "image_filename": "0112.jpg",
@@ -1035,8 +1035,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 2",
         "quiz_id": "q112",
         "past_count": 13,
-        "exam_years": "25, 21, 16, 15, 14, 13, 12, 11, 10, 08, 07, 05, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2005, 2003",
+        "recent_year": "2025",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -1067,8 +1067,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 2",
         "quiz_id": "q115",
         "past_count": 4,
-        "exam_years": "19, 09, 08, 07",
-        "recent_year": "19",
+        "exam_years": "2019, 2009, 2008, 2007",
+        "recent_year": "2019",
         "exam_weight": 2.23606797749979
     },
     {
@@ -1083,8 +1083,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 2",
         "quiz_id": "q116",
         "past_count": 7,
-        "exam_years": "25, 22, 13, 09, 08, 06, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2013, 2009, 2008, 2006, 2005",
+        "recent_year": "2025",
         "exam_weight": 2.8284271247461903
     },
     {
@@ -1099,8 +1099,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 2",
         "quiz_id": "q117",
         "past_count": 4,
-        "exam_years": "16, 15, 10, 06",
-        "recent_year": "16",
+        "exam_years": "2016, 2015, 2010, 2006",
+        "recent_year": "2016",
         "exam_weight": 2.23606797749979
     },
     {
@@ -1114,10 +1114,10 @@ const QUIZ_DB = [
         "answer_ko": "바깥목정맥",
         "source": "Lateral Neck - 3",
         "quiz_id": "q118",
-        "past_count": 2,
-        "exam_years": "08, 06",
-        "recent_year": "08",
-        "exam_weight": 1.7320508075688772
+        "past_count": 1,
+        "exam_years": "2008",
+        "recent_year": "2008",
+        "exam_weight": 1.4142135623730951
     },
     {
         "image_filename": "0120.jpg",
@@ -1147,8 +1147,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 3",
         "quiz_id": "q121",
         "past_count": 7,
-        "exam_years": "25, 22, 13, 09, 08, 06, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2013, 2009, 2008, 2006, 2005",
+        "recent_year": "2025",
         "exam_weight": 2.8284271247461903
     },
     {
@@ -1195,8 +1195,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 4",
         "quiz_id": "q124",
         "past_count": 1,
-        "exam_years": "03",
-        "recent_year": "03",
+        "exam_years": "2003",
+        "recent_year": "2003",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -1227,8 +1227,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 4",
         "quiz_id": "q127",
         "past_count": 7,
-        "exam_years": "25, 22, 13, 09, 08, 06, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2013, 2009, 2008, 2006, 2005",
+        "recent_year": "2025",
         "exam_weight": 2.8284271247461903
     },
     {
@@ -1291,8 +1291,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 5",
         "quiz_id": "q131",
         "past_count": 1,
-        "exam_years": "03",
-        "recent_year": "03",
+        "exam_years": "2003",
+        "recent_year": "2003",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -1306,10 +1306,10 @@ const QUIZ_DB = [
         "answer_ko": "목신경고리",
         "source": "Lateral Neck - 5",
         "quiz_id": "q132",
-        "past_count": 1,
-        "exam_years": "25",
-        "recent_year": "25",
-        "exam_weight": 1.4142135623730951
+        "past_count": 0,
+        "exam_years": "",
+        "recent_year": "",
+        "exam_weight": 1.0
     },
     {
         "image_filename": "0133.jpg",
@@ -1322,10 +1322,10 @@ const QUIZ_DB = [
         "answer_ko": "앞목갈비근",
         "source": "Lateral Neck - 5",
         "quiz_id": "q133",
-        "past_count": 10,
-        "exam_years": "23, 21, 19, 15, 12, 11, 10, 09, 05, 03",
-        "recent_year": "23",
-        "exam_weight": 3.3166247903554
+        "past_count": 9,
+        "exam_years": "2023, 2021, 2019, 2015, 2012, 2011, 2010, 2009, 2005",
+        "recent_year": "2023",
+        "exam_weight": 3.1622776601683795
     },
     {
         "image_filename": "0134.jpg",
@@ -1338,10 +1338,10 @@ const QUIZ_DB = [
         "answer_ko": "어깨목뿔근",
         "source": "Lateral Neck - 5",
         "quiz_id": "q134",
-        "past_count": 6,
-        "exam_years": "20, 11, 19, 16, 13, 12",
-        "recent_year": "20",
-        "exam_weight": 2.6457513110645907
+        "past_count": 2,
+        "exam_years": "2013, 2012",
+        "recent_year": "2013",
+        "exam_weight": 1.7320508075688772
     },
     {
         "image_filename": "0135.jpg",
@@ -1354,10 +1354,10 @@ const QUIZ_DB = [
         "answer_ko": "어깨목뿔근",
         "source": "Lateral Neck - 5",
         "quiz_id": "q135",
-        "past_count": 6,
-        "exam_years": "20, 11, 19, 16, 13, 12",
-        "recent_year": "20",
-        "exam_weight": 2.6457513110645907
+        "past_count": 2,
+        "exam_years": "2013, 2012",
+        "recent_year": "2013",
+        "exam_weight": 1.7320508075688772
     },
     {
         "image_filename": "0136.jpg",
@@ -1371,8 +1371,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 5",
         "quiz_id": "q136",
         "past_count": 3,
-        "exam_years": "23, 21, 20",
-        "recent_year": "23",
+        "exam_years": "2023, 2021, 2020",
+        "recent_year": "2023",
         "exam_weight": 2.0
     },
     {
@@ -1387,8 +1387,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 5",
         "quiz_id": "q137",
         "past_count": 7,
-        "exam_years": "25, 22, 13, 09, 08, 06, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2013, 2009, 2008, 2006, 2005",
+        "recent_year": "2025",
         "exam_weight": 2.8284271247461903
     },
     {
@@ -1403,8 +1403,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 5",
         "quiz_id": "q138",
         "past_count": 3,
-        "exam_years": "20, 05, 03",
-        "recent_year": "20",
+        "exam_years": "2020, 2005, 2003",
+        "recent_year": "2020",
         "exam_weight": 2.0
     },
     {
@@ -1434,10 +1434,10 @@ const QUIZ_DB = [
         "answer_ko": "바깥목정맥",
         "source": "Lateral Neck - 6",
         "quiz_id": "q140",
-        "past_count": 2,
-        "exam_years": "08, 06",
-        "recent_year": "08",
-        "exam_weight": 1.7320508075688772
+        "past_count": 1,
+        "exam_years": "2008",
+        "recent_year": "2008",
+        "exam_weight": 1.4142135623730951
     },
     {
         "image_filename": "0141.jpg",
@@ -1451,8 +1451,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 6",
         "quiz_id": "q141",
         "past_count": 2,
-        "exam_years": "10, 03",
-        "recent_year": "10",
+        "exam_years": "2010, 2003",
+        "recent_year": "2010",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -1466,10 +1466,10 @@ const QUIZ_DB = [
         "answer_ko": "어깨목뿔근",
         "source": "Lateral Neck - 6",
         "quiz_id": "q142",
-        "past_count": 6,
-        "exam_years": "20, 11, 19, 16, 13, 12",
-        "recent_year": "20",
-        "exam_weight": 2.6457513110645907
+        "past_count": 2,
+        "exam_years": "2013, 2012",
+        "recent_year": "2013",
+        "exam_weight": 1.7320508075688772
     },
     {
         "image_filename": "0143.jpg",
@@ -1483,8 +1483,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 6",
         "quiz_id": "q143",
         "past_count": 7,
-        "exam_years": "25, 22, 13, 09, 08, 06, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2013, 2009, 2008, 2006, 2005",
+        "recent_year": "2025",
         "exam_weight": 2.8284271247461903
     },
     {
@@ -1498,10 +1498,10 @@ const QUIZ_DB = [
         "answer_ko": "목신경고리",
         "source": "Lateral Neck - 7",
         "quiz_id": "q148",
-        "past_count": 1,
-        "exam_years": "25",
-        "recent_year": "25",
-        "exam_weight": 1.4142135623730951
+        "past_count": 0,
+        "exam_years": "",
+        "recent_year": "",
+        "exam_weight": 1.0
     },
     {
         "image_filename": "0149.jpg",
@@ -1515,8 +1515,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 7",
         "quiz_id": "q149",
         "past_count": 2,
-        "exam_years": "10, 03",
-        "recent_year": "10",
+        "exam_years": "2010, 2003",
+        "recent_year": "2010",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -1530,10 +1530,10 @@ const QUIZ_DB = [
         "answer_ko": "어깨목뿔근",
         "source": "Lateral Neck - 7",
         "quiz_id": "q150",
-        "past_count": 6,
-        "exam_years": "20, 11, 19, 16, 13, 12",
-        "recent_year": "20",
-        "exam_weight": 2.6457513110645907
+        "past_count": 2,
+        "exam_years": "2013, 2012",
+        "recent_year": "2013",
+        "exam_weight": 1.7320508075688772
     },
     {
         "image_filename": "0151.jpg",
@@ -1547,8 +1547,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 7",
         "quiz_id": "q151",
         "past_count": 3,
-        "exam_years": "20, 05, 03",
-        "recent_year": "20",
+        "exam_years": "2020, 2005, 2003",
+        "recent_year": "2020",
         "exam_weight": 2.0
     },
     {
@@ -1563,8 +1563,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 7",
         "quiz_id": "q152",
         "past_count": 7,
-        "exam_years": "25, 22, 13, 09, 08, 06, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2013, 2009, 2008, 2006, 2005",
+        "recent_year": "2025",
         "exam_weight": 2.8284271247461903
     },
     {
@@ -1579,8 +1579,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 7",
         "quiz_id": "q153",
         "past_count": 4,
-        "exam_years": "16, 15, 10, 06",
-        "recent_year": "16",
+        "exam_years": "2016, 2015, 2010, 2006",
+        "recent_year": "2016",
         "exam_weight": 2.23606797749979
     },
     {
@@ -1595,8 +1595,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 7",
         "quiz_id": "q154",
         "past_count": 13,
-        "exam_years": "25, 21, 16, 15, 14, 13, 12, 11, 10, 08, 07, 05, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2005, 2003",
+        "recent_year": "2025",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -1658,10 +1658,10 @@ const QUIZ_DB = [
         "answer_ko": "목가지",
         "source": "Lateral Neck - 8",
         "quiz_id": "q159",
-        "past_count": 1,
-        "exam_years": "18",
-        "recent_year": "18",
-        "exam_weight": 1.4142135623730951
+        "past_count": 0,
+        "exam_years": "",
+        "recent_year": "",
+        "exam_weight": 1.0
     },
     {
         "image_filename": "0160.jpg",
@@ -1691,8 +1691,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 8",
         "quiz_id": "q161",
         "past_count": 1,
-        "exam_years": "03",
-        "recent_year": "03",
+        "exam_years": "2003",
+        "recent_year": "2003",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -1707,8 +1707,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 8",
         "quiz_id": "q163",
         "past_count": 13,
-        "exam_years": "25, 21, 16, 15, 14, 13, 12, 11, 10, 08, 07, 05, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2005, 2003",
+        "recent_year": "2025",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -1723,8 +1723,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 8",
         "quiz_id": "q164",
         "past_count": 3,
-        "exam_years": "18, 13, 11",
-        "recent_year": "18",
+        "exam_years": "2018, 2013, 2011",
+        "recent_year": "2018",
         "exam_weight": 2.0
     },
     {
@@ -1738,10 +1738,10 @@ const QUIZ_DB = [
         "answer_ko": "목신경고리",
         "source": "Lateral Neck - 9",
         "quiz_id": "q165",
-        "past_count": 1,
-        "exam_years": "25",
-        "recent_year": "25",
-        "exam_weight": 1.4142135623730951
+        "past_count": 0,
+        "exam_years": "",
+        "recent_year": "",
+        "exam_weight": 1.0
     },
     {
         "image_filename": "0167.jpg",
@@ -1755,8 +1755,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 9",
         "quiz_id": "q167",
         "past_count": 3,
-        "exam_years": "23, 21, 20",
-        "recent_year": "23",
+        "exam_years": "2023, 2021, 2020",
+        "recent_year": "2023",
         "exam_weight": 2.0
     },
     {
@@ -1770,10 +1770,10 @@ const QUIZ_DB = [
         "answer_ko": "앞목갈비근",
         "source": "Lateral Neck - 9",
         "quiz_id": "q168",
-        "past_count": 10,
-        "exam_years": "23, 21, 19, 15, 12, 11, 10, 09, 05, 03",
-        "recent_year": "23",
-        "exam_weight": 3.3166247903554
+        "past_count": 9,
+        "exam_years": "2023, 2021, 2019, 2015, 2012, 2011, 2010, 2009, 2005",
+        "recent_year": "2023",
+        "exam_weight": 3.1622776601683795
     },
     {
         "image_filename": "0169.jpg",
@@ -1787,8 +1787,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 9",
         "quiz_id": "q169",
         "past_count": 3,
-        "exam_years": "25, 21, 11",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2011",
+        "recent_year": "2025",
         "exam_weight": 2.0
     },
     {
@@ -1803,8 +1803,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 9",
         "quiz_id": "q170",
         "past_count": 1,
-        "exam_years": "23",
-        "recent_year": "23",
+        "exam_years": "2023",
+        "recent_year": "2023",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -1819,8 +1819,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 9",
         "quiz_id": "q172",
         "past_count": 2,
-        "exam_years": "10, 03",
-        "recent_year": "10",
+        "exam_years": "2010, 2003",
+        "recent_year": "2010",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -1835,8 +1835,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 9",
         "quiz_id": "q173",
         "past_count": 2,
-        "exam_years": "10, 03",
-        "recent_year": "10",
+        "exam_years": "2010, 2003",
+        "recent_year": "2010",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -1851,8 +1851,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 10",
         "quiz_id": "q174",
         "past_count": 4,
-        "exam_years": "16, 15, 10, 06",
-        "recent_year": "16",
+        "exam_years": "2016, 2015, 2010, 2006",
+        "recent_year": "2016",
         "exam_weight": 2.23606797749979
     },
     {
@@ -1866,10 +1866,10 @@ const QUIZ_DB = [
         "answer_ko": "목신경고리",
         "source": "Lateral Neck - 10",
         "quiz_id": "q175",
-        "past_count": 1,
-        "exam_years": "25",
-        "recent_year": "25",
-        "exam_weight": 1.4142135623730951
+        "past_count": 0,
+        "exam_years": "",
+        "recent_year": "",
+        "exam_weight": 1.0
     },
     {
         "image_filename": "0176.jpg",
@@ -1883,8 +1883,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 10",
         "quiz_id": "q176",
         "past_count": 12,
-        "exam_years": "25, 23, 22, 20, 18, 17, 16, 14, 13, 10, 08, 06",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2022, 2020, 2018, 2017, 2016, 2014, 2013, 2010, 2008, 2006",
+        "recent_year": "2025",
         "exam_weight": 3.605551275463989
     },
     {
@@ -1899,8 +1899,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 10",
         "quiz_id": "q177",
         "past_count": 6,
-        "exam_years": "25, 22, 15, 14, 07, 06",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2015, 2014, 2007, 2006",
+        "recent_year": "2025",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -1931,8 +1931,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 10",
         "quiz_id": "q179",
         "past_count": 2,
-        "exam_years": "10, 03",
-        "recent_year": "10",
+        "exam_years": "2010, 2003",
+        "recent_year": "2010",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -1963,8 +1963,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 10",
         "quiz_id": "q181",
         "past_count": 6,
-        "exam_years": "20, 19, 11, 10, 07, 03",
-        "recent_year": "20",
+        "exam_years": "2020, 2019, 2011, 2010, 2007, 2003",
+        "recent_year": "2020",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -1994,10 +1994,10 @@ const QUIZ_DB = [
         "answer_ko": "턱두힘살근",
         "source": "Lateral Neck - 11",
         "quiz_id": "q183",
-        "past_count": 17,
-        "exam_years": "25, 22, 19, 18, 13, 11, 08, 07, 15, 14, 05, 03, 10, 06, 23, 21",
-        "recent_year": "25",
-        "exam_weight": 4.242640687119285
+        "past_count": 4,
+        "exam_years": "2015, 2014, 2005, 2003",
+        "recent_year": "2015",
+        "exam_weight": 2.23606797749979
     },
     {
         "image_filename": "0184.jpg",
@@ -2011,8 +2011,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 11",
         "quiz_id": "q184",
         "past_count": 17,
-        "exam_years": "25, 23, 22, 21, 20, 19, 18, 15, 14, 13, 11, 10, 09, 07, 06, 03, 02",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2022, 2021, 2020, 2019, 2018, 2015, 2014, 2013, 2011, 2010, 2009, 2007, 2006, 2003, 2002",
+        "recent_year": "2025",
         "exam_weight": 4.242640687119285
     },
     {
@@ -2027,8 +2027,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 11",
         "quiz_id": "q185",
         "past_count": 2,
-        "exam_years": "10, 03",
-        "recent_year": "10",
+        "exam_years": "2010, 2003",
+        "recent_year": "2010",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -2042,10 +2042,10 @@ const QUIZ_DB = [
         "answer_ko": "목신경고리",
         "source": "Lateral Neck - 11",
         "quiz_id": "q186",
-        "past_count": 1,
-        "exam_years": "25",
-        "recent_year": "25",
-        "exam_weight": 1.4142135623730951
+        "past_count": 0,
+        "exam_years": "",
+        "recent_year": "",
+        "exam_weight": 1.0
     },
     {
         "image_filename": "0187.jpg",
@@ -2058,10 +2058,10 @@ const QUIZ_DB = [
         "answer_ko": "목신경고리",
         "source": "Lateral Neck - 11",
         "quiz_id": "q187",
-        "past_count": 1,
-        "exam_years": "25",
-        "recent_year": "25",
-        "exam_weight": 1.4142135623730951
+        "past_count": 0,
+        "exam_years": "",
+        "recent_year": "",
+        "exam_weight": 1.0
     },
     {
         "image_filename": "0188.jpg",
@@ -2075,8 +2075,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 11",
         "quiz_id": "q188",
         "past_count": 1,
-        "exam_years": "09",
-        "recent_year": "09",
+        "exam_years": "2009",
+        "recent_year": "2009",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -2090,10 +2090,10 @@ const QUIZ_DB = [
         "answer_ko": "어깨목뿔근",
         "source": "Lateral Neck - 11",
         "quiz_id": "q189",
-        "past_count": 6,
-        "exam_years": "20, 11, 19, 16, 13, 12",
-        "recent_year": "20",
-        "exam_weight": 2.6457513110645907
+        "past_count": 2,
+        "exam_years": "2013, 2012",
+        "recent_year": "2013",
+        "exam_weight": 1.7320508075688772
     },
     {
         "image_filename": "0190.jpg",
@@ -2122,10 +2122,10 @@ const QUIZ_DB = [
         "answer_ko": "어깨목뿔근",
         "source": "Lateral Neck - 11",
         "quiz_id": "q191",
-        "past_count": 6,
-        "exam_years": "20, 11, 19, 16, 13, 12",
-        "recent_year": "20",
-        "exam_weight": 2.6457513110645907
+        "past_count": 2,
+        "exam_years": "2013, 2012",
+        "recent_year": "2013",
+        "exam_weight": 1.7320508075688772
     },
     {
         "image_filename": "0192.jpg",
@@ -2139,8 +2139,8 @@ const QUIZ_DB = [
         "source": "Lateral Neck - 11",
         "quiz_id": "q192",
         "past_count": 3,
-        "exam_years": "20, 05, 03",
-        "recent_year": "20",
+        "exam_years": "2020, 2005, 2003",
+        "recent_year": "2020",
         "exam_weight": 2.0
     },
     {
@@ -2154,10 +2154,10 @@ const QUIZ_DB = [
         "answer_ko": "턱두힘살근",
         "source": "Carotid Triangle - 1",
         "quiz_id": "q194",
-        "past_count": 17,
-        "exam_years": "25, 22, 19, 18, 13, 11, 08, 07, 15, 14, 05, 03, 10, 06, 23, 21",
-        "recent_year": "25",
-        "exam_weight": 4.242640687119285
+        "past_count": 4,
+        "exam_years": "2015, 2014, 2005, 2003",
+        "recent_year": "2015",
+        "exam_weight": 2.23606797749979
     },
     {
         "image_filename": "0195.jpg",
@@ -2170,10 +2170,10 @@ const QUIZ_DB = [
         "answer_ko": "턱두힘살근",
         "source": "Carotid Triangle - 1",
         "quiz_id": "q195",
-        "past_count": 17,
-        "exam_years": "25, 22, 19, 18, 13, 11, 08, 07, 15, 14, 05, 03, 10, 06, 23, 21",
-        "recent_year": "25",
-        "exam_weight": 4.242640687119285
+        "past_count": 4,
+        "exam_years": "2015, 2014, 2005, 2003",
+        "recent_year": "2015",
+        "exam_weight": 2.23606797749979
     },
     {
         "image_filename": "0196.jpg",
@@ -2186,10 +2186,10 @@ const QUIZ_DB = [
         "answer_ko": "턱두힘살근",
         "source": "Carotid Triangle - 1",
         "quiz_id": "q196",
-        "past_count": 17,
-        "exam_years": "25, 22, 19, 18, 13, 11, 08, 07, 15, 14, 05, 03, 10, 06, 23, 21",
-        "recent_year": "25",
-        "exam_weight": 4.242640687119285
+        "past_count": 4,
+        "exam_years": "2015, 2014, 2005, 2003",
+        "recent_year": "2015",
+        "exam_weight": 2.23606797749979
     },
     {
         "image_filename": "0197.jpg",
@@ -2203,8 +2203,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 1",
         "quiz_id": "q197",
         "past_count": 6,
-        "exam_years": "25, 22, 15, 14, 07, 06",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2015, 2014, 2007, 2006",
+        "recent_year": "2025",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -2219,8 +2219,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 1",
         "quiz_id": "q198",
         "past_count": 13,
-        "exam_years": "25, 21, 16, 15, 14, 13, 12, 11, 10, 08, 07, 05, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2005, 2003",
+        "recent_year": "2025",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -2250,10 +2250,10 @@ const QUIZ_DB = [
         "answer_ko": "어깨목뿔근",
         "source": "Carotid Triangle - 1",
         "quiz_id": "q200",
-        "past_count": 6,
-        "exam_years": "20, 11, 19, 16, 13, 12",
-        "recent_year": "20",
-        "exam_weight": 2.6457513110645907
+        "past_count": 2,
+        "exam_years": "2013, 2012",
+        "recent_year": "2013",
+        "exam_weight": 1.7320508075688772
     },
     {
         "image_filename": "0201.jpg",
@@ -2267,8 +2267,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 1",
         "quiz_id": "q201",
         "past_count": 4,
-        "exam_years": "19, 09, 08, 07",
-        "recent_year": "19",
+        "exam_years": "2019, 2009, 2008, 2007",
+        "recent_year": "2019",
         "exam_weight": 2.23606797749979
     },
     {
@@ -2283,8 +2283,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 1",
         "quiz_id": "q202",
         "past_count": 7,
-        "exam_years": "25, 22, 13, 09, 08, 06, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2013, 2009, 2008, 2006, 2005",
+        "recent_year": "2025",
         "exam_weight": 2.8284271247461903
     },
     {
@@ -2299,8 +2299,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 1",
         "quiz_id": "q203",
         "past_count": 12,
-        "exam_years": "25, 23, 22, 20, 18, 17, 16, 14, 13, 10, 08, 06",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2022, 2020, 2018, 2017, 2016, 2014, 2013, 2010, 2008, 2006",
+        "recent_year": "2025",
         "exam_weight": 3.605551275463989
     },
     {
@@ -2315,8 +2315,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 2",
         "quiz_id": "q204",
         "past_count": 6,
-        "exam_years": "21, 13, 12, 06, 02, 11",
-        "recent_year": "21",
+        "exam_years": "2021, 2013, 2012, 2011, 2006, 2002",
+        "recent_year": "2021",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -2331,8 +2331,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 2",
         "quiz_id": "q205",
         "past_count": 6,
-        "exam_years": "25, 22, 15, 14, 07, 06",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2015, 2014, 2007, 2006",
+        "recent_year": "2025",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -2347,8 +2347,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 2",
         "quiz_id": "q206",
         "past_count": 13,
-        "exam_years": "25, 21, 16, 15, 14, 13, 12, 11, 10, 08, 07, 05, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2005, 2003",
+        "recent_year": "2025",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -2363,8 +2363,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 2",
         "quiz_id": "q207",
         "past_count": 13,
-        "exam_years": "25, 21, 16, 15, 14, 13, 12, 11, 10, 08, 07, 05, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2005, 2003",
+        "recent_year": "2025",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -2379,8 +2379,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 2",
         "quiz_id": "q208",
         "past_count": 17,
-        "exam_years": "25, 23, 22, 21, 20, 19, 18, 15, 14, 13, 11, 10, 09, 07, 06, 03, 02",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2022, 2021, 2020, 2019, 2018, 2015, 2014, 2013, 2011, 2010, 2009, 2007, 2006, 2003, 2002",
+        "recent_year": "2025",
         "exam_weight": 4.242640687119285
     },
     {
@@ -2395,8 +2395,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 2",
         "quiz_id": "q209",
         "past_count": 6,
-        "exam_years": "17, 15, 11, 10, 09, 05",
-        "recent_year": "17",
+        "exam_years": "2017, 2015, 2011, 2010, 2009, 2005",
+        "recent_year": "2017",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -2411,8 +2411,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 2",
         "quiz_id": "q210",
         "past_count": 6,
-        "exam_years": "23, 22, 20, 11, 07, 03",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2020, 2011, 2007, 2003",
+        "recent_year": "2023",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -2443,8 +2443,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 2",
         "quiz_id": "q213",
         "past_count": 12,
-        "exam_years": "25, 23, 22, 20, 18, 17, 16, 14, 13, 10, 08, 06",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2022, 2020, 2018, 2017, 2016, 2014, 2013, 2010, 2008, 2006",
+        "recent_year": "2025",
         "exam_weight": 3.605551275463989
     },
     {
@@ -2458,10 +2458,10 @@ const QUIZ_DB = [
         "answer_ko": "목신경고리",
         "source": "Carotid Triangle - 3",
         "quiz_id": "q214",
-        "past_count": 1,
-        "exam_years": "25",
-        "recent_year": "25",
-        "exam_weight": 1.4142135623730951
+        "past_count": 0,
+        "exam_years": "",
+        "recent_year": "",
+        "exam_weight": 1.0
     },
     {
         "image_filename": "0215.jpg",
@@ -2475,8 +2475,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 3",
         "quiz_id": "q215",
         "past_count": 6,
-        "exam_years": "21, 13, 12, 06, 02, 11",
-        "recent_year": "21",
+        "exam_years": "2021, 2013, 2012, 2011, 2006, 2002",
+        "recent_year": "2021",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -2490,10 +2490,10 @@ const QUIZ_DB = [
         "answer_ko": "턱두힘살근",
         "source": "Carotid Triangle - 3",
         "quiz_id": "q216",
-        "past_count": 17,
-        "exam_years": "25, 22, 19, 18, 13, 11, 08, 07, 15, 14, 05, 03, 10, 06, 23, 21",
-        "recent_year": "25",
-        "exam_weight": 4.242640687119285
+        "past_count": 4,
+        "exam_years": "2015, 2014, 2005, 2003",
+        "recent_year": "2015",
+        "exam_weight": 2.23606797749979
     },
     {
         "image_filename": "0217.jpg",
@@ -2507,8 +2507,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 3",
         "quiz_id": "q217",
         "past_count": 6,
-        "exam_years": "25, 22, 15, 14, 07, 06",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2015, 2014, 2007, 2006",
+        "recent_year": "2025",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -2523,8 +2523,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 3",
         "quiz_id": "q218",
         "past_count": 13,
-        "exam_years": "25, 21, 16, 15, 14, 13, 12, 11, 10, 08, 07, 05, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2005, 2003",
+        "recent_year": "2025",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -2539,8 +2539,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 3",
         "quiz_id": "q219",
         "past_count": 13,
-        "exam_years": "25, 21, 16, 15, 14, 13, 12, 11, 10, 08, 07, 05, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2005, 2003",
+        "recent_year": "2025",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -2555,8 +2555,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 3",
         "quiz_id": "q220",
         "past_count": 17,
-        "exam_years": "25, 23, 22, 21, 20, 19, 18, 15, 14, 13, 11, 10, 09, 07, 06, 03, 02",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2022, 2021, 2020, 2019, 2018, 2015, 2014, 2013, 2011, 2010, 2009, 2007, 2006, 2003, 2002",
+        "recent_year": "2025",
         "exam_weight": 4.242640687119285
     },
     {
@@ -2571,8 +2571,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 3",
         "quiz_id": "q221",
         "past_count": 6,
-        "exam_years": "23, 22, 20, 11, 07, 03",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2020, 2011, 2007, 2003",
+        "recent_year": "2023",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -2586,10 +2586,10 @@ const QUIZ_DB = [
         "answer_ko": "어깨목뿔근",
         "source": "Carotid Triangle - 3",
         "quiz_id": "q222",
-        "past_count": 6,
-        "exam_years": "20, 11, 19, 16, 13, 12",
-        "recent_year": "20",
-        "exam_weight": 2.6457513110645907
+        "past_count": 2,
+        "exam_years": "2013, 2012",
+        "recent_year": "2013",
+        "exam_weight": 1.7320508075688772
     },
     {
         "image_filename": "0223.jpg",
@@ -2603,8 +2603,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 3",
         "quiz_id": "q223",
         "past_count": 12,
-        "exam_years": "25, 23, 22, 20, 18, 17, 16, 14, 13, 10, 08, 06",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2022, 2020, 2018, 2017, 2016, 2014, 2013, 2010, 2008, 2006",
+        "recent_year": "2025",
         "exam_weight": 3.605551275463989
     },
     {
@@ -2618,10 +2618,10 @@ const QUIZ_DB = [
         "answer_ko": "목신경고리",
         "source": "Carotid Triangle - 4",
         "quiz_id": "q224",
-        "past_count": 1,
-        "exam_years": "25",
-        "recent_year": "25",
-        "exam_weight": 1.4142135623730951
+        "past_count": 0,
+        "exam_years": "",
+        "recent_year": "",
+        "exam_weight": 1.0
     },
     {
         "image_filename": "0225.jpg",
@@ -2635,8 +2635,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 4",
         "quiz_id": "q225",
         "past_count": 6,
-        "exam_years": "21, 13, 12, 06, 02, 11",
-        "recent_year": "21",
+        "exam_years": "2021, 2013, 2012, 2011, 2006, 2002",
+        "recent_year": "2021",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -2651,8 +2651,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 4",
         "quiz_id": "q226",
         "past_count": 6,
-        "exam_years": "17, 15, 11, 10, 09, 05",
-        "recent_year": "17",
+        "exam_years": "2017, 2015, 2011, 2010, 2009, 2005",
+        "recent_year": "2017",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -2667,8 +2667,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 4",
         "quiz_id": "q227",
         "past_count": 6,
-        "exam_years": "25, 22, 15, 14, 07, 06",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2015, 2014, 2007, 2006",
+        "recent_year": "2025",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -2683,8 +2683,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 4",
         "quiz_id": "q229",
         "past_count": 17,
-        "exam_years": "25, 23, 22, 21, 20, 19, 18, 15, 14, 13, 11, 10, 09, 07, 06, 03, 02",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2022, 2021, 2020, 2019, 2018, 2015, 2014, 2013, 2011, 2010, 2009, 2007, 2006, 2003, 2002",
+        "recent_year": "2025",
         "exam_weight": 4.242640687119285
     },
     {
@@ -2699,8 +2699,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 4",
         "quiz_id": "q231",
         "past_count": 6,
-        "exam_years": "23, 22, 20, 11, 07, 03",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2020, 2011, 2007, 2003",
+        "recent_year": "2023",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -2714,10 +2714,10 @@ const QUIZ_DB = [
         "answer_ko": "어깨목뿔근",
         "source": "Carotid Triangle - 4",
         "quiz_id": "q232",
-        "past_count": 6,
-        "exam_years": "20, 11, 19, 16, 13, 12",
-        "recent_year": "20",
-        "exam_weight": 2.6457513110645907
+        "past_count": 2,
+        "exam_years": "2013, 2012",
+        "recent_year": "2013",
+        "exam_weight": 1.7320508075688772
     },
     {
         "image_filename": "0234.jpg",
@@ -2731,8 +2731,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 4",
         "quiz_id": "q234",
         "past_count": 12,
-        "exam_years": "25, 23, 22, 20, 18, 17, 16, 14, 13, 10, 08, 06",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2022, 2020, 2018, 2017, 2016, 2014, 2013, 2010, 2008, 2006",
+        "recent_year": "2025",
         "exam_weight": 3.605551275463989
     },
     {
@@ -2747,8 +2747,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 5",
         "quiz_id": "q235",
         "past_count": 6,
-        "exam_years": "21, 13, 12, 06, 02, 11",
-        "recent_year": "21",
+        "exam_years": "2021, 2013, 2012, 2011, 2006, 2002",
+        "recent_year": "2021",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -2763,8 +2763,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 5",
         "quiz_id": "q236",
         "past_count": 6,
-        "exam_years": "25, 22, 15, 14, 07, 06",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2015, 2014, 2007, 2006",
+        "recent_year": "2025",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -2779,8 +2779,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 5",
         "quiz_id": "q237",
         "past_count": 13,
-        "exam_years": "25, 21, 16, 15, 14, 13, 12, 11, 10, 08, 07, 05, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2005, 2003",
+        "recent_year": "2025",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -2795,8 +2795,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 5",
         "quiz_id": "q238",
         "past_count": 3,
-        "exam_years": "20, 16, 11",
-        "recent_year": "20",
+        "exam_years": "2020, 2016, 2011",
+        "recent_year": "2020",
         "exam_weight": 2.0
     },
     {
@@ -2811,8 +2811,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 5",
         "quiz_id": "q239",
         "past_count": 17,
-        "exam_years": "25, 23, 22, 21, 20, 19, 18, 15, 14, 13, 11, 10, 09, 07, 06, 03, 02",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2022, 2021, 2020, 2019, 2018, 2015, 2014, 2013, 2011, 2010, 2009, 2007, 2006, 2003, 2002",
+        "recent_year": "2025",
         "exam_weight": 4.242640687119285
     },
     {
@@ -2827,8 +2827,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 5",
         "quiz_id": "q240",
         "past_count": 6,
-        "exam_years": "17, 15, 11, 10, 09, 05",
-        "recent_year": "17",
+        "exam_years": "2017, 2015, 2011, 2010, 2009, 2005",
+        "recent_year": "2017",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -2843,8 +2843,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 5",
         "quiz_id": "q241",
         "past_count": 6,
-        "exam_years": "23, 22, 20, 11, 07, 03",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2020, 2011, 2007, 2003",
+        "recent_year": "2023",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -2891,8 +2891,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 5",
         "quiz_id": "q244",
         "past_count": 1,
-        "exam_years": "09",
-        "recent_year": "09",
+        "exam_years": "2009",
+        "recent_year": "2009",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -2906,10 +2906,10 @@ const QUIZ_DB = [
         "answer_ko": "턱두힘살근",
         "source": "Carotid Triangle - 6",
         "quiz_id": "q245",
-        "past_count": 17,
-        "exam_years": "25, 22, 19, 18, 13, 11, 08, 07, 15, 14, 05, 03, 10, 06, 23, 21",
-        "recent_year": "25",
-        "exam_weight": 4.242640687119285
+        "past_count": 4,
+        "exam_years": "2015, 2014, 2005, 2003",
+        "recent_year": "2015",
+        "exam_weight": 2.23606797749979
     },
     {
         "image_filename": "0248.jpg",
@@ -2939,8 +2939,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 6",
         "quiz_id": "q249",
         "past_count": 1,
-        "exam_years": "09",
-        "recent_year": "09",
+        "exam_years": "2009",
+        "recent_year": "2009",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -2955,8 +2955,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 6",
         "quiz_id": "q251",
         "past_count": 6,
-        "exam_years": "20, 19, 11, 10, 07, 03",
-        "recent_year": "20",
+        "exam_years": "2020, 2019, 2011, 2010, 2007, 2003",
+        "recent_year": "2020",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -2970,10 +2970,10 @@ const QUIZ_DB = [
         "answer_ko": "어깨목뿔근",
         "source": "Carotid Triangle - 6",
         "quiz_id": "q252",
-        "past_count": 6,
-        "exam_years": "20, 11, 19, 16, 13, 12",
-        "recent_year": "20",
-        "exam_weight": 2.6457513110645907
+        "past_count": 2,
+        "exam_years": "2013, 2012",
+        "recent_year": "2013",
+        "exam_weight": 1.7320508075688772
     },
     {
         "image_filename": "0253.jpg",
@@ -3003,8 +3003,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 6",
         "quiz_id": "q254",
         "past_count": 3,
-        "exam_years": "20, 05, 03",
-        "recent_year": "20",
+        "exam_years": "2020, 2005, 2003",
+        "recent_year": "2020",
         "exam_weight": 2.0
     },
     {
@@ -3019,8 +3019,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 6",
         "quiz_id": "q255",
         "past_count": 3,
-        "exam_years": "20, 05, 03",
-        "recent_year": "20",
+        "exam_years": "2020, 2005, 2003",
+        "recent_year": "2020",
         "exam_weight": 2.0
     },
     {
@@ -3035,8 +3035,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 7",
         "quiz_id": "q258",
         "past_count": 12,
-        "exam_years": "25, 23, 22, 20, 18, 17, 16, 14, 13, 10, 08, 06",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2022, 2020, 2018, 2017, 2016, 2014, 2013, 2010, 2008, 2006",
+        "recent_year": "2025",
         "exam_weight": 3.605551275463989
     },
     {
@@ -3051,8 +3051,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 7",
         "quiz_id": "q259",
         "past_count": 17,
-        "exam_years": "25, 23, 22, 21, 20, 19, 18, 15, 14, 13, 11, 10, 09, 07, 06, 03, 02",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2022, 2021, 2020, 2019, 2018, 2015, 2014, 2013, 2011, 2010, 2009, 2007, 2006, 2003, 2002",
+        "recent_year": "2025",
         "exam_weight": 4.242640687119285
     },
     {
@@ -3067,8 +3067,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 7",
         "quiz_id": "q260",
         "past_count": 6,
-        "exam_years": "25, 22, 15, 14, 07, 06",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2015, 2014, 2007, 2006",
+        "recent_year": "2025",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -3083,8 +3083,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 8",
         "quiz_id": "q261",
         "past_count": 17,
-        "exam_years": "25, 23, 22, 21, 20, 19, 18, 15, 14, 13, 11, 10, 09, 07, 06, 03, 02",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2022, 2021, 2020, 2019, 2018, 2015, 2014, 2013, 2011, 2010, 2009, 2007, 2006, 2003, 2002",
+        "recent_year": "2025",
         "exam_weight": 4.242640687119285
     },
     {
@@ -3099,8 +3099,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 8",
         "quiz_id": "q262",
         "past_count": 6,
-        "exam_years": "23, 22, 20, 11, 07, 03",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2020, 2011, 2007, 2003",
+        "recent_year": "2023",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -3115,8 +3115,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 8",
         "quiz_id": "q263",
         "past_count": 13,
-        "exam_years": "25, 21, 16, 15, 14, 13, 12, 11, 10, 08, 07, 05, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2005, 2003",
+        "recent_year": "2025",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -3131,8 +3131,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 8",
         "quiz_id": "q264",
         "past_count": 6,
-        "exam_years": "25, 22, 15, 14, 07, 06",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2015, 2014, 2007, 2006",
+        "recent_year": "2025",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -3147,8 +3147,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 8",
         "quiz_id": "q265",
         "past_count": 12,
-        "exam_years": "25, 23, 22, 20, 18, 17, 16, 14, 13, 10, 08, 06",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2022, 2020, 2018, 2017, 2016, 2014, 2013, 2010, 2008, 2006",
+        "recent_year": "2025",
         "exam_weight": 3.605551275463989
     },
     {
@@ -3163,8 +3163,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 8",
         "quiz_id": "q266",
         "past_count": 2,
-        "exam_years": "10, 03",
-        "recent_year": "10",
+        "exam_years": "2010, 2003",
+        "recent_year": "2010",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -3178,10 +3178,10 @@ const QUIZ_DB = [
         "answer_ko": "턱두힘살근",
         "source": "Carotid Triangle - 9",
         "quiz_id": "q267",
-        "past_count": 17,
-        "exam_years": "25, 22, 19, 18, 13, 11, 08, 07, 15, 14, 05, 03, 10, 06, 23, 21",
-        "recent_year": "25",
-        "exam_weight": 4.242640687119285
+        "past_count": 4,
+        "exam_years": "2015, 2014, 2005, 2003",
+        "recent_year": "2015",
+        "exam_weight": 2.23606797749979
     },
     {
         "image_filename": "0268.jpg",
@@ -3195,8 +3195,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 9",
         "quiz_id": "q268",
         "past_count": 6,
-        "exam_years": "19, 18, 15, 14, 13, 10",
-        "recent_year": "19",
+        "exam_years": "2019, 2018, 2015, 2014, 2013, 2010",
+        "recent_year": "2019",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -3227,8 +3227,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 9",
         "quiz_id": "q270",
         "past_count": 1,
-        "exam_years": "09",
-        "recent_year": "09",
+        "exam_years": "2009",
+        "recent_year": "2009",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -3243,8 +3243,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 9",
         "quiz_id": "q271",
         "past_count": 17,
-        "exam_years": "25, 23, 22, 21, 20, 19, 18, 15, 14, 13, 11, 10, 09, 07, 06, 03, 02",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2022, 2021, 2020, 2019, 2018, 2015, 2014, 2013, 2011, 2010, 2009, 2007, 2006, 2003, 2002",
+        "recent_year": "2025",
         "exam_weight": 4.242640687119285
     },
     {
@@ -3258,10 +3258,10 @@ const QUIZ_DB = [
         "answer_ko": "턱두힘살근",
         "source": "Carotid Triangle - 10",
         "quiz_id": "q272",
-        "past_count": 17,
-        "exam_years": "25, 22, 19, 18, 13, 11, 08, 07, 15, 14, 05, 03, 10, 06, 23, 21",
-        "recent_year": "25",
-        "exam_weight": 4.242640687119285
+        "past_count": 4,
+        "exam_years": "2015, 2014, 2005, 2003",
+        "recent_year": "2015",
+        "exam_weight": 2.23606797749979
     },
     {
         "image_filename": "0273.jpg",
@@ -3275,8 +3275,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 10",
         "quiz_id": "q273",
         "past_count": 6,
-        "exam_years": "19, 18, 15, 14, 13, 10",
-        "recent_year": "19",
+        "exam_years": "2019, 2018, 2015, 2014, 2013, 2010",
+        "recent_year": "2019",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -3307,8 +3307,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 10",
         "quiz_id": "q275",
         "past_count": 17,
-        "exam_years": "23, 22, 21, 20, 18, 17, 16, 15, 14, 13, 12, 11, 09, 08, 07, 03, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2020, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2008, 2007, 2003, 2002",
+        "recent_year": "2023",
         "exam_weight": 4.242640687119285
     },
     {
@@ -3323,8 +3323,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 10",
         "quiz_id": "q276",
         "past_count": 1,
-        "exam_years": "09",
-        "recent_year": "09",
+        "exam_years": "2009",
+        "recent_year": "2009",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -3339,8 +3339,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 10",
         "quiz_id": "q277",
         "past_count": 17,
-        "exam_years": "25, 23, 22, 21, 20, 19, 18, 15, 14, 13, 11, 10, 09, 07, 06, 03, 02",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2022, 2021, 2020, 2019, 2018, 2015, 2014, 2013, 2011, 2010, 2009, 2007, 2006, 2003, 2002",
+        "recent_year": "2025",
         "exam_weight": 4.242640687119285
     },
     {
@@ -3355,8 +3355,8 @@ const QUIZ_DB = [
         "source": "Carotid Triangle - 10",
         "quiz_id": "q278",
         "past_count": 11,
-        "exam_years": "25, 22, 21, 19, 17, 15, 14, 11, 10, 07, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2021, 2019, 2017, 2015, 2014, 2011, 2010, 2007, 2005",
+        "recent_year": "2025",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -3370,10 +3370,10 @@ const QUIZ_DB = [
         "answer_ko": "턱두힘살근",
         "source": "Submandibular Triangle - 1",
         "quiz_id": "q279",
-        "past_count": 17,
-        "exam_years": "25, 22, 19, 18, 13, 11, 08, 07, 15, 14, 05, 03, 10, 06, 23, 21",
-        "recent_year": "25",
-        "exam_weight": 4.242640687119285
+        "past_count": 4,
+        "exam_years": "2015, 2014, 2005, 2003",
+        "recent_year": "2015",
+        "exam_weight": 2.23606797749979
     },
     {
         "image_filename": "0280.jpg",
@@ -3387,8 +3387,8 @@ const QUIZ_DB = [
         "source": "Submandibular Triangle - 1",
         "quiz_id": "q280",
         "past_count": 13,
-        "exam_years": "25, 21, 16, 15, 14, 13, 12, 11, 10, 08, 07, 05, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2005, 2003",
+        "recent_year": "2025",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -3403,8 +3403,8 @@ const QUIZ_DB = [
         "source": "Submandibular Triangle - 1",
         "quiz_id": "q281",
         "past_count": 3,
-        "exam_years": "20, 16, 11",
-        "recent_year": "20",
+        "exam_years": "2020, 2016, 2011",
+        "recent_year": "2020",
         "exam_weight": 2.0
     },
     {
@@ -3419,8 +3419,8 @@ const QUIZ_DB = [
         "source": "Submandibular Triangle - 1",
         "quiz_id": "q282",
         "past_count": 17,
-        "exam_years": "25, 23, 22, 21, 20, 19, 18, 15, 14, 13, 11, 10, 09, 07, 06, 03, 02",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2022, 2021, 2020, 2019, 2018, 2015, 2014, 2013, 2011, 2010, 2009, 2007, 2006, 2003, 2002",
+        "recent_year": "2025",
         "exam_weight": 4.242640687119285
     },
     {
@@ -3435,8 +3435,8 @@ const QUIZ_DB = [
         "source": "Submandibular Triangle - 1",
         "quiz_id": "q283",
         "past_count": 11,
-        "exam_years": "25, 22, 21, 19, 17, 15, 14, 11, 10, 07, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2021, 2019, 2017, 2015, 2014, 2011, 2010, 2007, 2005",
+        "recent_year": "2025",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -3450,10 +3450,10 @@ const QUIZ_DB = [
         "answer_ko": "턱두힘살근",
         "source": "Submandibular Triangle - 2",
         "quiz_id": "q286",
-        "past_count": 17,
-        "exam_years": "25, 22, 19, 18, 13, 11, 08, 07, 15, 14, 05, 03, 10, 06, 23, 21",
-        "recent_year": "25",
-        "exam_weight": 4.242640687119285
+        "past_count": 4,
+        "exam_years": "2015, 2014, 2005, 2003",
+        "recent_year": "2015",
+        "exam_weight": 2.23606797749979
     },
     {
         "image_filename": "0287.jpg",
@@ -3466,10 +3466,10 @@ const QUIZ_DB = [
         "answer_ko": "턱두힘살근",
         "source": "Submandibular Triangle - 2",
         "quiz_id": "q287",
-        "past_count": 17,
-        "exam_years": "25, 22, 19, 18, 13, 11, 08, 07, 15, 14, 05, 03, 10, 06, 23, 21",
-        "recent_year": "25",
-        "exam_weight": 4.242640687119285
+        "past_count": 4,
+        "exam_years": "2015, 2014, 2005, 2003",
+        "recent_year": "2015",
+        "exam_weight": 2.23606797749979
     },
     {
         "image_filename": "0288.jpg",
@@ -3482,10 +3482,10 @@ const QUIZ_DB = [
         "answer_ko": "턱두힘살근",
         "source": "Submandibular Triangle - 2",
         "quiz_id": "q288",
-        "past_count": 17,
-        "exam_years": "25, 22, 19, 18, 13, 11, 08, 07, 15, 14, 05, 03, 10, 06, 23, 21",
-        "recent_year": "25",
-        "exam_weight": 4.242640687119285
+        "past_count": 4,
+        "exam_years": "2015, 2014, 2005, 2003",
+        "recent_year": "2015",
+        "exam_weight": 2.23606797749979
     },
     {
         "image_filename": "0290.jpg",
@@ -3499,8 +3499,8 @@ const QUIZ_DB = [
         "source": "Submandibular Triangle - 2",
         "quiz_id": "q290",
         "past_count": 11,
-        "exam_years": "25, 22, 21, 19, 17, 15, 14, 11, 10, 07, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2021, 2019, 2017, 2015, 2014, 2011, 2010, 2007, 2005",
+        "recent_year": "2025",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -3515,8 +3515,8 @@ const QUIZ_DB = [
         "source": "Submandibular Triangle - 2",
         "quiz_id": "q291",
         "past_count": 11,
-        "exam_years": "25, 22, 21, 19, 17, 15, 14, 11, 10, 07, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2021, 2019, 2017, 2015, 2014, 2011, 2010, 2007, 2005",
+        "recent_year": "2025",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -3531,8 +3531,8 @@ const QUIZ_DB = [
         "source": "Submandibular Triangle - 2",
         "quiz_id": "q292",
         "past_count": 1,
-        "exam_years": "09",
-        "recent_year": "09",
+        "exam_years": "2009",
+        "recent_year": "2009",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -3547,8 +3547,8 @@ const QUIZ_DB = [
         "source": "Submandibular Triangle - 3",
         "quiz_id": "q293",
         "past_count": 13,
-        "exam_years": "25, 21, 16, 15, 14, 13, 12, 11, 10, 08, 07, 05, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2005, 2003",
+        "recent_year": "2025",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -3563,8 +3563,8 @@ const QUIZ_DB = [
         "source": "Submandibular Triangle - 3",
         "quiz_id": "q294",
         "past_count": 13,
-        "exam_years": "25, 21, 16, 15, 14, 13, 12, 11, 10, 08, 07, 05, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2005, 2003",
+        "recent_year": "2025",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -3595,8 +3595,8 @@ const QUIZ_DB = [
         "source": "Submandibular Triangle - 3",
         "quiz_id": "q296",
         "past_count": 4,
-        "exam_years": "16, 15, 10, 06",
-        "recent_year": "16",
+        "exam_years": "2016, 2015, 2010, 2006",
+        "recent_year": "2016",
         "exam_weight": 2.23606797749979
     },
     {
@@ -3611,8 +3611,8 @@ const QUIZ_DB = [
         "source": "Submandibular Triangle - 3",
         "quiz_id": "q297",
         "past_count": 17,
-        "exam_years": "25, 23, 22, 21, 20, 19, 18, 15, 14, 13, 11, 10, 09, 07, 06, 03, 02",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2022, 2021, 2020, 2019, 2018, 2015, 2014, 2013, 2011, 2010, 2009, 2007, 2006, 2003, 2002",
+        "recent_year": "2025",
         "exam_weight": 4.242640687119285
     },
     {
@@ -3626,10 +3626,10 @@ const QUIZ_DB = [
         "answer_ko": "턱두힘살근",
         "source": "Submandibular Triangle - 3",
         "quiz_id": "q298",
-        "past_count": 17,
-        "exam_years": "25, 22, 19, 18, 13, 11, 08, 07, 15, 14, 05, 03, 10, 06, 23, 21",
-        "recent_year": "25",
-        "exam_weight": 4.242640687119285
+        "past_count": 4,
+        "exam_years": "2015, 2014, 2005, 2003",
+        "recent_year": "2015",
+        "exam_weight": 2.23606797749979
     },
     {
         "image_filename": "0299.jpg",
@@ -3643,8 +3643,8 @@ const QUIZ_DB = [
         "source": "Submandibular Triangle - 3",
         "quiz_id": "q299",
         "past_count": 1,
-        "exam_years": "09",
-        "recent_year": "09",
+        "exam_years": "2009",
+        "recent_year": "2009",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -3658,10 +3658,10 @@ const QUIZ_DB = [
         "answer_ko": "턱두힘살근",
         "source": "Submandibular Triangle - 3",
         "quiz_id": "q300",
-        "past_count": 17,
-        "exam_years": "25, 22, 19, 18, 13, 11, 08, 07, 15, 14, 05, 03, 10, 06, 23, 21",
-        "recent_year": "25",
-        "exam_weight": 4.242640687119285
+        "past_count": 4,
+        "exam_years": "2015, 2014, 2005, 2003",
+        "recent_year": "2015",
+        "exam_weight": 2.23606797749979
     },
     {
         "image_filename": "0301.jpg",
@@ -3675,8 +3675,8 @@ const QUIZ_DB = [
         "source": "Submandibular Triangle - 3",
         "quiz_id": "q301",
         "past_count": 6,
-        "exam_years": "23, 22, 20, 11, 07, 03",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2020, 2011, 2007, 2003",
+        "recent_year": "2023",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -3691,8 +3691,8 @@ const QUIZ_DB = [
         "source": "Submandibular Triangle - 3",
         "quiz_id": "q302",
         "past_count": 11,
-        "exam_years": "25, 22, 21, 19, 17, 15, 14, 11, 10, 07, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2021, 2019, 2017, 2015, 2014, 2011, 2010, 2007, 2005",
+        "recent_year": "2025",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -3706,10 +3706,10 @@ const QUIZ_DB = [
         "answer_ko": "턱두힘살근",
         "source": "Submandibular Triangle - 4",
         "quiz_id": "q303",
-        "past_count": 17,
-        "exam_years": "25, 22, 19, 18, 13, 11, 08, 07, 15, 14, 05, 03, 10, 06, 23, 21",
-        "recent_year": "25",
-        "exam_weight": 4.242640687119285
+        "past_count": 4,
+        "exam_years": "2015, 2014, 2005, 2003",
+        "recent_year": "2015",
+        "exam_weight": 2.23606797749979
     },
     {
         "image_filename": "0304.jpg",
@@ -3723,8 +3723,8 @@ const QUIZ_DB = [
         "source": "Submandibular Triangle - 4",
         "quiz_id": "q304",
         "past_count": 11,
-        "exam_years": "25, 22, 21, 19, 17, 15, 14, 11, 10, 07, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2021, 2019, 2017, 2015, 2014, 2011, 2010, 2007, 2005",
+        "recent_year": "2025",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -3739,8 +3739,8 @@ const QUIZ_DB = [
         "source": "Submandibular Triangle - 4",
         "quiz_id": "q306",
         "past_count": 17,
-        "exam_years": "25, 23, 22, 21, 20, 19, 18, 15, 14, 13, 11, 10, 09, 07, 06, 03, 02",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2022, 2021, 2020, 2019, 2018, 2015, 2014, 2013, 2011, 2010, 2009, 2007, 2006, 2003, 2002",
+        "recent_year": "2025",
         "exam_weight": 4.242640687119285
     },
     {
@@ -3755,8 +3755,8 @@ const QUIZ_DB = [
         "source": "Submandibular Triangle - 4",
         "quiz_id": "q307",
         "past_count": 1,
-        "exam_years": "09",
-        "recent_year": "09",
+        "exam_years": "2009",
+        "recent_year": "2009",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -3770,10 +3770,10 @@ const QUIZ_DB = [
         "answer_ko": "턱두힘살근",
         "source": "Submandibular Triangle - 4",
         "quiz_id": "q308",
-        "past_count": 17,
-        "exam_years": "25, 22, 19, 18, 13, 11, 08, 07, 15, 14, 05, 03, 10, 06, 23, 21",
-        "recent_year": "25",
-        "exam_weight": 4.242640687119285
+        "past_count": 4,
+        "exam_years": "2015, 2014, 2005, 2003",
+        "recent_year": "2015",
+        "exam_weight": 2.23606797749979
     },
     {
         "image_filename": "0309.jpg",
@@ -3787,8 +3787,8 @@ const QUIZ_DB = [
         "source": "Submandibular Triangle - 4",
         "quiz_id": "q309",
         "past_count": 8,
-        "exam_years": "21, 17, 14, 08, 07, 06, 05, 03",
-        "recent_year": "21",
+        "exam_years": "2021, 2017, 2014, 2008, 2007, 2006, 2005, 2003",
+        "recent_year": "2021",
         "exam_weight": 3.0
     },
     {
@@ -3803,8 +3803,8 @@ const QUIZ_DB = [
         "source": "Submandibular Triangle - 4",
         "quiz_id": "q310",
         "past_count": 13,
-        "exam_years": "25, 21, 16, 15, 14, 13, 12, 11, 10, 08, 07, 05, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2005, 2003",
+        "recent_year": "2025",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -3819,8 +3819,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 1",
         "quiz_id": "q311",
         "past_count": 2,
-        "exam_years": "05, 02",
-        "recent_year": "05",
+        "exam_years": "2005, 2002",
+        "recent_year": "2005",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -3835,8 +3835,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 1",
         "quiz_id": "q312",
         "past_count": 8,
-        "exam_years": "21, 18, 17, 16, 10, 08, 07, 02",
-        "recent_year": "21",
+        "exam_years": "2021, 2018, 2017, 2016, 2010, 2008, 2007, 2002",
+        "recent_year": "2021",
         "exam_weight": 3.0
     },
     {
@@ -3851,8 +3851,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 1",
         "quiz_id": "q314",
         "past_count": 1,
-        "exam_years": "19",
-        "recent_year": "19",
+        "exam_years": "2019",
+        "recent_year": "2019",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -3866,10 +3866,10 @@ const QUIZ_DB = [
         "answer_ko": "어깨목뿔근",
         "source": "Anterior Neck - 1",
         "quiz_id": "q315",
-        "past_count": 6,
-        "exam_years": "20, 11, 19, 16, 13, 12",
-        "recent_year": "20",
-        "exam_weight": 2.6457513110645907
+        "past_count": 2,
+        "exam_years": "2013, 2012",
+        "recent_year": "2013",
+        "exam_weight": 1.7320508075688772
     },
     {
         "image_filename": "0316.jpg",
@@ -3883,8 +3883,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 1",
         "quiz_id": "q316",
         "past_count": 3,
-        "exam_years": "20, 05, 03",
-        "recent_year": "20",
+        "exam_years": "2020, 2005, 2003",
+        "recent_year": "2020",
         "exam_weight": 2.0
     },
     {
@@ -3947,8 +3947,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 2",
         "quiz_id": "q320",
         "past_count": 6,
-        "exam_years": "21, 13, 12, 06, 02, 11",
-        "recent_year": "21",
+        "exam_years": "2021, 2013, 2012, 2011, 2006, 2002",
+        "recent_year": "2021",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -3963,8 +3963,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 2",
         "quiz_id": "q321",
         "past_count": 2,
-        "exam_years": "05, 02",
-        "recent_year": "05",
+        "exam_years": "2005, 2002",
+        "recent_year": "2005",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -3979,8 +3979,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 2",
         "quiz_id": "q322",
         "past_count": 8,
-        "exam_years": "21, 18, 17, 16, 10, 08, 07, 02",
-        "recent_year": "21",
+        "exam_years": "2021, 2018, 2017, 2016, 2010, 2008, 2007, 2002",
+        "recent_year": "2021",
         "exam_weight": 3.0
     },
     {
@@ -3995,8 +3995,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 2",
         "quiz_id": "q323",
         "past_count": 2,
-        "exam_years": "10, 03",
-        "recent_year": "10",
+        "exam_years": "2010, 2003",
+        "recent_year": "2010",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -4011,8 +4011,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 2",
         "quiz_id": "q325",
         "past_count": 5,
-        "exam_years": "18, 11, 10, 07, 14",
-        "recent_year": "18",
+        "exam_years": "2018, 2014, 2011, 2010, 2007",
+        "recent_year": "2018",
         "exam_weight": 2.449489742783178
     },
     {
@@ -4027,8 +4027,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 2",
         "quiz_id": "q326",
         "past_count": 6,
-        "exam_years": "20, 19, 11, 10, 07, 03",
-        "recent_year": "20",
+        "exam_years": "2020, 2019, 2011, 2010, 2007, 2003",
+        "recent_year": "2020",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -4075,8 +4075,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 2",
         "quiz_id": "q329",
         "past_count": 13,
-        "exam_years": "21, 20, 18, 17, 16, 14, 12, 11, 10, 09, 08, 07, 03",
-        "recent_year": "21",
+        "exam_years": "2021, 2020, 2018, 2017, 2016, 2014, 2012, 2011, 2010, 2009, 2008, 2007, 2003",
+        "recent_year": "2021",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -4091,8 +4091,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 3",
         "quiz_id": "q332",
         "past_count": 6,
-        "exam_years": "21, 13, 12, 06, 02, 11",
-        "recent_year": "21",
+        "exam_years": "2021, 2013, 2012, 2011, 2006, 2002",
+        "recent_year": "2021",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -4107,8 +4107,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 3",
         "quiz_id": "q333",
         "past_count": 2,
-        "exam_years": "10, 03",
-        "recent_year": "10",
+        "exam_years": "2010, 2003",
+        "recent_year": "2010",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -4139,8 +4139,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 3",
         "quiz_id": "q335",
         "past_count": 13,
-        "exam_years": "21, 20, 18, 17, 16, 14, 12, 11, 10, 09, 08, 07, 03",
-        "recent_year": "21",
+        "exam_years": "2021, 2020, 2018, 2017, 2016, 2014, 2012, 2011, 2010, 2009, 2008, 2007, 2003",
+        "recent_year": "2021",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -4155,8 +4155,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 3",
         "quiz_id": "q337",
         "past_count": 6,
-        "exam_years": "21, 13, 12, 06, 02, 11",
-        "recent_year": "21",
+        "exam_years": "2021, 2013, 2012, 2011, 2006, 2002",
+        "recent_year": "2021",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -4171,8 +4171,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 3",
         "quiz_id": "q338",
         "past_count": 2,
-        "exam_years": "10, 03",
-        "recent_year": "10",
+        "exam_years": "2010, 2003",
+        "recent_year": "2010",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -4187,8 +4187,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 3",
         "quiz_id": "q339",
         "past_count": 5,
-        "exam_years": "18, 11, 10, 07, 14",
-        "recent_year": "18",
+        "exam_years": "2018, 2014, 2011, 2010, 2007",
+        "recent_year": "2018",
         "exam_weight": 2.449489742783178
     },
     {
@@ -4203,8 +4203,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 3",
         "quiz_id": "q340",
         "past_count": 1,
-        "exam_years": "03",
-        "recent_year": "03",
+        "exam_years": "2003",
+        "recent_year": "2003",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -4219,8 +4219,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 3",
         "quiz_id": "q341",
         "past_count": 13,
-        "exam_years": "21, 20, 18, 17, 16, 14, 12, 11, 10, 09, 08, 07, 03",
-        "recent_year": "21",
+        "exam_years": "2021, 2020, 2018, 2017, 2016, 2014, 2012, 2011, 2010, 2009, 2008, 2007, 2003",
+        "recent_year": "2021",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -4250,10 +4250,10 @@ const QUIZ_DB = [
         "answer_ko": "앞목갈비근",
         "source": "Anterior Neck - 4",
         "quiz_id": "q344",
-        "past_count": 10,
-        "exam_years": "23, 21, 19, 15, 12, 11, 10, 09, 05, 03",
-        "recent_year": "23",
-        "exam_weight": 3.3166247903554
+        "past_count": 9,
+        "exam_years": "2023, 2021, 2019, 2015, 2012, 2011, 2010, 2009, 2005",
+        "recent_year": "2023",
+        "exam_weight": 3.1622776601683795
     },
     {
         "image_filename": "0346.jpg",
@@ -4267,8 +4267,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 4",
         "quiz_id": "q346",
         "past_count": 6,
-        "exam_years": "21, 13, 12, 06, 02, 11",
-        "recent_year": "21",
+        "exam_years": "2021, 2013, 2012, 2011, 2006, 2002",
+        "recent_year": "2021",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -4283,8 +4283,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 4",
         "quiz_id": "q347",
         "past_count": 1,
-        "exam_years": "17",
-        "recent_year": "17",
+        "exam_years": "2017",
+        "recent_year": "2017",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -4299,8 +4299,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 4",
         "quiz_id": "q348",
         "past_count": 1,
-        "exam_years": "16",
-        "recent_year": "16",
+        "exam_years": "2016",
+        "recent_year": "2016",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -4315,8 +4315,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 4",
         "quiz_id": "q349",
         "past_count": 3,
-        "exam_years": "23, 21, 20",
-        "recent_year": "23",
+        "exam_years": "2023, 2021, 2020",
+        "recent_year": "2023",
         "exam_weight": 2.0
     },
     {
@@ -4331,8 +4331,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 4",
         "quiz_id": "q350",
         "past_count": 1,
-        "exam_years": "03",
-        "recent_year": "03",
+        "exam_years": "2003",
+        "recent_year": "2003",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -4347,8 +4347,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 4",
         "quiz_id": "q351",
         "past_count": 1,
-        "exam_years": "03",
-        "recent_year": "03",
+        "exam_years": "2003",
+        "recent_year": "2003",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -4363,8 +4363,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 4",
         "quiz_id": "q352",
         "past_count": 2,
-        "exam_years": "10, 03",
-        "recent_year": "10",
+        "exam_years": "2010, 2003",
+        "recent_year": "2010",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -4379,8 +4379,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 4",
         "quiz_id": "q353",
         "past_count": 1,
-        "exam_years": "23",
-        "recent_year": "23",
+        "exam_years": "2023",
+        "recent_year": "2023",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -4395,8 +4395,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 4",
         "quiz_id": "q354",
         "past_count": 13,
-        "exam_years": "21, 20, 18, 17, 16, 14, 12, 11, 10, 09, 08, 07, 03",
-        "recent_year": "21",
+        "exam_years": "2021, 2020, 2018, 2017, 2016, 2014, 2012, 2011, 2010, 2009, 2008, 2007, 2003",
+        "recent_year": "2021",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -4411,8 +4411,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 4",
         "quiz_id": "q355",
         "past_count": 11,
-        "exam_years": "23, 20, 19, 16, 15, 13, 12, 11, 09, 05, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2020, 2019, 2016, 2015, 2013, 2012, 2011, 2009, 2005, 2002",
+        "recent_year": "2023",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -4426,10 +4426,10 @@ const QUIZ_DB = [
         "answer_ko": "턱두힘살근",
         "source": "Anterior Neck - 5",
         "quiz_id": "q356",
-        "past_count": 17,
-        "exam_years": "25, 22, 19, 18, 13, 11, 08, 07, 15, 14, 05, 03, 10, 06, 23, 21",
-        "recent_year": "25",
-        "exam_weight": 4.242640687119285
+        "past_count": 4,
+        "exam_years": "2015, 2014, 2005, 2003",
+        "recent_year": "2015",
+        "exam_weight": 2.23606797749979
     },
     {
         "image_filename": "0357.jpg",
@@ -4443,8 +4443,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 5",
         "quiz_id": "q357",
         "past_count": 4,
-        "exam_years": "16, 15, 10, 06",
-        "recent_year": "16",
+        "exam_years": "2016, 2015, 2010, 2006",
+        "recent_year": "2016",
         "exam_weight": 2.23606797749979
     },
     {
@@ -4474,10 +4474,10 @@ const QUIZ_DB = [
         "answer_ko": "어깨목뿔근",
         "source": "Anterior Neck - 5",
         "quiz_id": "q359",
-        "past_count": 6,
-        "exam_years": "20, 11, 19, 16, 13, 12",
-        "recent_year": "20",
-        "exam_weight": 2.6457513110645907
+        "past_count": 2,
+        "exam_years": "2013, 2012",
+        "recent_year": "2013",
+        "exam_weight": 1.7320508075688772
     },
     {
         "image_filename": "0360.jpg",
@@ -4491,8 +4491,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 5",
         "quiz_id": "q360",
         "past_count": 3,
-        "exam_years": "20, 05, 03",
-        "recent_year": "20",
+        "exam_years": "2020, 2005, 2003",
+        "recent_year": "2020",
         "exam_weight": 2.0
     },
     {
@@ -4507,8 +4507,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 5",
         "quiz_id": "q361",
         "past_count": 7,
-        "exam_years": "25, 22, 13, 09, 08, 06, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2013, 2009, 2008, 2006, 2005",
+        "recent_year": "2025",
         "exam_weight": 2.8284271247461903
     },
     {
@@ -4555,8 +4555,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 6",
         "quiz_id": "q364",
         "past_count": 1,
-        "exam_years": "09",
-        "recent_year": "09",
+        "exam_years": "2009",
+        "recent_year": "2009",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -4571,8 +4571,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 6",
         "quiz_id": "q365",
         "past_count": 4,
-        "exam_years": "16, 15, 10, 06",
-        "recent_year": "16",
+        "exam_years": "2016, 2015, 2010, 2006",
+        "recent_year": "2016",
         "exam_weight": 2.23606797749979
     },
     {
@@ -4587,8 +4587,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 6",
         "quiz_id": "q366",
         "past_count": 11,
-        "exam_years": "25, 22, 21, 19, 17, 15, 14, 11, 10, 07, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2021, 2019, 2017, 2015, 2014, 2011, 2010, 2007, 2005",
+        "recent_year": "2025",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -4602,10 +4602,10 @@ const QUIZ_DB = [
         "answer_ko": "턱두힘살근",
         "source": "Anterior Neck - 6",
         "quiz_id": "q367",
-        "past_count": 17,
-        "exam_years": "25, 22, 19, 18, 13, 11, 08, 07, 15, 14, 05, 03, 10, 06, 23, 21",
-        "recent_year": "25",
-        "exam_weight": 4.242640687119285
+        "past_count": 4,
+        "exam_years": "2015, 2014, 2005, 2003",
+        "recent_year": "2015",
+        "exam_weight": 2.23606797749979
     },
     {
         "image_filename": "0368.jpg",
@@ -4619,8 +4619,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 6",
         "quiz_id": "q368",
         "past_count": 3,
-        "exam_years": "20, 05, 03",
-        "recent_year": "20",
+        "exam_years": "2020, 2005, 2003",
+        "recent_year": "2020",
         "exam_weight": 2.0
     },
     {
@@ -4635,8 +4635,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 6",
         "quiz_id": "q369",
         "past_count": 7,
-        "exam_years": "25, 22, 13, 09, 08, 06, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2013, 2009, 2008, 2006, 2005",
+        "recent_year": "2025",
         "exam_weight": 2.8284271247461903
     },
     {
@@ -4650,10 +4650,10 @@ const QUIZ_DB = [
         "answer_ko": "어깨목뿔근",
         "source": "Anterior Neck - 6",
         "quiz_id": "q371",
-        "past_count": 6,
-        "exam_years": "20, 11, 19, 16, 13, 12",
-        "recent_year": "20",
-        "exam_weight": 2.6457513110645907
+        "past_count": 2,
+        "exam_years": "2013, 2012",
+        "recent_year": "2013",
+        "exam_weight": 1.7320508075688772
     },
     {
         "image_filename": "0372.jpg",
@@ -4667,8 +4667,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 6",
         "quiz_id": "q372",
         "past_count": 8,
-        "exam_years": "21, 18, 17, 16, 10, 08, 07, 02",
-        "recent_year": "21",
+        "exam_years": "2021, 2018, 2017, 2016, 2010, 2008, 2007, 2002",
+        "recent_year": "2021",
         "exam_weight": 3.0
     },
     {
@@ -4683,8 +4683,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 6",
         "quiz_id": "q374",
         "past_count": 1,
-        "exam_years": "19",
-        "recent_year": "19",
+        "exam_years": "2019",
+        "recent_year": "2019",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -4747,8 +4747,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 7",
         "quiz_id": "q378",
         "past_count": 2,
-        "exam_years": "10, 03",
-        "recent_year": "10",
+        "exam_years": "2010, 2003",
+        "recent_year": "2010",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -4779,8 +4779,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 8",
         "quiz_id": "q381",
         "past_count": 1,
-        "exam_years": "03",
-        "recent_year": "03",
+        "exam_years": "2003",
+        "recent_year": "2003",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -4795,8 +4795,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 8",
         "quiz_id": "q382",
         "past_count": 1,
-        "exam_years": "23",
-        "recent_year": "23",
+        "exam_years": "2023",
+        "recent_year": "2023",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -4811,8 +4811,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 8",
         "quiz_id": "q383",
         "past_count": 2,
-        "exam_years": "10, 03",
-        "recent_year": "10",
+        "exam_years": "2010, 2003",
+        "recent_year": "2010",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -4826,10 +4826,10 @@ const QUIZ_DB = [
         "answer_ko": "앞목갈비근",
         "source": "Anterior Neck - 8",
         "quiz_id": "q384",
-        "past_count": 10,
-        "exam_years": "23, 21, 19, 15, 12, 11, 10, 09, 05, 03",
-        "recent_year": "23",
-        "exam_weight": 3.3166247903554
+        "past_count": 9,
+        "exam_years": "2023, 2021, 2019, 2015, 2012, 2011, 2010, 2009, 2005",
+        "recent_year": "2023",
+        "exam_weight": 3.1622776601683795
     },
     {
         "image_filename": "0385.jpg",
@@ -4843,8 +4843,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 8",
         "quiz_id": "q385",
         "past_count": 3,
-        "exam_years": "23, 21, 20",
-        "recent_year": "23",
+        "exam_years": "2023, 2021, 2020",
+        "recent_year": "2023",
         "exam_weight": 2.0
     },
     {
@@ -4859,8 +4859,8 @@ const QUIZ_DB = [
         "source": "Anterior Neck - 8",
         "quiz_id": "q387",
         "past_count": 1,
-        "exam_years": "17",
-        "recent_year": "17",
+        "exam_years": "2017",
+        "recent_year": "2017",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -4907,8 +4907,8 @@ const QUIZ_DB = [
         "source": "Posterior Neck - 1",
         "quiz_id": "q394",
         "past_count": 7,
-        "exam_years": "25, 22, 13, 09, 08, 06, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2013, 2009, 2008, 2006, 2005",
+        "recent_year": "2025",
         "exam_weight": 2.8284271247461903
     },
     {
@@ -5003,8 +5003,8 @@ const QUIZ_DB = [
         "source": "Suboccipital Triangle - 1",
         "quiz_id": "q419",
         "past_count": 11,
-        "exam_years": "23, 20, 19, 16, 15, 13, 12, 11, 09, 05, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2020, 2019, 2016, 2015, 2013, 2012, 2011, 2009, 2005, 2002",
+        "recent_year": "2023",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -5019,8 +5019,8 @@ const QUIZ_DB = [
         "source": "Suboccipital Triangle - 2",
         "quiz_id": "q420",
         "past_count": 11,
-        "exam_years": "23, 20, 19, 16, 15, 13, 12, 11, 09, 05, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2020, 2019, 2016, 2015, 2013, 2012, 2011, 2009, 2005, 2002",
+        "recent_year": "2023",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -5035,8 +5035,8 @@ const QUIZ_DB = [
         "source": "Suboccipital Triangle - 2",
         "quiz_id": "q422",
         "past_count": 1,
-        "exam_years": "25",
-        "recent_year": "25",
+        "exam_years": "2025",
+        "recent_year": "2025",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -5083,8 +5083,8 @@ const QUIZ_DB = [
         "source": "Suboccipital Triangle - 4",
         "quiz_id": "q441",
         "past_count": 12,
-        "exam_years": "23, 22, 21, 17, 15, 14, 13, 12, 09, 08, 07, 05",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2017, 2015, 2014, 2013, 2012, 2009, 2008, 2007, 2005",
+        "recent_year": "2023",
         "exam_weight": 3.605551275463989
     },
     {
@@ -5099,8 +5099,8 @@ const QUIZ_DB = [
         "source": "Suboccipital Triangle - 4",
         "quiz_id": "q445",
         "past_count": 2,
-        "exam_years": "18, 02",
-        "recent_year": "18",
+        "exam_years": "2018, 2002",
+        "recent_year": "2018",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -5115,8 +5115,8 @@ const QUIZ_DB = [
         "source": "Suboccipital Triangle - 4",
         "quiz_id": "q446",
         "past_count": 1,
-        "exam_years": "25",
-        "recent_year": "25",
+        "exam_years": "2025",
+        "recent_year": "2025",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -5147,8 +5147,8 @@ const QUIZ_DB = [
         "source": "Suboccipital Triangle - 4",
         "quiz_id": "q448",
         "past_count": 12,
-        "exam_years": "23, 22, 21, 17, 15, 14, 13, 12, 09, 08, 07, 05",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2017, 2015, 2014, 2013, 2012, 2009, 2008, 2007, 2005",
+        "recent_year": "2023",
         "exam_weight": 3.605551275463989
     },
     {
@@ -5163,8 +5163,8 @@ const QUIZ_DB = [
         "source": "Suboccipital Triangle - 4",
         "quiz_id": "q450",
         "past_count": 2,
-        "exam_years": "18, 02",
-        "recent_year": "18",
+        "exam_years": "2018, 2002",
+        "recent_year": "2018",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -5179,8 +5179,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 1",
         "quiz_id": "q452",
         "past_count": 1,
-        "exam_years": "08",
-        "recent_year": "08",
+        "exam_years": "2008",
+        "recent_year": "2008",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -5195,8 +5195,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 1",
         "quiz_id": "q453",
         "past_count": 8,
-        "exam_years": "21, 17, 14, 08, 07, 06, 05, 03",
-        "recent_year": "21",
+        "exam_years": "2021, 2017, 2014, 2008, 2007, 2006, 2005, 2003",
+        "recent_year": "2021",
         "exam_weight": 3.0
     },
     {
@@ -5211,8 +5211,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 1",
         "quiz_id": "q455",
         "past_count": 3,
-        "exam_years": "16, 14, 03",
-        "recent_year": "16",
+        "exam_years": "2016, 2014, 2003",
+        "recent_year": "2016",
         "exam_weight": 2.0
     },
     {
@@ -5227,8 +5227,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 1",
         "quiz_id": "q456",
         "past_count": 5,
-        "exam_years": "19, 14, 13, 11, 10",
-        "recent_year": "19",
+        "exam_years": "2019, 2014, 2013, 2011, 2010",
+        "recent_year": "2019",
         "exam_weight": 2.449489742783178
     },
     {
@@ -5258,10 +5258,10 @@ const QUIZ_DB = [
         "answer_ko": "가쪽날개근",
         "source": "Infratemporal Fossa - 2",
         "quiz_id": "q458",
-        "past_count": 8,
-        "exam_years": "22, 20, 17, 15, 12, 09, 08, 25",
-        "recent_year": "25",
-        "exam_weight": 3.0
+        "past_count": 7,
+        "exam_years": "2022, 2020, 2017, 2015, 2012, 2009, 2008",
+        "recent_year": "2022",
+        "exam_weight": 2.8284271247461903
     },
     {
         "image_filename": "0459.jpg",
@@ -5274,10 +5274,10 @@ const QUIZ_DB = [
         "answer_ko": "가쪽날개근",
         "source": "Infratemporal Fossa - 2",
         "quiz_id": "q459",
-        "past_count": 8,
-        "exam_years": "22, 20, 17, 15, 12, 09, 08, 25",
-        "recent_year": "25",
-        "exam_weight": 3.0
+        "past_count": 7,
+        "exam_years": "2022, 2020, 2017, 2015, 2012, 2009, 2008",
+        "recent_year": "2022",
+        "exam_weight": 2.8284271247461903
     },
     {
         "image_filename": "0460.jpg",
@@ -5339,8 +5339,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 3",
         "quiz_id": "q464",
         "past_count": 8,
-        "exam_years": "25, 23, 21, 15, 10, 09, 07, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2021, 2015, 2010, 2009, 2007, 2005",
+        "recent_year": "2025",
         "exam_weight": 3.0
     },
     {
@@ -5355,8 +5355,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 3",
         "quiz_id": "q465",
         "past_count": 17,
-        "exam_years": "23, 22, 21, 20, 18, 17, 16, 15, 14, 13, 12, 11, 09, 08, 07, 03, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2020, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2008, 2007, 2003, 2002",
+        "recent_year": "2023",
         "exam_weight": 4.242640687119285
     },
     {
@@ -5387,8 +5387,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 3",
         "quiz_id": "q467",
         "past_count": 2,
-        "exam_years": "16, 12",
-        "recent_year": "16",
+        "exam_years": "2016, 2012",
+        "recent_year": "2016",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -5402,10 +5402,10 @@ const QUIZ_DB = [
         "answer_ko": "중간뇌막동맥",
         "source": "Infratemporal Fossa - 3",
         "quiz_id": "q468",
-        "past_count": 3,
-        "exam_years": "21, 16, 14",
-        "recent_year": "21",
-        "exam_weight": 2.0
+        "past_count": 2,
+        "exam_years": "2021, 2016",
+        "recent_year": "2021",
+        "exam_weight": 1.7320508075688772
     },
     {
         "image_filename": "0471.jpg",
@@ -5419,8 +5419,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 4",
         "quiz_id": "q471",
         "past_count": 8,
-        "exam_years": "25, 23, 21, 15, 10, 09, 07, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2021, 2015, 2010, 2009, 2007, 2005",
+        "recent_year": "2025",
         "exam_weight": 3.0
     },
     {
@@ -5435,8 +5435,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 4",
         "quiz_id": "q472",
         "past_count": 17,
-        "exam_years": "23, 22, 21, 20, 18, 17, 16, 15, 14, 13, 12, 11, 09, 08, 07, 03, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2020, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2008, 2007, 2003, 2002",
+        "recent_year": "2023",
         "exam_weight": 4.242640687119285
     },
     {
@@ -5467,8 +5467,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 4",
         "quiz_id": "q475",
         "past_count": 12,
-        "exam_years": "17, 15, 14, 13, 12, 11, 10, 09, 08, 06, 03, 02",
-        "recent_year": "17",
+        "exam_years": "2017, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2006, 2003, 2002",
+        "recent_year": "2017",
         "exam_weight": 3.605551275463989
     },
     {
@@ -5483,8 +5483,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 4",
         "quiz_id": "q476",
         "past_count": 6,
-        "exam_years": "23, 21, 19, 16, 14, 10",
-        "recent_year": "23",
+        "exam_years": "2023, 2021, 2019, 2016, 2014, 2010",
+        "recent_year": "2023",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -5499,8 +5499,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 5",
         "quiz_id": "q478",
         "past_count": 5,
-        "exam_years": "19, 14, 13, 11, 10",
-        "recent_year": "19",
+        "exam_years": "2019, 2014, 2013, 2011, 2010",
+        "recent_year": "2019",
         "exam_weight": 2.449489742783178
     },
     {
@@ -5531,8 +5531,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 5",
         "quiz_id": "q480",
         "past_count": 12,
-        "exam_years": "17, 15, 14, 13, 12, 11, 10, 09, 08, 06, 03, 02",
-        "recent_year": "17",
+        "exam_years": "2017, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2006, 2003, 2002",
+        "recent_year": "2017",
         "exam_weight": 3.605551275463989
     },
     {
@@ -5547,8 +5547,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 5",
         "quiz_id": "q481",
         "past_count": 2,
-        "exam_years": "25, 23",
-        "recent_year": "25",
+        "exam_years": "2025, 2023",
+        "recent_year": "2025",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -5578,10 +5578,10 @@ const QUIZ_DB = [
         "answer_ko": "가쪽날개근",
         "source": "Infratemporal Fossa - 5",
         "quiz_id": "q483",
-        "past_count": 8,
-        "exam_years": "22, 20, 17, 15, 12, 09, 08, 25",
-        "recent_year": "25",
-        "exam_weight": 3.0
+        "past_count": 7,
+        "exam_years": "2022, 2020, 2017, 2015, 2012, 2009, 2008",
+        "recent_year": "2022",
+        "exam_weight": 2.8284271247461903
     },
     {
         "image_filename": "0484.jpg",
@@ -5595,8 +5595,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 5",
         "quiz_id": "q484",
         "past_count": 3,
-        "exam_years": "16, 14, 03",
-        "recent_year": "16",
+        "exam_years": "2016, 2014, 2003",
+        "recent_year": "2016",
         "exam_weight": 2.0
     },
     {
@@ -5611,8 +5611,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 6",
         "quiz_id": "q485",
         "past_count": 5,
-        "exam_years": "19, 14, 13, 11, 10",
-        "recent_year": "19",
+        "exam_years": "2019, 2014, 2013, 2011, 2010",
+        "recent_year": "2019",
         "exam_weight": 2.449489742783178
     },
     {
@@ -5627,8 +5627,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 6",
         "quiz_id": "q486",
         "past_count": 2,
-        "exam_years": "25, 23",
-        "recent_year": "25",
+        "exam_years": "2025, 2023",
+        "recent_year": "2025",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -5643,8 +5643,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 6",
         "quiz_id": "q487",
         "past_count": 12,
-        "exam_years": "17, 15, 14, 13, 12, 11, 10, 09, 08, 06, 03, 02",
-        "recent_year": "17",
+        "exam_years": "2017, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2006, 2003, 2002",
+        "recent_year": "2017",
         "exam_weight": 3.605551275463989
     },
     {
@@ -5675,8 +5675,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 6",
         "quiz_id": "q491",
         "past_count": 3,
-        "exam_years": "16, 14, 03",
-        "recent_year": "16",
+        "exam_years": "2016, 2014, 2003",
+        "recent_year": "2016",
         "exam_weight": 2.0
     },
     {
@@ -5691,8 +5691,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 7",
         "quiz_id": "q492",
         "past_count": 7,
-        "exam_years": "22, 20, 19, 18, 16, 13, 11",
-        "recent_year": "22",
+        "exam_years": "2022, 2020, 2019, 2018, 2016, 2013, 2011",
+        "recent_year": "2022",
         "exam_weight": 2.8284271247461903
     },
     {
@@ -5707,8 +5707,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 7",
         "quiz_id": "q493",
         "past_count": 8,
-        "exam_years": "25, 23, 21, 15, 10, 09, 07, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2021, 2015, 2010, 2009, 2007, 2005",
+        "recent_year": "2025",
         "exam_weight": 3.0
     },
     {
@@ -5723,8 +5723,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 7",
         "quiz_id": "q494",
         "past_count": 17,
-        "exam_years": "23, 22, 21, 20, 18, 17, 16, 15, 14, 13, 12, 11, 09, 08, 07, 03, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2020, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2008, 2007, 2003, 2002",
+        "recent_year": "2023",
         "exam_weight": 4.242640687119285
     },
     {
@@ -5755,8 +5755,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 7",
         "quiz_id": "q496",
         "past_count": 12,
-        "exam_years": "17, 15, 14, 13, 12, 11, 10, 09, 08, 06, 03, 02",
-        "recent_year": "17",
+        "exam_years": "2017, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2006, 2003, 2002",
+        "recent_year": "2017",
         "exam_weight": 3.605551275463989
     },
     {
@@ -5771,8 +5771,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 7",
         "quiz_id": "q497",
         "past_count": 2,
-        "exam_years": "25, 23",
-        "recent_year": "25",
+        "exam_years": "2025, 2023",
+        "recent_year": "2025",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -5819,8 +5819,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 8",
         "quiz_id": "q502",
         "past_count": 2,
-        "exam_years": "25, 23",
-        "recent_year": "25",
+        "exam_years": "2025, 2023",
+        "recent_year": "2025",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -5835,8 +5835,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 8",
         "quiz_id": "q503",
         "past_count": 12,
-        "exam_years": "17, 15, 14, 13, 12, 11, 10, 09, 08, 06, 03, 02",
-        "recent_year": "17",
+        "exam_years": "2017, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2006, 2003, 2002",
+        "recent_year": "2017",
         "exam_weight": 3.605551275463989
     },
     {
@@ -5867,8 +5867,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 9",
         "quiz_id": "q505",
         "past_count": 3,
-        "exam_years": "16, 14, 03",
-        "recent_year": "16",
+        "exam_years": "2016, 2014, 2003",
+        "recent_year": "2016",
         "exam_weight": 2.0
     },
     {
@@ -5898,10 +5898,10 @@ const QUIZ_DB = [
         "answer_ko": "가쪽날개근",
         "source": "Infratemporal Fossa - 9",
         "quiz_id": "q507",
-        "past_count": 8,
-        "exam_years": "22, 20, 17, 15, 12, 09, 08, 25",
-        "recent_year": "25",
-        "exam_weight": 3.0
+        "past_count": 7,
+        "exam_years": "2022, 2020, 2017, 2015, 2012, 2009, 2008",
+        "recent_year": "2022",
+        "exam_weight": 2.8284271247461903
     },
     {
         "image_filename": "0508.jpg",
@@ -5914,10 +5914,10 @@ const QUIZ_DB = [
         "answer_ko": "가쪽날개근",
         "source": "Infratemporal Fossa - 9",
         "quiz_id": "q508",
-        "past_count": 8,
-        "exam_years": "22, 20, 17, 15, 12, 09, 08, 25",
-        "recent_year": "25",
-        "exam_weight": 3.0
+        "past_count": 7,
+        "exam_years": "2022, 2020, 2017, 2015, 2012, 2009, 2008",
+        "recent_year": "2022",
+        "exam_weight": 2.8284271247461903
     },
     {
         "image_filename": "0509.jpg",
@@ -5931,8 +5931,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 9",
         "quiz_id": "q509",
         "past_count": 6,
-        "exam_years": "23, 21, 19, 16, 14, 10",
-        "recent_year": "23",
+        "exam_years": "2023, 2021, 2019, 2016, 2014, 2010",
+        "recent_year": "2023",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -5947,8 +5947,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 9",
         "quiz_id": "q510",
         "past_count": 17,
-        "exam_years": "23, 22, 21, 20, 18, 17, 16, 15, 14, 13, 12, 11, 09, 08, 07, 03, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2020, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2008, 2007, 2003, 2002",
+        "recent_year": "2023",
         "exam_weight": 4.242640687119285
     },
     {
@@ -5963,8 +5963,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 9",
         "quiz_id": "q511",
         "past_count": 8,
-        "exam_years": "25, 23, 21, 15, 10, 09, 07, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2021, 2015, 2010, 2009, 2007, 2005",
+        "recent_year": "2025",
         "exam_weight": 3.0
     },
     {
@@ -5995,8 +5995,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 10",
         "quiz_id": "q513",
         "past_count": 17,
-        "exam_years": "23, 22, 21, 20, 18, 17, 16, 15, 14, 13, 12, 11, 09, 08, 07, 03, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2020, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2008, 2007, 2003, 2002",
+        "recent_year": "2023",
         "exam_weight": 4.242640687119285
     },
     {
@@ -6011,8 +6011,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 10",
         "quiz_id": "q514",
         "past_count": 8,
-        "exam_years": "25, 23, 21, 15, 10, 09, 07, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2021, 2015, 2010, 2009, 2007, 2005",
+        "recent_year": "2025",
         "exam_weight": 3.0
     },
     {
@@ -6043,8 +6043,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 10",
         "quiz_id": "q516",
         "past_count": 7,
-        "exam_years": "22, 20, 19, 18, 16, 13, 11",
-        "recent_year": "22",
+        "exam_years": "2022, 2020, 2019, 2018, 2016, 2013, 2011",
+        "recent_year": "2022",
         "exam_weight": 2.8284271247461903
     },
     {
@@ -6074,10 +6074,10 @@ const QUIZ_DB = [
         "answer_ko": "중간뇌막동맥",
         "source": "Infratemporal Fossa - 11",
         "quiz_id": "q519",
-        "past_count": 3,
-        "exam_years": "21, 16, 14",
-        "recent_year": "21",
-        "exam_weight": 2.0
+        "past_count": 2,
+        "exam_years": "2021, 2016",
+        "recent_year": "2021",
+        "exam_weight": 1.7320508075688772
     },
     {
         "image_filename": "0521.jpg",
@@ -6091,8 +6091,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 11",
         "quiz_id": "q521",
         "past_count": 12,
-        "exam_years": "17, 15, 14, 13, 12, 11, 10, 09, 08, 06, 03, 02",
-        "recent_year": "17",
+        "exam_years": "2017, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2006, 2003, 2002",
+        "recent_year": "2017",
         "exam_weight": 3.605551275463989
     },
     {
@@ -6123,8 +6123,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 11",
         "quiz_id": "q523",
         "past_count": 17,
-        "exam_years": "23, 22, 21, 20, 18, 17, 16, 15, 14, 13, 12, 11, 09, 08, 07, 03, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2020, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2008, 2007, 2003, 2002",
+        "recent_year": "2023",
         "exam_weight": 4.242640687119285
     },
     {
@@ -6139,8 +6139,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 11",
         "quiz_id": "q524",
         "past_count": 6,
-        "exam_years": "23, 21, 19, 16, 14, 10",
-        "recent_year": "23",
+        "exam_years": "2023, 2021, 2019, 2016, 2014, 2010",
+        "recent_year": "2023",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -6155,8 +6155,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 11",
         "quiz_id": "q525",
         "past_count": 8,
-        "exam_years": "25, 23, 21, 15, 10, 09, 07, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2021, 2015, 2010, 2009, 2007, 2005",
+        "recent_year": "2025",
         "exam_weight": 3.0
     },
     {
@@ -6171,8 +6171,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 1",
         "quiz_id": "q527",
         "past_count": 4,
-        "exam_years": "21, 17, 16, 15",
-        "recent_year": "21",
+        "exam_years": "2021, 2017, 2016, 2015",
+        "recent_year": "2021",
         "exam_weight": 2.23606797749979
     },
     {
@@ -6187,8 +6187,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 1",
         "quiz_id": "q535",
         "past_count": 3,
-        "exam_years": "17, 15, 06",
-        "recent_year": "17",
+        "exam_years": "2017, 2015, 2006",
+        "recent_year": "2017",
         "exam_weight": 2.0
     },
     {
@@ -6202,10 +6202,10 @@ const QUIZ_DB = [
         "answer_ko": "구불정맥굴",
         "source": "Cranial Cavity - 2",
         "quiz_id": "q536",
-        "past_count": 3,
-        "exam_years": "25, 11, 07",
-        "recent_year": "25",
-        "exam_weight": 2.0
+        "past_count": 2,
+        "exam_years": "2025, 2011",
+        "recent_year": "2025",
+        "exam_weight": 1.7320508075688772
     },
     {
         "image_filename": "0537.jpg",
@@ -6219,8 +6219,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 2",
         "quiz_id": "q537",
         "past_count": 8,
-        "exam_years": "25, 14, 13, 12, 10, 09, 07, 06",
-        "recent_year": "25",
+        "exam_years": "2025, 2014, 2013, 2012, 2010, 2009, 2007, 2006",
+        "recent_year": "2025",
         "exam_weight": 3.0
     },
     {
@@ -6235,8 +6235,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 2",
         "quiz_id": "q538",
         "past_count": 2,
-        "exam_years": "23, 22",
-        "recent_year": "23",
+        "exam_years": "2023, 2022",
+        "recent_year": "2023",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -6251,8 +6251,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 2",
         "quiz_id": "q539",
         "past_count": 11,
-        "exam_years": "23, 20, 19, 16, 15, 13, 12, 11, 09, 05, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2020, 2019, 2016, 2015, 2013, 2012, 2011, 2009, 2005, 2002",
+        "recent_year": "2023",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -6267,8 +6267,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 3",
         "quiz_id": "q540",
         "past_count": 6,
-        "exam_years": "23, 18, 15, 13, 10, 08",
-        "recent_year": "23",
+        "exam_years": "2023, 2018, 2015, 2013, 2010, 2008",
+        "recent_year": "2023",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -6283,8 +6283,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 3",
         "quiz_id": "q541",
         "past_count": 1,
-        "exam_years": "03",
-        "recent_year": "03",
+        "exam_years": "2003",
+        "recent_year": "2003",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -6299,8 +6299,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 3",
         "quiz_id": "q545",
         "past_count": 17,
-        "exam_years": "25, 23, 22, 21, 20, 19, 18, 15, 14, 13, 11, 10, 09, 07, 06, 03, 02",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2022, 2021, 2020, 2019, 2018, 2015, 2014, 2013, 2011, 2010, 2009, 2007, 2006, 2003, 2002",
+        "recent_year": "2025",
         "exam_weight": 4.242640687119285
     },
     {
@@ -6315,8 +6315,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 3",
         "quiz_id": "q546",
         "past_count": 5,
-        "exam_years": "25, 21, 19, 16, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2019, 2016, 2003",
+        "recent_year": "2025",
         "exam_weight": 2.449489742783178
     },
     {
@@ -6330,10 +6330,10 @@ const QUIZ_DB = [
         "answer_ko": "구불정맥굴",
         "source": "Cranial Cavity - 3",
         "quiz_id": "q547",
-        "past_count": 3,
-        "exam_years": "25, 11, 07",
-        "recent_year": "25",
-        "exam_weight": 2.0
+        "past_count": 2,
+        "exam_years": "2025, 2011",
+        "recent_year": "2025",
+        "exam_weight": 1.7320508075688772
     },
     {
         "image_filename": "0548.jpg",
@@ -6347,8 +6347,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 3",
         "quiz_id": "q548",
         "past_count": 3,
-        "exam_years": "20, 15, 07",
-        "recent_year": "20",
+        "exam_years": "2020, 2015, 2007",
+        "recent_year": "2020",
         "exam_weight": 2.0
     },
     {
@@ -6363,8 +6363,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 3",
         "quiz_id": "q549",
         "past_count": 1,
-        "exam_years": "25",
-        "recent_year": "25",
+        "exam_years": "2025",
+        "recent_year": "2025",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -6379,8 +6379,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 3",
         "quiz_id": "q550",
         "past_count": 11,
-        "exam_years": "23, 20, 19, 16, 15, 13, 12, 11, 09, 05, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2020, 2019, 2016, 2015, 2013, 2012, 2011, 2009, 2005, 2002",
+        "recent_year": "2023",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -6395,8 +6395,8 @@ const QUIZ_DB = [
         "source": "Brain - 1",
         "quiz_id": "q551",
         "past_count": 6,
-        "exam_years": "23, 18, 15, 13, 10, 08",
-        "recent_year": "23",
+        "exam_years": "2023, 2018, 2015, 2013, 2010, 2008",
+        "recent_year": "2023",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -6411,8 +6411,8 @@ const QUIZ_DB = [
         "source": "Brain - 1",
         "quiz_id": "q554",
         "past_count": 5,
-        "exam_years": "25, 21, 19, 16, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2019, 2016, 2003",
+        "recent_year": "2025",
         "exam_weight": 2.449489742783178
     },
     {
@@ -6427,8 +6427,8 @@ const QUIZ_DB = [
         "source": "Brain - 1",
         "quiz_id": "q557",
         "past_count": 2,
-        "exam_years": "12, 10",
-        "recent_year": "12",
+        "exam_years": "2012, 2010",
+        "recent_year": "2012",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -6443,8 +6443,8 @@ const QUIZ_DB = [
         "source": "Brain - 1",
         "quiz_id": "q559",
         "past_count": 3,
-        "exam_years": "23, 21, 18",
-        "recent_year": "23",
+        "exam_years": "2023, 2021, 2018",
+        "recent_year": "2023",
         "exam_weight": 2.0
     },
     {
@@ -6459,8 +6459,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 4",
         "quiz_id": "q560",
         "past_count": 2,
-        "exam_years": "16, 12",
-        "recent_year": "16",
+        "exam_years": "2016, 2012",
+        "recent_year": "2016",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -6474,10 +6474,10 @@ const QUIZ_DB = [
         "answer_ko": "중간뇌막동맥",
         "source": "Cranial Cavity - 4",
         "quiz_id": "q562",
-        "past_count": 3,
-        "exam_years": "21, 16, 14",
-        "recent_year": "21",
-        "exam_weight": 2.0
+        "past_count": 2,
+        "exam_years": "2021, 2016",
+        "recent_year": "2021",
+        "exam_weight": 1.7320508075688772
     },
     {
         "image_filename": "0563.jpg",
@@ -6491,8 +6491,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 4",
         "quiz_id": "q563",
         "past_count": 5,
-        "exam_years": "25, 21, 19, 16, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2019, 2016, 2003",
+        "recent_year": "2025",
         "exam_weight": 2.449489742783178
     },
     {
@@ -6507,8 +6507,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 4",
         "quiz_id": "q564",
         "past_count": 1,
-        "exam_years": "11",
-        "recent_year": "11",
+        "exam_years": "2011",
+        "recent_year": "2011",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -6523,8 +6523,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 4",
         "quiz_id": "q565",
         "past_count": 3,
-        "exam_years": "20, 15, 07",
-        "recent_year": "20",
+        "exam_years": "2020, 2015, 2007",
+        "recent_year": "2020",
         "exam_weight": 2.0
     },
     {
@@ -6539,8 +6539,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 4",
         "quiz_id": "q566",
         "past_count": 1,
-        "exam_years": "25",
-        "recent_year": "25",
+        "exam_years": "2025",
+        "recent_year": "2025",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -6555,8 +6555,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 5",
         "quiz_id": "q567",
         "past_count": 6,
-        "exam_years": "17, 15, 11, 10, 09, 05",
-        "recent_year": "17",
+        "exam_years": "2017, 2015, 2011, 2010, 2009, 2005",
+        "recent_year": "2017",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -6571,8 +6571,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 5",
         "quiz_id": "q571",
         "past_count": 3,
-        "exam_years": "20, 15, 07",
-        "recent_year": "20",
+        "exam_years": "2020, 2015, 2007",
+        "recent_year": "2020",
         "exam_weight": 2.0
     },
     {
@@ -6587,8 +6587,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 5",
         "quiz_id": "q572",
         "past_count": 8,
-        "exam_years": "25, 14, 13, 12, 10, 09, 07, 06",
-        "recent_year": "25",
+        "exam_years": "2025, 2014, 2013, 2012, 2010, 2009, 2007, 2006",
+        "recent_year": "2025",
         "exam_weight": 3.0
     },
     {
@@ -6603,8 +6603,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 5",
         "quiz_id": "q573",
         "past_count": 6,
-        "exam_years": "23, 18, 15, 13, 10, 08",
-        "recent_year": "23",
+        "exam_years": "2023, 2018, 2015, 2013, 2010, 2008",
+        "recent_year": "2023",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -6619,8 +6619,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 5",
         "quiz_id": "q575",
         "past_count": 1,
-        "exam_years": "03",
-        "recent_year": "03",
+        "exam_years": "2003",
+        "recent_year": "2003",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -6635,8 +6635,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 5",
         "quiz_id": "q576",
         "past_count": 17,
-        "exam_years": "25, 23, 22, 21, 20, 19, 18, 15, 14, 13, 11, 10, 09, 07, 06, 03, 02",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2022, 2021, 2020, 2019, 2018, 2015, 2014, 2013, 2011, 2010, 2009, 2007, 2006, 2003, 2002",
+        "recent_year": "2025",
         "exam_weight": 4.242640687119285
     },
     {
@@ -6651,8 +6651,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 5",
         "quiz_id": "q577",
         "past_count": 11,
-        "exam_years": "23, 20, 19, 16, 15, 13, 12, 11, 09, 05, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2020, 2019, 2016, 2015, 2013, 2012, 2011, 2009, 2005, 2002",
+        "recent_year": "2023",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -6667,8 +6667,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 6",
         "quiz_id": "q579",
         "past_count": 2,
-        "exam_years": "16, 12",
-        "recent_year": "16",
+        "exam_years": "2016, 2012",
+        "recent_year": "2016",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -6683,8 +6683,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 6",
         "quiz_id": "q580",
         "past_count": 6,
-        "exam_years": "17, 15, 11, 10, 09, 05",
-        "recent_year": "17",
+        "exam_years": "2017, 2015, 2011, 2010, 2009, 2005",
+        "recent_year": "2017",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -6699,8 +6699,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 6",
         "quiz_id": "q581",
         "past_count": 5,
-        "exam_years": "25, 21, 19, 16, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2019, 2016, 2003",
+        "recent_year": "2025",
         "exam_weight": 2.449489742783178
     },
     {
@@ -6715,8 +6715,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 6",
         "quiz_id": "q582",
         "past_count": 8,
-        "exam_years": "25, 14, 13, 12, 10, 09, 07, 06",
-        "recent_year": "25",
+        "exam_years": "2025, 2014, 2013, 2012, 2010, 2009, 2007, 2006",
+        "recent_year": "2025",
         "exam_weight": 3.0
     },
     {
@@ -6731,8 +6731,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 7",
         "quiz_id": "q584",
         "past_count": 17,
-        "exam_years": "25, 23, 22, 21, 20, 19, 18, 15, 14, 13, 11, 10, 09, 07, 06, 03, 02",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2022, 2021, 2020, 2019, 2018, 2015, 2014, 2013, 2011, 2010, 2009, 2007, 2006, 2003, 2002",
+        "recent_year": "2025",
         "exam_weight": 4.242640687119285
     },
     {
@@ -6747,8 +6747,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 7",
         "quiz_id": "q585",
         "past_count": 11,
-        "exam_years": "23, 20, 19, 16, 15, 13, 12, 11, 09, 05, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2020, 2019, 2016, 2015, 2013, 2012, 2011, 2009, 2005, 2002",
+        "recent_year": "2023",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -6763,8 +6763,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 7",
         "quiz_id": "q587",
         "past_count": 1,
-        "exam_years": "03",
-        "recent_year": "03",
+        "exam_years": "2003",
+        "recent_year": "2003",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -6779,8 +6779,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 7",
         "quiz_id": "q588",
         "past_count": 6,
-        "exam_years": "23, 22, 20, 13, 10, 09",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2020, 2013, 2010, 2009",
+        "recent_year": "2023",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -6795,8 +6795,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 7",
         "quiz_id": "q589",
         "past_count": 13,
-        "exam_years": "21, 20, 18, 17, 16, 14, 12, 11, 10, 09, 08, 07, 03",
-        "recent_year": "21",
+        "exam_years": "2021, 2020, 2018, 2017, 2016, 2014, 2012, 2011, 2010, 2009, 2008, 2007, 2003",
+        "recent_year": "2021",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -6810,10 +6810,10 @@ const QUIZ_DB = [
         "answer_ko": "위바위정맥굴",
         "source": "Cranial Cavity - 7",
         "quiz_id": "q592",
-        "past_count": 1,
-        "exam_years": "12",
-        "recent_year": "12",
-        "exam_weight": 1.4142135623730951
+        "past_count": 0,
+        "exam_years": "",
+        "recent_year": "",
+        "exam_weight": 1.0
     },
     {
         "image_filename": "0593.jpg",
@@ -6827,8 +6827,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 7",
         "quiz_id": "q593",
         "past_count": 6,
-        "exam_years": "23, 18, 15, 13, 10, 08",
-        "recent_year": "23",
+        "exam_years": "2023, 2018, 2015, 2013, 2010, 2008",
+        "recent_year": "2023",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -6843,8 +6843,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 7",
         "quiz_id": "q594",
         "past_count": 3,
-        "exam_years": "20, 15, 07",
-        "recent_year": "20",
+        "exam_years": "2020, 2015, 2007",
+        "recent_year": "2020",
         "exam_weight": 2.0
     },
     {
@@ -6859,8 +6859,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 7",
         "quiz_id": "q595",
         "past_count": 5,
-        "exam_years": "25, 21, 19, 16, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2019, 2016, 2003",
+        "recent_year": "2025",
         "exam_weight": 2.449489742783178
     },
     {
@@ -6875,8 +6875,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 7",
         "quiz_id": "q596",
         "past_count": 6,
-        "exam_years": "17, 15, 11, 10, 09, 05",
-        "recent_year": "17",
+        "exam_years": "2017, 2015, 2011, 2010, 2009, 2005",
+        "recent_year": "2017",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -6891,8 +6891,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 7",
         "quiz_id": "q597",
         "past_count": 7,
-        "exam_years": "18, 15, 14, 10, 07, 06, 05",
-        "recent_year": "18",
+        "exam_years": "2018, 2015, 2014, 2010, 2007, 2006, 2005",
+        "recent_year": "2018",
         "exam_weight": 2.8284271247461903
     },
     {
@@ -6907,8 +6907,8 @@ const QUIZ_DB = [
         "source": "Cranial Cavity - 7",
         "quiz_id": "q598",
         "past_count": 4,
-        "exam_years": "21, 17, 16, 15",
-        "recent_year": "21",
+        "exam_years": "2021, 2017, 2016, 2015",
+        "recent_year": "2021",
         "exam_weight": 2.23606797749979
     },
     {
@@ -6923,8 +6923,8 @@ const QUIZ_DB = [
         "source": "Brain - 3",
         "quiz_id": "q619",
         "past_count": 3,
-        "exam_years": "20, 15, 07",
-        "recent_year": "20",
+        "exam_years": "2020, 2015, 2007",
+        "recent_year": "2020",
         "exam_weight": 2.0
     },
     {
@@ -6939,8 +6939,8 @@ const QUIZ_DB = [
         "source": "Brain - 3",
         "quiz_id": "q622",
         "past_count": 17,
-        "exam_years": "25, 23, 22, 21, 20, 19, 18, 15, 14, 13, 11, 10, 09, 07, 06, 03, 02",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2022, 2021, 2020, 2019, 2018, 2015, 2014, 2013, 2011, 2010, 2009, 2007, 2006, 2003, 2002",
+        "recent_year": "2025",
         "exam_weight": 4.242640687119285
     },
     {
@@ -6955,8 +6955,8 @@ const QUIZ_DB = [
         "source": "Brain - 3",
         "quiz_id": "q623",
         "past_count": 5,
-        "exam_years": "25, 21, 19, 16, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2019, 2016, 2003",
+        "recent_year": "2025",
         "exam_weight": 2.449489742783178
     },
     {
@@ -6971,8 +6971,8 @@ const QUIZ_DB = [
         "source": "Brain - 3",
         "quiz_id": "q627",
         "past_count": 7,
-        "exam_years": "18, 15, 14, 10, 07, 06, 05",
-        "recent_year": "18",
+        "exam_years": "2018, 2015, 2014, 2010, 2007, 2006, 2005",
+        "recent_year": "2018",
         "exam_weight": 2.8284271247461903
     },
     {
@@ -6987,8 +6987,8 @@ const QUIZ_DB = [
         "source": "Brain - 4",
         "quiz_id": "q630",
         "past_count": 1,
-        "exam_years": "08",
-        "recent_year": "08",
+        "exam_years": "2008",
+        "recent_year": "2008",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -7003,8 +7003,8 @@ const QUIZ_DB = [
         "source": "Brain - 4",
         "quiz_id": "q631",
         "past_count": 1,
-        "exam_years": "14",
-        "recent_year": "14",
+        "exam_years": "2014",
+        "recent_year": "2014",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -7019,8 +7019,8 @@ const QUIZ_DB = [
         "source": "Brain - 4",
         "quiz_id": "q632",
         "past_count": 9,
-        "exam_years": "20, 19, 17, 15, 11, 09, 07, 06, 03",
-        "recent_year": "20",
+        "exam_years": "2020, 2019, 2017, 2015, 2011, 2009, 2007, 2006, 2003",
+        "recent_year": "2020",
         "exam_weight": 3.1622776601683795
     },
     {
@@ -7035,8 +7035,8 @@ const QUIZ_DB = [
         "source": "Brain - 4",
         "quiz_id": "q633",
         "past_count": 6,
-        "exam_years": "17, 15, 11, 10, 09, 05",
-        "recent_year": "17",
+        "exam_years": "2017, 2015, 2011, 2010, 2009, 2005",
+        "recent_year": "2017",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -7051,8 +7051,8 @@ const QUIZ_DB = [
         "source": "Brain - 4",
         "quiz_id": "q634",
         "past_count": 6,
-        "exam_years": "17, 15, 11, 10, 09, 05",
-        "recent_year": "17",
+        "exam_years": "2017, 2015, 2011, 2010, 2009, 2005",
+        "recent_year": "2017",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -7067,8 +7067,8 @@ const QUIZ_DB = [
         "source": "Brain - 4",
         "quiz_id": "q635",
         "past_count": 2,
-        "exam_years": "16, 11",
-        "recent_year": "16",
+        "exam_years": "2016, 2011",
+        "recent_year": "2016",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -7083,8 +7083,8 @@ const QUIZ_DB = [
         "source": "Brain - 4",
         "quiz_id": "q638",
         "past_count": 2,
-        "exam_years": "12, 10",
-        "recent_year": "12",
+        "exam_years": "2012, 2010",
+        "recent_year": "2012",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -7099,8 +7099,8 @@ const QUIZ_DB = [
         "source": "Brain - 4",
         "quiz_id": "q639",
         "past_count": 2,
-        "exam_years": "12, 10",
-        "recent_year": "12",
+        "exam_years": "2012, 2010",
+        "recent_year": "2012",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -7147,8 +7147,8 @@ const QUIZ_DB = [
         "source": "Brain - 4",
         "quiz_id": "q642",
         "past_count": 3,
-        "exam_years": "23, 21, 18",
-        "recent_year": "23",
+        "exam_years": "2023, 2021, 2018",
+        "recent_year": "2023",
         "exam_weight": 2.0
     },
     {
@@ -7163,8 +7163,8 @@ const QUIZ_DB = [
         "source": "Brain - 4",
         "quiz_id": "q643",
         "past_count": 3,
-        "exam_years": "23, 21, 18",
-        "recent_year": "23",
+        "exam_years": "2023, 2021, 2018",
+        "recent_year": "2023",
         "exam_weight": 2.0
     },
     {
@@ -7179,8 +7179,8 @@ const QUIZ_DB = [
         "source": "Brain - 4",
         "quiz_id": "q644",
         "past_count": 11,
-        "exam_years": "23, 20, 19, 16, 15, 13, 12, 11, 09, 05, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2020, 2019, 2016, 2015, 2013, 2012, 2011, 2009, 2005, 2002",
+        "recent_year": "2023",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -7195,8 +7195,8 @@ const QUIZ_DB = [
         "source": "Brain - 4",
         "quiz_id": "q645",
         "past_count": 11,
-        "exam_years": "23, 20, 19, 16, 15, 13, 12, 11, 09, 05, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2020, 2019, 2016, 2015, 2013, 2012, 2011, 2009, 2005, 2002",
+        "recent_year": "2023",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -7211,8 +7211,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 1",
         "quiz_id": "q684",
         "past_count": 8,
-        "exam_years": "23, 18, 17, 16, 15, 11, 10, 05",
-        "recent_year": "23",
+        "exam_years": "2023, 2018, 2017, 2016, 2015, 2011, 2010, 2005",
+        "recent_year": "2023",
         "exam_weight": 3.0
     },
     {
@@ -7226,10 +7226,10 @@ const QUIZ_DB = [
         "answer_ko": "위눈꺼풀올림근",
         "source": "Superior Orbit - 1",
         "quiz_id": "q685",
-        "past_count": 4,
-        "exam_years": "20, 10, 19",
-        "recent_year": "20",
-        "exam_weight": 2.23606797749979
+        "past_count": 3,
+        "exam_years": "2020, 2019, 2010",
+        "recent_year": "2020",
+        "exam_weight": 2.0
     },
     {
         "image_filename": "0686.jpg",
@@ -7243,8 +7243,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 1",
         "quiz_id": "q686",
         "past_count": 7,
-        "exam_years": "18, 15, 14, 10, 07, 06, 05",
-        "recent_year": "18",
+        "exam_years": "2018, 2015, 2014, 2010, 2007, 2006, 2005",
+        "recent_year": "2018",
         "exam_weight": 2.8284271247461903
     },
     {
@@ -7259,8 +7259,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 1",
         "quiz_id": "q687",
         "past_count": 12,
-        "exam_years": "23, 22, 21, 17, 15, 14, 13, 12, 09, 08, 07, 05",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2017, 2015, 2014, 2013, 2012, 2009, 2008, 2007, 2005",
+        "recent_year": "2023",
         "exam_weight": 3.605551275463989
     },
     {
@@ -7275,8 +7275,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 1",
         "quiz_id": "q688",
         "past_count": 1,
-        "exam_years": "06",
-        "recent_year": "06",
+        "exam_years": "2006",
+        "recent_year": "2006",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -7291,8 +7291,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 1",
         "quiz_id": "q690",
         "past_count": 1,
-        "exam_years": "14",
-        "recent_year": "14",
+        "exam_years": "2014",
+        "recent_year": "2014",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -7307,8 +7307,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 1",
         "quiz_id": "q691",
         "past_count": 1,
-        "exam_years": "13",
-        "recent_year": "13",
+        "exam_years": "2013",
+        "recent_year": "2013",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -7323,8 +7323,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 1",
         "quiz_id": "q692",
         "past_count": 1,
-        "exam_years": "25",
-        "recent_year": "25",
+        "exam_years": "2025",
+        "recent_year": "2025",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -7339,8 +7339,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 2",
         "quiz_id": "q693",
         "past_count": 8,
-        "exam_years": "23, 18, 17, 16, 15, 11, 10, 05",
-        "recent_year": "23",
+        "exam_years": "2023, 2018, 2017, 2016, 2015, 2011, 2010, 2005",
+        "recent_year": "2023",
         "exam_weight": 3.0
     },
     {
@@ -7355,8 +7355,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 2",
         "quiz_id": "q694",
         "past_count": 2,
-        "exam_years": "11, 09",
-        "recent_year": "11",
+        "exam_years": "2011, 2009",
+        "recent_year": "2011",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -7371,8 +7371,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 2",
         "quiz_id": "q695",
         "past_count": 12,
-        "exam_years": "23, 22, 21, 17, 15, 14, 13, 12, 09, 08, 07, 05",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2017, 2015, 2014, 2013, 2012, 2009, 2008, 2007, 2005",
+        "recent_year": "2023",
         "exam_weight": 3.605551275463989
     },
     {
@@ -7387,8 +7387,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 2",
         "quiz_id": "q698",
         "past_count": 1,
-        "exam_years": "14",
-        "recent_year": "14",
+        "exam_years": "2014",
+        "recent_year": "2014",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -7403,8 +7403,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 2",
         "quiz_id": "q699",
         "past_count": 1,
-        "exam_years": "13",
-        "recent_year": "13",
+        "exam_years": "2013",
+        "recent_year": "2013",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -7419,8 +7419,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 3",
         "quiz_id": "q700",
         "past_count": 6,
-        "exam_years": "23, 18, 15, 13, 10, 08",
-        "recent_year": "23",
+        "exam_years": "2023, 2018, 2015, 2013, 2010, 2008",
+        "recent_year": "2023",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -7435,8 +7435,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 3",
         "quiz_id": "q701",
         "past_count": 8,
-        "exam_years": "23, 18, 17, 16, 15, 11, 10, 05",
-        "recent_year": "23",
+        "exam_years": "2023, 2018, 2017, 2016, 2015, 2011, 2010, 2005",
+        "recent_year": "2023",
         "exam_weight": 3.0
     },
     {
@@ -7483,8 +7483,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 3",
         "quiz_id": "q705",
         "past_count": 3,
-        "exam_years": "16, 08, 06",
-        "recent_year": "16",
+        "exam_years": "2016, 2008, 2006",
+        "recent_year": "2016",
         "exam_weight": 2.0
     },
     {
@@ -7499,8 +7499,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 3",
         "quiz_id": "q707",
         "past_count": 1,
-        "exam_years": "14",
-        "recent_year": "14",
+        "exam_years": "2014",
+        "recent_year": "2014",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -7515,8 +7515,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 3",
         "quiz_id": "q708",
         "past_count": 1,
-        "exam_years": "13",
-        "recent_year": "13",
+        "exam_years": "2013",
+        "recent_year": "2013",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -7595,8 +7595,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 4",
         "quiz_id": "q714",
         "past_count": 12,
-        "exam_years": "23, 22, 21, 17, 15, 14, 13, 12, 09, 08, 07, 05",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2017, 2015, 2014, 2013, 2012, 2009, 2008, 2007, 2005",
+        "recent_year": "2023",
         "exam_weight": 3.605551275463989
     },
     {
@@ -7611,8 +7611,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 5",
         "quiz_id": "q716",
         "past_count": 5,
-        "exam_years": "25, 21, 19, 16, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2019, 2016, 2003",
+        "recent_year": "2025",
         "exam_weight": 2.449489742783178
     },
     {
@@ -7627,8 +7627,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 5",
         "quiz_id": "q717",
         "past_count": 7,
-        "exam_years": "18, 15, 14, 10, 07, 06, 05",
-        "recent_year": "18",
+        "exam_years": "2018, 2015, 2014, 2010, 2007, 2006, 2005",
+        "recent_year": "2018",
         "exam_weight": 2.8284271247461903
     },
     {
@@ -7643,8 +7643,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 5",
         "quiz_id": "q718",
         "past_count": 2,
-        "exam_years": "12, 07",
-        "recent_year": "12",
+        "exam_years": "2012, 2007",
+        "recent_year": "2012",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -7659,8 +7659,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 5",
         "quiz_id": "q719",
         "past_count": 12,
-        "exam_years": "23, 22, 21, 17, 15, 14, 13, 12, 09, 08, 07, 05",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2017, 2015, 2014, 2013, 2012, 2009, 2008, 2007, 2005",
+        "recent_year": "2023",
         "exam_weight": 3.605551275463989
     },
     {
@@ -7675,8 +7675,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 5",
         "quiz_id": "q720",
         "past_count": 3,
-        "exam_years": "16, 08, 06",
-        "recent_year": "16",
+        "exam_years": "2016, 2008, 2006",
+        "recent_year": "2016",
         "exam_weight": 2.0
     },
     {
@@ -7707,8 +7707,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 6",
         "quiz_id": "q723",
         "past_count": 1,
-        "exam_years": "13",
-        "recent_year": "13",
+        "exam_years": "2013",
+        "recent_year": "2013",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -7787,8 +7787,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 6",
         "quiz_id": "q728",
         "past_count": 8,
-        "exam_years": "23, 18, 17, 16, 15, 11, 10, 05",
-        "recent_year": "23",
+        "exam_years": "2023, 2018, 2017, 2016, 2015, 2011, 2010, 2005",
+        "recent_year": "2023",
         "exam_weight": 3.0
     },
     {
@@ -7819,8 +7819,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 7",
         "quiz_id": "q730",
         "past_count": 1,
-        "exam_years": "13",
-        "recent_year": "13",
+        "exam_years": "2013",
+        "recent_year": "2013",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -7899,8 +7899,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 7",
         "quiz_id": "q736",
         "past_count": 12,
-        "exam_years": "23, 22, 21, 17, 15, 14, 13, 12, 09, 08, 07, 05",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2017, 2015, 2014, 2013, 2012, 2009, 2008, 2007, 2005",
+        "recent_year": "2023",
         "exam_weight": 3.605551275463989
     },
     {
@@ -7915,8 +7915,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 7",
         "quiz_id": "q737",
         "past_count": 2,
-        "exam_years": "11, 09",
-        "recent_year": "11",
+        "exam_years": "2011, 2009",
+        "recent_year": "2011",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -7931,8 +7931,8 @@ const QUIZ_DB = [
         "source": "Superior Orbit - 7",
         "quiz_id": "q738",
         "past_count": 1,
-        "exam_years": "25",
-        "recent_year": "25",
+        "exam_years": "2025",
+        "recent_year": "2025",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -7947,8 +7947,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 1",
         "quiz_id": "q740",
         "past_count": 2,
-        "exam_years": "18, 02",
-        "recent_year": "18",
+        "exam_years": "2018, 2002",
+        "recent_year": "2018",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -8027,8 +8027,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 2",
         "quiz_id": "q746",
         "past_count": 8,
-        "exam_years": "23, 18, 17, 16, 15, 11, 10, 05",
-        "recent_year": "23",
+        "exam_years": "2023, 2018, 2017, 2016, 2015, 2011, 2010, 2005",
+        "recent_year": "2023",
         "exam_weight": 3.0
     },
     {
@@ -8075,8 +8075,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 2",
         "quiz_id": "q749",
         "past_count": 12,
-        "exam_years": "23, 22, 21, 17, 15, 14, 13, 12, 09, 08, 07, 05",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2017, 2015, 2014, 2013, 2012, 2009, 2008, 2007, 2005",
+        "recent_year": "2023",
         "exam_weight": 3.605551275463989
     },
     {
@@ -8091,8 +8091,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 2",
         "quiz_id": "q750",
         "past_count": 12,
-        "exam_years": "23, 22, 21, 17, 15, 14, 13, 12, 09, 08, 07, 05",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2017, 2015, 2014, 2013, 2012, 2009, 2008, 2007, 2005",
+        "recent_year": "2023",
         "exam_weight": 3.605551275463989
     },
     {
@@ -8123,8 +8123,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 3",
         "quiz_id": "q753",
         "past_count": 6,
-        "exam_years": "23, 18, 15, 13, 10, 08",
-        "recent_year": "23",
+        "exam_years": "2023, 2018, 2015, 2013, 2010, 2008",
+        "recent_year": "2023",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -8139,8 +8139,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 3",
         "quiz_id": "q754",
         "past_count": 2,
-        "exam_years": "12, 07",
-        "recent_year": "12",
+        "exam_years": "2012, 2007",
+        "recent_year": "2012",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -8155,8 +8155,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 3",
         "quiz_id": "q755",
         "past_count": 3,
-        "exam_years": "16, 08, 06",
-        "recent_year": "16",
+        "exam_years": "2016, 2008, 2006",
+        "recent_year": "2016",
         "exam_weight": 2.0
     },
     {
@@ -8171,8 +8171,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 3",
         "quiz_id": "q756",
         "past_count": 2,
-        "exam_years": "11, 09",
-        "recent_year": "11",
+        "exam_years": "2011, 2009",
+        "recent_year": "2011",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -8187,8 +8187,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 3",
         "quiz_id": "q757",
         "past_count": 5,
-        "exam_years": "25, 21, 19, 16, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2019, 2016, 2003",
+        "recent_year": "2025",
         "exam_weight": 2.449489742783178
     },
     {
@@ -8203,8 +8203,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 3",
         "quiz_id": "q758",
         "past_count": 7,
-        "exam_years": "18, 15, 14, 10, 07, 06, 05",
-        "recent_year": "18",
+        "exam_years": "2018, 2015, 2014, 2010, 2007, 2006, 2005",
+        "recent_year": "2018",
         "exam_weight": 2.8284271247461903
     },
     {
@@ -8251,8 +8251,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 4",
         "quiz_id": "q763",
         "past_count": 2,
-        "exam_years": "11, 09",
-        "recent_year": "11",
+        "exam_years": "2011, 2009",
+        "recent_year": "2011",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -8283,8 +8283,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 4",
         "quiz_id": "q765",
         "past_count": 7,
-        "exam_years": "18, 15, 14, 10, 07, 06, 05",
-        "recent_year": "18",
+        "exam_years": "2018, 2015, 2014, 2010, 2007, 2006, 2005",
+        "recent_year": "2018",
         "exam_weight": 2.8284271247461903
     },
     {
@@ -8299,8 +8299,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 4",
         "quiz_id": "q766",
         "past_count": 12,
-        "exam_years": "23, 22, 21, 17, 15, 14, 13, 12, 09, 08, 07, 05",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2017, 2015, 2014, 2013, 2012, 2009, 2008, 2007, 2005",
+        "recent_year": "2023",
         "exam_weight": 3.605551275463989
     },
     {
@@ -8315,8 +8315,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 4",
         "quiz_id": "q768",
         "past_count": 1,
-        "exam_years": "14",
-        "recent_year": "14",
+        "exam_years": "2014",
+        "recent_year": "2014",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -8331,8 +8331,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 4",
         "quiz_id": "q769",
         "past_count": 1,
-        "exam_years": "13",
-        "recent_year": "13",
+        "exam_years": "2013",
+        "recent_year": "2013",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -8347,8 +8347,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 5",
         "quiz_id": "q770",
         "past_count": 2,
-        "exam_years": "11, 09",
-        "recent_year": "11",
+        "exam_years": "2011, 2009",
+        "recent_year": "2011",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -8363,8 +8363,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 5",
         "quiz_id": "q771",
         "past_count": 5,
-        "exam_years": "25, 21, 19, 16, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2019, 2016, 2003",
+        "recent_year": "2025",
         "exam_weight": 2.449489742783178
     },
     {
@@ -8379,8 +8379,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 5",
         "quiz_id": "q772",
         "past_count": 2,
-        "exam_years": "18, 02",
-        "recent_year": "18",
+        "exam_years": "2018, 2002",
+        "recent_year": "2018",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -8395,8 +8395,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 5",
         "quiz_id": "q773",
         "past_count": 2,
-        "exam_years": "12, 07",
-        "recent_year": "12",
+        "exam_years": "2012, 2007",
+        "recent_year": "2012",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -8411,8 +8411,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 5",
         "quiz_id": "q774",
         "past_count": 6,
-        "exam_years": "23, 18, 15, 13, 10, 08",
-        "recent_year": "23",
+        "exam_years": "2023, 2018, 2015, 2013, 2010, 2008",
+        "recent_year": "2023",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -8427,8 +8427,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 5",
         "quiz_id": "q775",
         "past_count": 3,
-        "exam_years": "16, 08, 06",
-        "recent_year": "16",
+        "exam_years": "2016, 2008, 2006",
+        "recent_year": "2016",
         "exam_weight": 2.0
     },
     {
@@ -8443,8 +8443,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 6",
         "quiz_id": "q776",
         "past_count": 2,
-        "exam_years": "11, 09",
-        "recent_year": "11",
+        "exam_years": "2011, 2009",
+        "recent_year": "2011",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -8459,8 +8459,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 6",
         "quiz_id": "q777",
         "past_count": 1,
-        "exam_years": "13",
-        "recent_year": "13",
+        "exam_years": "2013",
+        "recent_year": "2013",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -8475,8 +8475,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 6",
         "quiz_id": "q778",
         "past_count": 1,
-        "exam_years": "14",
-        "recent_year": "14",
+        "exam_years": "2014",
+        "recent_year": "2014",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -8491,8 +8491,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 6",
         "quiz_id": "q779",
         "past_count": 12,
-        "exam_years": "23, 22, 21, 17, 15, 14, 13, 12, 09, 08, 07, 05",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2017, 2015, 2014, 2013, 2012, 2009, 2008, 2007, 2005",
+        "recent_year": "2023",
         "exam_weight": 3.605551275463989
     },
     {
@@ -8539,8 +8539,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 7",
         "quiz_id": "q782",
         "past_count": 12,
-        "exam_years": "23, 22, 21, 17, 15, 14, 13, 12, 09, 08, 07, 05",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2017, 2015, 2014, 2013, 2012, 2009, 2008, 2007, 2005",
+        "recent_year": "2023",
         "exam_weight": 3.605551275463989
     },
     {
@@ -8555,8 +8555,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 7",
         "quiz_id": "q783",
         "past_count": 12,
-        "exam_years": "23, 22, 21, 17, 15, 14, 13, 12, 09, 08, 07, 05",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2017, 2015, 2014, 2013, 2012, 2009, 2008, 2007, 2005",
+        "recent_year": "2023",
         "exam_weight": 3.605551275463989
     },
     {
@@ -8571,8 +8571,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 7",
         "quiz_id": "q784",
         "past_count": 1,
-        "exam_years": "14",
-        "recent_year": "14",
+        "exam_years": "2014",
+        "recent_year": "2014",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -8586,10 +8586,10 @@ const QUIZ_DB = [
         "answer_ko": "위눈꺼풀올림근",
         "source": "Anterior Orbit - 7",
         "quiz_id": "q785",
-        "past_count": 4,
-        "exam_years": "20, 10, 19",
-        "recent_year": "20",
-        "exam_weight": 2.23606797749979
+        "past_count": 3,
+        "exam_years": "2020, 2019, 2010",
+        "recent_year": "2020",
+        "exam_weight": 2.0
     },
     {
         "image_filename": "0786.jpg",
@@ -8603,8 +8603,8 @@ const QUIZ_DB = [
         "source": "Anterior Orbit - 7",
         "quiz_id": "q786",
         "past_count": 1,
-        "exam_years": "06",
-        "recent_year": "06",
+        "exam_years": "2006",
+        "recent_year": "2006",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -8619,8 +8619,8 @@ const QUIZ_DB = [
         "source": "Nasal Cavity - 1",
         "quiz_id": "q788",
         "past_count": 1,
-        "exam_years": "03",
-        "recent_year": "03",
+        "exam_years": "2003",
+        "recent_year": "2003",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -8635,8 +8635,8 @@ const QUIZ_DB = [
         "source": "Nasal Cavity - 1",
         "quiz_id": "q789",
         "past_count": 1,
-        "exam_years": "05",
-        "recent_year": "05",
+        "exam_years": "2005",
+        "recent_year": "2005",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -8667,8 +8667,8 @@ const QUIZ_DB = [
         "source": "Nasal Cavity - 2",
         "quiz_id": "q795",
         "past_count": 1,
-        "exam_years": "03",
-        "recent_year": "03",
+        "exam_years": "2003",
+        "recent_year": "2003",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -8683,8 +8683,8 @@ const QUIZ_DB = [
         "source": "Nasal Cavity - 2",
         "quiz_id": "q796",
         "past_count": 1,
-        "exam_years": "05",
-        "recent_year": "05",
+        "exam_years": "2005",
+        "recent_year": "2005",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -8747,8 +8747,8 @@ const QUIZ_DB = [
         "source": "Nasal Cavity - 4",
         "quiz_id": "q811",
         "past_count": 3,
-        "exam_years": "25, 19, 16",
-        "recent_year": "25",
+        "exam_years": "2025, 2019, 2016",
+        "recent_year": "2025",
         "exam_weight": 2.0
     },
     {
@@ -8827,8 +8827,8 @@ const QUIZ_DB = [
         "source": "Nasal Cavity - 5",
         "quiz_id": "q819",
         "past_count": 3,
-        "exam_years": "25, 19, 16",
-        "recent_year": "25",
+        "exam_years": "2025, 2019, 2016",
+        "recent_year": "2025",
         "exam_weight": 2.0
     },
     {
@@ -8923,8 +8923,8 @@ const QUIZ_DB = [
         "source": "Nasal Cavity - 6",
         "quiz_id": "q833",
         "past_count": 1,
-        "exam_years": "05",
-        "recent_year": "05",
+        "exam_years": "2005",
+        "recent_year": "2005",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -8939,8 +8939,8 @@ const QUIZ_DB = [
         "source": "Nasopharynx - 1",
         "quiz_id": "q834",
         "past_count": 6,
-        "exam_years": "23, 21, 20, 18, 15, 09",
-        "recent_year": "23",
+        "exam_years": "2023, 2021, 2020, 2018, 2015, 2009",
+        "recent_year": "2023",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -8971,8 +8971,8 @@ const QUIZ_DB = [
         "source": "Nasopharynx - 1",
         "quiz_id": "q840",
         "past_count": 2,
-        "exam_years": "08, 02",
-        "recent_year": "08",
+        "exam_years": "2008, 2002",
+        "recent_year": "2008",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -8987,8 +8987,8 @@ const QUIZ_DB = [
         "source": "Nasopharynx - 2",
         "quiz_id": "q841",
         "past_count": 1,
-        "exam_years": "05",
-        "recent_year": "05",
+        "exam_years": "2005",
+        "recent_year": "2005",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -9003,8 +9003,8 @@ const QUIZ_DB = [
         "source": "Nasopharynx - 2",
         "quiz_id": "q843",
         "past_count": 10,
-        "exam_years": "25, 22, 19, 13, 12, 11, 10, 09, 08, 07",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2019, 2013, 2012, 2011, 2010, 2009, 2008, 2007",
+        "recent_year": "2025",
         "exam_weight": 3.3166247903554
     },
     {
@@ -9019,8 +9019,8 @@ const QUIZ_DB = [
         "source": "Nasopharynx - 2",
         "quiz_id": "q846",
         "past_count": 6,
-        "exam_years": "23, 21, 20, 18, 15, 09",
-        "recent_year": "23",
+        "exam_years": "2023, 2021, 2020, 2018, 2015, 2009",
+        "recent_year": "2023",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -9035,8 +9035,8 @@ const QUIZ_DB = [
         "source": "Nasopharynx - 2",
         "quiz_id": "q848",
         "past_count": 2,
-        "exam_years": "23, 21",
-        "recent_year": "23",
+        "exam_years": "2023, 2021",
+        "recent_year": "2023",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -9051,8 +9051,8 @@ const QUIZ_DB = [
         "source": "Nasopharynx - 2",
         "quiz_id": "q849",
         "past_count": 2,
-        "exam_years": "08, 02",
-        "recent_year": "08",
+        "exam_years": "2008, 2002",
+        "recent_year": "2008",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -9067,8 +9067,8 @@ const QUIZ_DB = [
         "source": "Nasopharynx - 3",
         "quiz_id": "q850",
         "past_count": 1,
-        "exam_years": "05",
-        "recent_year": "05",
+        "exam_years": "2005",
+        "recent_year": "2005",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -9083,8 +9083,8 @@ const QUIZ_DB = [
         "source": "Nasopharynx - 3",
         "quiz_id": "q851",
         "past_count": 2,
-        "exam_years": "23, 21",
-        "recent_year": "23",
+        "exam_years": "2023, 2021",
+        "recent_year": "2023",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -9099,8 +9099,8 @@ const QUIZ_DB = [
         "source": "Nasopharynx - 3",
         "quiz_id": "q852",
         "past_count": 10,
-        "exam_years": "25, 22, 19, 13, 12, 11, 10, 09, 08, 07",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2019, 2013, 2012, 2011, 2010, 2009, 2008, 2007",
+        "recent_year": "2025",
         "exam_weight": 3.3166247903554
     },
     {
@@ -9115,8 +9115,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 1",
         "quiz_id": "q854",
         "past_count": 17,
-        "exam_years": "23, 22, 21, 20, 18, 17, 16, 15, 14, 13, 12, 11, 09, 08, 07, 03, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2020, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2008, 2007, 2003, 2002",
+        "recent_year": "2023",
         "exam_weight": 4.242640687119285
     },
     {
@@ -9131,8 +9131,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 1",
         "quiz_id": "q855",
         "past_count": 11,
-        "exam_years": "25, 22, 21, 19, 17, 15, 14, 11, 10, 07, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2021, 2019, 2017, 2015, 2014, 2011, 2010, 2007, 2005",
+        "recent_year": "2025",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -9147,8 +9147,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 1",
         "quiz_id": "q856",
         "past_count": 1,
-        "exam_years": "12",
-        "recent_year": "12",
+        "exam_years": "2012",
+        "recent_year": "2012",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -9163,8 +9163,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 1",
         "quiz_id": "q857",
         "past_count": 4,
-        "exam_years": "13, 12, 09, 02",
-        "recent_year": "13",
+        "exam_years": "2013, 2012, 2009, 2002",
+        "recent_year": "2013",
         "exam_weight": 2.23606797749979
     },
     {
@@ -9179,8 +9179,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 1",
         "quiz_id": "q858",
         "past_count": 2,
-        "exam_years": "25, 19",
-        "recent_year": "25",
+        "exam_years": "2025, 2019",
+        "recent_year": "2025",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -9211,8 +9211,8 @@ const QUIZ_DB = [
         "source": "Oropharynx - 1",
         "quiz_id": "q860",
         "past_count": 6,
-        "exam_years": "23, 22, 20, 13, 10, 09",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2020, 2013, 2010, 2009",
+        "recent_year": "2023",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -9243,8 +9243,8 @@ const QUIZ_DB = [
         "source": "Oropharynx - 1",
         "quiz_id": "q864",
         "past_count": 2,
-        "exam_years": "08, 02",
-        "recent_year": "08",
+        "exam_years": "2008, 2002",
+        "recent_year": "2008",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -9259,8 +9259,8 @@ const QUIZ_DB = [
         "source": "Oropharynx - 2",
         "quiz_id": "q865",
         "past_count": 6,
-        "exam_years": "19, 18, 15, 14, 13, 10",
-        "recent_year": "19",
+        "exam_years": "2019, 2018, 2015, 2014, 2013, 2010",
+        "recent_year": "2019",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -9275,8 +9275,8 @@ const QUIZ_DB = [
         "source": "Oropharynx - 2",
         "quiz_id": "q866",
         "past_count": 6,
-        "exam_years": "23, 22, 20, 13, 10, 09",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2020, 2013, 2010, 2009",
+        "recent_year": "2023",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -9307,8 +9307,8 @@ const QUIZ_DB = [
         "source": "Pharynx - 1",
         "quiz_id": "q869",
         "past_count": 1,
-        "exam_years": "03",
-        "recent_year": "03",
+        "exam_years": "2003",
+        "recent_year": "2003",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -9323,8 +9323,8 @@ const QUIZ_DB = [
         "source": "Pharynx - 1",
         "quiz_id": "q870",
         "past_count": 6,
-        "exam_years": "21, 13, 12, 06, 02, 11",
-        "recent_year": "21",
+        "exam_years": "2021, 2013, 2012, 2011, 2006, 2002",
+        "recent_year": "2021",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -9339,8 +9339,8 @@ const QUIZ_DB = [
         "source": "Pharynx - 1",
         "quiz_id": "q871",
         "past_count": 13,
-        "exam_years": "21, 20, 18, 17, 16, 14, 12, 11, 10, 09, 08, 07, 03",
-        "recent_year": "21",
+        "exam_years": "2021, 2020, 2018, 2017, 2016, 2014, 2012, 2011, 2010, 2009, 2008, 2007, 2003",
+        "recent_year": "2021",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -9355,8 +9355,8 @@ const QUIZ_DB = [
         "source": "Pharynx - 1",
         "quiz_id": "q872",
         "past_count": 2,
-        "exam_years": "10, 03",
-        "recent_year": "10",
+        "exam_years": "2010, 2003",
+        "recent_year": "2010",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -9371,8 +9371,8 @@ const QUIZ_DB = [
         "source": "Pharynx - 1",
         "quiz_id": "q876",
         "past_count": 6,
-        "exam_years": "19, 18, 15, 14, 13, 10",
-        "recent_year": "19",
+        "exam_years": "2019, 2018, 2015, 2014, 2013, 2010",
+        "recent_year": "2019",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -9387,8 +9387,8 @@ const QUIZ_DB = [
         "source": "Pharynx - 1",
         "quiz_id": "q877",
         "past_count": 6,
-        "exam_years": "23, 22, 20, 13, 10, 09",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2020, 2013, 2010, 2009",
+        "recent_year": "2023",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -9403,8 +9403,8 @@ const QUIZ_DB = [
         "source": "Pharynx - 2",
         "quiz_id": "q879",
         "past_count": 1,
-        "exam_years": "03",
-        "recent_year": "03",
+        "exam_years": "2003",
+        "recent_year": "2003",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -9419,8 +9419,8 @@ const QUIZ_DB = [
         "source": "Pharynx - 2",
         "quiz_id": "q880",
         "past_count": 2,
-        "exam_years": "10, 03",
-        "recent_year": "10",
+        "exam_years": "2010, 2003",
+        "recent_year": "2010",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -9435,8 +9435,8 @@ const QUIZ_DB = [
         "source": "Pharynx - 2",
         "quiz_id": "q881",
         "past_count": 17,
-        "exam_years": "25, 23, 22, 21, 20, 19, 18, 15, 14, 13, 11, 10, 09, 07, 06, 03, 02",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2022, 2021, 2020, 2019, 2018, 2015, 2014, 2013, 2011, 2010, 2009, 2007, 2006, 2003, 2002",
+        "recent_year": "2025",
         "exam_weight": 4.242640687119285
     },
     {
@@ -9451,8 +9451,8 @@ const QUIZ_DB = [
         "source": "Pharynx - 2",
         "quiz_id": "q882",
         "past_count": 13,
-        "exam_years": "21, 20, 18, 17, 16, 14, 12, 11, 10, 09, 08, 07, 03",
-        "recent_year": "21",
+        "exam_years": "2021, 2020, 2018, 2017, 2016, 2014, 2012, 2011, 2010, 2009, 2008, 2007, 2003",
+        "recent_year": "2021",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -9466,10 +9466,10 @@ const QUIZ_DB = [
         "answer_ko": "위후두신경",
         "source": "Pharynx - 2",
         "quiz_id": "q883",
-        "past_count": 3,
-        "exam_years": "11, 09, 07",
-        "recent_year": "11",
-        "exam_weight": 2.0
+        "past_count": 0,
+        "exam_years": "",
+        "recent_year": "",
+        "exam_weight": 1.0
     },
     {
         "image_filename": "0886.jpg",
@@ -9483,8 +9483,8 @@ const QUIZ_DB = [
         "source": "Pharynx - 2",
         "quiz_id": "q886",
         "past_count": 7,
-        "exam_years": "25, 22, 13, 09, 08, 06, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2013, 2009, 2008, 2006, 2005",
+        "recent_year": "2025",
         "exam_weight": 2.8284271247461903
     },
     {
@@ -9499,8 +9499,8 @@ const QUIZ_DB = [
         "source": "Pharynx - 2",
         "quiz_id": "q889",
         "past_count": 1,
-        "exam_years": "03",
-        "recent_year": "03",
+        "exam_years": "2003",
+        "recent_year": "2003",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -9515,8 +9515,8 @@ const QUIZ_DB = [
         "source": "Pharynx - 2",
         "quiz_id": "q890",
         "past_count": 6,
-        "exam_years": "19, 18, 15, 14, 13, 10",
-        "recent_year": "19",
+        "exam_years": "2019, 2018, 2015, 2014, 2013, 2010",
+        "recent_year": "2019",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -9531,8 +9531,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 2",
         "quiz_id": "q891",
         "past_count": 9,
-        "exam_years": "23, 18, 15, 13, 11, 10, 09, 08, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2018, 2015, 2013, 2011, 2010, 2009, 2008, 2002",
+        "recent_year": "2023",
         "exam_weight": 3.1622776601683795
     },
     {
@@ -9547,8 +9547,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 2",
         "quiz_id": "q892",
         "past_count": 3,
-        "exam_years": "20, 16, 11",
-        "recent_year": "20",
+        "exam_years": "2020, 2016, 2011",
+        "recent_year": "2020",
         "exam_weight": 2.0
     },
     {
@@ -9563,8 +9563,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 2",
         "quiz_id": "q893",
         "past_count": 3,
-        "exam_years": "20, 16, 11",
-        "recent_year": "20",
+        "exam_years": "2020, 2016, 2011",
+        "recent_year": "2020",
         "exam_weight": 2.0
     },
     {
@@ -9579,8 +9579,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 2",
         "quiz_id": "q894",
         "past_count": 17,
-        "exam_years": "25, 23, 22, 21, 20, 19, 18, 15, 14, 13, 11, 10, 09, 07, 06, 03, 02",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2022, 2021, 2020, 2019, 2018, 2015, 2014, 2013, 2011, 2010, 2009, 2007, 2006, 2003, 2002",
+        "recent_year": "2025",
         "exam_weight": 4.242640687119285
     },
     {
@@ -9595,8 +9595,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 2",
         "quiz_id": "q895",
         "past_count": 6,
-        "exam_years": "23, 22, 20, 11, 07, 03",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2020, 2011, 2007, 2003",
+        "recent_year": "2023",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -9611,8 +9611,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 2",
         "quiz_id": "q896",
         "past_count": 6,
-        "exam_years": "23, 22, 20, 11, 07, 03",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2020, 2011, 2007, 2003",
+        "recent_year": "2023",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -9627,8 +9627,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 2",
         "quiz_id": "q897",
         "past_count": 17,
-        "exam_years": "23, 22, 21, 20, 18, 17, 16, 15, 14, 13, 12, 11, 09, 08, 07, 03, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2020, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2008, 2007, 2003, 2002",
+        "recent_year": "2023",
         "exam_weight": 4.242640687119285
     },
     {
@@ -9643,8 +9643,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 2",
         "quiz_id": "q898",
         "past_count": 11,
-        "exam_years": "25, 22, 21, 19, 17, 15, 14, 11, 10, 07, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2021, 2019, 2017, 2015, 2014, 2011, 2010, 2007, 2005",
+        "recent_year": "2025",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -9675,8 +9675,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 2",
         "quiz_id": "q900",
         "past_count": 1,
-        "exam_years": "09",
-        "recent_year": "09",
+        "exam_years": "2009",
+        "recent_year": "2009",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -9691,8 +9691,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 3",
         "quiz_id": "q902",
         "past_count": 11,
-        "exam_years": "25, 22, 21, 19, 17, 15, 14, 11, 10, 07, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2021, 2019, 2017, 2015, 2014, 2011, 2010, 2007, 2005",
+        "recent_year": "2025",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -9707,8 +9707,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 3",
         "quiz_id": "q903",
         "past_count": 17,
-        "exam_years": "23, 22, 21, 20, 18, 17, 16, 15, 14, 13, 12, 11, 09, 08, 07, 03, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2020, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2008, 2007, 2003, 2002",
+        "recent_year": "2023",
         "exam_weight": 4.242640687119285
     },
     {
@@ -9723,8 +9723,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 3",
         "quiz_id": "q904",
         "past_count": 17,
-        "exam_years": "23, 22, 21, 20, 18, 17, 16, 15, 14, 13, 12, 11, 09, 08, 07, 03, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2020, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2008, 2007, 2003, 2002",
+        "recent_year": "2023",
         "exam_weight": 4.242640687119285
     },
     {
@@ -9755,8 +9755,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 3",
         "quiz_id": "q906",
         "past_count": 1,
-        "exam_years": "16",
-        "recent_year": "16",
+        "exam_years": "2016",
+        "recent_year": "2016",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -9771,8 +9771,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 4",
         "quiz_id": "q907",
         "past_count": 11,
-        "exam_years": "25, 22, 21, 19, 17, 15, 14, 11, 10, 07, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2021, 2019, 2017, 2015, 2014, 2011, 2010, 2007, 2005",
+        "recent_year": "2025",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -9787,8 +9787,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 4",
         "quiz_id": "q908",
         "past_count": 17,
-        "exam_years": "23, 22, 21, 20, 18, 17, 16, 15, 14, 13, 12, 11, 09, 08, 07, 03, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2020, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2008, 2007, 2003, 2002",
+        "recent_year": "2023",
         "exam_weight": 4.242640687119285
     },
     {
@@ -9803,8 +9803,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 4",
         "quiz_id": "q909",
         "past_count": 4,
-        "exam_years": "16, 15, 10, 06",
-        "recent_year": "16",
+        "exam_years": "2016, 2015, 2010, 2006",
+        "recent_year": "2016",
         "exam_weight": 2.23606797749979
     },
     {
@@ -9835,8 +9835,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 4",
         "quiz_id": "q911",
         "past_count": 17,
-        "exam_years": "23, 22, 21, 20, 18, 17, 16, 15, 14, 13, 12, 11, 09, 08, 07, 03, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2020, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2008, 2007, 2003, 2002",
+        "recent_year": "2023",
         "exam_weight": 4.242640687119285
     },
     {
@@ -9851,8 +9851,8 @@ const QUIZ_DB = [
         "source": "Larynx - 1",
         "quiz_id": "q913",
         "past_count": 4,
-        "exam_years": "23, 18, 15, 12",
-        "recent_year": "23",
+        "exam_years": "2023, 2018, 2015, 2012",
+        "recent_year": "2023",
         "exam_weight": 2.23606797749979
     },
     {
@@ -9867,8 +9867,8 @@ const QUIZ_DB = [
         "source": "Larynx - 1",
         "quiz_id": "q914",
         "past_count": 1,
-        "exam_years": "25",
-        "recent_year": "25",
+        "exam_years": "2025",
+        "recent_year": "2025",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -9883,8 +9883,8 @@ const QUIZ_DB = [
         "source": "Larynx - 1",
         "quiz_id": "q915",
         "past_count": 2,
-        "exam_years": "05, 02",
-        "recent_year": "05",
+        "exam_years": "2005, 2002",
+        "recent_year": "2005",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -9899,8 +9899,8 @@ const QUIZ_DB = [
         "source": "Larynx - 1",
         "quiz_id": "q916",
         "past_count": 2,
-        "exam_years": "05, 02",
-        "recent_year": "05",
+        "exam_years": "2005, 2002",
+        "recent_year": "2005",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -9915,8 +9915,8 @@ const QUIZ_DB = [
         "source": "Larynx - 1",
         "quiz_id": "q917",
         "past_count": 7,
-        "exam_years": "19, 17, 16, 15, 14, 13, 03",
-        "recent_year": "19",
+        "exam_years": "2019, 2017, 2016, 2015, 2014, 2013, 2003",
+        "recent_year": "2019",
         "exam_weight": 2.8284271247461903
     },
     {
@@ -9931,8 +9931,8 @@ const QUIZ_DB = [
         "source": "Larynx - 1",
         "quiz_id": "q918",
         "past_count": 1,
-        "exam_years": "19",
-        "recent_year": "19",
+        "exam_years": "2019",
+        "recent_year": "2019",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -10011,8 +10011,8 @@ const QUIZ_DB = [
         "source": "Larynx - 2",
         "quiz_id": "q925",
         "past_count": 1,
-        "exam_years": "12",
-        "recent_year": "12",
+        "exam_years": "2012",
+        "recent_year": "2012",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -10027,8 +10027,8 @@ const QUIZ_DB = [
         "source": "Larynx - 2",
         "quiz_id": "q926",
         "past_count": 11,
-        "exam_years": "23, 22, 20, 19, 18, 17, 15, 14, 13, 12, 11",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2020, 2019, 2018, 2017, 2015, 2014, 2013, 2012, 2011",
+        "recent_year": "2023",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -10043,8 +10043,8 @@ const QUIZ_DB = [
         "source": "Larynx - 2",
         "quiz_id": "q927",
         "past_count": 5,
-        "exam_years": "18, 11, 10, 07, 14",
-        "recent_year": "18",
+        "exam_years": "2018, 2014, 2011, 2010, 2007",
+        "recent_year": "2018",
         "exam_weight": 2.449489742783178
     },
     {
@@ -10059,8 +10059,8 @@ const QUIZ_DB = [
         "source": "Larynx - 3",
         "quiz_id": "q928",
         "past_count": 4,
-        "exam_years": "23, 18, 15, 12",
-        "recent_year": "23",
+        "exam_years": "2023, 2018, 2015, 2012",
+        "recent_year": "2023",
         "exam_weight": 2.23606797749979
     },
     {
@@ -10075,8 +10075,8 @@ const QUIZ_DB = [
         "source": "Larynx - 3",
         "quiz_id": "q929",
         "past_count": 7,
-        "exam_years": "19, 17, 16, 15, 14, 13, 03",
-        "recent_year": "19",
+        "exam_years": "2019, 2017, 2016, 2015, 2014, 2013, 2003",
+        "recent_year": "2019",
         "exam_weight": 2.8284271247461903
     },
     {
@@ -10107,8 +10107,8 @@ const QUIZ_DB = [
         "source": "Larynx - 3",
         "quiz_id": "q932",
         "past_count": 11,
-        "exam_years": "23, 22, 20, 19, 18, 17, 15, 14, 13, 12, 11",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2020, 2019, 2018, 2017, 2015, 2014, 2013, 2012, 2011",
+        "recent_year": "2023",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -10123,8 +10123,8 @@ const QUIZ_DB = [
         "source": "Larynx - 4",
         "quiz_id": "q935",
         "past_count": 7,
-        "exam_years": "19, 17, 16, 15, 14, 13, 03",
-        "recent_year": "19",
+        "exam_years": "2019, 2017, 2016, 2015, 2014, 2013, 2003",
+        "recent_year": "2019",
         "exam_weight": 2.8284271247461903
     },
     {
@@ -10139,8 +10139,8 @@ const QUIZ_DB = [
         "source": "Larynx - 4",
         "quiz_id": "q936",
         "past_count": 4,
-        "exam_years": "23, 18, 15, 12",
-        "recent_year": "23",
+        "exam_years": "2023, 2018, 2015, 2012",
+        "recent_year": "2023",
         "exam_weight": 2.23606797749979
     },
     {
@@ -10155,8 +10155,8 @@ const QUIZ_DB = [
         "source": "Larynx - 4",
         "quiz_id": "q937",
         "past_count": 2,
-        "exam_years": "05, 02",
-        "recent_year": "05",
+        "exam_years": "2005, 2002",
+        "recent_year": "2005",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -10171,8 +10171,8 @@ const QUIZ_DB = [
         "source": "Larynx - 4",
         "quiz_id": "q938",
         "past_count": 11,
-        "exam_years": "23, 22, 20, 19, 18, 17, 15, 14, 13, 12, 11",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2020, 2019, 2018, 2017, 2015, 2014, 2013, 2012, 2011",
+        "recent_year": "2023",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -10187,8 +10187,8 @@ const QUIZ_DB = [
         "source": "Larynx - 4",
         "quiz_id": "q939",
         "past_count": 5,
-        "exam_years": "18, 11, 10, 07, 14",
-        "recent_year": "18",
+        "exam_years": "2018, 2014, 2011, 2010, 2007",
+        "recent_year": "2018",
         "exam_weight": 2.449489742783178
     },
     {
@@ -10203,8 +10203,8 @@ const QUIZ_DB = [
         "source": "Larynx - 5",
         "quiz_id": "q942",
         "past_count": 2,
-        "exam_years": "18, 12",
-        "recent_year": "18",
+        "exam_years": "2018, 2012",
+        "recent_year": "2018",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -10219,8 +10219,8 @@ const QUIZ_DB = [
         "source": "Larynx - 5",
         "quiz_id": "q943",
         "past_count": 5,
-        "exam_years": "21, 16, 13, 11, 02",
-        "recent_year": "21",
+        "exam_years": "2021, 2016, 2013, 2011, 2002",
+        "recent_year": "2021",
         "exam_weight": 2.449489742783178
     },
     {
@@ -10235,8 +10235,8 @@ const QUIZ_DB = [
         "source": "Larynx - 5",
         "quiz_id": "q944",
         "past_count": 2,
-        "exam_years": "05, 02",
-        "recent_year": "05",
+        "exam_years": "2005, 2002",
+        "recent_year": "2005",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -10251,8 +10251,8 @@ const QUIZ_DB = [
         "source": "Larynx - 5",
         "quiz_id": "q945",
         "past_count": 2,
-        "exam_years": "05, 02",
-        "recent_year": "05",
+        "exam_years": "2005, 2002",
+        "recent_year": "2005",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -10267,8 +10267,8 @@ const QUIZ_DB = [
         "source": "Larynx - 5",
         "quiz_id": "q946",
         "past_count": 2,
-        "exam_years": "19, 05",
-        "recent_year": "19",
+        "exam_years": "2019, 2005",
+        "recent_year": "2019",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -10283,8 +10283,8 @@ const QUIZ_DB = [
         "source": "Prevertebral Region - 1",
         "quiz_id": "q948",
         "past_count": 3,
-        "exam_years": "16, 13, 02",
-        "recent_year": "16",
+        "exam_years": "2016, 2013, 2002",
+        "recent_year": "2016",
         "exam_weight": 2.0
     },
     {
@@ -10299,8 +10299,8 @@ const QUIZ_DB = [
         "source": "Prevertebral Region - 1",
         "quiz_id": "q949",
         "past_count": 9,
-        "exam_years": "23, 22, 20, 17, 14, 11, 10, 08, 03",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2020, 2017, 2014, 2011, 2010, 2008, 2003",
+        "recent_year": "2023",
         "exam_weight": 3.1622776601683795
     },
     {
@@ -10314,10 +10314,10 @@ const QUIZ_DB = [
         "answer_ko": "위목신경절",
         "source": "Prevertebral Region - 1",
         "quiz_id": "q950",
-        "past_count": 3,
-        "exam_years": "13, 10, 05",
-        "recent_year": "13",
-        "exam_weight": 2.0
+        "past_count": 0,
+        "exam_years": "",
+        "recent_year": "",
+        "exam_weight": 1.0
     },
     {
         "image_filename": "0952.jpg",
@@ -10330,10 +10330,10 @@ const QUIZ_DB = [
         "answer_ko": "앞목갈비근",
         "source": "Prevertebral Region - 2",
         "quiz_id": "q952",
-        "past_count": 10,
-        "exam_years": "23, 21, 19, 15, 12, 11, 10, 09, 05, 03",
-        "recent_year": "23",
-        "exam_weight": 3.3166247903554
+        "past_count": 9,
+        "exam_years": "2023, 2021, 2019, 2015, 2012, 2011, 2010, 2009, 2005",
+        "recent_year": "2023",
+        "exam_weight": 3.1622776601683795
     },
     {
         "image_filename": "0954.jpg",
@@ -10347,8 +10347,8 @@ const QUIZ_DB = [
         "source": "Prevertebral Region - 2",
         "quiz_id": "q954",
         "past_count": 1,
-        "exam_years": "16",
-        "recent_year": "16",
+        "exam_years": "2016",
+        "recent_year": "2016",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -10363,8 +10363,8 @@ const QUIZ_DB = [
         "source": "Prevertebral Region - 2",
         "quiz_id": "q955",
         "past_count": 4,
-        "exam_years": "25, 22, 18, 14",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2018, 2014",
+        "recent_year": "2025",
         "exam_weight": 2.23606797749979
     },
     {
@@ -10379,8 +10379,8 @@ const QUIZ_DB = [
         "source": "Prevertebral Region - 2",
         "quiz_id": "q956",
         "past_count": 3,
-        "exam_years": "23, 21, 20",
-        "recent_year": "23",
+        "exam_years": "2023, 2021, 2020",
+        "recent_year": "2023",
         "exam_weight": 2.0
     },
     {
@@ -10395,8 +10395,8 @@ const QUIZ_DB = [
         "source": "Prevertebral Region - 2",
         "quiz_id": "q957",
         "past_count": 1,
-        "exam_years": "03",
-        "recent_year": "03",
+        "exam_years": "2003",
+        "recent_year": "2003",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -10411,8 +10411,8 @@ const QUIZ_DB = [
         "source": "Prevertebral Region - 2",
         "quiz_id": "q959",
         "past_count": 3,
-        "exam_years": "25, 21, 11",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2011",
+        "recent_year": "2025",
         "exam_weight": 2.0
     },
     {
@@ -10427,8 +10427,8 @@ const QUIZ_DB = [
         "source": "Prevertebral Region - 2",
         "quiz_id": "q961",
         "past_count": 13,
-        "exam_years": "21, 20, 18, 17, 16, 14, 12, 11, 10, 09, 08, 07, 03",
-        "recent_year": "21",
+        "exam_years": "2021, 2020, 2018, 2017, 2016, 2014, 2012, 2011, 2010, 2009, 2008, 2007, 2003",
+        "recent_year": "2021",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -10443,8 +10443,8 @@ const QUIZ_DB = [
         "source": "Prevertebral Region - 3",
         "quiz_id": "q962",
         "past_count": 3,
-        "exam_years": "23, 21, 20",
-        "recent_year": "23",
+        "exam_years": "2023, 2021, 2020",
+        "recent_year": "2023",
         "exam_weight": 2.0
     },
     {
@@ -10459,8 +10459,8 @@ const QUIZ_DB = [
         "source": "Prevertebral Region - 3",
         "quiz_id": "q963",
         "past_count": 1,
-        "exam_years": "03",
-        "recent_year": "03",
+        "exam_years": "2003",
+        "recent_year": "2003",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -10475,8 +10475,8 @@ const QUIZ_DB = [
         "source": "Prevertebral Region - 3",
         "quiz_id": "q971",
         "past_count": 11,
-        "exam_years": "23, 20, 19, 16, 15, 13, 12, 11, 09, 05, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2020, 2019, 2016, 2015, 2013, 2012, 2011, 2009, 2005, 2002",
+        "recent_year": "2023",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -10491,8 +10491,8 @@ const QUIZ_DB = [
         "source": "Prevertebral Region - 4",
         "quiz_id": "q974",
         "past_count": 1,
-        "exam_years": "25",
-        "recent_year": "25",
+        "exam_years": "2025",
+        "recent_year": "2025",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -10507,8 +10507,8 @@ const QUIZ_DB = [
         "source": "Prevertebral Region - 4",
         "quiz_id": "q975",
         "past_count": 1,
-        "exam_years": "25",
-        "recent_year": "25",
+        "exam_years": "2025",
+        "recent_year": "2025",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -10522,10 +10522,10 @@ const QUIZ_DB = [
         "answer_ko": "위목신경절",
         "source": "Prevertebral Region - 5",
         "quiz_id": "q979",
-        "past_count": 3,
-        "exam_years": "13, 10, 05",
-        "recent_year": "13",
-        "exam_weight": 2.0
+        "past_count": 0,
+        "exam_years": "",
+        "recent_year": "",
+        "exam_weight": 1.0
     },
     {
         "image_filename": "0985.jpg",
@@ -10539,8 +10539,8 @@ const QUIZ_DB = [
         "source": "Prevertebral Region - 5",
         "quiz_id": "q985",
         "past_count": 3,
-        "exam_years": "16, 13, 02",
-        "recent_year": "16",
+        "exam_years": "2016, 2013, 2002",
+        "recent_year": "2016",
         "exam_weight": 2.0
     },
     {
@@ -10555,8 +10555,8 @@ const QUIZ_DB = [
         "source": "Prevertebral Region - 5",
         "quiz_id": "q986",
         "past_count": 9,
-        "exam_years": "23, 22, 20, 17, 14, 11, 10, 08, 03",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2020, 2017, 2014, 2011, 2010, 2008, 2003",
+        "recent_year": "2023",
         "exam_weight": 3.1622776601683795
     },
     {
@@ -10570,10 +10570,10 @@ const QUIZ_DB = [
         "answer_ko": "중간목신경절",
         "source": "Prevertebral Region - 5",
         "quiz_id": "q987",
-        "past_count": 1,
-        "exam_years": "06",
-        "recent_year": "06",
-        "exam_weight": 1.4142135623730951
+        "past_count": 0,
+        "exam_years": "",
+        "recent_year": "",
+        "exam_weight": 1.0
     },
     {
         "image_filename": "0989.jpg",
@@ -10586,10 +10586,10 @@ const QUIZ_DB = [
         "answer_ko": "앞목갈비근",
         "source": "Prevertebral Region - 5",
         "quiz_id": "q989",
-        "past_count": 10,
-        "exam_years": "23, 21, 19, 15, 12, 11, 10, 09, 05, 03",
-        "recent_year": "23",
-        "exam_weight": 3.3166247903554
+        "past_count": 9,
+        "exam_years": "2023, 2021, 2019, 2015, 2012, 2011, 2010, 2009, 2005",
+        "recent_year": "2023",
+        "exam_weight": 3.1622776601683795
     },
     {
         "image_filename": "0990.jpg",
@@ -10603,8 +10603,8 @@ const QUIZ_DB = [
         "source": "Prevertebral Region - 5",
         "quiz_id": "q990",
         "past_count": 3,
-        "exam_years": "23, 21, 20",
-        "recent_year": "23",
+        "exam_years": "2023, 2021, 2020",
+        "recent_year": "2023",
         "exam_weight": 2.0
     },
     {
@@ -10619,8 +10619,8 @@ const QUIZ_DB = [
         "source": "Prevertebral Region - 5",
         "quiz_id": "q991",
         "past_count": 2,
-        "exam_years": "10, 03",
-        "recent_year": "10",
+        "exam_years": "2010, 2003",
+        "recent_year": "2010",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -10635,8 +10635,8 @@ const QUIZ_DB = [
         "source": "Prevertebral Region - 5",
         "quiz_id": "q992",
         "past_count": 1,
-        "exam_years": "23",
-        "recent_year": "23",
+        "exam_years": "2023",
+        "recent_year": "2023",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -10651,8 +10651,8 @@ const QUIZ_DB = [
         "source": "Parotid Region - 1",
         "quiz_id": "q993",
         "past_count": 1,
-        "exam_years": "03",
-        "recent_year": "03",
+        "exam_years": "2003",
+        "recent_year": "2003",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -10666,10 +10666,10 @@ const QUIZ_DB = [
         "answer_ko": "목신경고리",
         "source": "Parotid Region - 1",
         "quiz_id": "q994",
-        "past_count": 1,
-        "exam_years": "25",
-        "recent_year": "25",
-        "exam_weight": 1.4142135623730951
+        "past_count": 0,
+        "exam_years": "",
+        "recent_year": "",
+        "exam_weight": 1.0
     },
     {
         "image_filename": "0996.jpg",
@@ -10683,8 +10683,8 @@ const QUIZ_DB = [
         "source": "Parotid Region - 1",
         "quiz_id": "q996",
         "past_count": 3,
-        "exam_years": "20, 16, 11",
-        "recent_year": "20",
+        "exam_years": "2020, 2016, 2011",
+        "recent_year": "2020",
         "exam_weight": 2.0
     },
     {
@@ -10699,8 +10699,8 @@ const QUIZ_DB = [
         "source": "Parotid Region - 1",
         "quiz_id": "q997",
         "past_count": 17,
-        "exam_years": "25, 23, 22, 21, 20, 19, 18, 15, 14, 13, 11, 10, 09, 07, 06, 03, 02",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2022, 2021, 2020, 2019, 2018, 2015, 2014, 2013, 2011, 2010, 2009, 2007, 2006, 2003, 2002",
+        "recent_year": "2025",
         "exam_weight": 4.242640687119285
     },
     {
@@ -10715,8 +10715,8 @@ const QUIZ_DB = [
         "source": "Parotid Region - 1",
         "quiz_id": "q999",
         "past_count": 11,
-        "exam_years": "25, 22, 21, 19, 17, 15, 14, 11, 10, 07, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2021, 2019, 2017, 2015, 2014, 2011, 2010, 2007, 2005",
+        "recent_year": "2025",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -10747,8 +10747,8 @@ const QUIZ_DB = [
         "source": "Parotid Region - 1",
         "quiz_id": "q1001",
         "past_count": 1,
-        "exam_years": "09",
-        "recent_year": "09",
+        "exam_years": "2009",
+        "recent_year": "2009",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -10763,8 +10763,8 @@ const QUIZ_DB = [
         "source": "Parotid Region - 1",
         "quiz_id": "q1002",
         "past_count": 6,
-        "exam_years": "19, 18, 15, 14, 13, 10",
-        "recent_year": "19",
+        "exam_years": "2019, 2018, 2015, 2014, 2013, 2010",
+        "recent_year": "2019",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -10778,10 +10778,10 @@ const QUIZ_DB = [
         "answer_ko": "위후두신경",
         "source": "Parotid Region - 1",
         "quiz_id": "q1003",
-        "past_count": 3,
-        "exam_years": "11, 09, 07",
-        "recent_year": "11",
-        "exam_weight": 2.0
+        "past_count": 0,
+        "exam_years": "",
+        "recent_year": "",
+        "exam_weight": 1.0
     },
     {
         "image_filename": "1004.jpg",
@@ -10795,8 +10795,8 @@ const QUIZ_DB = [
         "source": "Parotid Region - 1",
         "quiz_id": "q1004",
         "past_count": 13,
-        "exam_years": "21, 20, 18, 17, 16, 14, 12, 11, 10, 09, 08, 07, 03",
-        "recent_year": "21",
+        "exam_years": "2021, 2020, 2018, 2017, 2016, 2014, 2012, 2011, 2010, 2009, 2008, 2007, 2003",
+        "recent_year": "2021",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -10811,8 +10811,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 5",
         "quiz_id": "q1005",
         "past_count": 9,
-        "exam_years": "23, 18, 15, 13, 11, 10, 09, 08, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2018, 2015, 2013, 2011, 2010, 2009, 2008, 2002",
+        "recent_year": "2023",
         "exam_weight": 3.1622776601683795
     },
     {
@@ -10827,8 +10827,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 5",
         "quiz_id": "q1006",
         "past_count": 11,
-        "exam_years": "23, 20, 19, 16, 14, 12, 09, 06, 05, 03, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2020, 2019, 2016, 2014, 2012, 2009, 2006, 2005, 2003, 2002",
+        "recent_year": "2023",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -10875,8 +10875,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 5",
         "quiz_id": "q1009",
         "past_count": 17,
-        "exam_years": "23, 22, 21, 20, 18, 17, 16, 15, 14, 13, 12, 11, 09, 08, 07, 03, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2020, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2008, 2007, 2003, 2002",
+        "recent_year": "2023",
         "exam_weight": 4.242640687119285
     },
     {
@@ -10891,8 +10891,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 5",
         "quiz_id": "q1010",
         "past_count": 2,
-        "exam_years": "25, 19",
-        "recent_year": "25",
+        "exam_years": "2025, 2019",
+        "recent_year": "2025",
         "exam_weight": 1.7320508075688772
     },
     {
@@ -10907,8 +10907,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 5",
         "quiz_id": "q1011",
         "past_count": 6,
-        "exam_years": "23, 22, 20, 11, 07, 03",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2020, 2011, 2007, 2003",
+        "recent_year": "2023",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -10923,8 +10923,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 5",
         "quiz_id": "q1012",
         "past_count": 17,
-        "exam_years": "25, 23, 22, 21, 20, 19, 18, 15, 14, 13, 11, 10, 09, 07, 06, 03, 02",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2022, 2021, 2020, 2019, 2018, 2015, 2014, 2013, 2011, 2010, 2009, 2007, 2006, 2003, 2002",
+        "recent_year": "2025",
         "exam_weight": 4.242640687119285
     },
     {
@@ -10939,8 +10939,8 @@ const QUIZ_DB = [
         "source": "Oral Cavity - 5",
         "quiz_id": "q1013",
         "past_count": 3,
-        "exam_years": "20, 16, 11",
-        "recent_year": "20",
+        "exam_years": "2020, 2016, 2011",
+        "recent_year": "2020",
         "exam_weight": 2.0
     },
     {
@@ -10971,8 +10971,8 @@ const QUIZ_DB = [
         "source": "Face 7",
         "quiz_id": "q1015",
         "past_count": 11,
-        "exam_years": "23, 20, 19, 16, 14, 12, 09, 06, 05, 03, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2020, 2019, 2016, 2014, 2012, 2009, 2006, 2005, 2003, 2002",
+        "recent_year": "2023",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -10987,8 +10987,8 @@ const QUIZ_DB = [
         "source": "Face 7",
         "quiz_id": "q1016",
         "past_count": 10,
-        "exam_years": "23, 20, 17, 15, 11, 10, 09, 08, 07, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2020, 2017, 2015, 2011, 2010, 2009, 2008, 2007, 2002",
+        "recent_year": "2023",
         "exam_weight": 3.3166247903554
     },
     {
@@ -11019,8 +11019,8 @@ const QUIZ_DB = [
         "source": "Face 7",
         "quiz_id": "q1018",
         "past_count": 13,
-        "exam_years": "25, 21, 16, 15, 14, 13, 12, 11, 10, 08, 07, 05, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2005, 2003",
+        "recent_year": "2025",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -11051,8 +11051,8 @@ const QUIZ_DB = [
         "source": "Face 7",
         "quiz_id": "q1021",
         "past_count": 4,
-        "exam_years": "16, 15, 10, 06",
-        "recent_year": "16",
+        "exam_years": "2016, 2015, 2010, 2006",
+        "recent_year": "2016",
         "exam_weight": 2.23606797749979
     },
     {
@@ -11067,8 +11067,8 @@ const QUIZ_DB = [
         "source": "Face 7",
         "quiz_id": "q1022",
         "past_count": 3,
-        "exam_years": "18, 13, 11",
-        "recent_year": "18",
+        "exam_years": "2018, 2013, 2011",
+        "recent_year": "2018",
         "exam_weight": 2.0
     },
     {
@@ -11083,8 +11083,8 @@ const QUIZ_DB = [
         "source": "Face 7",
         "quiz_id": "q1023",
         "past_count": 1,
-        "exam_years": "22",
-        "recent_year": "22",
+        "exam_years": "2022",
+        "recent_year": "2022",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -11099,8 +11099,8 @@ const QUIZ_DB = [
         "source": "Face 7",
         "quiz_id": "q1024",
         "past_count": 6,
-        "exam_years": "14, 10, 09, 07, 05, 03",
-        "recent_year": "14",
+        "exam_years": "2014, 2010, 2009, 2007, 2005, 2003",
+        "recent_year": "2014",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -11115,8 +11115,8 @@ const QUIZ_DB = [
         "source": "Face - 8",
         "quiz_id": "q1025",
         "past_count": 1,
-        "exam_years": "20",
-        "recent_year": "20",
+        "exam_years": "2020",
+        "recent_year": "2020",
         "exam_weight": 1.4142135623730951
     },
     {
@@ -11131,8 +11131,8 @@ const QUIZ_DB = [
         "source": "Face - 8",
         "quiz_id": "q1027",
         "past_count": 3,
-        "exam_years": "23, 22, 14",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2014",
+        "recent_year": "2023",
         "exam_weight": 2.0
     },
     {
@@ -11147,8 +11147,8 @@ const QUIZ_DB = [
         "source": "Face - 8",
         "quiz_id": "q1028",
         "past_count": 13,
-        "exam_years": "25, 21, 16, 15, 14, 13, 12, 11, 10, 08, 07, 05, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2005, 2003",
+        "recent_year": "2025",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -11178,10 +11178,10 @@ const QUIZ_DB = [
         "answer_ko": "아래입술동맥",
         "source": "Face - 9",
         "quiz_id": "q1030",
-        "past_count": 1,
-        "exam_years": "13",
-        "recent_year": "13",
-        "exam_weight": 1.4142135623730951
+        "past_count": 0,
+        "exam_years": "",
+        "recent_year": "",
+        "exam_weight": 1.0
     },
     {
         "image_filename": "1031.jpg",
@@ -11194,10 +11194,10 @@ const QUIZ_DB = [
         "answer_ko": "아래입술동맥",
         "source": "Face - 9",
         "quiz_id": "q1031",
-        "past_count": 1,
-        "exam_years": "13",
-        "recent_year": "13",
-        "exam_weight": 1.4142135623730951
+        "past_count": 0,
+        "exam_years": "",
+        "recent_year": "",
+        "exam_weight": 1.0
     },
     {
         "image_filename": "1032.jpg",
@@ -11211,8 +11211,8 @@ const QUIZ_DB = [
         "source": "Face - 9",
         "quiz_id": "q1032",
         "past_count": 13,
-        "exam_years": "25, 21, 16, 15, 14, 13, 12, 11, 10, 08, 07, 05, 03",
-        "recent_year": "25",
+        "exam_years": "2025, 2021, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2008, 2007, 2005, 2003",
+        "recent_year": "2025",
         "exam_weight": 3.7416573867739413
     },
     {
@@ -11243,8 +11243,8 @@ const QUIZ_DB = [
         "source": "Face - 9",
         "quiz_id": "q1034",
         "past_count": 4,
-        "exam_years": "16, 15, 10, 06",
-        "recent_year": "16",
+        "exam_years": "2016, 2015, 2010, 2006",
+        "recent_year": "2016",
         "exam_weight": 2.23606797749979
     },
     {
@@ -11259,8 +11259,8 @@ const QUIZ_DB = [
         "source": "Face - 9",
         "quiz_id": "q1035",
         "past_count": 11,
-        "exam_years": "23, 20, 19, 16, 14, 12, 09, 06, 05, 03, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2020, 2019, 2016, 2014, 2012, 2009, 2006, 2005, 2003, 2002",
+        "recent_year": "2023",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -11275,8 +11275,8 @@ const QUIZ_DB = [
         "source": "Face - 9",
         "quiz_id": "q1036",
         "past_count": 10,
-        "exam_years": "23, 20, 17, 15, 11, 10, 09, 08, 07, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2020, 2017, 2015, 2011, 2010, 2009, 2008, 2007, 2002",
+        "recent_year": "2023",
         "exam_weight": 3.3166247903554
     },
     {
@@ -11307,8 +11307,8 @@ const QUIZ_DB = [
         "source": "Face - 10",
         "quiz_id": "q1039",
         "past_count": 3,
-        "exam_years": "16, 14, 03",
-        "recent_year": "16",
+        "exam_years": "2016, 2014, 2003",
+        "recent_year": "2016",
         "exam_weight": 2.0
     },
     {
@@ -11339,8 +11339,8 @@ const QUIZ_DB = [
         "source": "Face - 10",
         "quiz_id": "q1041",
         "past_count": 11,
-        "exam_years": "23, 20, 19, 16, 14, 12, 09, 06, 05, 03, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2020, 2019, 2016, 2014, 2012, 2009, 2006, 2005, 2003, 2002",
+        "recent_year": "2023",
         "exam_weight": 3.4641016151377544
     },
     {
@@ -11354,10 +11354,10 @@ const QUIZ_DB = [
         "answer_ko": "바깥목정맥",
         "source": "Face - 10",
         "quiz_id": "q1043",
-        "past_count": 2,
-        "exam_years": "08, 06",
-        "recent_year": "08",
-        "exam_weight": 1.7320508075688772
+        "past_count": 1,
+        "exam_years": "2008",
+        "recent_year": "2008",
+        "exam_weight": 1.4142135623730951
     },
     {
         "image_filename": "1044.jpg",
@@ -11371,8 +11371,8 @@ const QUIZ_DB = [
         "source": "Face - 10",
         "quiz_id": "q1044",
         "past_count": 7,
-        "exam_years": "25, 22, 13, 09, 08, 06, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2022, 2013, 2009, 2008, 2006, 2005",
+        "recent_year": "2025",
         "exam_weight": 2.8284271247461903
     },
     {
@@ -11387,8 +11387,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 12",
         "quiz_id": "q1046",
         "past_count": 17,
-        "exam_years": "23, 22, 21, 20, 18, 17, 16, 15, 14, 13, 12, 11, 09, 08, 07, 03, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2020, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2008, 2007, 2003, 2002",
+        "recent_year": "2023",
         "exam_weight": 4.242640687119285
     },
     {
@@ -11419,8 +11419,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 12",
         "quiz_id": "q1048",
         "past_count": 6,
-        "exam_years": "23, 21, 19, 16, 14, 10",
-        "recent_year": "23",
+        "exam_years": "2023, 2021, 2019, 2016, 2014, 2010",
+        "recent_year": "2023",
         "exam_weight": 2.6457513110645907
     },
     {
@@ -11435,8 +11435,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 12",
         "quiz_id": "q1049",
         "past_count": 8,
-        "exam_years": "25, 23, 21, 15, 10, 09, 07, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2021, 2015, 2010, 2009, 2007, 2005",
+        "recent_year": "2025",
         "exam_weight": 3.0
     },
     {
@@ -11451,8 +11451,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 12",
         "quiz_id": "q1051",
         "past_count": 7,
-        "exam_years": "22, 20, 19, 18, 16, 13, 11",
-        "recent_year": "22",
+        "exam_years": "2022, 2020, 2019, 2018, 2016, 2013, 2011",
+        "recent_year": "2022",
         "exam_weight": 2.8284271247461903
     },
     {
@@ -11467,8 +11467,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 13",
         "quiz_id": "q1052",
         "past_count": 12,
-        "exam_years": "17, 15, 14, 13, 12, 11, 10, 09, 08, 06, 03, 02",
-        "recent_year": "17",
+        "exam_years": "2017, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2006, 2003, 2002",
+        "recent_year": "2017",
         "exam_weight": 3.605551275463989
     },
     {
@@ -11482,10 +11482,10 @@ const QUIZ_DB = [
         "answer_ko": "가쪽날개근",
         "source": "Infratemporal Fossa - 13",
         "quiz_id": "q1053",
-        "past_count": 8,
-        "exam_years": "22, 20, 17, 15, 12, 09, 08, 25",
-        "recent_year": "25",
-        "exam_weight": 3.0
+        "past_count": 7,
+        "exam_years": "2022, 2020, 2017, 2015, 2012, 2009, 2008",
+        "recent_year": "2022",
+        "exam_weight": 2.8284271247461903
     },
     {
         "image_filename": "1054.jpg",
@@ -11499,8 +11499,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 13",
         "quiz_id": "q1054",
         "past_count": 8,
-        "exam_years": "25, 23, 21, 15, 10, 09, 07, 05",
-        "recent_year": "25",
+        "exam_years": "2025, 2023, 2021, 2015, 2010, 2009, 2007, 2005",
+        "recent_year": "2025",
         "exam_weight": 3.0
     },
     {
@@ -11515,8 +11515,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 13",
         "quiz_id": "q1055",
         "past_count": 17,
-        "exam_years": "23, 22, 21, 20, 18, 17, 16, 15, 14, 13, 12, 11, 09, 08, 07, 03, 02",
-        "recent_year": "23",
+        "exam_years": "2023, 2022, 2021, 2020, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009, 2008, 2007, 2003, 2002",
+        "recent_year": "2023",
         "exam_weight": 4.242640687119285
     },
     {
@@ -11530,10 +11530,10 @@ const QUIZ_DB = [
         "answer_ko": "가쪽날개근",
         "source": "Infratemporal Fossa - 13",
         "quiz_id": "q1056",
-        "past_count": 8,
-        "exam_years": "22, 20, 17, 15, 12, 09, 08, 25",
-        "recent_year": "25",
-        "exam_weight": 3.0
+        "past_count": 7,
+        "exam_years": "2022, 2020, 2017, 2015, 2012, 2009, 2008",
+        "recent_year": "2022",
+        "exam_weight": 2.8284271247461903
     },
     {
         "image_filename": "1057.jpg",
@@ -11547,8 +11547,8 @@ const QUIZ_DB = [
         "source": "Infratemporal Fossa - 13",
         "quiz_id": "q1057",
         "past_count": 5,
-        "exam_years": "19, 14, 13, 11, 10",
-        "recent_year": "19",
+        "exam_years": "2019, 2014, 2013, 2011, 2010",
+        "recent_year": "2019",
         "exam_weight": 2.449489742783178
     }
 ];
