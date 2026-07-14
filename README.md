@@ -16,9 +16,11 @@ into the root of an existing Pages repository.
 
 The 1st, 2nd, and 3rd anatomy sections use the integrated anatomy frequency
 workbook to set each question's sampling weight to `sqrt(n + 1)`, where `n` is
-the historical exam frequency. A 30-question set allocates region quotas by
-`sqrt(unique structures in region)`, then samples within each region by the exam
-weight. The same anatomical structure appears at most once per set.
+the historical exam frequency. Questions are sampled from the full pool by that
+weight. Region handling is only a concentration guard: each region is capped at
+one question above an even-share baseline, and consecutive questions avoid the
+same region when alternatives exist. The same anatomical structure appears at
+most once per set.
 
 Refresh the metadata after updating the workbook:
 

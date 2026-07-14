@@ -80,6 +80,7 @@
         .close-btn:hover { background: #c0392b; }
         .hidden { display: none !important; }
     </style>
+    <link rel="stylesheet" href="../anatomy-shared.css">
 </head>
 <body>
     <div id="start-container">
@@ -98,7 +99,7 @@
                     <label for="buzzer-toggle">🔔 땡시 종료 버저음(삑)</label>
                     <input type="checkbox" id="buzzer-toggle" checked>
                 </div>
-                <div class="trend-note">영역 배분 √(고유 구조물 수) · 구조물 추출 √(기출횟수+1)</div>
+                <div class="trend-note">기출 경향 반영 · 한 영역에 과도한 출제 방지</div>
             </div>
             
             <button class="mode-btn btn-exam" onclick="startQuiz('exam')">땡시 모드<span>지정 시간 도달 시 자동 넘김</span></button>
@@ -199,8 +200,8 @@
             setupZoomListener();
         };
 
-        // 영역은 고유 구조물 수의 제곱근에 비례해 배분하고, 영역 안에서는
-        // exam_weight = sqrt(기출횟수 + 1)로 추출합니다. 같은 구조물은 세트당 한 번만 허용합니다.
+        // 전체 풀에서 기출가중치로 추출하되, 한 영역이 균등 기준보다 1문제 넘게
+        // 초과하지 않도록 제한합니다. 같은 구조물은 세트당 한 번만 허용합니다.
         function getItemWeight(item) {
             const w = Number(item.exam_weight);
             return Number.isFinite(w) && w > 0 ? w : 1;
@@ -322,21 +323,14 @@
             return candidates[candidates.length - 1];
         }
 
-        function allocateRegionQuotas(groupsDict, totalLimit) {
-            const regions = Object.keys(groupsDict).sort().map(regionKey => {
-                const uniqueCount = new Set(groupsDict[regionKey].map(getStructureKey)).size;
-                return { regionKey, uniqueCount, weight: Math.sqrt(uniqueCount), quota: 0 };
+        function collapseToUniqueStructures(candidates, rng) {
+            const groups = new Map();
+            candidates.forEach(item => {
+                const key = getStructureKey(item);
+                if (!groups.has(key)) groups.set(key, []);
+                groups.get(key).push(item);
             });
-            if (totalLimit >= regions.length) regions.forEach(region => { region.quota = Math.min(1, region.uniqueCount); });
-            let assigned = regions.reduce((sum, region) => sum + region.quota, 0);
-            while (assigned < totalLimit) {
-                const eligible = regions.filter(region => region.quota < region.uniqueCount)
-                    .sort((a, b) => (b.weight / (b.quota + 1)) - (a.weight / (a.quota + 1)) || a.regionKey.localeCompare(b.regionKey));
-                if (eligible.length === 0) break;
-                eligible[0].quota += 1;
-                assigned += 1;
-            }
-            return new Map(regions.map(region => [region.regionKey, region.quota]));
+            return [...groups.values()].map(items => items[Math.floor(rng() * items.length)]);
         }
 
         function buildQuizSet(seedNum) {
@@ -345,54 +339,35 @@
             const used_question_keys = new Set();
             const used_structure_keys = new Set();
             const questionLimit = Math.min(30, QUIZ_DB.length);
-            const groupsDict = {};
-            QUIZ_DB.forEach(item => {
-                const regionKey = getRegionKey(item);
-                if (!groupsDict[regionKey]) groupsDict[regionKey] = [];
-                groupsDict[regionKey].push(item);
-            });
+            const regionKeys = new Set(QUIZ_DB.map(getRegionKey));
+            const regionCounts = new Map();
+            let regionCap = Math.max(1, Math.ceil(questionLimit / Math.max(regionKeys.size, 1)) + 1);
+            let lastRegion = null;
 
-            const regionKeys = Object.keys(groupsDict).sort();
-            if (regionKeys.length === 0) {
-                console.log('QUIZ_DB가 비어 있습니다.');
-                return [];
-            }
-
-            const quotas = allocateRegionQuotas(groupsDict, questionLimit);
             while (selected_items.length < questionLimit) {
-                const shuffledRegionKeys = regionKeys.filter(regionKey => (quotas.get(regionKey) || 0) > 0);
-                shuffleArray(shuffledRegionKeys, rng);
-                let pickedInThisRound = false;
-                for (const regionKey of shuffledRegionKeys) {
-                    if (selected_items.length >= questionLimit) break;
-                    const candidates = groupsDict[regionKey].filter(item =>
-                        !used_question_keys.has(getUniqueQuestionKey(item)) && !used_structure_keys.has(getStructureKey(item))
-                    );
-                    if (candidates.length === 0) {
-                        quotas.set(regionKey, 0);
-                        continue;
-                    }
-                    const pick = weightedPick(candidates, rng);
-                    selected_items.push(pick);
-                    used_question_keys.add(getUniqueQuestionKey(pick));
-                    used_structure_keys.add(getStructureKey(pick));
-                    quotas.set(regionKey, (quotas.get(regionKey) || 0) - 1);
-                    pickedInThisRound = true;
+                let candidates = QUIZ_DB.filter(item => {
+                    const regionKey = getRegionKey(item);
+                    return !used_question_keys.has(getUniqueQuestionKey(item)) &&
+                        !used_structure_keys.has(getStructureKey(item)) &&
+                        (regionCounts.get(regionKey) || 0) < regionCap;
+                });
+                if (candidates.length === 0) {
+                    if (regionCap >= questionLimit) break;
+                    regionCap += 1;
+                    continue;
                 }
-                if (!pickedInThisRound) break;
-            }
-
-            while (selected_items.length < questionLimit) {
-                const candidates = QUIZ_DB.filter(item =>
-                    !used_question_keys.has(getUniqueQuestionKey(item)) && !used_structure_keys.has(getStructureKey(item))
-                );
-                if (candidates.length === 0) break;
+                const alternateRegions = candidates.filter(item => getRegionKey(item) !== lastRegion);
+                if (alternateRegions.length > 0) candidates = alternateRegions;
+                candidates = collapseToUniqueStructures(candidates, rng);
                 const pick = weightedPick(candidates, rng);
+                const pickedRegion = getRegionKey(pick);
                 selected_items.push(pick);
                 used_question_keys.add(getUniqueQuestionKey(pick));
                 used_structure_keys.add(getStructureKey(pick));
+                regionCounts.set(pickedRegion, (regionCounts.get(pickedRegion) || 0) + 1);
+                lastRegion = pickedRegion;
             }
-            return shuffleArray(selected_items, rng);
+            return selected_items;
         }
         // -------------------------------------------------------------------
 
