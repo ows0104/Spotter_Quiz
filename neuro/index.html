@@ -364,47 +364,30 @@
       .start-title h1 { font-size: 34px; }
     }
   </style>
+  <link rel="stylesheet" href="../product-start.css">
 </head>
 <body>
-  <main id="start-container">
-    <section class="start-panel">
-      <div class="start-title">
-        <h1>Neuro Spotter Quiz</h1>
-        <p>새 라벨링 데이터의 핀 위치를 보고 구조물 이름을 입력합니다.</p>
+  <main id="start-container" class="product-start">
+    <section class="product-shell">
+      <nav class="product-nav"><span>SPOTTER · 04</span><a href="../">Sections</a></nav>
+      <header class="product-heading">
+        <span class="product-kicker">BELL EXAM</span>
+        <h1>Neuroanatomy</h1>
+      </header>
+      <div class="product-settings">
+        <label class="product-field" for="seed-input"><span>시드 번호</span><input id="seed-input" type="number" placeholder="Random"></label>
+        <label class="product-field" for="count-input"><span>문제 수</span><input id="count-input" type="number" min="1" max="187" value="30"></label>
+        <label class="product-field" for="timer-input"><span>제한 시간</span><input id="timer-input" type="number" min="5" max="300" value="30"></label>
       </div>
-
-      <div class="settings">
-        <div class="field">
-          <label for="seed-input">시드 번호</label>
-          <input id="seed-input" type="number" placeholder="비워두면 랜덤">
-        </div>
-        <div class="field">
-          <label for="count-input">문제 수</label>
-          <input id="count-input" type="number" min="1" max="187" value="30">
-        </div>
-        <div class="field">
-          <label for="timer-input">땡시 제한 시간</label>
-          <input id="timer-input" type="number" min="5" max="300" value="30">
-        </div>
+      <label class="product-toggle"><input type="checkbox" id="buzzer-toggle" checked> 종료 알림음</label>
+      <div class="product-actions">
+        <button class="mode-btn btn-exam" onclick="startQuiz('exam')"><strong>땡시 모드</strong></button>
+        <button class="mode-btn btn-study" onclick="startQuiz('study')"><strong>공부 모드</strong></button>
       </div>
-
-      <div class="toggle-field">
-        <label><input type="checkbox" id="buzzer-toggle" checked> 종료 알림음 사용</label>
+      <div class="product-records">
+        <button class="records-btn" onclick="toggleRecords()">기록 보기</button>
+        <div id="records-list"></div>
       </div>
-
-      <div class="mode-row">
-        <button class="mode-btn btn-exam" onclick="startQuiz('exam')">
-          <strong>땡시 모드</strong>
-          <span>제한 시간이 지나면 다음 문제로 넘어갑니다.</span>
-        </button>
-        <button class="mode-btn btn-study" onclick="startQuiz('study')">
-          <strong>공부 모드</strong>
-          <span>정답 확인과 자유 이동을 사용할 수 있습니다.</span>
-        </button>
-      </div>
-
-      <button class="records-btn" onclick="toggleRecords()">기록 보기</button>
-      <div id="records-list"></div>
     </section>
   </main>
 

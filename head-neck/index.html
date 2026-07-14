@@ -81,35 +81,31 @@
         .hidden { display: none !important; }
     </style>
     <link rel="stylesheet" href="../anatomy-shared.css">
+    <link rel="stylesheet" href="../product-start.css">
 </head>
 <body>
-    <div id="start-container">
-        <h1>Bell Exam 3차 - Head and Neck</h1>
-        <div id="seed-input-box">
-            <label for="seed-input" style="color:#bdc3c7; font-size:16px;">시드 번호 (비워두면 랜덤)</label><br>
-            <input type="number" id="seed-input" placeholder="예: 1234" autocomplete="off">
-        </div>
-        <div id="start-btns" style="display: flex; flex-direction: column; align-items: center;">
-            <div class="exam-settings">
-                <div class="setting-row">
-                    <label for="timer-input">⏱ 땡시 제한 시간</label>
-                    <div><input type="number" id="timer-input" value="30"> 초</div>
-                </div>
-                <div class="setting-row">
-                    <label for="buzzer-toggle">🔔 땡시 종료 버저음(삑)</label>
-                    <input type="checkbox" id="buzzer-toggle" checked>
-                </div>
-                <div class="trend-note">기출 경향 반영 · 한 영역에 과도한 출제 방지</div>
+    <div id="start-container" class="product-start">
+        <section class="product-shell">
+            <nav class="product-nav"><span>SPOTTER · 03</span><a href="../">Sections</a></nav>
+            <header class="product-heading">
+                <span class="product-kicker">BELL EXAM</span>
+                <h1>Head &amp; Neck</h1>
+            </header>
+            <div class="product-settings">
+                <label class="product-field" for="seed-input"><span>시드 번호</span><input type="number" id="seed-input" placeholder="Random" autocomplete="off"></label>
+                <div class="product-field"><span>문제 수</span><div class="product-static">30</div></div>
+                <label class="product-field" for="timer-input"><span>제한 시간</span><input type="number" id="timer-input" value="30"></label>
             </div>
-            
-            <button class="mode-btn btn-exam" onclick="startQuiz('exam')">땡시 모드<span>지정 시간 도달 시 자동 넘김</span></button>
-            <button class="mode-btn btn-study" onclick="startQuiz('study')">공부 모드<span>무제한 시간 / 자유로운 이동</span></button>
-            
-            <div style="margin-top: 30px; text-align: center; width: 400px;">
-                <button class="record-btn" onclick="toggleRecords()">내 기록 보기</button>
-                <div id="records-list" style="display: none; margin-top: 15px; font-size: 14px; color: #ecf0f1; background: rgba(0,0,0,0.3); padding: 10px; border-radius: 8px; max-height: 200px; overflow-y: auto; text-align: left;"></div>
+            <label class="product-toggle"><input type="checkbox" id="buzzer-toggle" checked> 종료 알림음</label>
+            <div class="product-actions">
+                <button class="mode-btn btn-exam" onclick="startQuiz('exam')"><strong>땡시 모드</strong></button>
+                <button class="mode-btn btn-study" onclick="startQuiz('study')"><strong>공부 모드</strong></button>
             </div>
-        </div>
+            <div class="product-records">
+                <button class="record-btn" onclick="toggleRecords()">기록 보기</button>
+                <div id="records-list" style="display:none"></div>
+            </div>
+        </section>
     </div>
 
     <div id="quiz-container">
